@@ -152,7 +152,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **BC Region**: Lower Mainland
 - **Email**: Via contact form on website
 - **Phone**: 
-- **Primary Contact**: 
+- **Primary Contact**: Custom AI development team
 - **Category**: Service Studios / Agencies
 - **AI Focus Areas**: Data Science, Other AI Applications
 - **Size**: Startup (1-50)
@@ -169,7 +169,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **City/Region**: Victoria
 - **BC Region**: Vancouver Island
 - **Email**: info@openoceanrobotics.com, sales@openoceanrobotics.com
-- **Phone**: 
+- **Phone**: 250-580-2628
 - **Primary Contact**: Julie Angus (CEO & Founder)
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: Robotics, CleanTech AI, Data Science
@@ -184,8 +184,8 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **LinkedIn**: https://ca.linkedin.com/company/terramera-inc-
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: Via contact form on website
-- **Phone**: 
+- **Email**: info@terramera.com
+- **Phone**: 1-800-597-9509
 - **Primary Contact**: Karn Manhas (founder, now Executive Chair), Nate Kelly (current CEO)
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: AgTech AI, CleanTech AI, Data Science
