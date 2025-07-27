@@ -47,16 +47,26 @@ This guide outlines the standard workflows for maintaining and expanding the BC 
 - Government databases and registries
 - Academic publication databases
 
-## Data Entry Workflow
+## MCP-Based Data Entry Workflow
 
-### 1. Initial Entry Process
+### 1. Pre-Entry Validation (Using MCP)
 
-#### Using the Template
-1. Copy the organization template from `new_organizations.md`
-2. Fill in all available information
-3. Mark uncertain information with notes
-4. Include data source and research date
-5. Set initial status as "Researching"
+#### Duplicate Check Process
+1. **Query Existing Database**: Use MCP tools to search for potential duplicates
+   - Search by organization name variations
+   - Check website URLs and LinkedIn profiles
+   - Cross-reference contact information and key personnel
+2. **Validate Uniqueness**: Ensure organization isn't already in database
+3. **Document Search Results**: Record findings to avoid future duplicates
+
+### 2. Initial Entry Process
+
+#### Using MCP Tools for Data Entry
+1. **Prepare Organization Data**: Gather information using template from `new_organizations.md`
+2. **Validate Fields**: Ensure all data matches database schema requirements
+3. **Use MCP Add Operations**: Create new database entries directly via MCP tools
+4. **Verify Entry**: Query database to confirm successful addition
+5. **Update Status**: Mark organization as ✅ added in `new_organizations.md`
 
 #### Field Guidelines
 - **Name**: Use official organization name
@@ -66,28 +76,29 @@ This guide outlines the standard workflows for maintaining and expanding the BC 
 - **Short Blurb**: 1-2 sentence description of AI activities
 - **BC Region**: Use geographic classification system
 
-### 2. Data Validation
+### 3. MCP Data Validation
 
-#### Quality Checks
+#### Automated Quality Checks (via MCP)
 - [ ] URLs are functional and lead to correct organization
-- [ ] Contact information is current and accurate
-- [ ] Geographic information is precise
-- [ ] AI focus areas accurately reflect their work
-- [ ] Category placement is appropriate
-- [ ] No duplicate entries exist
+- [ ] Contact information follows database field requirements
+- [ ] Geographic information matches BC Region dropdown options
+- [ ] AI focus areas align with schema multi-select options
+- [ ] Category placement follows database category definitions
+- [ ] MCP duplicate detection confirms no existing entries
 
-#### Verification Steps
-1. Cross-reference with existing database entries
-2. Verify website and social media presence
-3. Confirm BC presence and operations
-4. Validate AI/tech focus claims
-5. Check for any obvious errors or omissions
+#### MCP-Based Verification Steps
+1. **Database Cross-Reference**: Use MCP query tools to check existing entries
+2. **Field Validation**: Ensure all data types match Notion database schema
+3. **Geographic Verification**: Confirm BC presence using MCP location validation
+4. **AI Focus Validation**: Verify focus areas match database taxonomy
+5. **Error Detection**: Use MCP tools to identify and flag potential issues
 
-### 3. Database Integration
+### 4. MCP Database Integration
 
-#### Notion Database Entry
-1. Access the main database via Notion
-2. Create new row with gathered information
+#### Direct MCP Entry Process
+1. **Use MCP Tools**: Create new database entries directly via Model Context Protocol
+2. **Validation**: MCP automatically validates field types and requirements
+3. **Confirmation**: Verify successful entry through MCP database queries
 3. Fill all available fields systematically
 4. Set appropriate status and relationship fields
 5. Add research notes and data source
@@ -251,20 +262,38 @@ Best regards,
 - Regular backup and recovery procedures
 - Version control for database schema changes
 
-## Tools & Resources
+## MCP Tools & Workflows
+
+### MCP Integration
+This project uses **Model Context Protocol (MCP)** for all Notion database operations:
+- **MCP Server**: `@notionhq/notion-mcp-server` (official Notion MCP server)
+- **Configuration**: Located at `/Users/kk/.cursor/mcp.json`
+- **Database ID**: `1f0c6f799a3381bd8332ca0235c24655`
+
+### Essential MCP Operations
+1. **Query Database**: Check for existing organizations to prevent duplicates
+   - Use MCP search and database query tools
+   - Filter by organization name, website, or contact information
+   
+2. **Add Organizations**: Create new database entries using MCP
+   - Validate all required fields per database schema
+   - Follow naming conventions and dropdown options
+   
+3. **Update Records**: Modify existing entries using MCP tools
+   - Track changes and maintain data accuracy
+   - Update relationship status and contact information
 
 ### Required Access
-- Notion workspace with database editing permissions
+- MCP-enabled development environment (Cursor with MCP configuration)
+- Notion workspace access with database editing permissions
 - Email account for outreach communications
 - LinkedIn account for professional networking
-- Calendar for scheduling and follow-ups
 
 ### Recommended Tools
-- CRM system for tracking outreach efforts
-- Email templates for consistent communication
-- Research tracking spreadsheet
-- Contact management system
-- Analytics tools for database insights
+- MCP tools for automated data validation and duplicate detection
+- Email templates for consistent community outreach
+- Contact management system integrated with MCP workflows
+- Analytics dashboards for database insights and growth tracking
 
 ### Reference Materials
 - BC government business directories

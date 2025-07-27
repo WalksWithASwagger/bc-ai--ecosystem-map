@@ -111,21 +111,38 @@ The database contains hundreds of organizations across BC, with active data coll
 - **Main Atlas**: https://vancouver.bc-ai.net/ai-ecosystem
 - **Public Database**: https://vancouver.bc-ai.net/1f0c6f799a3381bd8332ca0235c24655
 
+## Technical Setup
+
+### MCP Integration
+This project uses **Model Context Protocol (MCP)** for all Notion database operations:
+- **MCP Server**: `@notionhq/notion-mcp-server` (official Notion MCP server)
+- **Configuration**: `/Users/kk/.cursor/mcp.json` 
+- **Database ID**: `1f0c6f799a3381bd8332ca0235c24655`
+- **Status**: ✅ Configured and ready
+
+### Key Files
+- `new_organizations.md` - Organizations pending addition (✅ = already added)
+- `CLAUDE.md` - Development preferences and MCP configuration details
+- `database-schema.md` - Database structure documentation
+- `organization-examples.md` - Example organization entries
+
 ## Contributing
 
 Organizations can be added to the database through:
-1. Community submission forms
-2. Direct research and outreach
-3. Partner referrals and recommendations
-4. Event and networking connections
+1. **MCP Tools** - Preferred method for AI-assisted data entry
+2. Community submission forms
+3. Direct research and outreach
+4. Partner referrals and recommendations
+5. Event and networking connections
 
 ## Maintenance
 
 The project requires ongoing maintenance for:
-- Data accuracy and currency
+- Data accuracy and currency using MCP tools
 - Relationship status updates
-- New organization discovery
+- New organization discovery and validation
 - Community engagement tracking
+- Duplicate detection and cleanup
 
 ## Impact
 

@@ -14,10 +14,10 @@ Thank you for your interest in contributing to the BC AI Ecosystem Community Atl
 - Update database schema documentation
 - Improve README and setup instructions
 
-### 🔧 Tools and Scripts
-- Improve the research comparison script
-- Add automation tools for data validation
-- Create export/import utilities
+### 🔧 MCP Tools and Automation
+- Improve MCP-based organization validation workflows
+- Add MCP automation for data validation and duplicate detection
+- Create MCP utilities for bulk operations and database queries
 
 ### 🐛 Report Issues
 - Missing organizations
@@ -44,7 +44,7 @@ git checkout -b improve-documentation
 ### 3. Make Changes
 - Follow the templates and guidelines in the documentation
 - Ensure data quality standards are met
-- Test any scripts or tools
+- Test MCP workflows and validate data operations
 
 ### 4. Submit Pull Request
 - Provide clear description of changes
@@ -90,11 +90,11 @@ Copy the template from `new_organizations.md` and fill in all available fields:
 - Link to relevant resources
 - Keep examples current and accurate
 
-### Code Standards
-- Follow PEP 8 for Python scripts
-- Include docstrings and comments
-- Test scripts before submitting
-- Handle errors gracefully
+### MCP and Data Standards
+- Use MCP tools for all Notion database operations
+- Follow database schema conventions and field requirements
+- Test MCP operations before submitting changes
+- Handle data validation errors gracefully using MCP error responses
 
 ## Community Guidelines
 
