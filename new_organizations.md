@@ -14,9 +14,9 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **LinkedIn**: https://ca.linkedin.com/company/meton-ai
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: 
+- **Email**: support@unlock.land
 - **Phone**: 
-- **Primary Contact**: Stephen Wang (CEO), Jessica Chen (CTO)
+- **Primary Contact**: Stephen Wong (CEO), Jessica Chen (CTO)
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: Data Science, Other AI Applications
 - **Size**: Startup (1-50)
@@ -30,9 +30,9 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **LinkedIn**: 
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: 
+- **Email**: support@unlock.land
 - **Phone**: 
-- **Primary Contact**: Stephen Wang (CEO)
+- **Primary Contact**: Stephen Wong (CEO)
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: Data Science, Other AI Applications
 - **Size**: Startup (1-50)
@@ -82,7 +82,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **LinkedIn**: https://ca.linkedin.com/company/bonsai-micro
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: 
+- **Email**: contact@bonsai-micro.com
 - **Phone**: 
 - **Primary Contact**: Bernard Guay (co-founder), Matthew McAdam (co-founder)
 - **Category**: Start-ups & Scale-ups
@@ -197,10 +197,10 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 
 **Organization Name**: Timezyx
 - **Website**: https://timezyx.com
-- **LinkedIn**: 
+- **LinkedIn**: https://www.linkedin.com/company/timezyx/
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: 
+- **Email**: Info@timezyx.com
 - **Phone**: 
 - **Primary Contact**: Kamyab Zandi (CEO), Adele Khavari (CFO & COO)
 - **Category**: Start-ups & Scale-ups
