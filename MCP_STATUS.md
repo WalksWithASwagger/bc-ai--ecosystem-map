@@ -1,8 +1,8 @@
 # MCP Status & Configuration
 
-## Current Status: ⚠️ TOKEN INVALID - REQUIRES REFRESH
+## Current Status: 🔄 TOKEN UPDATED - RESTART REQUIRED
 
-The MCP (Model Context Protocol) integration is configured but the Notion API token is invalid and needs to be refreshed.
+The MCP (Model Context Protocol) integration has been updated with a fresh Notion API token but requires a Cursor restart to activate.
 
 ## Configuration Details
 
@@ -15,7 +15,7 @@ The MCP (Model Context Protocol) integration is configured but the Notion API to
 ### Notion Integration
 - **Database ID**: `1f0c6f799a3381bd8332ca0235c24655`
 - **Database Name**: AI Ecosystem Map
-- **API Token**: Configured in MCP environment variables
+- **API Token**: ✅ Updated with fresh token (ntn_534098478597...)
 - **Public URL**: https://vancouver.bc-ai.net/1f0c6f799a3381bd8332ca0235c24655
 
 ### Organization Status Summary
@@ -48,18 +48,16 @@ The MCP (Model Context Protocol) integration is configured but the Notion API to
 12. BC + AI Ecosystem (Vancouver)
 13. AI for Ecommerce Non-Profit Society (Vancouver)
 
-## Next Steps to Fix MCP Connection
+## Next Steps After Cursor Restart
 
-### 1. Refresh Notion API Token
-- Go to [Notion Integrations](https://www.notion.so/my-integrations)
-- Find your existing integration or create a new one
-- Copy the new API token
-- Update your MCP configuration with the new token
+### 1. Restart Cursor ⚠️ REQUIRED
+- **Close Cursor completely**
+- **Reopen Cursor** to load the new MCP configuration
+- The fresh API token will be activated
 
-### 2. Verify MCP Configuration
-- Ensure `~/.cursor/mcp.json` has the correct token
-- Restart Cursor after updating the configuration
-- Test MCP connection with `mcp_notion_API-get-self` tool
+### 2. Test MCP Connection
+- Use `mcp_notion_API-get-self` tool to verify connection
+- Query database to confirm access to organization data
 
 ### 3. Add Pending Organizations
 Once MCP is working:
@@ -69,10 +67,10 @@ Once MCP is working:
 
 ## Troubleshooting
 
-**Current Error**: `API token is invalid` (Status 401)
-**Solution**: Refresh Notion API token and update MCP configuration
+**Current Status**: Fresh token configured, awaiting Cursor restart
+**Next Action**: Restart Cursor to activate new token
 
-If issues persist:
+If issues persist after restart:
 1. Verify `@notionhq/notion-mcp-server` package installation
 2. Check Cursor MCP integration settings
 3. Validate database permissions for the integration
