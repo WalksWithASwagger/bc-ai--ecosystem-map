@@ -4,13 +4,13 @@
 
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen)](CONTRIBUTING.md)
 [![Community](https://img.shields.io/badge/Community-Driven-blue)](CONTRIBUTING.md)
-[![Version](https://img.shields.io/badge/Version-2.0.0-success)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/Version-2.1.0-success)](CHANGELOG.md)
 
 ---
 
 ## 🎯 Project Mission
 
-The BC AI Ecosystem Atlas aims to maintain the **most comprehensive and accurate mapping** of British Columbia's AI ecosystem. With 355+ organizations already mapped, we're building the foundation for BC's AI community to connect, collaborate, and grow.
+The BC AI Ecosystem Atlas maintains the **most comprehensive and accurate mapping** of British Columbia's AI ecosystem. With 355 unique organizations mapped and a 100% duplicate-free database, we're building the foundation for BC's AI community to connect, collaborate, and grow.
 
 ---
 

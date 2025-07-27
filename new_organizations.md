@@ -48,7 +48,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **LinkedIn**: https://ca.linkedin.com/company/camdo-solutions-inc-
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: 
+- **Email**: marketing@cam-do.com
 - **Phone**: 
 - **Primary Contact**: Todd McCann (CEO), Harry White (COO)
 - **Category**: Start-ups & Scale-ups
@@ -66,7 +66,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **BC Region**: Lower Mainland
 - **Email**: info@aiex.ai
 - **Phone**: +98 (912) 100-9950
-- **Primary Contact**: 
+- **Primary Contact**: Founded 2019
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: Computer Vision, Data Science
 - **Size**: Startup (1-50)
