@@ -268,10 +268,60 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **Status**: Researching
 - **Data Source**: Vancouver AI Meetup sponsor network (January 2025)
 
+### Growth-Stage AI Startups (PDF Research Discovery):
+
+**Organization Name**: Browse AI
+- **Website**: https://www.browse.ai
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Ardy Naghshineh (Founder & CEO)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Data Science, Web Scraping AI, No-Code Automation
+- **Size**: Startup (1-50)
+- **Short Blurb**: No-code web data extraction platform that democratizes access to internet information, allowing users to train AI agents to turn websites into spreadsheets in minutes
+- **Notable Projects**: $2.8M seed funding (2023), profitable with 20x ARR growth, 250k users, automated 11M+ tasks saving 17M hours
+- **Status**: Researching
+- **Data Source**: PDF research verification (January 2025)
+
+**Organization Name**: Produce8
+- **Website**: https://www.produce8.com
+- **LinkedIn**: https://www.linkedin.com/company/produce8
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: sales@produce8.com, info@produce8.com
+- **Phone**: (604) 200-2394
+- **Primary Contact**: Joel Abramson (CEO), Mark Scott (Co-Founder), Chris Day (Co-Founder)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Workforce Analytics AI, Productivity AI, Data Science
+- **Size**: Startup (20+ employees)
+- **Short Blurb**: Work analytics AI platform that improves work habits, focus, and team productivity by analyzing interactions with technology to minimize digital burnout in remote teams
+- **Notable Projects**: $6M funding (2022), serving distributed teams globally, remote-first model
+- **Status**: Researching
+- **Data Source**: PDF research verification (January 2025)
+
+**Organization Name**: Payday
+- **Website**: https://usepayday.com
+- **LinkedIn**: https://www.linkedin.com/company/payday-global
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via company contact
+- **Phone**: 
+- **Primary Contact**: Favour Ori (Founder & CEO), Elijah Kingson (Co-Founder & CPO), Yvonne Obike (COO & Co-Founder)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: FinTech AI, Payment Processing, Data Science
+- **Size**: Scale-up (330k users)
+- **Short Blurb**: Global fintech platform offering virtual Mastercards and payment solutions for remote workers, particularly serving African markets with AI-driven payment processing
+- **Notable Projects**: $5.1M total funding, 40k daily transactions worth $25M+, 330k users, first Rwandan company in Techstars Toronto
+- **Status**: Researching
+- **Data Source**: PDF research verification (January 2025)
+
 ---
 
 ## Summary of NEW Organizations:
-**Total NEW Organizations**: 15
+**Total NEW Organizations**: 18
 - PropTech & Real Estate AI: 2
 - Industrial AI & Computer Vision: 2  
 - Semiconductor & Hardware AI: 1
