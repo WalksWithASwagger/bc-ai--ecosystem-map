@@ -14,8 +14,8 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **LinkedIn**: https://ca.linkedin.com/company/meton-ai
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: support@unlock.land
-- **Phone**: 
+- **Email**: info@meton.ai
+- **Phone**: 778-239-4166
 - **Primary Contact**: Stephen Wong (CEO), Jessica Chen (CTO)
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: Data Science, Other AI Applications
@@ -27,7 +27,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 
 **Organization Name**: UnlockLand (Meton.ai product)
 - **Website**: https://unlock.land
-- **LinkedIn**: 
+- **LinkedIn**: Via team members - Lucas Xie (CPO & Co-Founder)
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
 - **Email**: support@unlock.land
@@ -51,6 +51,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **Email**: marketing@cam-do.com
 - **Phone**: 
 - **Primary Contact**: Todd McCann (CEO), Harry White (COO)
+- **Social Media**: Twitter @Cam_Do_, Instagram @camdo_solutions
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: Computer Vision, Data Science
 - **Size**: Startup (1-50)
@@ -96,13 +97,13 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 ### Industry 4.0 & IoT AI:
 
 **Organization Name**: Kanooq Industries Inc.
-- **Website**: 
+- **Website**: https://www.kanooq.com
 - **LinkedIn**: 
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
 - **Email**: 
 - **Phone**: 
-- **Primary Contact**: 
+- **Primary Contact**: Eyad Alnuweiri (CEO & Founder), Samuel Reid (CTO)
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: Data Science, Other AI Applications
 - **Size**: Startup (1-50)
@@ -120,7 +121,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **BC Region**: Lower Mainland
 - **Email**: info@clearspark.ai
 - **Phone**: +1 (604) 923-1478
-- **Primary Contact**: Jason Kamara (Founder)
+- **Primary Contact**: Jason Kamara (CEO & Founder)
 - **Category**: Service Studios / Agencies
 - **AI Focus Areas**: GenAI, Data Science
 - **Size**: Startup (1-50)
@@ -137,6 +138,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **Email**: Via contact form on website
 - **Phone**: +1 (209) 201-0654
 - **Primary Contact**: Founded by three seasoned IT professionals (2020)
+- **Social Media**: LinkedIn, Twitter @mooglelabs, Instagram, Facebook
 - **Category**: Service Studios / Agencies
 - **AI Focus Areas**: Data Science, Other AI Applications
 - **Size**: Scale-up (51-250)
@@ -153,6 +155,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **Email**: Via contact form on website
 - **Phone**: 
 - **Primary Contact**: Custom AI development team
+- **Social Media**: LinkedIn (144 followers), Facebook (38 likes)
 - **Category**: Service Studios / Agencies
 - **AI Focus Areas**: Data Science, Other AI Applications
 - **Size**: Startup (1-50)
@@ -200,9 +203,10 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **LinkedIn**: https://www.linkedin.com/company/timezyx/
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: Info@timezyx.com
-- **Phone**: 
+- **Email**: Info@timezyx.com, kamyab.zandi@timezyx.com
+- **Phone**: +1 514 815 6890
 - **Primary Contact**: Kamyab Zandi (CEO), Adele Khavari (CFO & COO)
+- **Social Media**: Facebook, Twitter @Timezyx_Inc, YouTube @TimezyxInc
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: CleanTech AI, Data Science, Other AI Applications
 - **Size**: Startup (1-50)
@@ -219,8 +223,9 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **City/Region**: Kamloops
 - **BC Region**: Interior
 - **Email**: Via business contact form
-- **Phone**: 
-- **Primary Contact**: TELUS Business team
+- **Phone**: (888) 811-2323 (TELUS Business Sales)
+- **Primary Contact**: TELUS Business team (upcoming 2025 launch)
+- **Social Media**: Twitter @TELUSSupport
 - **Category**: Enterprise / Corporate Divisions
 - **AI Focus Areas**: MLOps, Data Science, Other AI Applications
 - **Size**: Enterprise (250+)
@@ -236,7 +241,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **BC Region**: Interior
 - **Email**: Via business contact form
 - **Phone**: 
-- **Primary Contact**: Dan Rink (President, Bell AI Fabric)
+- **Primary Contact**: Dan Rink (President, Bell AI Fabric & CEO iTel Networks)
 - **Category**: Enterprise / Corporate Divisions
 - **AI Focus Areas**: MLOps, Data Science
 - **Size**: Enterprise (250+)
@@ -252,8 +257,8 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **LinkedIn**: https://ca.linkedin.com/company/rival-technologies
 - **City/Region**: Vancouver
 - **BC Region**: Lower Mainland
-- **Email**: Via contact form on website
-- **Phone**: 
+- **Email**: andrew@rivaltech.com
+- **Phone**: +1 (604) 687-1980
 - **Primary Contact**: Andrew Reid (Founder & CEO)
 - **Category**: Start-ups & Scale-ups
 - **AI Focus Areas**: Data Science, Other AI Applications

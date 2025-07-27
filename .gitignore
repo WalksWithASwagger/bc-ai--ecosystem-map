@@ -47,4 +47,28 @@ private-notes.md
 
 # Database exports (if containing sensitive data)
 exports/private/
-backups/private/ 
+backups/private/
+
+# Enhancement tool temporary files
+*_analysis.json
+*_discoveries.json
+*_enhancements.json
+url_discoveries.json
+email_discoveries.json
+logo_enhancements.json
+contact_enhancements.json
+web_research_enhancements.json
+founding_year_discoveries.json
+founding_year_analysis.json
+logo_upload_analysis.json
+master_sync_analysis.json
+
+# One-time enhancement scripts (archived after use)
+contact_enhancement.js
+email_research.js
+url_research.js
+logo_enhancement.js
+
+# Package management
+package.json
+package-lock.json 
