@@ -1,8 +1,8 @@
 # MCP Status & Configuration
 
-## Current Status: ✅ CONFIGURED, PENDING RESTART
+## Current Status: ⚠️ TOKEN INVALID - REQUIRES REFRESH
 
-The MCP (Model Context Protocol) integration is properly configured but requires a Cursor restart to activate.
+The MCP (Model Context Protocol) integration is configured but the Notion API token is invalid and needs to be refreshed.
 
 ## Configuration Details
 
@@ -17,6 +17,13 @@ The MCP (Model Context Protocol) integration is properly configured but requires
 - **Database Name**: AI Ecosystem Map
 - **API Token**: Configured in MCP environment variables
 - **Public URL**: https://vancouver.bc-ai.net/1f0c6f799a3381bd8332ca0235c24655
+
+### Organization Status Summary
+
+**✅ Already Added to Database (12 total):**
+- Pani Energy, Niricson, MarineLabs, Sanctuary AI
+- VRIFY Technology, Penny AI, Charli AI, Apera AI  
+- Levr.ai, Quandri, TerraSense Analytics, CRWN.ai
 
 ### Organizations Pending Addition (13 total)
 
@@ -41,20 +48,35 @@ The MCP (Model Context Protocol) integration is properly configured but requires
 12. BC + AI Ecosystem (Vancouver)
 13. AI for Ecommerce Non-Profit Society (Vancouver)
 
-## Next Steps After Restart
+## Next Steps to Fix MCP Connection
 
-1. **Verify MCP Tools**: Check that MCP Notion tools are available
-2. **Query Database**: Get current organization list to check for duplicates
-3. **Add Organizations**: Use MCP tools to add the 13 pending organizations
-4. **Update Documentation**: Mark organizations as ✅ added in `new_organizations.md`
+### 1. Refresh Notion API Token
+- Go to [Notion Integrations](https://www.notion.so/my-integrations)
+- Find your existing integration or create a new one
+- Copy the new API token
+- Update your MCP configuration with the new token
+
+### 2. Verify MCP Configuration
+- Ensure `~/.cursor/mcp.json` has the correct token
+- Restart Cursor after updating the configuration
+- Test MCP connection with `mcp_notion_API-get-self` tool
+
+### 3. Add Pending Organizations
+Once MCP is working:
+1. **Query Database**: Check current organizations to prevent duplicates
+2. **Add 13 Organizations**: Use MCP tools to add pending organizations
+3. **Update Documentation**: Mark organizations as ✅ added in `new_organizations.md`
 
 ## Troubleshooting
 
-If MCP tools are still not available after restart:
-1. Check Cursor MCP integration settings
-2. Verify `@notionhq/notion-mcp-server` package installation
-3. Validate Notion API token permissions
-4. Review MCP server logs for errors
+**Current Error**: `API token is invalid` (Status 401)
+**Solution**: Refresh Notion API token and update MCP configuration
+
+If issues persist:
+1. Verify `@notionhq/notion-mcp-server` package installation
+2. Check Cursor MCP integration settings
+3. Validate database permissions for the integration
+4. Review MCP server logs for additional errors
 
 ## Configuration Changed
 
