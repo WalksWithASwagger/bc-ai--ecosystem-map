@@ -318,10 +318,190 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **Status**: Researching
 - **Data Source**: PDF research verification (January 2025)
 
+### Major Established Companies (BATCH 2 Research):
+
+**Organization Name**: Visier
+- **Website**: https://www.visier.com
+- **LinkedIn**: https://ca.linkedin.com/company/visier-analytics
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: +1-888-277-****
+- **Primary Contact**: Ryan Wong (CEO & President)
+- **Category**: Established Companies
+- **AI Focus Areas**: Workforce Analytics AI, HR Analytics, Data Science
+- **Size**: Enterprise (600 employees)
+- **Short Blurb**: Global leader in AI-powered people analytics, workforce planning, and compensation allocation with Workforce AI Edge capabilities
+- **Notable Projects**: $219M total funding, $113.4M annual revenue, 25,000+ customers in 75 countries, serves enterprises like BASF, Panasonic, Ford
+- **Status**: Researching
+- **Data Source**: BATCH 2 verification (January 2025)
+
+**Organization Name**: Hootsuite
+- **Website**: https://www.hootsuite.com
+- **LinkedIn**: https://ca.linkedin.com/company/hootsuite
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: +1-206-519-****
+- **Primary Contact**: Irina Novoselsky (CEO)
+- **Category**: Established Companies
+- **AI Focus Areas**: Social Media AI, OwlyGPT Assistant, Data Science
+- **Size**: Enterprise (1,800 employees)
+- **Short Blurb**: AI-powered social media management platform with OwlyGPT assistant, serving 16+ million users globally with real-time social data insights
+- **Notable Projects**: $299.9M total funding, $750M annual revenue, OwlyGPT launch (2025), #14 on G2's Best Software Products 2025
+- **Status**: Researching
+- **Data Source**: BATCH 2 verification (January 2025)
+
+**Organization Name**: MetaOptima
+- **Website**: https://www.metaoptima.com
+- **LinkedIn**: https://www.linkedin.com/company/metaoptima-technology-inc-
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Maryam Sadeghi (CEO), Majid Razmara (CTO)
+- **Category**: Established Companies
+- **AI Focus Areas**: Healthcare AI, Dermatology AI, Computer Vision
+- **Size**: Startup (27 employees)
+- **Short Blurb**: Intelligent dermatology skin analytics leader with DermEngine platform and MoleScope technology for skin cancer detection
+- **Notable Projects**: $11.13M total funding, $8.6M Series A (2018), DermEngine and MoleScope products, PacifiCan Healthtech funding
+- **Status**: Researching
+- **Data Source**: BATCH 2 verification (January 2025)
+
+**Organization Name**: Aspect Biosystems
+- **Website**: https://www.aspectbiosystems.com
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Tamer Mohamed (Founder & CEO)
+- **Category**: Established Companies
+- **AI Focus Areas**: 3D Bioprinting AI, Biotechnology AI, Computational Design
+- **Size**: Scale-up (unknown employees)
+- **Short Blurb**: Biotechnology pioneer using AI-powered bioprinting technology to develop bioprinted tissue therapeutics for diabetes, obesity, and liver disease
+- **Notable Projects**: $115M Series B (2025), $200M government partnership, $2.6B Novo Nordisk collaboration, $28.5M annual revenue
+- **Status**: Researching
+- **Data Source**: BATCH 2 verification (January 2025)
+
+**Organization Name**: Vision Critical (Alida)
+- **Website**: https://www.alida.com
+- **LinkedIn**: https://ca.linkedin.com/company/vision-critical
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: +1-604-647-****
+- **Primary Contact**: 
+- **Category**: Established Companies
+- **AI Focus Areas**: Consumer Insights AI, Customer Experience AI, Data Science
+- **Size**: Scale-up (109 employees)
+- **Short Blurb**: Community-centered research platform (rebranded to Alida) providing AI-powered customer insights for global brands like Red Bull, LinkedIn, Twitter
+- **Notable Projects**: $20M growth funding (2020), $75M annual revenue, clients include Red Bull, LinkedIn, Condé Nast, Twitter
+- **Status**: Researching
+- **Data Source**: BATCH 2 verification (January 2025)
+
+### UBC AI Spin-offs (BATCH 3 Research):
+
+**Organization Name**: Gaze AI
+- **Website**: https://www.gaze.ai
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: UBC Computer Science spin-off team
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Visual Recognition AI, Computer Vision, Authentication AI
+- **Size**: Startup (unknown employees)
+- **Short Blurb**: UBC Computer Science spin-off offering passwordless 1-click authentication technology with visual recognition API launched in 2018
+- **Notable Projects**: $830K seed funding led by Anchorless Bangladesh, API for visual recognition AI
+- **Status**: Researching
+- **Data Source**: BATCH 3 verification (January 2025)
+
+**Organization Name**: HomeCourt (NEX Team)
+- **Website**: https://www.homecourt.ai
+- **LinkedIn**: https://www.linkedin.com/company/nexinc
+- **City/Region**: San Jose (UBC Vancouver origin)
+- **BC Region**: Lower Mainland (origin)
+- **Email**: inquiry@homecourt.ai
+- **Phone**: 
+- **Primary Contact**: David Lee (CEO), Philip Lam (UBC CS Alumnus)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Sports AI, Computer Vision, Motion Tracking AI
+- **Size**: Scale-up (unknown employees)
+- **Short Blurb**: UBC spin-off founded by CS alumnus Philip Lam, first AI-powered basketball training app with NBA strategic partnership and Apple Design Award
+- **Notable Projects**: $42M total funding, $4M seed (2018), NBA partnership, Apple Design Award 2019, Time's Best Inventions 2019
+- **Status**: Researching
+- **Data Source**: BATCH 3 verification (January 2025)
+
+**Organization Name**: Inverted AI
+- **Website**: https://www.inverted.ai
+- **LinkedIn**: https://ca.linkedin.com/company/invertedai
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Dr. Frank Wood (Founder, UBC Professor, PLAI Director)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Autonomous Vehicles AI, Predictive Modeling, Simulation AI
+- **Size**: Startup (unknown employees)
+- **Short Blurb**: PLAI group spin-out led by Dr. Frank Wood providing realistic multi-modal predictions and human-like NPCs for autonomous vehicle simulation
+- **Notable Projects**: $5.3M CAD seed funding led by Yaletown Partners, UBC CDL graduate, cloud-provisioned API for AV development
+- **Status**: Researching
+- **Data Source**: BATCH 3 verification (January 2025)
+
+**Organization Name**: Nytilus Inc
+- **Website**: 
+- **LinkedIn**: 
+- **City/Region**: Toronto (UBC Vancouver origin)
+- **BC Region**: Lower Mainland (origin)
+- **Email**: 
+- **Phone**: 
+- **Primary Contact**: Dr. Debanga Raj Neog (Co-founder, UBC PhD 2018)
+- **Category**: Start-ups & Scale-ups (CEASED OPERATIONS)
+- **AI Focus Areas**: Industrial AI, Computer Vision, Augmented Reality
+- **Size**: Startup (ceased operations)
+- **Short Blurb**: UBC Computer Science spin-off that converted smartphones to industrial cameras with AR/AI platform, founded by UBC PhD graduate
+- **Notable Projects**: $120K seed funding from Ginco Investments and Techstars Dubai, incorporated 2017, ceased operations
+- **Status**: Ceased Operations
+- **Data Source**: BATCH 3 verification (January 2025)
+
+**Organization Name**: Canexia Health (Imagia Canexia Health)
+- **Website**: https://imagiacanexia.com
+- **LinkedIn**: https://ca.linkedin.com/company/imagia-canexiahealth
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: UBC spin-off leadership team
+- **Category**: Established Companies
+- **AI Focus Areas**: Oncology AI, Healthcare AI, Machine Learning, Genomics AI
+- **Size**: Scale-up (unknown employees)
+- **Short Blurb**: UBC Computer Science spin-off providing AI-powered precision oncology solutions with genomic-based molecular diagnostics, merged with Imagia Cybernetics in 2022
+- **Notable Projects**: $9.45M total funding, 2020 rebrand from Contextual Genomics, 2022 merger with Imagia Cybernetics, 20 hospital system integrations
+- **Status**: Researching
+- **Data Source**: BATCH 3 verification (January 2025)
+
+**Organization Name**: Cloudburst Research
+- **Website**: 
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: 
+- **Phone**: 
+- **Primary Contact**: David Lowe (UBC Professor, CEO), Matthew Brown (Co-founder)
+- **Category**: Start-ups & Scale-ups (ACQUIRED)
+- **AI Focus Areas**: Computer Vision, Image Processing AI, SIFT Technology
+- **Size**: Startup (acquired by Google)
+- **Short Blurb**: UBC Computer Science spin-off created AutoStitch (world's first fully automatic image-stitcher) based on SIFT algorithm, acquired by Google in 2015
+- **Notable Projects**: AutoStitch technology, iPhone/iPad/Android apps, Google acquisition 2015, SIFT algorithm commercialization
+- **Status**: Acquired by Google
+- **Data Source**: BATCH 3 verification (January 2025)
+
 ---
 
 ## Summary of NEW Organizations:
-**Total NEW Organizations**: 18
+**Total NEW Organizations**: 29
 - PropTech & Real Estate AI: 2
 - Industrial AI & Computer Vision: 2  
 - Semiconductor & Hardware AI: 1
@@ -330,5 +510,8 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - CleanTech AI Companies: 3
 - Infrastructure & Data Centers: 2
 - Vancouver AI Network: 1
+- Growth-Stage Startups (PDF Research): 3
+- Major Established Companies (BATCH 2): 5
+- UBC AI Spin-offs (BATCH 3): 6
 
 All other organizations from the original file are already in the Notion database and have been removed to eliminate duplicates.
