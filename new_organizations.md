@@ -628,10 +628,126 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **Status**: Researching
 - **Data Source**: BATCH 4 verification (January 2025)
 
+### New Ventures BC 2025 AI Finalists (BATCH 5A Research):
+
+**Organization Name**: 3DentAI
+- **Website**: https://3dentai.paxel.ca
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: 3DentAI team
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Dental AI, Healthcare AI, Computer Vision
+- **Size**: Startup (unknown employees)
+- **Short Blurb**: Primary diagnosis of tooth and gum diseases at home using compact camera and AI technology with mobile app, smart camera, and dentist hub solutions
+- **Notable Projects**: New Ventures BC 2025 finalist, AI Mobile/Smart Camera/Dentist Hub platform
+- **Status**: Researching
+- **Data Source**: BATCH 5A verification (January 2025)
+
+**Organization Name**: Advertising Intelligence (ADINT.AI)
+- **Website**: https://www.adint.ai
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: ADINT.AI team
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Advertising AI, Marketing Analytics AI, Data Science
+- **Size**: Startup (unknown employees)
+- **Short Blurb**: Revolutionizing outdoor advertising effectiveness measurement with AI-powered audience analytics and real-time data insights for marketing optimization
+- **Notable Projects**: New Ventures BC 2025 finalist, outdoor advertising analytics platform, digital transformation of physical marketing
+- **Status**: Researching
+- **Data Source**: BATCH 5A verification (January 2025)
+
+**Organization Name**: AIMA Inc
+- **Website**: 
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: 
+- **Phone**: 
+- **Primary Contact**: Lanna Lastiwka (Director)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: FemTech AI, Healthcare AI, Pelvic Health AI
+- **Size**: Startup (unknown employees)
+- **Short Blurb**: Female-led team developing clinically tested patented products for period and pelvic pain management using AI, with OVY™ suppository product
+- **Notable Projects**: New Ventures BC 2025 finalist, OVY™ THC-free cannabinoid product, incorporated August 2019
+- **Status**: Researching
+- **Data Source**: BATCH 5A verification (January 2025)
+
+**Organization Name**: Amass AI
+- **Website**: https://www.amass.tech
+- **LinkedIn**: https://in.linkedin.com/company/amass-technologies
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Amass team
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Bio Science AI, Knowledge Graph AI, Data Aggregation AI
+- **Size**: Startup (unknown employees)
+- **Short Blurb**: Integrates fragmented scientific knowledge landscapes using AI to create structured, cross-linked, queryable knowledge graphs for patents, papers, and research
+- **Notable Projects**: New Ventures BC 2025 finalist, GEMA research-grade AI platform, scientific knowledge aggregation
+- **Status**: Researching
+- **Data Source**: BATCH 5A verification (January 2025)
+
+### Recent Startups (BATCH 5B Research):
+
+**Organization Name**: Fintel Connect
+- **Website**: https://www.fintelconnect.com
+- **LinkedIn**: https://ca.linkedin.com/company/fintelconnect
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: +1 604-566-8020
+- **Primary Contact**: Fintel Connect team
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Performance Marketing AI, FinTech AI, Compliance AI
+- **Size**: Scale-up (unknown employees)
+- **Short Blurb**: Only partner marketing platform built for financial industry with AI-powered content monitoring, serving 80+ financial brands including Scotiabank and RBC
+- **Notable Projects**: $5.3M total funding, founded 2018, BankTech Ventures backing, Visa partnership, American Bankers Association strategic partnership
+- **Status**: Researching
+- **Data Source**: BATCH 5B verification (January 2025)
+
+**Organization Name**: Defang
+- **Website**: https://defang.io
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via Discord community support
+- **Phone**: 
+- **Primary Contact**: Lionello Lunesu (CTO), Prakash Sundaresan (CEO)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Cloud AI Deployment, DevOps AI, Infrastructure AI
+- **Size**: Startup (founded 2022)
+- **Short Blurb**: Simplifies cloud app deployment from Docker Compose to production-ready AWS/GCP deployments using AI-assisted tools for developers
+- **Notable Projects**: Google for Startups Accelerator 2024, MCP integration 2025, ex-Microsoft/AWS founders, sold previous startup to Workday
+- **Status**: Researching
+- **Data Source**: BATCH 5B verification (January 2025)
+
+**Organization Name**: Unblocked
+- **Website**: https://getunblocked.com
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Dennis Pilarinos (Founder & CEO)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Developer AI, Code Intelligence AI, Software Development AI
+- **Size**: Startup (<20 employees, expanding by 40-50)
+- **Short Blurb**: AI intelligence platform helping developers understand AI-generated code and legacy codebases, founded by ex-Apple Buddybuild founder
+- **Notable Projects**: $30M total funding, $20M Series A (May 2025), B Capital led, Stewart Butterfield angel investor, Apple acquisition history
+- **Status**: Researching
+- **Data Source**: BATCH 5B verification (January 2025)
+
 ---
 
 ## Summary of NEW Organizations:
-**Total NEW Organizations**: 37
+**Total NEW Organizations**: 44
 - PropTech & Real Estate AI: 2
 - Industrial AI & Computer Vision: 2  
 - Semiconductor & Hardware AI: 1
@@ -644,5 +760,7 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - Major Established Companies (BATCH 2): 5
 - UBC AI Spin-offs (BATCH 3): 6
 - Multinational AI Presence (BATCH 4): 8
+- New Ventures BC 2025 AI Finalists (BATCH 5A): 4
+- Recent Startups (BATCH 5B): 3
 
 All other organizations from the original file are already in the Notion database and have been removed to eliminate duplicates.

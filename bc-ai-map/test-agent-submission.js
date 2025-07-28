@@ -1,7 +1,7 @@
 // Test Script for Agent Submission API
 // Tests the Phase 2A: Agent Integration Foundation implementation
 
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'http://localhost:3001';
 
 // Test data samples
 const validSubmission = {
