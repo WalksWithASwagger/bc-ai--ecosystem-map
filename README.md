@@ -214,13 +214,20 @@ The most comprehensive mapping of British Columbia's AI ecosystem with **100% cl
 📦 BC AI Ecosystem Atlas
 ├── 📄 README.md                     # This file
 ├── 🗺️ ROADMAP.md                    # Interactive map development plan
-├── 📋 CHANGELOG.md                  # Version history and milestones
-├── 📊 database-schema.md            # Notion database structure
-├── 🤝 CONTRIBUTING.md               # Community contribution guide
-├── ⚙️ workflow-guide.md             # MCP-based workflows
-├── 📝 new_organizations.md          # Staging area for new entries
-├── 📋 all-organizations-masterlist.md # Complete organization index
-└── 📁 completed-research/           # Archived research materials
+├── 📊 DASHBOARD_PLAN.md              # Analytics dashboard specifications
+├── 🏗️ technical-architecture-specs.md  # API & infrastructure design
+├── 🔧 data-pipeline-automation.md    # Research agent integration framework
+├── 📈 ecosystem-strategic-analysis.md # Market intelligence & strategic insights
+├── 🌐 community-platform-design.md   # Self-service portal & engagement framework
+├── 🤝 CONTRIBUTING.md                # Community contribution guidelines
+├── 📋 workflow-guide.md              # MCP-based operational procedures
+├── 🗃️ database-schema.md             # Notion database structure
+├── 📊 all-organizations-masterlist.md # Complete organization directory (355)
+├── 📝 CHANGELOG.md                   # Development history
+├── 🛠️ ENHANCEMENT_TOOLS.md           # Database enhancement documentation
+├── 🎯 meta-project-execution-plan.md # Strategic contribution planning
+├── 📁 completed-research/            # Archived research and analysis
+└── 🖼️ logos/                        # Organization logos (40+ files)
 ```
 
 ---
