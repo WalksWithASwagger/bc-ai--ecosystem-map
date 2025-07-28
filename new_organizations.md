@@ -498,10 +498,140 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - **Status**: Acquired by Google
 - **Data Source**: BATCH 3 verification (January 2025)
 
+### Multinational AI Presence Companies (BATCH 4 Research):
+
+**Organization Name**: Fujitsu Intelligence Technology
+- **Website**: https://www.fujitsu.com/ca/
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Naoko Yoshizawa (CEO), Dean Prelazzi (VP Business Development)
+- **Category**: Enterprise / Corporate Divisions
+- **AI Focus Areas**: Global AI Headquarters, Intelligence Technology, Data Science
+- **Size**: Enterprise (part of Fujitsu Global)
+- **Short Blurb**: Fujitsu's global AI headquarters located at One Bentall Centre, world's 4th largest IT services provider's first core technology division outside Japan
+- **Notable Projects**: Global AI headquarters (established 2018), $570M+ Fujitsu Canada revenues, 2000+ employees coast-to-coast
+- **Status**: Researching
+- **Data Source**: BATCH 4 verification (January 2025)
+
+**Organization Name**: Wayve
+- **Website**: https://wayve.ai
+- **LinkedIn**: https://www.linkedin.com/company/wayve-technologies
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Chief Scientist (Vancouver team leader)
+- **Category**: Start-ups & Scale-ups
+- **AI Focus Areas**: Autonomous Vehicles AI, Embodied AI, Computer Vision
+- **Size**: Scale-up (10+ Vancouver employees planned)
+- **Short Blurb**: London-based autonomous driving unicorn with Vancouver AI hub opened April 2024, focusing on Embodied AI research and development
+- **Notable Projects**: $258M+ total funding, unicorn valuation $1B+, Microsoft investment, Vancouver hub launch 2024
+- **Status**: Researching
+- **Data Source**: BATCH 4 verification (January 2025)
+
+**Organization Name**: Persistent Systems
+- **Website**: https://www.persistent.com
+- **LinkedIn**: https://ca.linkedin.com/company/persistent-systems
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Vancouver office team
+- **Category**: Enterprise / Corporate Divisions
+- **AI Focus Areas**: Persistent.AI, Digital Engineering, Enterprise Modernization
+- **Size**: Enterprise (global presence, Vancouver office)
+- **Short Blurb**: Global digital engineering company with Vancouver office, offering AI services through Persistent.AI division with 30+ years enterprise experience
+- **Notable Projects**: Multiple Canadian offices (Vancouver, Ottawa, Toronto, Montreal), AWS-certified experts, 60+ languages support
+- **Status**: Researching
+- **Data Source**: BATCH 4 verification (January 2025)
+
+**Organization Name**: Hugo Inc
+- **Website**: https://hugoinc.com
+- **LinkedIn**: 
+- **City/Region**: Vancouver (global operations)
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Hugo Inc team
+- **Category**: Service Studios / Agencies
+- **AI Focus Areas**: Customer Support AI, AI Data Processing, Outsourcing AI
+- **Size**: Enterprise (global operations)
+- **Short Blurb**: World's fastest-growing BPO company (2023-2024) offering AI-powered customer support, data processing, and outsourcing solutions across 60+ languages
+- **Notable Projects**: Fastest-growing BPO globally, 60+ languages, 5 continents operations, AI data processing services
+- **Status**: Researching
+- **Data Source**: BATCH 4 verification (January 2025)
+
+**Organization Name**: Mobcoder
+- **Website**: https://mobcoder.com / https://mobcoder.ai
+- **LinkedIn**: https://www.linkedin.com/company/mobcoder-inc
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: sales@mobcoder.com
+- **Phone**: 
+- **Primary Contact**: Sales team
+- **Category**: Service Studios / Agencies
+- **AI Focus Areas**: AI App Development, Mobile AI Solutions, AI/ML Development
+- **Size**: Scale-up (100-249 employees)
+- **Short Blurb**: CMMI Level 3 certified mobile and web app development company with dedicated AI division, serving Vancouver and Toronto markets
+- **Notable Projects**: Founded 2014, Leadership Award "Best IT Firm in Fintech 2023", AI chatbot solutions, $55/hr rate
+- **Status**: Researching
+- **Data Source**: BATCH 4 verification (January 2025)
+
+**Organization Name**: Simform
+- **Website**: https://www.simform.com
+- **LinkedIn**: https://www.linkedin.com/company/simform
+- **City/Region**: Vancouver (global operations)
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Simform team
+- **Category**: Service Studios / Agencies
+- **AI Focus Areas**: Generative AI Development, AI/ML Development, Custom AI Solutions
+- **Size**: Enterprise (200+ AWS-certified experts)
+- **Short Blurb**: Premier digital engineering company founded 2010, specializing in generative AI, custom AI solutions, and model fine-tuning for startups to Fortune 500
+- **Notable Projects**: $25K+ min project size, 200+ AWS-certified experts, LangChain/GPT-4/LLaMA expertise, AI agent development
+- **Status**: Researching
+- **Data Source**: BATCH 4 verification (January 2025)
+
+**Organization Name**: Thales Canada
+- **Website**: https://www.thalesgroup.com/en/americas/canada
+- **LinkedIn**: 
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: kevin.payan@thalesgroup.com (Communications Director)
+- **Phone**: 343-997-6542 (Communications)
+- **Primary Contact**: Kevin Payan (Director of Communications)
+- **Category**: Enterprise / Corporate Divisions
+- **AI Focus Areas**: Defense AI, AI@Centech, Security AI
+- **Size**: Enterprise (1,300+ Canadian employees)
+- **Short Blurb**: Global defense technology company with Vancouver office, 50+ years Canadian experience, $570M+ revenues, developing AI for defense and security applications
+- **Notable Projects**: AI@Centech program, SYNERGY innovation, 2000+ coast-to-coast employees, Ottawa headquarters consolidation
+- **Status**: Researching
+- **Data Source**: BATCH 4 verification (January 2025)
+
+**Organization Name**: SandboxAQ (Good Chemistry Acquisition)
+- **Website**: https://www.sandboxaq.com
+- **LinkedIn**: https://www.linkedin.com/company/sandboxaq
+- **City/Region**: Vancouver
+- **BC Region**: Lower Mainland
+- **Email**: Via contact form on website
+- **Phone**: 
+- **Primary Contact**: Arman Zaribafiyan (Head of Product, AI Simulation Platforms, former Good Chemistry CEO)
+- **Category**: Enterprise / Corporate Divisions
+- **AI Focus Areas**: Quantum AI, AI Simulation Platforms, Computational Chemistry AI
+- **Size**: Enterprise (Alphabet spin-off)
+- **Short Blurb**: Alphabet spin-off (2022) with Vancouver presence via Good Chemistry acquisition (2024), leveraging AI and quantum technology for drug discovery and materials design
+- **Notable Projects**: Good Chemistry acquisition Jan 2024, Large Quantitative Models (LQMs), T. Rowe Price/Eric Schmidt backing, computational chemistry AI
+- **Status**: Researching
+- **Data Source**: BATCH 4 verification (January 2025)
+
 ---
 
 ## Summary of NEW Organizations:
-**Total NEW Organizations**: 29
+**Total NEW Organizations**: 37
 - PropTech & Real Estate AI: 2
 - Industrial AI & Computer Vision: 2  
 - Semiconductor & Hardware AI: 1
@@ -513,5 +643,6 @@ This file contains ONLY organizations that are NOT already in the Notion databas
 - Growth-Stage Startups (PDF Research): 3
 - Major Established Companies (BATCH 2): 5
 - UBC AI Spin-offs (BATCH 3): 6
+- Multinational AI Presence (BATCH 4): 8
 
 All other organizations from the original file are already in the Notion database and have been removed to eliminate duplicates.
