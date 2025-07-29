@@ -285,6 +285,67 @@ class QualityScoringSystem {
     return maxPoints;
   }
 
+  // Added field-specific scoring helpers for phone and LinkedIn -----------------
+  scorePhone(phone, result) {
+    const maxPoints = this.fieldWeights.phone || 0;
+    if (!phone) return 0;
+
+    // Strip non-numeric characters
+    const digits = phone.toString().replace(/\D/g, '');
+
+    if (digits.length < 7) {
+      result.warnings.push({
+        field: 'phone',
+        issue: 'Phone number appears too short',
+        impact: 'medium'
+      });
+      return maxPoints * 0.3;
+    }
+
+    if (digits.length >= 10 && digits.length <= 15) {
+      return maxPoints; // valid length
+    }
+
+    // Edge-case: unusually long number
+    result.warnings.push({
+      field: 'phone',
+      issue: 'Phone number length unusual',
+      impact: 'low'
+    });
+    return maxPoints * 0.7;
+  }
+
+  scoreLinkedIn(link, result) {
+    const maxPoints = this.fieldWeights.linkedin || 0;
+    if (!link) return 0;
+
+    const url = link.toString().trim();
+    const normalized = url.toLowerCase();
+
+    // Basic validation – must contain linkedin domain
+    if (!normalized.includes('linkedin.com')) {
+      result.warnings.push({
+        field: 'linkedin',
+        issue: 'Value does not appear to be a LinkedIn URL',
+        impact: 'medium'
+      });
+      return maxPoints * 0.2;
+    }
+
+    // Encourage full URL with https://
+    if (!normalized.startsWith('http')) {
+      result.warnings.push({
+        field: 'linkedin',
+        issue: 'LinkedIn link missing protocol (http/https)',
+        impact: 'low'
+      });
+      return maxPoints * 0.8;
+    }
+
+    return maxPoints;
+  }
+  // -----------------------------------------------------------------------------
+
   scoreAIFocusAreas(focusAreas, result) {
     const maxPoints = this.fieldWeights.ai_focus_areas;
     

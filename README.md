@@ -292,3 +292,6 @@ This community atlas is **open source** and available for use by:
 **[🗺️ View Roadmap](ROADMAP.md)** • **[📋 See Changelog](CHANGELOG.md)** • **[🤝 Contributing](CONTRIBUTING.md)** • **[⚙️ Workflows](workflow-guide.md)**
 
 *The future of BC's AI ecosystem starts here* ✨ 
+
+## 2025-07-29 Cleanup
+All legacy markdown reports and planning docs have been moved to `completed-research/archive-2025-07-29/`.  Root now contains only live pipeline scripts, `imports/`, and core docs (`README.md`, `CHANGELOG.md`). 
