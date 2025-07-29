@@ -8,7 +8,7 @@
 [![Clean](https://img.shields.io/badge/Database-100%25_Clean-brightgreen)](CHANGELOG.md)
 [![Quality](https://img.shields.io/badge/High_Quality-21%25-success)](ENHANCEMENT_TOOLS.md)
 [![Tools](https://img.shields.io/badge/Enhancement_Tools-Active-blue)](ENHANCEMENT_TOOLS.md)
-[![Roadmap](https://img.shields.io/badge/Next-Interactive%20Map-purple)](ROADMAP.md)
+[![Roadmap](https://img.shields.io/badge/Next-Data%20Enhancement-purple)](ROADMAP.md)
 
 ---
 
@@ -18,16 +18,16 @@ Creating the most comprehensive, interactive, and up-to-date mapping of British 
 
 ---
 
-## 🚀 What's Next: Interactive Map Visualization
+## 🚀 What's Next: Data Enhancement & Quality
 
-We're building an **interactive Google Maps interface** to visualize all 355+ BC AI organizations! 
+Continuing to enhance and maintain the most comprehensive BC AI ecosystem database!
 
-### 🗺️ Coming in 2025:
-- **Interactive markers** with detailed organization popups
-- **Advanced filtering** by AI focus areas, funding stage, region
-- **Mobile-responsive** design for on-the-go networking  
+### 📊 Focus Areas:
+- **Automated quality scoring** for all organizations
+- **Intelligent duplicate detection** and merging
+- **Contact information enrichment** 
 - **Real-time Notion integration** for live updates
-- **GPS-based discovery** of nearby organizations
+- **Data completeness tracking** and reporting
 
 **[📋 View Full Roadmap →](ROADMAP.md)**
 
@@ -200,9 +200,9 @@ The most comprehensive mapping of British Columbia's AI ecosystem with **100% cl
 - **📝 Node.js Scripts**: Data processing and analysis
 - **📊 Structured Data**: 20+ fields per organization
 
-### Coming Soon (Interactive Map)
+### Technology Stack
 - **⚛️ React/Next.js**: Modern web application
-- **🗺️ Google Maps API**: Interactive visualization
+- **🔍 Notion Database API**: Real-time data synchronization
 - **📱 Responsive Design**: Mobile-first approach
 - **🔄 Real-time Sync**: Live Notion integration
 
@@ -295,3 +295,13 @@ This community atlas is **open source** and available for use by:
 
 ## 2025-07-29 Cleanup
 All legacy markdown reports and planning docs have been moved to `completed-research/archive-2025-07-29/`.  Root now contains only live pipeline scripts, `imports/`, and core docs (`README.md`, `CHANGELOG.md`). 
+
+## Minimal Manual Toolkit (2025-08 refresh)
+
+| Script | Purpose | How to run |
+|---|---|---|
+| `node scripts/find-new-orgs.js <markdown>` | Scan a discovery markdown/CSV file and list org names **not yet** in the Notion DB | `NOTION_TOKEN=… NOTION_DATABASE_ID=… node scripts/find-new-orgs.js discoveries/2025-08-01.md` |
+| `node scripts/add-org.js` | Interactive prompt to create a single org in Notion | `NOTION_TOKEN=… NOTION_DATABASE_ID=… node scripts/add-org.js --name "Acme AI"` |
+| `node scripts/check-duplicates.js` | On-demand duplicate detector (name similarity ≥ 0.9) – **read-only** | `NOTION_TOKEN=… NOTION_DATABASE_ID=… node scripts/check-duplicates.js` |
+
+All heavyweight automation has been archived under `completed-research/archive-2025-07-29/code-archive/`.  Nothing runs unless you execute one of the scripts above. 
