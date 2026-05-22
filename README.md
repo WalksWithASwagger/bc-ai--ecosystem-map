@@ -2,13 +2,20 @@
 
 *The definitive map of British Columbia's artificial intelligence landscape*
 
+> **Status update (May 2026):** this repository is now best treated as a legacy
+> research archive and Notion tooling workspace. The current canonical public
+> dataset is
+> [`WalksWithASwagger/bc-ai-directory-public`](https://github.com/WalksWithASwagger/bc-ai-directory-public),
+> which exports the validated BC AI organization and people directory under
+> CC BY 4.0.
+
 [![Status](https://img.shields.io/badge/Status-Database%20Perfect-success)](CHANGELOG.md)
-[![Organizations](https://img.shields.io/badge/Organizations-355%20Unique-blue)](database-schema.md)
+[![Organizations](https://img.shields.io/badge/Organizations-355%20Unique-blue)](completed-research/archive-2025-07-29/database-schema.md)
 [![Coverage](https://img.shields.io/badge/Coverage-~80%25-green)](CHANGELOG.md)
 [![Clean](https://img.shields.io/badge/Database-100%25_Clean-brightgreen)](CHANGELOG.md)
-[![Quality](https://img.shields.io/badge/High_Quality-21%25-success)](ENHANCEMENT_TOOLS.md)
-[![Tools](https://img.shields.io/badge/Enhancement_Tools-Active-blue)](ENHANCEMENT_TOOLS.md)
-[![Roadmap](https://img.shields.io/badge/Next-Data%20Enhancement-purple)](ROADMAP.md)
+[![Quality](https://img.shields.io/badge/High_Quality-21%25-success)](completed-research/archive-2025-07-29/ENHANCEMENT_TOOLS.md)
+[![Tools](https://img.shields.io/badge/Enhancement_Tools-Active-blue)](completed-research/archive-2025-07-29/ENHANCEMENT_TOOLS.md)
+[![Roadmap](https://img.shields.io/badge/Next-Data%20Enhancement-purple)](completed-research/archive-2025-07-29/ROADMAP.md)
 
 ---
 
@@ -29,7 +36,7 @@ Continuing to enhance and maintain the most comprehensive BC AI ecosystem databa
 - **Real-time Notion integration** for live updates
 - **Data completeness tracking** and reporting
 
-**[📋 View Full Roadmap →](ROADMAP.md)**
+**[📋 View Archived Roadmap →](completed-research/archive-2025-07-29/ROADMAP.md)**
 
 ---
 
@@ -49,7 +56,7 @@ Our comprehensive **enhancement toolkit** has transformed the database from basi
 - **🎨 Logo Management System** - Professional logo collection and organization
 - **🔄 Master Data Sync** - Comprehensive database analysis and enhancement
 
-**[🔧 View Enhancement Tools Documentation →](ENHANCEMENT_TOOLS.md)**
+**[🔧 View Archived Enhancement Tools Documentation →](completed-research/archive-2025-07-29/ENHANCEMENT_TOOLS.md)**
 
 ---
 
@@ -213,36 +220,41 @@ The most comprehensive mapping of British Columbia's AI ecosystem with **100% cl
 ```
 📦 BC AI Ecosystem Atlas
 ├── 📄 README.md                     # This file
-├── 🗺️ ROADMAP.md                    # Interactive map development plan
-├── 📊 DASHBOARD_PLAN.md              # Analytics dashboard specifications
-├── 🏗️ technical-architecture-specs.md  # API & infrastructure design
-├── 🔧 data-pipeline-automation.md    # Research agent integration framework
-├── 📈 ecosystem-strategic-analysis.md # Market intelligence & strategic insights
-├── 🌐 community-platform-design.md   # Self-service portal & engagement framework
-├── 🤝 CONTRIBUTING.md                # Community contribution guidelines
-├── 📋 workflow-guide.md              # MCP-based operational procedures
-├── 🗃️ database-schema.md             # Notion database structure
-├── 📊 all-organizations-masterlist.md # Complete organization directory (355)
 ├── 📝 CHANGELOG.md                   # Development history
-├── 🛠️ ENHANCEMENT_TOOLS.md           # Database enhancement documentation
-├── 🎯 meta-project-execution-plan.md # Strategic contribution planning
-├── 📁 completed-research/            # Archived research and analysis
-└── 🖼️ logos/                        # Organization logos (40+ files)
+├── 📄 AGENT_ROLES.md                 # Agent workflow notes
+├── 📄 NOTION_MCP_ACCESS.md           # Notion access setup notes
+├── 📁 scripts/                       # Current minimal manual toolkit
+├── 📁 imports/                       # Import logs
+├── 📁 tasks/                         # Task briefs
+├── 🖼️ logos/                         # Organization logos (40+ files)
+├── 📁 completed-research/archive-2025-07-29/
+│   ├── 🗺️ ROADMAP.md                    # Archived interactive map development plan
+│   ├── 📊 DASHBOARD_PLAN.md              # Archived analytics dashboard specifications
+│   ├── 🏗️ technical-architecture-specs.md  # Archived API & infrastructure design
+│   ├── 🔧 data-pipeline-automation.md    # Archived research agent framework
+│   ├── 📈 ecosystem-strategic-analysis.md # Archived market intelligence
+│   ├── 🌐 community-platform-design.md   # Archived self-service portal plan
+│   ├── 🤝 CONTRIBUTING.md                # Archived contribution guidelines
+│   ├── 📋 workflow-guide.md              # Archived MCP procedures
+│   ├── 🗃️ database-schema.md             # Archived Notion database structure
+│   ├── 📊 all-organizations-masterlist.md # Archived organization directory (355)
+│   └── 🛠️ ENHANCEMENT_TOOLS.md           # Archived enhancement documentation
+└── 📁 completed-research/source-documents/ # Source research material
 ```
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions from the BC AI community! 
+We welcome contributions from the BC AI community!
 
 ### Ways to Contribute
 - **🔍 Organization Updates**: Submit corrections or new information
-- **🏢 New Organizations**: Nominate missing companies or initiatives  
+- **🏢 New Organizations**: Nominate missing companies or initiatives
 - **✅ Data Validation**: Help verify and enhance existing profiles
 - **🌐 Community Outreach**: Connect us with ecosystem stakeholders
 
-**[📖 Read Contributing Guidelines →](CONTRIBUTING.md)**
+**[📖 Read Archived Contributing Guidelines →](completed-research/archive-2025-07-29/CONTRIBUTING.md)**
 
 ---
 
@@ -289,12 +301,12 @@ This community atlas is **open source** and available for use by:
 
 ---
 
-**[🗺️ View Roadmap](ROADMAP.md)** • **[📋 See Changelog](CHANGELOG.md)** • **[🤝 Contributing](CONTRIBUTING.md)** • **[⚙️ Workflows](workflow-guide.md)**
+**[🗺️ Archived Roadmap](completed-research/archive-2025-07-29/ROADMAP.md)** • **[📋 See Changelog](CHANGELOG.md)** • **[🤝 Archived Contributing](completed-research/archive-2025-07-29/CONTRIBUTING.md)** • **[⚙️ Archived Workflows](completed-research/archive-2025-07-29/workflow-guide.md)**
 
 *The future of BC's AI ecosystem starts here* ✨ 
 
 ## 2025-07-29 Cleanup
-All legacy markdown reports and planning docs have been moved to `completed-research/archive-2025-07-29/`.  Root now contains only live pipeline scripts, `imports/`, and core docs (`README.md`, `CHANGELOG.md`). 
+All legacy markdown reports and planning docs have been moved to `completed-research/archive-2025-07-29/`.  Root now contains only live pipeline scripts, `imports/`, and core docs (`README.md`, `CHANGELOG.md`).
 
 ## Minimal Manual Toolkit (2025-08 refresh)
 
@@ -304,4 +316,4 @@ All legacy markdown reports and planning docs have been moved to `completed-rese
 | `node scripts/add-org.js` | Interactive prompt to create a single org in Notion | `NOTION_TOKEN=… NOTION_DATABASE_ID=… node scripts/add-org.js --name "Acme AI"` |
 | `node scripts/check-duplicates.js` | On-demand duplicate detector (name similarity ≥ 0.9) – **read-only** | `NOTION_TOKEN=… NOTION_DATABASE_ID=… node scripts/check-duplicates.js` |
 
-All heavyweight automation has been archived under `completed-research/archive-2025-07-29/code-archive/`.  Nothing runs unless you execute one of the scripts above. 
+All heavyweight automation has been archived under `completed-research/archive-2025-07-29/code-archive/`.  Nothing runs unless you execute one of the scripts above.
