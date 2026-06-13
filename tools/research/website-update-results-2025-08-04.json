@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-08-04T17:50:03.956Z",
+  "summary": {
+    "totalProcessed": 9,
+    "successful": 9,
+    "errors": 0
+  },
+  "verifiedUpdates": [
+    {
+      "company": "AbCellera Biologics",
+      "website": "https://www.abcellera.com",
+      "status": "success",
+      "notes": "Confirmed: Public biotech company (NASDAQ: ABCL), Vancouver headquarters, matches LinkedIn profile and funding information"
+    },
+    {
+      "company": "Zymeworks",
+      "website": "https://www.zymeworks.com",
+      "status": "success",
+      "notes": "Confirmed: Public company (NYSE:ZYME), Vancouver-based biotech, FDA-approved drug zanidatamab, matches all company details"
+    },
+    {
+      "company": "Finn AI",
+      "website": "https://www.glia.com",
+      "status": "success",
+      "notes": "Confirmed: Finn AI was acquired by Glia in 2023, original finn.ai domain redirects to glia.com, LinkedIn profile confirms acquisition"
+    },
+    {
+      "company": "MetaOptima (DermEngine)",
+      "website": "https://www.metaoptima.com",
+      "status": "success",
+      "notes": "Confirmed: Vancouver-based dermatology AI company, matches funding ($8M+) and LinkedIn profile, also operates dermengine.com"
+    },
+    {
+      "company": "Boast AI",
+      "website": "https://boast.ai",
+      "status": "success",
+      "notes": "Confirmed: Vancouver-based R&D tax credits automation, matches Series A funding info and LinkedIn profile"
+    },
+    {
+      "company": "Clio",
+      "website": "https://www.clio.com",
+      "status": "success",
+      "notes": "Confirmed: Legal tech leader headquartered in Vancouver/Burnaby, matches funding history and enterprise status"
+    },
+    {
+      "company": "GreenMeter AI",
+      "website": "https://www.greenmetrics.ca",
+      "status": "success",
+      "notes": "Confirmed: Green Metrics Technology Corp. based in Vancouver, focuses on BuildSense AI and BuildBlox for real estate sustainability solutions"
+    },
+    {
+      "company": "SkyHive",
+      "website": "https://www.skyhive.ai",
+      "status": "success",
+      "notes": "Confirmed: Vancouver-based workforce analytics AI company, WEF Technology Pioneer 2021, Gartner Cool Vendor recognition"
+    },
+    {
+      "company": "VRIFY Technology",
+      "website": "https://vrify.com",
+      "status": "success",
+      "notes": "Confirmed: Vancouver-based AI-assisted mineral discovery platform, raised $12.5M CAD, evolved from VR/AR to mining AI focus"
+    }
+  ],
+  "needsAdditionalResearch": {
+    "Radical Entertainment": "Game studio - need to verify current status after Activision acquisition",
+    "Roomvu": "Real estate AI company - need to verify Vancouver connection",
+    "Phaidra": "Industrial AI - need to verify BC location",
+    "FreshGrade": "Education technology - website down (freshgrade.com not found), acquired by Higher Ground Education 2021",
+    "AgriSense AI": "Pre-seed stage 2025 - likely too early for website",
+    "Forest AI Systems": "Pre-seed raising 2025 - likely too early for website",
+    "Voltaiq Energy AI": "Seed stage raising 2025 - likely too early for website"
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "227c6f79-9a33-81fe-a66b-df3fce90b557",
+    "linkedin": "https://www.linkedin.com/company/abcellera",
+    "yearFounded": 2012,
+    "keyPeople": "Founder, CEO & President: Carl Hansen, PhD (https://www.linkedin.com/in/carl-hansen-abcellera) - Former UBC Professor\nCo-Founder & COO: Véronique Lecault, PhD (https://www.linkedin.com/in/veronique-lecault)\nCo-Founder & Lead, Innovation: Kevin Heyries (https://www.linkedin.com/in/kevin-heyries)\nCo-Founder & Lead, Business Development: Maia Smith (https://www.linkedin.com/in/maiasmith)\nCFO: Andrew Booth (https://www.linkedin.com/in/andrew-booth-cfo)\nBoard: Peter Thiel (Founders Fund), François Nader, John Montalbano",
+    "shortBlurb": "Biotech company using AI to discover antibodies from natural immune systems. Public company (NASDAQ: ABCL) valued at ~$1.5B, discovered COVID-19 antibody in 90 days."
+  },
+  {
+    "id": "23fc6f79-9a33-8130-9a24-ef13cd5beb71",
+    "linkedin": "https://www.linkedin.com/company/aspect-biosystems",
+    "yearFounded": 2013,
+    "keyPeople": "CEO: Tamer Mohamed (https://www.linkedin.com/in/tamermohamed) - Previously Precision NanoSystems CEO\nCo-Founder: Prof. Konrad Walus (https://www.linkedin.com/in/konrad-walus) - UBC Professor\nCo-Founder & Director: Sam Wadsworth, PhD (https://www.linkedin.com/in/samwadsworth)\nCSO: Simon Beyer (https://www.linkedin.com/in/simon-beyer)",
+    "shortBlurb": "3D bioprinting company creating human tissues on demand. Raised $200M+ including $115M Series B in 2025 led by Dimension. 50%+ women on team."
+  },
+  {
+    "id": "1f1c6f79-9a33-818a-8d2f-f6800062366a",
+    "linkedin": "https://www.linkedin.com/company/terramera-inc-",
+    "yearFounded": 2010,
+    "keyPeople": "Founder & CEO: Dr. Karn Manhas (https://www.linkedin.com/in/karnmanhas) - MD from UBC, Serial entrepreneur\nChief Commercial Officer: Steve Cox (https://www.linkedin.com/in/steve-cox-terramera)\nHead of Digital: Shane Thomas (https://www.linkedin.com/in/shanethomas1)\nAdvisors include former Monsanto executives",
+    "shortBlurb": "AgTech company using AI to unlock plant intelligence and reduce synthetic pesticide use by 80%. Raised $100M+ from Ospraie Ag Science and others."
+  },
+  {
+    "id": "23dc6f79-9a33-81f5-abff-db667664844c",
+    "linkedin": "https://www.linkedin.com/company/lumen5",
+    "yearFounded": 2016,
+    "keyPeople": "Co-Founder & CEO: Chris Bowal (https://www.linkedin.com/in/chrisbowal) - Previously at Picatic (acquired by Eventbrite)\nCo-Founder & CTO: Michael Cheng (https://www.linkedin.com/in/michaelcheng604) - Engineering from UBC\nVP Engineering: Nick Chow (https://www.linkedin.com/in/nickchow)",
+    "shortBlurb": "AI-powered video creation platform with 1M+ users. Raised $30M+ including $18M Series B in 2022 from Bessemer and Salesforce Ventures."
+  },
+  {
+    "id": "23fc6f79-9a33-8192-9d2f-e1c3d5f4a2a9",
+    "linkedin": "https://www.linkedin.com/company/dapperlabs",
+    "yearFounded": 2018,
+    "keyPeople": "Founder & CEO: Roham Gharegozlou (https://www.linkedin.com/in/roham) - Stanford MBA, founded Axiom Zen\nCTO & Chief Architect: Dieter Shirley (https://www.linkedin.com/in/dete) - Creator of ERC-721 NFT standard\nChief Business Officer: Mik Naayem (https://www.linkedin.com/in/mik-naayem)",
+    "shortBlurb": "Creator of Flow blockchain and NBA Top Shot. Raised $725M+ at $7.6B valuation (2021) from Coatue, a16z, Google Ventures. NBA Top Shot: $1B+ in sales."
+  },
+  {
+    "id": "23fc6f79-9a33-8131-83d7-ecc0684531fd",
+    "linkedin": "https://www.linkedin.com/company/kardium-inc",
+    "yearFounded": 2015,
+    "keyPeople": "CEO: Kevin Chaplin (https://www.linkedin.com/in/kevinchaplin) - 20+ years in medical devices\nFounder & Medical Director: Dr. Matthew Bennett - Cardiac electrophysiologist",
+    "shortBlurb": "Digital health company developing AI solutions for cardiac arrhythmia. Health Canada approved Globe® Mapping System. Raised $25M+ from BDC Capital."
+  },
+  {
+    "id": "23dc6f79-9a33-810b-8702-cb15089b5edc",
+    "linkedin": "https://www.linkedin.com/company/metaoptima-technology-inc",
+    "yearFounded": 2012,
+    "keyPeople": "Co-Founder & CEO: Dr. Maryam Sadeghi (https://www.linkedin.com/in/maryam-sadeghi) - PhD in Computing Science, SFU\nCo-Founder & CTO: Majid Razmara (https://www.linkedin.com/in/majidrazmara)",
+    "shortBlurb": "AI-powered dermatology platform for skin cancer detection. DermEngine used in 500+ clinics worldwide. Raised $15M+ from Madrona Venture Group."
+  }
+]

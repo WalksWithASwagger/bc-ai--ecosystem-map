@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-08-03T08:30:06.147Z",
+  "companiesUpdated": 4,
+  "totalFieldsUpdated": 18,
+  "logs": [
+    {
+      "company": "Denologix",
+      "timestamp": "2025-08-03T08:29:51.416Z",
+      "updates": {
+        "revenue": "$2.4M annual revenue (2024)",
+        "funding": "Bootstrapped (no external funding)",
+        "employeeCount": "25 employees",
+        "yearFounded": 2002,
+        "shortBlurb": "IT consulting and outsourcing company with expertise in data management, advanced analytics, machine learning and AI. Bootstrapped to 100+ customers.",
+        "location": "Toronto, Canada (not Vancouver)"
+      },
+      "result": {
+        "success": true,
+        "fieldsUpdated": 5
+      }
+    },
+    {
+      "company": "Youneeq",
+      "timestamp": "2025-08-03T08:30:01.945Z",
+      "updates": {
+        "funding": "$250K Incubator/Accelerator funding (November 2023)\n\nInvestor: L'Oreal Open Innovation Challenge",
+        "yearFounded": 2014,
+        "keyPeople": "Murray Galbraith (Founder & CEO)",
+        "shortBlurb": "AI-powered cookieless personalization platform for e-commerce. Served over 1 billion personalized experiences. RC365 bought exclusive UK rights in August 2023.",
+        "location": "Victoria, BC"
+      },
+      "result": {
+        "success": true,
+        "fieldsUpdated": 4
+      }
+    },
+    {
+      "company": "Silo AI Vancouver",
+      "timestamp": "2025-08-03T08:30:03.503Z",
+      "updates": {
+        "funding": "Acquired by AMD for $665M (August 2024)",
+        "employeeCount": "300 employees globally (50% with PhDs)",
+        "shortBlurb": "Europe's largest private AI lab expanded to Vancouver in 2023 with 10+ person team. Acquired by AMD in August 2024 for $665M. Clients included Allianz, Philips, Rolls-Royce.",
+        "keyPeople": "Peter Sarlin (CEO & Co-founder), Team joined AMD AI Group under Vamsi Boppana"
+      },
+      "result": {
+        "success": true,
+        "fieldsUpdated": 4
+      }
+    },
+    {
+      "company": "Leasey.AI",
+      "timestamp": "2025-08-03T08:30:05.147Z",
+      "updates": {
+        "funding": "$100K CAD from DMZ Ventures (June 2024)\n\nPre-seed round",
+        "yearFounded": 2020,
+        "keyPeople": "Juan Leal (Co-founder & CEO)",
+        "shortBlurb": "Property management software that automates 90% of leasing tasks. Won $100K at DMZ Insiders event. Integrated with Zillow in August 2024. Addresses 50% understaffing in property management.",
+        "website": "https://www.leasey.ai/",
+        "address": "2490 Birch Street, Vancouver"
+      },
+      "result": {
+        "success": true,
+        "fieldsUpdated": 5
+      }
+    }
+  ]
+}

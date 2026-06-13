@@ -1,0 +1,708 @@
+{
+  "timestamp": "2025-08-03T08:42:43.906Z",
+  "project": "BC AI Ecosystem Expansion Import",
+  "summary": {
+    "totalCompanies": 100,
+    "companiesImported": 0,
+    "companiesSkipped": 40,
+    "categoriesProcessed": 10,
+    "errors": [
+      {
+        "company": "D-Wave",
+        "category": "Scale-ups & Unicorns",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Variational.ai",
+        "category": "Generative AI & Development Tools",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Railtown.ai",
+        "category": "Generative AI & Development Tools",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Wisr AI",
+        "category": "Generative AI & Development Tools",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "SceneBox",
+        "category": "Generative AI & Development Tools",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Spade",
+        "category": "Generative AI & Development Tools",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Taloflow",
+        "category": "Generative AI & Development Tools",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Metaspectral",
+        "category": "Generative AI & Development Tools",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Notch Therapeutics",
+        "category": "Health & Life Sciences AI",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Genevant Sciences",
+        "category": "Health & Life Sciences AI",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Recon Health",
+        "category": "Health & Life Sciences AI",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Ladybug Robotics",
+        "category": "Climate, Cleantech & Agriculture AI",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Ecoation",
+        "category": "Climate, Cleantech & Agriculture AI",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "3vGeomatics",
+        "category": "Climate, Cleantech & Agriculture AI",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Hydra Energy",
+        "category": "Climate, Cleantech & Agriculture AI",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "A&K Robotics",
+        "category": "Robotics, Spatial Computing & Hardware",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "InDro Robotics",
+        "category": "Robotics, Spatial Computing & Hardware",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Human-in-Motion",
+        "category": "Robotics, Spatial Computing & Hardware",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "IRIS Dynamics",
+        "category": "Robotics, Spatial Computing & Hardware",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Clarius Sonics",
+        "category": "Robotics, Spatial Computing & Hardware",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "AVA Reality",
+        "category": "Robotics, Spatial Computing & Hardware",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Glidance",
+        "category": "Robotics, Spatial Computing & Hardware",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Volutric Camera Systems",
+        "category": "Robotics, Spatial Computing & Hardware",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Futureproof Creatives",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Lantern Lab Society",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Intergalactic Art Lab",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "AutoLoom",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Combo Vision",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Teleport Engine",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "MyLog",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Coast Salish GAN",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Nirvana Conscious Tech",
+        "category": "Creative Technology & Media",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "LayerZero Labs",
+        "category": "FinTech, DeFi & Digital Identity",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Levr.ai",
+        "category": "FinTech, DeFi & Digital Identity",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "FISPAN",
+        "category": "FinTech, DeFi & Digital Identity",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Wealthica",
+        "category": "FinTech, DeFi & Digital Identity",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "WonderFi",
+        "category": "FinTech, DeFi & Digital Identity",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "D3 Intelligence",
+        "category": "FinTech, DeFi & Digital Identity",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Tracesafe",
+        "category": "FinTech, DeFi & Digital Identity",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Borderless AI",
+        "category": "FinTech, DeFi & Digital Identity",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "NuData Security",
+        "category": "Security, Trust & Compliance",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "D3 Security",
+        "category": "Security, Trust & Compliance",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Darkvision",
+        "category": "Security, Trust & Compliance",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Seekintoo",
+        "category": "Security, Trust & Compliance",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Cryptosense BC",
+        "category": "Security, Trust & Compliance",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Sanction Scanner CA",
+        "category": "Security, Trust & Compliance",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "SafeHeron Labs",
+        "category": "Security, Trust & Compliance",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Wisr AI (cyber)",
+        "category": "Security, Trust & Compliance",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Rise People",
+        "category": "Education, HR & People Operations",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Practica AI",
+        "category": "Education, HR & People Operations",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "SkillsFlow",
+        "category": "Education, HR & People Operations",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "SpringboardVR BC",
+        "category": "Education, HR & People Operations",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Mentorly West",
+        "category": "Education, HR & People Operations",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Skillhat BC",
+        "category": "Education, HR & People Operations",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "TalentMinded AI",
+        "category": "Education, HR & People Operations",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Borderless AI",
+        "category": "Education, HR & People Operations",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "BC AI Ecosystem",
+        "category": "Ecosystem Organizations & Accelerators",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "BC Tech AI C-Council",
+        "category": "Ecosystem Organizations & Accelerators",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "Creative Destruction Lab-West",
+        "category": "Ecosystem Organizations & Accelerators",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      },
+      {
+        "company": "UBC Emerging Media Lab",
+        "category": "Ecosystem Organizations & Accelerators",
+        "error": "Location is not a property that exists. Government Tier is not a property that exists."
+      }
+    ],
+    "importedCompanies": [],
+    "skippedCompanies": [
+      "AbCellera",
+      "Sanctuary AI",
+      "Clio",
+      "Visier",
+      "Copperleaf",
+      "Trulioo",
+      "Hootsuite",
+      "Dapper Labs",
+      "1QBit",
+      "Copilot AI",
+      "Charli AI",
+      "Unbounce",
+      "MetaOptima",
+      "Clarius Mobile Health",
+      "Precision OS",
+      "Aspect Biosystems",
+      "Zymeworks",
+      "Acuitas Therapeutics",
+      "Xenon Pharma",
+      "Terramera",
+      "Semios",
+      "MineSense",
+      "Verdi",
+      "Clir Renewables",
+      "Carbon Engineering",
+      "LlamaZOO",
+      "Nexera Robotics",
+      "Metacreation Lab",
+      "Mogo",
+      "ZenHub Fin",
+      "Echosec Systems",
+      "Cmd Security",
+      "Thinkific",
+      "Finn AI",
+      "AInBC",
+      "DigiBC",
+      "Launch Academy",
+      "VentureLabs",
+      "Circle Innovation",
+      "Innovate BC Ignite"
+    ]
+  },
+  "importDetails": {
+    "totalProcessed": 100,
+    "successfulImports": 0,
+    "skippedExisting": 40,
+    "categoriesProcessed": 10,
+    "errorCount": 60,
+    "successRate": "0.0"
+  },
+  "importedCompanies": [],
+  "skippedCompanies": [
+    "AbCellera",
+    "Sanctuary AI",
+    "Clio",
+    "Visier",
+    "Copperleaf",
+    "Trulioo",
+    "Hootsuite",
+    "Dapper Labs",
+    "1QBit",
+    "Copilot AI",
+    "Charli AI",
+    "Unbounce",
+    "MetaOptima",
+    "Clarius Mobile Health",
+    "Precision OS",
+    "Aspect Biosystems",
+    "Zymeworks",
+    "Acuitas Therapeutics",
+    "Xenon Pharma",
+    "Terramera",
+    "Semios",
+    "MineSense",
+    "Verdi",
+    "Clir Renewables",
+    "Carbon Engineering",
+    "LlamaZOO",
+    "Nexera Robotics",
+    "Metacreation Lab",
+    "Mogo",
+    "ZenHub Fin",
+    "Echosec Systems",
+    "Cmd Security",
+    "Thinkific",
+    "Finn AI",
+    "AInBC",
+    "DigiBC",
+    "Launch Academy",
+    "VentureLabs",
+    "Circle Innovation",
+    "Innovate BC Ignite"
+  ],
+  "errors": [
+    {
+      "company": "D-Wave",
+      "category": "Scale-ups & Unicorns",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Variational.ai",
+      "category": "Generative AI & Development Tools",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Railtown.ai",
+      "category": "Generative AI & Development Tools",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Wisr AI",
+      "category": "Generative AI & Development Tools",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "SceneBox",
+      "category": "Generative AI & Development Tools",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Spade",
+      "category": "Generative AI & Development Tools",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Taloflow",
+      "category": "Generative AI & Development Tools",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Metaspectral",
+      "category": "Generative AI & Development Tools",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Notch Therapeutics",
+      "category": "Health & Life Sciences AI",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Genevant Sciences",
+      "category": "Health & Life Sciences AI",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Recon Health",
+      "category": "Health & Life Sciences AI",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Ladybug Robotics",
+      "category": "Climate, Cleantech & Agriculture AI",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Ecoation",
+      "category": "Climate, Cleantech & Agriculture AI",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "3vGeomatics",
+      "category": "Climate, Cleantech & Agriculture AI",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Hydra Energy",
+      "category": "Climate, Cleantech & Agriculture AI",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "A&K Robotics",
+      "category": "Robotics, Spatial Computing & Hardware",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "InDro Robotics",
+      "category": "Robotics, Spatial Computing & Hardware",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Human-in-Motion",
+      "category": "Robotics, Spatial Computing & Hardware",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "IRIS Dynamics",
+      "category": "Robotics, Spatial Computing & Hardware",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Clarius Sonics",
+      "category": "Robotics, Spatial Computing & Hardware",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "AVA Reality",
+      "category": "Robotics, Spatial Computing & Hardware",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Glidance",
+      "category": "Robotics, Spatial Computing & Hardware",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Volutric Camera Systems",
+      "category": "Robotics, Spatial Computing & Hardware",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Futureproof Creatives",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Lantern Lab Society",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Intergalactic Art Lab",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "AutoLoom",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Combo Vision",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Teleport Engine",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "MyLog",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Coast Salish GAN",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Nirvana Conscious Tech",
+      "category": "Creative Technology & Media",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "LayerZero Labs",
+      "category": "FinTech, DeFi & Digital Identity",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Levr.ai",
+      "category": "FinTech, DeFi & Digital Identity",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "FISPAN",
+      "category": "FinTech, DeFi & Digital Identity",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Wealthica",
+      "category": "FinTech, DeFi & Digital Identity",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "WonderFi",
+      "category": "FinTech, DeFi & Digital Identity",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "D3 Intelligence",
+      "category": "FinTech, DeFi & Digital Identity",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Tracesafe",
+      "category": "FinTech, DeFi & Digital Identity",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Borderless AI",
+      "category": "FinTech, DeFi & Digital Identity",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "NuData Security",
+      "category": "Security, Trust & Compliance",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "D3 Security",
+      "category": "Security, Trust & Compliance",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Darkvision",
+      "category": "Security, Trust & Compliance",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Seekintoo",
+      "category": "Security, Trust & Compliance",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Cryptosense BC",
+      "category": "Security, Trust & Compliance",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Sanction Scanner CA",
+      "category": "Security, Trust & Compliance",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "SafeHeron Labs",
+      "category": "Security, Trust & Compliance",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Wisr AI (cyber)",
+      "category": "Security, Trust & Compliance",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Rise People",
+      "category": "Education, HR & People Operations",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Practica AI",
+      "category": "Education, HR & People Operations",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "SkillsFlow",
+      "category": "Education, HR & People Operations",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "SpringboardVR BC",
+      "category": "Education, HR & People Operations",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Mentorly West",
+      "category": "Education, HR & People Operations",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Skillhat BC",
+      "category": "Education, HR & People Operations",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "TalentMinded AI",
+      "category": "Education, HR & People Operations",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Borderless AI",
+      "category": "Education, HR & People Operations",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "BC AI Ecosystem",
+      "category": "Ecosystem Organizations & Accelerators",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "BC Tech AI C-Council",
+      "category": "Ecosystem Organizations & Accelerators",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "Creative Destruction Lab-West",
+      "category": "Ecosystem Organizations & Accelerators",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    },
+    {
+      "company": "UBC Emerging Media Lab",
+      "category": "Ecosystem Organizations & Accelerators",
+      "error": "Location is not a property that exists. Government Tier is not a property that exists."
+    }
+  ]
+}

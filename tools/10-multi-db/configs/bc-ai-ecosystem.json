@@ -1,0 +1,86 @@
+{
+  "id": "bc-ai-ecosystem",
+  "name": "BC AI Ecosystem",
+  "type": "ecosystem",
+  "description": "British Columbia AI and tech ecosystem mapping with comprehensive research pipelines",
+  "createdAt": "2025-08-04T22:01:37.348Z",
+  "status": "active",
+  "dataSources": {
+    "notion": {
+      "databaseId": "",
+      "tokenEnvVar": "NOTION_TOKEN_BC-AI-ECOSYSTEM"
+    }
+  },
+  "pipelines": {
+    "discovery": {
+      "enabled": true,
+      "frequency": "daily"
+    },
+    "enrichment": {
+      "enabled": true,
+      "frequency": "weekly"
+    },
+    "funding": {
+      "enabled": false,
+      "frequency": "daily"
+    },
+    "competitive": {
+      "enabled": true,
+      "frequency": "weekly"
+    },
+    "temporal": {
+      "enabled": true
+    }
+  },
+  "schema": {
+    "entities": [
+      "company",
+      "investor",
+      "person",
+      "product"
+    ],
+    "relationships": [
+      "funded_by",
+      "employs",
+      "partnered_with",
+      "developed"
+    ],
+    "properties": {
+      "company": [
+        "name",
+        "sector",
+        "location",
+        "founded",
+        "size",
+        "website"
+      ],
+      "investor": [
+        "name",
+        "type",
+        "focus",
+        "location",
+        "aum"
+      ],
+      "person": [
+        "name",
+        "role",
+        "company",
+        "linkedin"
+      ],
+      "product": [
+        "name",
+        "company",
+        "category",
+        "launch_date"
+      ]
+    }
+  },
+  "paths": {
+    "root": "/Users/kk/ecosystem-map-bc-ai/data/projects/bc-ai-ecosystem",
+    "data": "/Users/kk/ecosystem-map-bc-ai/data/projects/bc-ai-ecosystem/data",
+    "logs": "/Users/kk/ecosystem-map-bc-ai/data/projects/bc-ai-ecosystem/logs",
+    "reports": "/Users/kk/ecosystem-map-bc-ai/data/projects/bc-ai-ecosystem/reports",
+    "discoveries": "/Users/kk/ecosystem-map-bc-ai/data/projects/bc-ai-ecosystem/discoveries",
+    "temporalKg": "/Users/kk/ecosystem-map-bc-ai/data/projects/bc-ai-ecosystem/data/temporal-kg"
+  }
+}

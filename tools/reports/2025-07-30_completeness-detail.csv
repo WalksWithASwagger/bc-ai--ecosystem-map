@@ -1,0 +1,666 @@
+Name,URL,Website,LinkedIn,Email,Phone,City/Region,BC Region,Category,AI Focus Areas,Year Founded,Size,Short Blurb,Key People,Latitude,Longitude,Logo,PercentComplete
+"QuantumSense","https://www.notion.so/QuantumSense-240c6f799a338164ae8fc5fc4c6a1706",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"WasteFlow Technologies","https://www.notion.so/WasteFlow-Technologies-240c6f799a3381cd8799fc7da9d386c3",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"CreatorFlow Media","https://www.notion.so/CreatorFlow-Media-240c6f799a33819ea248e22edbb93c51",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"DataMesh Analytics","https://www.notion.so/DataMesh-Analytics-240c6f799a33819e9298c78c8f48bbfa",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"EnergyFlow Dynamics","https://www.notion.so/EnergyFlow-Dynamics-240c6f799a3381a68ae9f512f35b186e",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"SecureChain Labs","https://www.notion.so/SecureChain-Labs-240c6f799a33818fb495d05e80c45a92",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"GameFlow Studios","https://www.notion.so/GameFlow-Studios-240c6f799a3381bf9969fe3f53276a5e",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"AgriTech Innovations","https://www.notion.so/AgriTech-Innovations-240c6f799a3381b8ae2ddeca281e0ec9",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"SpaceLink Communications","https://www.notion.so/SpaceLink-Communications-240c6f799a3381c0a856f5f5f11ab0fb",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"HealthGraph AI","https://www.notion.so/HealthGraph-AI-240c6f799a338138b70ed83f06c26e73",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"Ocean Robotics Dynamics","https://www.notion.so/Ocean-Robotics-Dynamics-240c6f799a3381c4b7cac0a5d07cba35",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"FinFlow Systems","https://www.notion.so/FinFlow-Systems-240c6f799a33812eb9ffc028732a23cb",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"Immersive Learning Labs","https://www.notion.so/Immersive-Learning-Labs-240c6f799a3381efa69ac0ff825b71be",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"CarbonFlow","https://www.notion.so/CarbonFlow-240c6f799a338186a8afeb60ac16378c",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"PropFlow AI","https://www.notion.so/PropFlow-AI-240c6f799a33817fbae8f0849b8d4803",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"Neural Therapeutics","https://www.notion.so/Neural-Therapeutics-240c6f799a3381fe9739ddab03f47139",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"CleanGrid Systems","https://www.notion.so/CleanGrid-Systems-240c6f799a3381eca228ca7bb98d746e",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"BioSynth Technologies","https://www.notion.so/BioSynth-Technologies-240c6f799a338107bfd8f0dd9bb05e84",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"Quantum Dynamics","https://www.notion.so/Quantum-Dynamics-240c6f799a3381919813f6d0e3488fd6",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"Nexus AI Labs","https://www.notion.so/Nexus-AI-Labs-240c6f799a3381cda249d3f59fc8309d",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,13
+"SkyAcres","https://www.notion.so/SkyAcres-23fc6f799a33811bb373ec277010dbd9",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,13
+"Stellantis LG Energy Solution BC","https://www.notion.so/Stellantis-LG-Energy-Solution-BC-23fc6f799a33815a9713def1a495e575",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,13
+"Flento","https://www.notion.so/Flento-23fc6f799a338163b381f20d468c5831",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,13
+"Abundant Intelligences","https://www.notion.so/Abundant-Intelligences-23fc6f799a3381f5ac1ce2d39d8e2afd",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,13
+"City of Richmond AI Strategy","https://www.notion.so/City-of-Richmond-AI-Strategy-23fc6f799a3381509eeaf8d3d206b6b8",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"City of Surrey AI Initiative","https://www.notion.so/City-of-Surrey-AI-Initiative-23fc6f799a3381029150faf5dc3126da",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"BC AI Assist Program","https://www.notion.so/BC-AI-Assist-Program-23fc6f799a33817f9effd3cfefab274a",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"BC Regional AI Initiative","https://www.notion.so/BC-Regional-AI-Initiative-23fc6f799a3381619022db94c076be74",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"DigiBC Creative Technology Association","https://www.notion.so/DigiBC-Creative-Technology-Association-23fc6f799a3381538746ee1da8fadb29",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"BC Regional AI Initiative Recipients","https://www.notion.so/BC-Regional-AI-Initiative-Recipients-23fc6f799a33819bac0fd316a92b8c07",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"Microsoft Canada AI Hub","https://www.notion.so/Microsoft-Canada-AI-Hub-23fc6f799a3381be9128e260cb998df9",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"AI Network of British Columbia","https://www.notion.so/AI-Network-of-British-Columbia-23fc6f799a338181b0d0d1f15d6fea41",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"VAG AI Imitation Game Program","https://www.notion.so/VAG-AI-Imitation-Game-Program-23fc6f799a33819c9509c69697a06631",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"DigiBC Signals Program","https://www.notion.so/DigiBC-Signals-Program-23fc6f799a33816097c7e88be6c2cc38",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"Stellar Code Lab","https://www.notion.so/Stellar-Code-Lab-23fc6f799a3381d98f76c5cf99a45e14",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"SFU Metacreation Lab for Creative AI","https://www.notion.so/SFU-Metacreation-Lab-for-Creative-AI-23fc6f799a33812a8213de318d6dfb1a",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"Artificial Muse Music AI Residency","https://www.notion.so/Artificial-Muse-Music-AI-Residency-23fc6f799a3381ea96e4c920b4f5e0b2",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"ICCSMLAI Vancouver Sports Track","https://www.notion.so/ICCSMLAI-Vancouver-Sports-Track-23fc6f799a3381eaa212d090b77e7270",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"FLAIR BC Initiative","https://www.notion.so/FLAIR-BC-Initiative-23fc6f799a338105972af5291ba9504e",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"UBC Kwak'wala AI Immersion Project","https://www.notion.so/UBC-Kwak-wala-AI-Immersion-Project-23fc6f799a3381a0a2d6fce118349c76",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"Indigenous Protocol and AI Working Group","https://www.notion.so/Indigenous-Protocol-and-AI-Working-Group-23fc6f799a33811e9b3ae74d7e2a374b",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"NEXT AI BC Companies","https://www.notion.so/NEXT-AI-BC-Companies-23fc6f799a3381f38f71f47fe1bd53e8",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"Scale AI BC Recipients","https://www.notion.so/Scale-AI-BC-Recipients-23fc6f799a3381bb99b4e06406856531",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"DigiBC Creative AI Members","https://www.notion.so/DigiBC-Creative-AI-Members-23fc6f799a338193b79be19e18cc35c2",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"DigiBC Signals AI Showcase","https://www.notion.so/DigiBC-Signals-AI-Showcase-23fc6f799a3381398c2de340278f023e",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"RAII Grant Recipients 2025","https://www.notion.so/RAII-Grant-Recipients-2025-23fc6f799a3381e8bb83d81f112e5580",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"BC Fast Pilot AI Projects","https://www.notion.so/BC-Fast-Pilot-AI-Projects-23fc6f799a33818eb964da7b9a50ada9",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"Circle Innovation Vancouver AI Community","https://www.notion.so/Circle-Innovation-Vancouver-AI-Community-23fc6f799a3381d6aafcf1e7f3d18b2c",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,20
+"Shape Immersive","https://www.notion.so/Shape-Immersive-23fc6f799a338146a3edfb5d2725cb1a",0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,20
+"Simform","https://www.notion.so/Simform-23fc6f799a338187b774d56056ed01a6",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,20
+"Riverlane Solutions","https://www.notion.so/Riverlane-Solutions-240c6f799a33812eafb8e60854815e73",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,27
+"Motive.io","https://www.notion.so/Motive-io-240c6f799a33812bbd95d51e2be18fb3",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,27
+"Payfirma","https://www.notion.so/Payfirma-240c6f799a3381cf961fc98d19bb195a",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,27
+"Archiact","https://www.notion.so/Archiact-240c6f799a3381bda04cfac254358e1d",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,27
+"Finger Food Studios","https://www.notion.so/Finger-Food-Studios-240c6f799a33819d9e58f7e640777abb",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,27
+"Traction on Demand","https://www.notion.so/Traction-on-Demand-240c6f799a33817d9849e58177aa0b05",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,27
+"General Fusion","https://www.notion.so/General-Fusion-240c6f799a338162b62fcdf2fd4815eb",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,27
+"Excelar Technologies","https://www.notion.so/Excelar-Technologies-23fc6f799a3381f2aa7df41a2157ffd8",1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,27
+"Service BC AI Search Platform","https://www.notion.so/Service-BC-AI-Search-Platform-23fc6f799a33819d9938cdac0c303ac4",1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,27
+"BC Wildfire Service AI Analytics","https://www.notion.so/BC-Wildfire-Service-AI-Analytics-23fc6f799a33814994d4e6e6bce9d31e",1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,27
+"BC AI Refugee Integration Platform","https://www.notion.so/BC-AI-Refugee-Integration-Platform-23fc6f799a3381819afbd64b7a742f5b",1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,27
+"Plantiga","https://www.notion.so/Plantiga-23fc6f799a3381a8b297c6d626afaa49",0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,27
+"Meton AI","https://www.notion.so/Meton-AI-23fc6f799a3381028af8d81b632dbd61",0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,27
+"CDL Vancouver","https://www.notion.so/CDL-Vancouver-23fc6f799a3381e49815c524beb0dc4f",0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,27
+"Artificial Intelligence Underwriting Company (AIUC)","https://www.notion.so/Artificial-Intelligence-Underwriting-Company-AIUC-23fc6f799a338136a529e1fac7d2ffdb",0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,27
+"Thales Canada","https://www.notion.so/Thales-Canada-23fc6f799a33812e8d33e1d12d22e597",0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,27
+"Mobcoder","https://www.notion.so/Mobcoder-23fc6f799a3381f1b25bc6c89fa72a2e",0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,27
+"Fujitsu Intelligence Technology","https://www.notion.so/Fujitsu-Intelligence-Technology-23fc6f799a33813ebae0e6aaa88cdace",0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,27
+"Cloudburst Research","https://www.notion.so/Cloudburst-Research-23fc6f799a3381c494dfc4c7dab42d20",0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,27
+"CloudMD Software & Services Inc","https://www.notion.so/CloudMD-Software-Services-Inc-240c6f799a3381edba45e7c0b2cebc9d",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Qu Biologics Inc","https://www.notion.so/Qu-Biologics-Inc-240c6f799a338135ab6de3e9cec8aa44",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"WELL Health Technologies Corp","https://www.notion.so/WELL-Health-Technologies-Corp-240c6f799a3381bbb332f9256c0e375d",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Arbutus Biopharma Corporation","https://www.notion.so/Arbutus-Biopharma-Corporation-240c6f799a3381b6a25ded3eb34e3999",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Pocketed","https://www.notion.so/Pocketed-240c6f799a33812d855efcdc6b8fd2a7",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Kater Technologies","https://www.notion.so/Kater-Technologies-240c6f799a3381c49318dceb67b2e8eb",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Westport Fuel Systems Inc.","https://www.notion.so/Westport-Fuel-Systems-Inc-240c6f799a338131b5d9d295a807569a",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Roomvu","https://www.notion.so/Roomvu-240c6f799a3381f8a233e058f123e090",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Moment Energy","https://www.notion.so/Moment-Energy-240c6f799a3381abbf6dc52d754a254d",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Phaidra","https://www.notion.so/Phaidra-240c6f799a33812192e4d72a2527ab5e",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"ZenHub","https://www.notion.so/ZenHub-240c6f799a33813e810af19fccb08754",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Lendesk Technologies","https://www.notion.so/Lendesk-Technologies-240c6f799a3381168597f5daba437243",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"1QB Information Technologies","https://www.notion.so/1QB-Information-Technologies-240c6f799a33815db0ebde5ce56f9860",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Canalyst","https://www.notion.so/Canalyst-240c6f799a338190802ce456a870875b",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Tasktop Technologies","https://www.notion.so/Tasktop-Technologies-240c6f799a338196ac68cf2d703f5727",0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,33
+"Narval Energy Inc.","https://www.notion.so/Narval-Energy-Inc-240c6f799a3381d4bf20cc38b1b3f705",0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,33
+"Ocean AID","https://www.notion.so/Ocean-AID-240c6f799a33813fb059dd0b4fb7ad2e",0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,33
+"ChildCare Services BC AI Platform","https://www.notion.so/ChildCare-Services-BC-AI-Platform-23fc6f799a33815bb33af8403797ca98",1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,33
+"Athletica","https://www.notion.so/Athletica-23fc6f799a338182a2bbe940ec42bd56",0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,33
+"Applied AI Research Association (AAIRA)","https://www.notion.so/Applied-AI-Research-Association-AAIRA-23fc6f799a3381929eccd2311757a9c0",0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,33
+"First Nations Health Authority Digital Health","https://www.notion.so/First-Nations-Health-Authority-Digital-Health-23fc6f799a3381e9be87fb3703a2bda6",0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,33
+"Toonie","https://www.notion.so/Toonie-23fc6f799a3381f09a80df0e820af991",0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,33
+"Fraser Surrey Docks AI Operations","https://www.notion.so/Fraser-Surrey-Docks-AI-Operations-23fc6f799a33818787a0e2fc29fe2b80",0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,33
+"Tourism Industry Association of BC AI Workshop","https://www.notion.so/Tourism-Industry-Association-of-BC-AI-Workshop-23fc6f799a338107b9fcf5a64dfff25c",0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,33
+"Canadian Artificial Intelligence Safety Institute","https://www.notion.so/Canadian-Artificial-Intelligence-Safety-Institute-23fc6f799a33810f946fe616ddcadbf3",0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,33
+"Consortium for Aerospace Research and Innovation in Canada","https://www.notion.so/Consortium-for-Aerospace-Research-and-Innovation-in-Canada-23fc6f799a3381d28844c496a747ba14",0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,33
+"entrepreneurship@UBC Accelerate","https://www.notion.so/entrepreneurship-UBC-Accelerate-23fc6f799a3381a1b8a1f1d03e3edd3e",0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,33
+"Unblocked","https://www.notion.so/Unblocked-23fc6f799a338106a9bae2a72d3ad82f",0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,33
+"Defang","https://www.notion.so/Defang-23fc6f799a3381c6ac32fb6864bcec70",0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,33
+"Fintel Connect","https://www.notion.so/Fintel-Connect-23fc6f799a3381f3a6b9d9a142798c61",0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,33
+"SandboxAQ (Good Chemistry Acquisition)","https://www.notion.so/SandboxAQ-Good-Chemistry-Acquisition-23fc6f799a3381a8991dfe1001776942",0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,33
+"Canexia Health (Imagia Canexia Health)","https://www.notion.so/Canexia-Health-Imagia-Canexia-Health-23fc6f799a338131b80ce9c8e945e5b1",0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,33
+"Vision Critical (Alida)","https://www.notion.so/Vision-Critical-Alida-23fc6f799a3381de890bfb2743bf0ad7",0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,33
+"UBC Artificial Intelligence Research Centre","https://www.notion.so/UBC-Artificial-Intelligence-Research-Centre-1f0c6f799a338153becdd9326b96ce91",0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,33
+"Open Source: BCLawData","https://www.notion.so/Open-Source-BCLawData-1f0c6f799a3381c89e1bf62c130b6294",0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,33
+"Investors: Frontier Collective","https://www.notion.so/Investors-Frontier-Collective-1f0c6f799a33812f84b5dc405db01701",0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,33
+"IAMGOLD Innovation","https://www.notion.so/IAMGOLD-Innovation-240c6f799a338165a23ac3f876a5eabf",1,0,0,0,1,1,1,0,1,0,1,0,0,0,0,40
+"HealthTech Connex","https://www.notion.so/HealthTech-Connex-240c6f799a338158aad6fcb1e569c6fd",1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,40
+"Rigid Robotics","https://www.notion.so/Rigid-Robotics-240c6f799a3381828bc9f503f5381116",1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,40
+"Boast AI","https://www.notion.so/Boast-AI-23fc6f799a33818aa6c0c5fe10727e6d",0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,40
+"UVic Coast Capital Innovation Centre","https://www.notion.so/UVic-Coast-Capital-Innovation-Centre-23fc6f799a33810ba152dc2b3d527836",0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,40
+"Adiabatic Quantum Computing Conference 2025","https://www.notion.so/Adiabatic-Quantum-Computing-Conference-2025-23fc6f799a3381ac9b55dfb79ba2c19e",0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,40
+"BC Cleantech CEO Alliance","https://www.notion.so/BC-Cleantech-CEO-Alliance-23fc6f799a33814d9beccb8dd4e28789",0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,40
+"Pano AI BC Operations","https://www.notion.so/Pano-AI-BC-Operations-23fc6f799a338125b009ff24fe1152a4",0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,40
+"Southern Cross Gold BC Operations","https://www.notion.so/Southern-Cross-Gold-BC-Operations-23fc6f799a3381628412d8a84c1490b8",0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,40
+"Farmonaut BC Operations","https://www.notion.so/Farmonaut-BC-Operations-23fc6f799a338192824fc7158b97b3b9",0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,40
+"Vancouver Fraser Port Authority Terminal 2","https://www.notion.so/Vancouver-Fraser-Port-Authority-Terminal-2-23fc6f799a338163834ece8f4720c21c",0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,40
+"BC Manufacturing Skills Initiative","https://www.notion.so/BC-Manufacturing-Skills-Initiative-23fc6f799a33810d940fd96d005343b0",0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,40
+"Tourism Innovation Lab","https://www.notion.so/Tourism-Innovation-Lab-23fc6f799a33812cbc32dc4543e5dbeb",0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,40
+"TourismTechBC","https://www.notion.so/TourismTechBC-23fc6f799a3381569dd6c0436688cdc4",0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,40
+"BC Data Centre AI Initiative","https://www.notion.so/BC-Data-Centre-AI-Initiative-23fc6f799a338103936ffeef0b0ba529",0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,40
+"BC Hydro Clean Power Action Plan","https://www.notion.so/BC-Hydro-Clean-Power-Action-Plan-23fc6f799a33810f8e31e291376efa32",0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,40
+"BC Aerospace Skills Gap Analysis Project","https://www.notion.so/BC-Aerospace-Skills-Gap-Analysis-Project-23fc6f799a3381a4a2a1fb6bda9e8bda",0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,40
+"BCIT Aerospace Technology Campus","https://www.notion.so/BCIT-Aerospace-Technology-Campus-23fc6f799a33816bbd10ce74a98aa8b4",0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,40
+"AQC 2025 Vancouver","https://www.notion.so/AQC-2025-Vancouver-23fc6f799a3381ba8f31e185f6a61b0a",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Tkmlps Development Corporation","https://www.notion.so/Tkmlps-Development-Corporation-23fc6f799a3381ada479e83389e0c5bf",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Northern Development Initiative Trust","https://www.notion.so/Northern-Development-Initiative-Trust-23fc6f799a3381bbb3f5c198a7286dbd",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"TRU Computer Science Department","https://www.notion.so/TRU-Computer-Science-Department-23fc6f799a3381c990b1f640c28b3f55",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"SFU Quantum Fabrication Centre","https://www.notion.so/SFU-Quantum-Fabrication-Centre-23fc6f799a3381a59195e3b513616d2f",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Quantum Matter Institute","https://www.notion.so/Quantum-Matter-Institute-23fc6f799a3381cebea4debfb07b86d4",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Quantum BC","https://www.notion.so/Quantum-BC-23fc6f799a33817a89f9cdecb69db268",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Indigenous Digital Equity Strategy BC","https://www.notion.so/Indigenous-Digital-Equity-Strategy-BC-23fc6f799a3381838a49fea9bc1e5815",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"FNHA Digital Health Division","https://www.notion.so/FNHA-Digital-Health-Division-23fc6f799a338162bb72ef4d6a74232b",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Yeti Farm Creative","https://www.notion.so/Yeti-Farm-Creative-23fc6f799a3381d59093ffd0ebd3d9ea",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Disney Interactive Studios Kelowna","https://www.notion.so/Disney-Interactive-Studios-Kelowna-23fc6f799a33811eb968f79df3179a71",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"QHR Technologies","https://www.notion.so/QHR-Technologies-23fc6f799a33813185a3ff4fd10b4d94",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"UVic AI and Machine Learning Lab","https://www.notion.so/UVic-AI-and-Machine-Learning-Lab-23fc6f799a3381a08250d4ce825204fd",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"BC Tech Association Hypergrowth","https://www.notion.so/BC-Tech-Association-Hypergrowth-23fc6f799a338131ad7af17dc181998b",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"SFU AI Research Group","https://www.notion.so/SFU-AI-Research-Group-23fc6f799a3381aa9b75dc1946d1162b",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"AI4Good Canada","https://www.notion.so/AI4Good-Canada-23fc6f799a33815aa777e845afc67c71",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Van AI Space","https://www.notion.so/Van-AI-Space-23fc6f799a3381288065c3ad16bc9129",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Vancouver AI Academy","https://www.notion.so/Vancouver-AI-Academy-23fc6f799a338179b7f7cbf2d7387352",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"AI Summit Vancouver 2025","https://www.notion.so/AI-Summit-Vancouver-2025-23fc6f799a3381808f2adc1a009a1c5e",0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,40
+"Hugo Inc","https://www.notion.so/Hugo-Inc-23fc6f799a3381df94fdcb462dd55bdf",1,1,0,0,0,0,1,0,1,0,0,0,1,1,0,40
+"Gaze AI","https://www.notion.so/Gaze-AI-23fc6f799a3381a08292f5bfad343bfd",0,1,0,0,0,0,1,0,1,1,0,0,1,1,0,40
+"Boreal Innovation Lab","https://www.notion.so/Boreal-Innovation-Lab-1f0c6f799a338195a829e7f36a33b783",0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,40
+"Media: BetaKit","https://www.notion.so/Media-BetaKit-1f0c6f799a33815f8867d9d0dd3f9e57",0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,40
+"AgriSense AI","https://www.notion.so/AgriSense-AI-240c6f799a338179b664d704cc4233b9",0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,47
+"Forest AI Systems","https://www.notion.so/Forest-AI-Systems-240c6f799a3381b4bd74f9abc62860cb",0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,47
+"Voltaiq Energy AI","https://www.notion.so/Voltaiq-Energy-AI-240c6f799a3381609418cff10e3c999e",0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,47
+"CRH Medical","https://www.notion.so/CRH-Medical-240c6f799a33810ab098d331992876f3",1,0,0,0,1,1,1,0,1,0,1,1,0,0,0,47
+"BCIT Xanadu Quantum Computing Program","https://www.notion.so/BCIT-Xanadu-Quantum-Computing-Program-23fc6f799a3381f0b59fff4000a394e5",0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,47
+"BC Tech Hypergrowth Program","https://www.notion.so/BC-Tech-Hypergrowth-Program-23fc6f799a3381f492c2ec65c0e08d42",0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,47
+"e@UBC Accelerate","https://www.notion.so/e-UBC-Accelerate-23fc6f799a3381d085e9c28ff3f782ca",0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,47
+"CICE AI Program","https://www.notion.so/CICE-AI-Program-23fc6f799a3381d488d4f40dd6e5157f",0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,47
+"SFU Artificial Intelligence Research Group","https://www.notion.so/SFU-Artificial-Intelligence-Research-Group-23fc6f799a33812dbe34f3974cee4ab8",0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,47
+"Thompson Rivers University Computer Science","https://www.notion.so/Thompson-Rivers-University-Computer-Science-23fc6f799a3381269330f12d98fbfc33",0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,47
+"University of Victoria AI and Machine Learning Lab","https://www.notion.so/University-of-Victoria-AI-and-Machine-Learning-Lab-23fc6f799a338180b520d7d06882bfcc",0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,47
+"UBC Biomedical Research Facility","https://www.notion.so/UBC-Biomedical-Research-Facility-23fc6f799a33816d8b8bccb2de125782",0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,47
+"CareConnect","https://www.notion.so/CareConnect-23fc6f799a3381128c19dc29c0fa82cd",0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,47
+"Evergrow","https://www.notion.so/Evergrow-23fc6f799a3381af970bcacdc52867b9",0,1,0,0,1,1,0,0,1,0,1,0,1,1,0,47
+"Rally Legal","https://www.notion.so/Rally-Legal-23fc6f799a3381589322c541c2875958",0,1,0,0,1,1,0,0,1,0,1,0,1,1,0,47
+"OceanWise","https://www.notion.so/OceanWise-23fc6f799a338112a610f27e2c6659b7",0,1,0,0,1,1,0,0,1,0,1,0,1,1,0,47
+"Vancouver PropTech Ecosystem","https://www.notion.so/Vancouver-PropTech-Ecosystem-23fc6f799a3381dab817f60850be7439",0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,47
+"ConstructAI","https://www.notion.so/ConstructAI-23fc6f799a338178a264cf1080d7a214",0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,47
+"BuildingOS","https://www.notion.so/BuildingOS-23fc6f799a338131a7aaec527c83d5bc",0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,47
+"Neptune Terminals AI Operations","https://www.notion.so/Neptune-Terminals-AI-Operations-23fc6f799a33811481cbfb32f74070f6",0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,47
+"RCAB Advanced Manufacturing Laboratory","https://www.notion.so/RCAB-Advanced-Manufacturing-Laboratory-23fc6f799a3381af831cdc94fc73ff56",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"BC Actuarial AI Society","https://www.notion.so/BC-Actuarial-AI-Society-23fc6f799a338194b0b2db7100986372",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"BC Financial AI Compliance Initiative","https://www.notion.so/BC-Financial-AI-Compliance-Initiative-23fc6f799a33818b9bb7f44434344d46",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"BC Clean Energy Innovation Program","https://www.notion.so/BC-Clean-Energy-Innovation-Program-23fc6f799a33811fb562da55cb3247bf",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"Stellantis LG Energy Solution BC Partnership","https://www.notion.so/Stellantis-LG-Energy-Solution-BC-Partnership-23fc6f799a338148881dc34f8a9d58ac",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"Government Cybersecurity Showcase BC","https://www.notion.so/Government-Cybersecurity-Showcase-BC-23fc6f799a3381cfbda7c09641bb4e05",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"BCIT Centre of Excellence for Aerospace","https://www.notion.so/BCIT-Centre-of-Excellence-for-Aerospace-23fc6f799a33817e9340e054334d746e",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"UNBC Computer Science Department","https://www.notion.so/UNBC-Computer-Science-Department-23fc6f799a3381f99f66e769aa7008d9",0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,47
+"Coast Capital Savings Innovation Centre","https://www.notion.so/Coast-Capital-Savings-Innovation-Centre-23fc6f799a3381fea266e15731bf1915",0,1,0,0,1,1,1,0,1,0,0,0,1,1,0,47
+"BCIT Applied Artificial Intelligence Program","https://www.notion.so/BCIT-Applied-Artificial-Intelligence-Program-23fc6f799a33813187e9d4863fddaf3a",0,1,0,0,1,1,1,0,0,0,1,0,1,1,0,47
+"Providence Health & IBM Centre for Heart Lung Innovation","https://www.notion.so/Providence-Health-IBM-Centre-for-Heart-Lung-Innovation-1f1c6f799a338134a2dce2f394f5db0f",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"WildlifeAI","https://www.notion.so/WildlifeAI-1f1c6f799a33812bad85c3272a1c507b",0,1,0,0,0,1,1,1,0,0,1,0,1,1,0,47
+"Bayes Studio","https://www.notion.so/Bayes-Studio-1f1c6f799a33813eb7e0f4510f9d395e",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"Pieoneers","https://www.notion.so/Pieoneers-1f1c6f799a338109b57fef1a32ba627e",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"Inoxoft","https://www.notion.so/Inoxoft-1f1c6f799a3381feb3a6d225759c9a4b",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"TELUS","https://www.notion.so/TELUS-1f1c6f799a3381e6bad9ec0e66ae4892",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"Victoria Data Society","https://www.notion.so/Victoria-Data-Society-1f0c6f799a3381e08acdd38e02381120",0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,47
+"Foresight Canada","https://www.notion.so/Foresight-Canada-1f0c6f799a3381e593b5d988f84c21d8",0,1,0,1,1,1,1,0,0,0,0,0,1,1,0,47
+"Accelerate Okanagan","https://www.notion.so/Accelerate-Okanagan-1f0c6f799a3381208011c9d40512fa2c",0,1,0,1,1,1,1,0,0,0,0,0,1,1,0,47
+"Life Sciences BC (LSBC)","https://www.notion.so/Life-Sciences-BC-LSBC-1f0c6f799a3381fb8860e5972ef35fda",1,1,0,1,1,0,1,0,0,0,0,0,1,1,0,47
+"Vancouver Robotics Club (VRC)","https://www.notion.so/Vancouver-Robotics-Club-VRC-1f0c6f799a338104a652fbd0214ff157",1,0,1,0,1,1,1,0,0,0,0,0,1,1,0,47
+"Web 3.0 Vancouver","https://www.notion.so/Web-3-0-Vancouver-1f0c6f799a3381ec8478f475659d3141",1,0,0,1,1,1,1,0,0,0,0,0,1,1,0,47
+"YVR Crypto Network","https://www.notion.so/YVR-Crypto-Network-1f0c6f799a3381c28546f9563605e1e8",1,0,0,1,1,1,1,0,0,0,0,0,1,1,0,47
+"Ethereum Vancouver (EthVan)","https://www.notion.so/Ethereum-Vancouver-EthVan-1f0c6f799a3381e485f2ca1c7fbb3903",1,0,0,1,1,1,1,0,0,0,0,0,1,1,0,47
+"GenAI & LLMs Developers","https://www.notion.so/GenAI-LLMs-Developers-1f0c6f799a3381c2b930ec1cd19e8bf4",1,0,0,1,1,1,1,0,0,0,0,0,1,1,0,47
+"BBTV Holdings","https://www.notion.so/BBTV-Holdings-240c6f799a3381d49f4ad3d6be9635b9",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Enterra Feed","https://www.notion.so/Enterra-Feed-240c6f799a3381df8269c0d2dbd6bd85",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Lucent BioSciences","https://www.notion.so/Lucent-BioSciences-240c6f799a3381938664e813026c04bf",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Eupraxia Pharmaceuticals","https://www.notion.so/Eupraxia-Pharmaceuticals-240c6f799a338195b80cd3ac7a6f2825",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Aurinia Pharmaceuticals","https://www.notion.so/Aurinia-Pharmaceuticals-240c6f799a33818aa526ca1621f97465",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Chimp","https://www.notion.so/Chimp-240c6f799a3381fcbfebf9c49eb55e64",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Reebee","https://www.notion.so/Reebee-240c6f799a33814b9233fbb143d64dc2",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Loop Energy","https://www.notion.so/Loop-Energy-240c6f799a3381aebd2cfa145e84bf0e",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Corvus Energy","https://www.notion.so/Corvus-Energy-240c6f799a338117944bf16f17371048",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Response Biomedical","https://www.notion.so/Response-Biomedical-240c6f799a3381e49425e8ea3ffbdba1",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Relic Entertainment","https://www.notion.so/Relic-Entertainment-240c6f799a338185b724cc5bfc9f81c9",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Phoenix Labs","https://www.notion.so/Phoenix-Labs-240c6f799a33813092b3de589fea8287",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Sendwithus","https://www.notion.so/Sendwithus-240c6f799a33815ab4e0f1ee3486b78e",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Bench Accounting","https://www.notion.so/Bench-Accounting-240c6f799a33810db29bef9ffb9b1448",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Kiind","https://www.notion.so/Kiind-240c6f799a338115a5e3eb4165862ca4",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Bron Studios","https://www.notion.so/Bron-Studios-240c6f799a338143b57bede5f466a398",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Thunderbird Entertainment","https://www.notion.so/Thunderbird-Entertainment-240c6f799a3381ffbe3fc7d7c97fc191",1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,53
+"Cohere Health Vancouver","https://www.notion.so/Cohere-Health-Vancouver-240c6f799a33811bbdf0c46ae8a64687",1,1,0,0,1,1,1,1,1,0,1,0,0,0,0,53
+"Microsoft VCH AI Partnership","https://www.notion.so/Microsoft-VCH-AI-Partnership-23fc6f799a33819f96ace9784041a029",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"BCIT Applied Research Centre for Sustainability Energy and Resource Innovations","https://www.notion.so/BCIT-Applied-Research-Centre-for-Sustainability-Energy-and-Resource-Innovations-23fc6f799a3381b5ad09c285d08d695c",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Unity Muse Vancouver Community","https://www.notion.so/Unity-Muse-Vancouver-Community-23fc6f799a3381d78723efbf5829fe6b",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"External Development Summit Vancouver","https://www.notion.so/External-Development-Summit-Vancouver-23fc6f799a3381aaa1cfd69182e824b9",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"BC Forest Innovation and Bioeconomy Manufacturing Program","https://www.notion.so/BC-Forest-Innovation-and-Bioeconomy-Manufacturing-Program-23fc6f799a338111a043df271f8e95a0",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"CFS Mass Timber Innovation and Research Lab","https://www.notion.so/CFS-Mass-Timber-Innovation-and-Research-Lab-23fc6f799a33817f9b57caa969f4554f",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"MiningTech North America Conference","https://www.notion.so/MiningTech-North-America-Conference-23fc6f799a3381bda9f6eabdb1a08712",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Southern Cross Gold BC","https://www.notion.so/Southern-Cross-Gold-BC-23fc6f799a33812c96c2fbea33cb386a",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Farmonaut BC","https://www.notion.so/Farmonaut-BC-23fc6f799a338198bad8dabc55067107",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"BC Industry Partners AI Consortium","https://www.notion.so/BC-Industry-Partners-AI-Consortium-23fc6f799a33810486a0d0e1957e632c",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Vancouver PropTech Hub","https://www.notion.so/Vancouver-PropTech-Hub-23fc6f799a3381f584f1f3f6008f3c8e",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Fraser Surrey Docks","https://www.notion.so/Fraser-Surrey-Docks-23fc6f799a33811c90eafa87642b56ca",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"VFPA Terminal 2 Project","https://www.notion.so/VFPA-Terminal-2-Project-23fc6f799a3381bb92fde9408c52e19c",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Deltaport Container Terminal","https://www.notion.so/Deltaport-Container-Terminal-23fc6f799a338125a0e7f7c920e4b8e8",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Neptune Terminals","https://www.notion.so/Neptune-Terminals-23fc6f799a3381bf9525c79e16ff3a40",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"TIABC AI Workshop Initiative","https://www.notion.so/TIABC-AI-Workshop-Initiative-23fc6f799a338171b9e3d5790556b24f",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Site C Hydroelectric Project AI Division","https://www.notion.so/Site-C-Hydroelectric-Project-AI-Division-23fc6f799a33817eb1c3f51e7c86c7ca",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"BC Hydro Electrification Initiative","https://www.notion.so/BC-Hydro-Electrification-Initiative-23fc6f799a3381e5b4e9f62e69011c60",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Vancouver International Privacy Security Summit","https://www.notion.so/Vancouver-International-Privacy-Security-Summit-23fc6f799a3381eaa951fa3fb05d806f",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"DevFest YVR / AI Summit Vancouver","https://www.notion.so/DevFest-YVR-AI-Summit-Vancouver-23fc6f799a338138bbc5e89ce17ed21c",0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"InBC Life Sciences Fund","https://www.notion.so/InBC-Life-Sciences-Fund-23fc6f799a3381cbba45fff149c337c7",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Digital Technology Supercluster Healthtech Initiative","https://www.notion.so/Digital-Technology-Supercluster-Healthtech-Initiative-23fc6f799a3381c0816ed93782f79461",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Microsoft Vancouver Coastal Health Partnership","https://www.notion.so/Microsoft-Vancouver-Coastal-Health-Partnership-23fc6f799a33811bab60d14ce505d900",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"BC AI in Education Initiative","https://www.notion.so/BC-AI-in-Education-Initiative-23fc6f799a3381b0acdeee67f82cd45a",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Tutor Lily Inc","https://www.notion.so/Tutor-Lily-Inc-23fc6f799a338148a2c0dfbd2d59dc5c",1,0,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"B.C. Centre for Innovation and Clean Energy (CICE)","https://www.notion.so/B-C-Centre-for-Innovation-and-Clean-Energy-CICE-23fc6f799a3381928f87ca7b4e44245c",0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"GreenMeter AI","https://www.notion.so/GreenMeter-AI-23fc6f799a33819c8e7bf51b33bdbd16",0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"3D AI Studio Vancouver","https://www.notion.so/3D-AI-Studio-Vancouver-23fc6f799a3381808bb2f24d31f306ad",0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"Radical Entertainment","https://www.notion.so/Radical-Entertainment-23fc6f799a338189899edb8ddbe0a7e7",0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"BC Ocean and Marine Industry Association","https://www.notion.so/BC-Ocean-and-Marine-Industry-Association-23fc6f799a33810580c3c16bbe504b77",0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"Ocean Networks Canada AI Lab","https://www.notion.so/Ocean-Networks-Canada-AI-Lab-23fc6f799a3381759d32f25c9d28bcdc",0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"Kamloops Exploration Group","https://www.notion.so/Kamloops-Exploration-Group-23fc6f799a338143b3b9e60509578494",0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,53
+"BC Agritech Training Initiative","https://www.notion.so/BC-Agritech-Training-Initiative-23fc6f799a3381b8a8bec89cb321113a",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Semios","https://www.notion.so/Semios-23fc6f799a33814e8017dc7032e0a223",0,0,0,0,1,1,1,0,1,0,1,1,1,1,0,53
+"BC Skills Training AI Initiative","https://www.notion.so/BC-Skills-Training-AI-Initiative-23fc6f799a3381f3847aeacf249abde2",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"BC Construction Technology Initiative","https://www.notion.so/BC-Construction-Technology-Initiative-23fc6f799a338128acc9f9a5f682700d",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"Site C Hydroelectric AI Integration","https://www.notion.so/Site-C-Hydroelectric-AI-Integration-23fc6f799a338168a8d3e3ab12e3bfd7",0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,53
+"FreshGrade","https://www.notion.so/FreshGrade-23fc6f799a3381d3ba7bec6d97c25599",0,1,0,0,1,1,1,0,1,0,0,1,1,1,0,53
+"Echosec Systems","https://www.notion.so/Echosec-Systems-23fc6f799a3381aeb260ef444fc8da29",1,1,0,0,1,1,1,0,1,0,0,0,1,1,0,53
+"Lila Sciences","https://www.notion.so/Lila-Sciences-23fc6f799a3381bd9350c961f893f1a3",1,1,0,0,1,1,1,0,1,0,0,0,1,1,0,53
+"Defang Software Labs","https://www.notion.so/Defang-Software-Labs-23fc6f799a3381868f0ee8b02eef3dc0",1,1,0,0,1,1,1,0,1,0,0,0,1,1,0,53
+"Rubriz AI","https://www.notion.so/Rubriz-AI-23dc6f799a338166a7eaea87a1598ff0",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"VentureLabs Accelerator","https://www.notion.so/VentureLabs-Accelerator-23dc6f799a33810eb523d0c453d22ed6",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Upper Nicola Band AI Data Centre","https://www.notion.so/Upper-Nicola-Band-AI-Data-Centre-23dc6f799a338122acc6e0760907de40",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Graphics, Artificial Intelligence, Design, and Games (GAIDG) Lab","https://www.notion.so/Graphics-Artificial-Intelligence-Design-and-Games-GAIDG-Lab-23dc6f799a33811183dacc25b52cfc56",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"PioGroup Software","https://www.notion.so/PioGroup-Software-23dc6f799a33815b9ab5f28a40ceb48c",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Adastra","https://www.notion.so/Adastra-23dc6f799a33811c82cce99db3585c35",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Hugo","https://www.notion.so/Hugo-23dc6f799a33817dae48ed7cbd8c346f",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Grammarly","https://www.notion.so/Grammarly-23dc6f799a3381fb866ad8a83fd5fed7",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Fujitsu","https://www.notion.so/Fujitsu-23dc6f799a3381c88d6ffd8162eeca73",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Bridge2AI","https://www.notion.so/Bridge2AI-23dc6f799a3381e6a90de7db0c0a3874",1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,53
+"Brainix","https://www.notion.so/Brainix-23dc6f799a33817ba509ebd8e18b3837",1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,53
+"boilerroom.ai","https://www.notion.so/boilerroom-ai-23dc6f799a33812e8beaef99c88d2ae5",1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,53
+"Bizzer AI","https://www.notion.so/Bizzer-AI-23dc6f799a33815d99bbfd82c0625bad",1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,53
+"Amass AI","https://www.notion.so/Amass-AI-23dc6f799a3381ecbd1ccf8c4ae8f48a",1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,53
+"AIMA Inc","https://www.notion.so/AIMA-Inc-23dc6f799a338120be84d8574c230327",1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,53
+"AI Stock Watch","https://www.notion.so/AI-Stock-Watch-23dc6f799a3381938fffc7a57412c607",1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,53
+"Advertising Intelligence (ADINT.AI)","https://www.notion.so/Advertising-Intelligence-ADINT-AI-23dc6f799a33810b9aeed193262b9e46",1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,53
+"mCloud","https://www.notion.so/mCloud-23dc6f799a33819f94fac87091cb3fe0",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Owl.co","https://www.notion.so/Owl-co-23dc6f799a33815aa13ec6838cb71ff1",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Deadwood Innovations","https://www.notion.so/Deadwood-Innovations-23dc6f799a338109bd91ed461dd4d4a2",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Haoma Health","https://www.notion.so/Haoma-Health-23dc6f799a33819983cfdfa13ef9bfdd",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"TELUS Sovereign AI Factories","https://www.notion.so/TELUS-Sovereign-AI-Factories-23dc6f799a33812ebd98e5c2f4527238",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Safari AI","https://www.notion.so/Safari-AI-23dc6f799a33814bbe91d4b607c90f90",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"BLUESENSE AI","https://www.notion.so/BLUESENSE-AI-23dc6f799a3381149f1fd73d73605bc6",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Creative Destruction Lab Vancouver (CDL-Vancouver)","https://www.notion.so/Creative-Destruction-Lab-Vancouver-CDL-Vancouver-23dc6f799a3381079a58e45e1089f75f",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Empirical Results","https://www.notion.so/Empirical-Results-23dc6f799a3381dab2b3dc665991fe1c",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"T4G","https://www.notion.so/T4G-23dc6f799a3381878e11d0d922efcb13",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Orishnal Digital Services","https://www.notion.so/Orishnal-Digital-Services-236c6f799a33811e8944ff2a0c1495f1",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"The Number","https://www.notion.so/The-Number-236c6f799a338106aa09c02ac2d2d8fd",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"deltAlyz Canada","https://www.notion.so/deltAlyz-Canada-236c6f799a338155bb2bec8b92feeecf",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Canada Techs","https://www.notion.so/Canada-Techs-236c6f799a33817d89d6ebc63e77de35",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Auryon.ai","https://www.notion.so/Auryon-ai-236c6f799a3381c3b10ecde9b61ff604",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"QueerTech QT Founders Catalyst Program","https://www.notion.so/QueerTech-QT-Founders-Catalyst-Program-236c6f799a3381738f1fc78dae3e264f",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"OneFeather","https://www.notion.so/OneFeather-236c6f799a3381f196b8fc27ff5bed42",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Mind AI & Consciousness","https://www.notion.so/Mind-AI-Consciousness-236c6f799a3381dcaa93fede1d426737",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Squamish AI (Stawamus Syntax)","https://www.notion.so/Squamish-AI-Stawamus-Syntax-236c6f799a3381058873e7d3cbed5b26",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Womxn's AI (Vancouver)","https://www.notion.so/Womxn-s-AI-Vancouver-236c6f799a3381da971af0515e1d93a4",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Surrey AI","https://www.notion.so/Surrey-AI-236c6f799a3381e2a0c0ce459dd4cb7c",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Raven Indigenous Capital Partners","https://www.notion.so/Raven-Indigenous-Capital-Partners-236c6f799a3381e89bb6e504070cb891",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Active Impact Investments","https://www.notion.so/Active-Impact-Investments-236c6f799a338132b33df870888617ee",0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,53
+"Deloitte Omnia AI","https://www.notion.so/Deloitte-Omnia-AI-1f1c6f799a3381aaad1bf8d94c3ff80a",0,0,0,0,1,1,1,1,0,0,1,1,1,1,0,53
+"Vancouver Angel Network (VANTEC)","https://www.notion.so/Vancouver-Angel-Network-VANTEC-1f1c6f799a3381e1a426c859bc1e856b",1,0,0,0,1,1,1,1,0,0,1,0,1,1,0,53
+"Finn.ai","https://www.notion.so/Finn-ai-1f1c6f799a3381fd9a9dffd755e9c5dc",1,0,0,0,1,1,1,1,0,0,1,0,1,1,0,53
+"Dooly.ai","https://www.notion.so/Dooly-ai-1f1c6f799a33817caad0f1f298dc2dd2",1,0,0,0,1,1,1,1,0,0,1,0,1,1,0,53
+"AI Network of BC (AInBC)","https://www.notion.so/AI-Network-of-BC-AInBC-1f0c6f799a3381abadd3fa38a3bbcc71",1,1,1,0,1,1,1,0,0,0,0,0,1,1,0,53
+"Women in ML & Data Science (WiMLDS YVR)","https://www.notion.so/Women-in-ML-Data-Science-WiMLDS-YVR-1f0c6f799a3381b3b10cefbaf7d78668",1,0,1,1,1,1,1,0,0,0,0,0,1,1,0,53
+"LLM & AI Meetup (Vancouver)","https://www.notion.so/LLM-AI-Meetup-Vancouver-1f0c6f799a3381289488d439ceb836fd",1,1,0,1,1,1,1,0,0,0,0,0,1,1,0,53
+"MetaVRse","https://www.notion.so/MetaVRse-240c6f799a3381e98195d7fcbe4a68c7",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Ayogo Health","https://www.notion.so/Ayogo-Health-240c6f799a33819d8407d62081146def",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Verge Agriculture","https://www.notion.so/Verge-Agriculture-240c6f799a33810294d5de10d96a8db4",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Careteam Technologies","https://www.notion.so/Careteam-Technologies-240c6f799a3381e5aaadf23c3cd7d053",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Unbounce","https://www.notion.so/Unbounce-240c6f799a3381509b32ff02f59cf619",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Routific","https://www.notion.so/Routific-240c6f799a3381e89fd0f9e2c738c2e6",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"1Password","https://www.notion.so/1Password-240c6f799a338169b3bbf0b289a1a81c",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Properly","https://www.notion.so/Properly-240c6f799a338166ba45d1a733b3a2c5",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Rentberry","https://www.notion.so/Rentberry-240c6f799a33814db89fc5e0a63eb9ed",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Showbie","https://www.notion.so/Showbie-240c6f799a338127894ccf822cde3764",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Manzil","https://www.notion.so/Manzil-240c6f799a33812681caf2733076e237",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Tenstorrent","https://www.notion.so/Tenstorrent-240c6f799a338145a710c943a5fee40f",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"LlamaZOO","https://www.notion.so/LlamaZOO-240c6f799a338101a70cde9c3f1c87a8",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Copperleaf Technologies","https://www.notion.so/Copperleaf-Technologies-240c6f799a33812a811fe3bfd542011c",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Symend","https://www.notion.so/Symend-240c6f799a33818b9b11d5f5da660793",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"A&K Robotics","https://www.notion.so/A-K-Robotics-240c6f799a3381b59754d589e8a3ae18",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Clarius Mobile Health","https://www.notion.so/Clarius-Mobile-Health-240c6f799a338183be06ec5e56fab949",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"AlayaCare","https://www.notion.so/AlayaCare-240c6f799a3381438fcbd0fa3a62bc52",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Canvass Analytics","https://www.notion.so/Canvass-Analytics-240c6f799a3381f7bad6ee532f9be345",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Wysdom.AI","https://www.notion.so/Wysdom-AI-240c6f799a3381ca982ee5b804915194",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"ModeMagic","https://www.notion.so/ModeMagic-240c6f799a338144beb7ed68c238b2f6",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Ballard Power Systems","https://www.notion.so/Ballard-Power-Systems-240c6f799a33810a85a5eb43eb957c8f",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Carbon Engineering","https://www.notion.so/Carbon-Engineering-240c6f799a33810b9af6ee4286908701",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Nymi","https://www.notion.so/Nymi-240c6f799a338103b406d9bd5d24ce18",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Coinsquare","https://www.notion.so/Coinsquare-240c6f799a3381f4be97d45c4ff47375",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Mogo","https://www.notion.so/Mogo-240c6f799a33818ca54fff1e2c9c5fe6",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Kabam","https://www.notion.so/Kabam-240c6f799a3381bc91decd5baef49401",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Xenon Pharmaceuticals","https://www.notion.so/Xenon-Pharmaceuticals-240c6f799a3381f0a30df62d25bcc9be",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Acuitas Therapeutics","https://www.notion.so/Acuitas-Therapeutics-240c6f799a3381efbe0de832f6cc8fa5",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Svante","https://www.notion.so/Svante-240c6f799a3381c7b421e926d3054742",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Saltworks Technologies","https://www.notion.so/Saltworks-Technologies-240c6f799a33818fa249faf56a2e5a09",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Later","https://www.notion.so/Later-240c6f799a3381038167da533663fef3",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Article","https://www.notion.so/Article-240c6f799a33819e830ef212cabba53a",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Cmd","https://www.notion.so/Cmd-240c6f799a338127b1f3da85914771d6",1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,60
+"Edvisor.io","https://www.notion.so/Edvisor-io-23fc6f799a3381778fb1fbfa25cbea69",1,1,1,0,1,1,0,0,1,0,1,0,1,1,0,60
+"MindfulGarden","https://www.notion.so/MindfulGarden-23fc6f799a3381929e0def8175c956a9",1,0,1,0,1,1,1,0,1,0,1,0,1,1,0,60
+"Big Whale Labs","https://www.notion.so/Big-Whale-Labs-23fc6f799a33819a8f42c66d712bf14b",1,1,0,0,1,1,1,0,1,0,1,0,1,1,0,60
+"BC AI Gaming Innovation Fund","https://www.notion.so/BC-AI-Gaming-Innovation-Fund-23fc6f799a33814c9abedd34607880ce",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"Vancouver Game Development AI Collective","https://www.notion.so/Vancouver-Game-Development-AI-Collective-23fc6f799a33819e8b3fd47a49dbbfd0",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"Unity Muse Vancouver Users","https://www.notion.so/Unity-Muse-Vancouver-Users-23fc6f799a3381299bf2f50c3fdadaed",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"Keywords Studios Vancouver","https://www.notion.so/Keywords-Studios-Vancouver-23fc6f799a3381788a85c2dba6b35b10",1,1,0,0,1,1,1,0,1,0,1,0,1,1,0,60
+"External Development Summit (XDS)","https://www.notion.so/External-Development-Summit-XDS-23fc6f799a3381739383eaf346b45cd7",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"Law Society of BC AI Ethics Initiative","https://www.notion.so/Law-Society-of-BC-AI-Ethics-Initiative-23fc6f799a3381f18ce8f669be4346de",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"BC Securities Commission RegTech Sandbox","https://www.notion.so/BC-Securities-Commission-RegTech-Sandbox-23fc6f799a3381edbc87ce76c95fd03b",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"Clio","https://www.notion.so/Clio-23fc6f799a33818f81c1daa1fa1a2a5c",0,1,0,0,1,1,1,0,1,0,1,1,1,1,0,60
+"Prince George AI Fire Detection Network","https://www.notion.so/Prince-George-AI-Fire-Detection-Network-23fc6f799a338114971bc7c3b76341ba",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"Forest Innovation and Bioeconomy Program","https://www.notion.so/Forest-Innovation-and-Bioeconomy-Program-23fc6f799a33815e8e98f88e3e526304",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"Canadian Forest Service Mass Timber Lab","https://www.notion.so/Canadian-Forest-Service-Mass-Timber-Lab-23fc6f799a338105b4ffde202f58cb7a",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"qathet Regional District AI Fire System","https://www.notion.so/qathet-Regional-District-AI-Fire-System-23fc6f799a3381cd95b5e4424e1a4c4c",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"Blue Economy Innovation Hub","https://www.notion.so/Blue-Economy-Innovation-Hub-23fc6f799a33819bbe47cfbd077585dc",0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,60
+"MarineAI Technologies","https://www.notion.so/MarineAI-Technologies-23fc6f799a338154ab55d07faddcc321",1,1,0,0,1,1,1,0,1,0,1,0,1,1,0,60
+"BC On-Farm Technology Adoption Program","https://www.notion.so/BC-On-Farm-Technology-Adoption-Program-23fc6f799a33816ca039ff4cfaea5143",1,0,1,1,1,1,1,1,1,0,1,0,0,0,0,60
+"DP World Canada","https://www.notion.so/DP-World-Canada-23fc6f799a338176bc16dad5b67b0e95",0,0,0,1,1,1,1,1,1,0,1,0,1,1,0,60
+"Nirvanic Consciousness Technologies","https://www.notion.so/Nirvanic-Consciousness-Technologies-23fc6f799a338186a592f00d7e53f283",1,1,0,0,1,1,1,0,1,0,0,1,1,1,0,60
+"Audette.io","https://www.notion.so/Audette-io-23fc6f799a3381f7ab73c96bd35cde2e",1,1,0,1,1,1,1,0,1,0,0,0,1,1,0,60
+"MATT3R","https://www.notion.so/MATT3R-23fc6f799a33819fa7d4d3ba547c55dc",1,1,0,0,1,1,1,0,1,0,0,1,1,1,0,60
+"Epsilon Venture Group","https://www.notion.so/Epsilon-Venture-Group-23dc6f799a3381bfbb08e6e85b32bac1",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"Insight Global","https://www.notion.so/Insight-Global-23dc6f799a338155ae3ad66f1dc1962f",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"Telus Ventures","https://www.notion.so/Telus-Ventures-23dc6f799a338190a6ebf0c5683c5548",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"Drive Hockey Analytics","https://www.notion.so/Drive-Hockey-Analytics-23dc6f799a338187a016d27418833bc7",0,0,0,0,1,1,1,1,1,1,1,0,1,1,0,60
+"Victory Square Technologies","https://www.notion.so/Victory-Square-Technologies-23dc6f799a338169a5f3ca476bfb8b0d",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"Persistent Systems","https://www.notion.so/Persistent-Systems-23dc6f799a33812ab731f12a47839f7c",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"Wayve","https://www.notion.so/Wayve-23dc6f799a3381f19e1cff4989b34112",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"Meton.ai (UnlockLand parent company)","https://www.notion.so/Meton-ai-UnlockLand-parent-company-23dc6f799a3381c6982ac311a194070d",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"ClearSpark AI","https://www.notion.so/ClearSpark-AI-23dc6f799a3381da91c9c89f305b9859",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"Google for Startups Accelerator: AI for Nature","https://www.notion.so/Google-for-Startups-Accelerator-AI-for-Nature-236c6f799a33810386f2ff0a75c70895",0,0,0,0,1,1,1,1,1,1,1,0,1,1,0,60
+"RBC Borealis AI (Vancouver Lab)","https://www.notion.so/RBC-Borealis-AI-Vancouver-Lab-1f8c6f799a338179a60ddaa0d4738e2e",0,0,0,0,1,1,1,1,1,1,1,0,1,1,0,60
+"Pender Ventures","https://www.notion.so/Pender-Ventures-1f1c6f799a338191a508f58e9e0454f1",1,0,1,0,1,1,1,1,0,0,1,0,1,1,0,60
+"AltaML (Vancouver)","https://www.notion.so/AltaML-Vancouver-1f0c6f799a338117805dd816bdc7150d",0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,60
+"Launch Academy","https://www.notion.so/Launch-Academy-1f0c6f799a33816eb041d6e6ac5cd621",1,1,0,1,1,1,1,0,1,0,0,0,1,1,0,60
+"VR/AR Association – Vancouver Chapter","https://www.notion.so/VR-AR-Association-Vancouver-Chapter-1f0c6f799a33816b8efdcb8624e70fdd",1,1,1,1,1,1,1,0,0,0,0,0,1,1,0,60
+"Tasktop","https://www.notion.so/Tasktop-240c6f799a3381acb9ebe0a1b540af8d",1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,67
+"Appnovation","https://www.notion.so/Appnovation-240c6f799a338150a237c55332a2d061",1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,67
+"Procurify","https://www.notion.so/Procurify-240c6f799a3381e4b5e4d3e039632bec",1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,67
+"STEMCELL Technologies","https://www.notion.so/STEMCELL-Technologies-240c6f799a33817d898ffc94ede14e55",1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,67
+"Thinkific","https://www.notion.so/Thinkific-240c6f799a338147beede0df8d0c74fc",1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,67
+"Trulioo","https://www.notion.so/Trulioo-240c6f799a3381419a97edc6de36d550",1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,67
+"Minerva Intelligence","https://www.notion.so/Minerva-Intelligence-240c6f799a33815b9c2bde11e9dc0aac",1,1,0,0,1,1,1,1,1,1,1,1,0,0,0,67
+"AI Community Conference - Vancouver","https://www.notion.so/AI-Community-Conference-Vancouver-23fc6f799a3381b1acfef0c48073ddf1",1,1,0,0,1,1,1,1,1,0,1,0,1,1,0,67
+"Riipen","https://www.notion.so/Riipen-23fc6f799a3381148831f6860381867d",1,1,1,1,1,1,0,0,1,0,1,0,1,1,0,67
+"Kardium","https://www.notion.so/Kardium-23fc6f799a33813183d7ecc0684531fd",1,1,0,1,1,1,0,0,1,0,1,1,1,1,0,67
+"Felix","https://www.notion.so/Felix-23fc6f799a3381089cd5c0553179881b",1,1,1,1,1,1,0,0,1,0,1,0,1,1,0,67
+"18 Wheels Logistics","https://www.notion.so/18-Wheels-Logistics-23fc6f799a3381ed8769d0d02a96a329",1,0,1,1,1,1,1,0,1,0,1,0,1,1,0,67
+"Indiegraf","https://www.notion.so/Indiegraf-23fc6f799a33817fb1a1cf03fb8261ed",1,1,1,0,1,1,1,0,1,0,0,1,1,1,0,67
+"Women in Machine Learning & Data Science (WiMLDS Vancouver)","https://www.notion.so/Women-in-Machine-Learning-Data-Science-WiMLDS-Vancouver-23dc6f799a338100a933dac23159a3b0",0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Gaze","https://www.notion.so/Gaze-23dc6f799a338191aed1c426c1c54f00",0,1,1,0,1,1,1,1,0,1,1,0,1,1,0,67
+"RBC Borealis","https://www.notion.so/RBC-Borealis-23dc6f799a3381f6bf0fea2117753b46",0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Talentful.ai","https://www.notion.so/Talentful-ai-23dc6f799a338164a83cf0bc2d8071c7",0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"bots4impact","https://www.notion.so/bots4impact-23dc6f799a338145aec1ecc7c1545fec",0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Juicey Turf","https://www.notion.so/Juicey-Turf-23dc6f799a338149ba02df39efae8ca8",0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Livnao Technologies","https://www.notion.so/Livnao-Technologies-23dc6f799a338112bed0cea9251776cf",0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Leaders of Tomorrow Institute Inc.","https://www.notion.so/Leaders-of-Tomorrow-Institute-Inc-23dc6f799a3381e58eafc1fe8fbbad3d",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Helios-Helmet","https://www.notion.so/Helios-Helmet-23dc6f799a3381db8d0ac513f276a998",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"BujiBui Inc.","https://www.notion.so/BujiBui-Inc-23dc6f799a3381299e9ee173ae212c56",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"CamDo Solutions Inc.","https://www.notion.so/CamDo-Solutions-Inc-23dc6f799a3381acb2aee2ae16e533f7",0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Scoop Robotix","https://www.notion.so/Scoop-Robotix-23dc6f799a33812a8281fc26880489c8",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Secur3D","https://www.notion.so/Secur3D-23dc6f799a33817595e4d47f67d82e1b",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Safety CLI Cybersecurity","https://www.notion.so/Safety-CLI-Cybersecurity-23dc6f799a338142a860f4edc5058562",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"AI Home Optimizer","https://www.notion.so/AI-Home-Optimizer-23dc6f799a3381b78f07fb4132cff563",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Adopto","https://www.notion.so/Adopto-23dc6f799a33814d8e9fded8704cfdba",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Swipe Right App","https://www.notion.so/Swipe-Right-App-23dc6f799a3381e59701ed735281d85a",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Ringable AI","https://www.notion.so/Ringable-AI-23dc6f799a338116ba98e112febed2b5",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Prompt Genie","https://www.notion.so/Prompt-Genie-23dc6f799a338176ab6efaa7b6117bab",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"LōD Technologies Inc.","https://www.notion.so/L-D-Technologies-Inc-23dc6f799a3381dc8137c5cefae032c8",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"EPIC Semiconductors","https://www.notion.so/EPIC-Semiconductors-23dc6f799a338181b9d9cba6685bb81d",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Thynkli","https://www.notion.so/Thynkli-23dc6f799a338115b11ecf09506ea76e",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"FansNetwork","https://www.notion.so/FansNetwork-23dc6f799a3381c8aeebdd68a7b8cead",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Blackout Media","https://www.notion.so/Blackout-Media-23dc6f799a33814dbcfec9226472778c",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"1SecondPainting","https://www.notion.so/1SecondPainting-23dc6f799a33810fa61fd813454afa7b",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"XARIIA","https://www.notion.so/XARIIA-23dc6f799a338119a2cee4c14ad40b5a",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Flashee","https://www.notion.so/Flashee-23dc6f799a3381c4b67bc1db4ba889d3",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Caseway","https://www.notion.so/Caseway-23dc6f799a338155a137e76ee0bdcf89",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"VRFY Inc.","https://www.notion.so/VRFY-Inc-23dc6f799a338148b08cec1001d1a0ab",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Artemisdata","https://www.notion.so/Artemisdata-23dc6f799a3381eb8091e3ab8403d7f9",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"CodeMaker AI Inc.","https://www.notion.so/CodeMaker-AI-Inc-23dc6f799a33817e8791ca6b2c990bcc",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Automate.","https://www.notion.so/Automate-23dc6f799a33810b8ae4eb150b5391de",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"usediscovery.ai","https://www.notion.so/usediscovery-ai-23dc6f799a3381c6afcdd50471279ba5",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"OneTask","https://www.notion.so/OneTask-REDACTED-PLACEHOLDER",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Swae","https://www.notion.so/Swae-23dc6f799a3381b2a73ede88592542bb",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Optimate AI","https://www.notion.so/Optimate-AI-23dc6f799a3381c0842fcde8858275b8",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Damon","https://www.notion.so/Damon-23dc6f799a33815581cfce961fc1296b",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"akche technologies inc","https://www.notion.so/akche-technologies-inc-23dc6f799a33819cb87ee98c56bd600e",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Artenal","https://www.notion.so/Artenal-23dc6f799a33816aba8ef02e22bb6389",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Neupeak","https://www.notion.so/Neupeak-23dc6f799a3381a7950eee1fc858a13c",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Implant Genius","https://www.notion.so/Implant-Genius-23dc6f799a338131a01dfe2435ae7c98",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"GenerationsE","https://www.notion.so/GenerationsE-23dc6f799a33819eb904c87232c576ba",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Inofuse","https://www.notion.so/Inofuse-23dc6f799a33818bb5d1c3cd6a9e14ce",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Flutter Care","https://www.notion.so/Flutter-Care-23dc6f799a3381f69472eeb83c737642",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Scrubs Co-Pilot","https://www.notion.so/Scrubs-Co-Pilot-23dc6f799a3381a38c3ac7bc6bec42af",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Avicena AI","https://www.notion.so/Avicena-AI-23dc6f799a3381bdb6bee304d21bf50d",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"ConcussionRx","https://www.notion.so/ConcussionRx-23dc6f799a338132b8a7f0e92c00ba6e",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Prenuvo","https://www.notion.so/Prenuvo-23dc6f799a338167bdf0f6b3b8bd7495",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Arca","https://www.notion.so/Arca-23dc6f799a33811f8d15ef67d8ebc591",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Animikii Indigenous Technology Inc","https://www.notion.so/Animikii-Indigenous-Technology-Inc-23dc6f799a33814d9f8bcccfc1b2f434",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"AIM Lab (Artificial Intelligence in Medicine Lab)","https://www.notion.so/AIM-Lab-Artificial-Intelligence-in-Medicine-Lab-23dc6f799a3381c5ba86fbc5e2051f65",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"3DentAI","https://www.notion.so/3DentAI-23dc6f799a3381e0af85d21b4e1ce784",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"CoPilot AI","https://www.notion.so/CoPilot-AI-23dc6f799a3381c48070f76878fd1555",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Noratek Solutions","https://www.notion.so/Noratek-Solutions-23dc6f799a3381c7bd3fd41c5e477c8a",0,0,1,1,1,1,1,1,0,1,1,0,1,1,0,67
+"AI for Ecommerce Non-Profit Society","https://www.notion.so/AI-for-Ecommerce-Non-Profit-Society-23dc6f799a3381e0a48dea0cb432a376",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Genesis AI Corp","https://www.notion.so/Genesis-AI-Corp-23dc6f799a3381599e94f79403c7f31e",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Axiom Zen","https://www.notion.so/Axiom-Zen-236c6f799a338112a451ee0f4b3548bb",0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"ASC Creative Ltd.","https://www.notion.so/ASC-Creative-Ltd-236c6f799a338157818ec892b8d2b40e",0,0,1,1,1,1,1,1,0,1,1,0,1,1,0,67
+"BetterTable","https://www.notion.so/BetterTable-236c6f799a338197bad4d67850271c06",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"SenseNet","https://www.notion.so/SenseNet-236c6f799a33819588cdcd49fcb892c3",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Artemis","https://www.notion.so/Artemis-236c6f799a3381cdb214fa0c242ac127",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"ThinkLabs AI","https://www.notion.so/ThinkLabs-AI-236c6f799a3381b08c0cfb94e425d88a",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Jetson","https://www.notion.so/Jetson-236c6f799a3381f1b28cdc1cf9487e0d",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"Kensington Capital Partners","https://www.notion.so/Kensington-Capital-Partners-236c6f799a33815298fdedce1ecaa227",1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,67
+"SAP Canada (Vancouver)","https://www.notion.so/SAP-Canada-Vancouver-1f7c6f799a33816ab2f7edc1e28485d6",0,1,0,1,1,1,1,1,0,1,1,0,1,1,0,67
+"Meta Vancouver","https://www.notion.so/Meta-Vancouver-1f7c6f799a338150aa24cadf9a13db14",1,1,0,0,1,1,1,1,0,1,1,0,1,1,0,67
+"221A Node Library","https://www.notion.so/221A-Node-Library-1f0c6f799a3381f18537f88511a6dccd",1,1,0,1,1,1,1,1,0,0,1,0,1,1,0,67
+"UBC Master of Data Science (MDS)","https://www.notion.so/UBC-Master-of-Data-Science-MDS-1f0c6f799a33819bba06c229403fb1a4",1,0,0,1,1,1,1,1,0,1,1,0,1,1,0,67
+"BC Tech Association","https://www.notion.so/BC-Tech-Association-1f0c6f799a3381619b56d60856022333",0,1,1,1,1,0,1,0,1,0,1,1,1,1,0,67
+"Dapper Labs","https://www.notion.so/Dapper-Labs-23fc6f799a3381929d2fe1c3d5f4a2a9",1,1,1,0,1,1,1,0,1,0,1,1,1,1,0,73
+"Leasey.AI","https://www.notion.so/Leasey-AI-23fc6f799a3381b59314fe3df8ab6f2c",1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,73
+"Athennian","https://www.notion.so/Athennian-23fc6f799a3381ec9b00e5350a21065d",1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,73
+"Investment Agriculture Foundation of BC","https://www.notion.so/Investment-Agriculture-Foundation-of-BC-23fc6f799a338118a3dbc64044ece7c9",1,0,1,1,1,1,1,1,1,0,1,0,1,1,0,73
+"West Vancouver Schools Cybersecurity AI Program","https://www.notion.so/West-Vancouver-Schools-Cybersecurity-AI-Program-23fc6f799a3381149186cd143a7d0bab",1,0,1,1,1,1,1,1,1,0,1,0,1,1,0,73
+"Flytographer","https://www.notion.so/Flytographer-23fc6f799a3381289d7ecc6d58d9cd0c",1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,73
+"Barnacle Systems","https://www.notion.so/Barnacle-Systems-23fc6f799a33818d8e80f8ea7d3f696c",1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,73
+"AbCellera Biologics","https://www.notion.so/AbCellera-Biologics-23dc6f799a3381d08914ffcdc86b1700",0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,73
+"PacifiCan AI Initiative","https://www.notion.so/PacifiCan-AI-Initiative-23dc6f799a338181ab90c9bf9cec8e9c",0,1,1,1,1,1,1,1,0,1,1,0,1,1,0,73
+"WillowTree®","https://www.notion.so/WillowTree-23dc6f799a3381de9b78e0f32293ced2",0,1,1,1,1,1,1,1,0,1,1,0,1,1,0,73
+"FTSY","https://www.notion.so/FTSY-23dc6f799a3381408403e09bb69985d4",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"MashUp Machine","https://www.notion.so/MashUp-Machine-23dc6f799a33814c8345fef4b40a6697",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"SHADE.ai","https://www.notion.so/SHADE-ai-23dc6f799a3381e2a85de2a0d3f4b05a",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"AntEater","https://www.notion.so/AntEater-23dc6f799a3381a5864bfc8e055e7ae7",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Growlyn","https://www.notion.so/Growlyn-23dc6f799a338146a4bbf289226a1c22",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Lambda Science","https://www.notion.so/Lambda-Science-23dc6f799a33811eaabdc0551d8c4da4",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Sentient","https://www.notion.so/Sentient-23dc6f799a3381578931f46f8cf77e63",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"TalentMarketplace","https://www.notion.so/TalentMarketplace-23dc6f799a338180946de027f77f5721",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Sports Iq Analytics","https://www.notion.so/Sports-Iq-Analytics-23dc6f799a3381b5a6c5f9881d713228",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Strategybox","https://www.notion.so/Strategybox-23dc6f799a3381c4ab6ed5054a76ea73",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Scanbo","https://www.notion.so/Scanbo-23dc6f799a33811a82c7fbdde4cbfe8a",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Blockmint","https://www.notion.so/Blockmint-23dc6f799a3381dbaf41c09c08abf9d7",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Advize","https://www.notion.so/Advize-23dc6f799a33811db460d2c8f341a7f4",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Viewpoint Ai","https://www.notion.so/Viewpoint-Ai-23dc6f799a338103a5edf5fff8b87864",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Xtract Ai","https://www.notion.so/Xtract-Ai-23dc6f799a338157b566d30d584bf312",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Onecup Ai","https://www.notion.so/Onecup-Ai-23dc6f799a338181b5c1fa5d120a9ced",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"ARoster.com","https://www.notion.so/ARoster-com-23dc6f799a33814aa50fcc9e3d903770",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Flento app (by Acrostrong)","https://www.notion.so/Flento-app-by-Acrostrong-23dc6f799a3381fab173f06fc8eb85db",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Women Love Herbs","https://www.notion.so/Women-Love-Herbs-23dc6f799a3381eb8293f13d82a2d6d6",1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,73
+"Intuitive AI.","https://www.notion.so/Intuitive-AI-23dc6f799a33818aaa9bcb38dcd9e128",1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,73
+"sphereishere","https://www.notion.so/sphereishere-23dc6f799a3381ad8704e633907fedc0",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"SquareKnot Analytics","https://www.notion.so/SquareKnot-Analytics-23dc6f799a338118bbbcc4c6845dd68f",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Properti Edge Solutions","https://www.notion.so/Properti-Edge-Solutions-23dc6f799a3381488ad7d0fe2a41e2ba",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Djobzy","https://www.notion.so/Djobzy-23dc6f799a3381e4b8aed24935abb9b5",1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,73
+"VirtualReception.AI","https://www.notion.so/VirtualReception-AI-23dc6f799a338189851eedcd4773d1ab",1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,73
+"Kanooq Industries","https://www.notion.so/Kanooq-Industries-23dc6f799a33810e99d6d2e8fee5bb97",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"wewell ecosystem","https://www.notion.so/wewell-ecosystem-23dc6f799a338137a8fad3cc786002f4",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Picovoice","https://www.notion.so/Picovoice-23dc6f799a338133847efbf0e5c3b6fe",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Topicflow","https://www.notion.so/Topicflow-23dc6f799a3381dba5b5fe657cf24a7e",1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,73
+"Olive Technologies, Inc","https://www.notion.so/Olive-Technologies-Inc-23dc6f799a3381b6926fcfaafdcd2f57",1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,73
+"Downtown.AI","https://www.notion.so/Downtown-AI-23dc6f799a3381e3b7d3f9edb5c008f3",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Binta Financial","https://www.notion.so/Binta-Financial-23dc6f799a3381dfa80bef732d3252ae",1,0,0,1,1,1,1,1,1,1,1,0,1,1,0,73
+"Spring Activator","https://www.notion.so/Spring-Activator-23dc6f799a338194bf5dcbfce4c5e41b",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Zymeworks","https://www.notion.so/Zymeworks-23dc6f799a33813d80e1d9a0ce2345a1",0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,73
+"Precision OS","https://www.notion.so/Precision-OS-23dc6f799a3381bf8af8d41c75448cd8",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"SkyHive","https://www.notion.so/SkyHive-23dc6f799a338153922bdf1d6b735b2f",0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,73
+"Finn AI","https://www.notion.so/Finn-AI-23dc6f799a3381feaaa9fefd1df86fd8",0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,73
+"SparkGeo","https://www.notion.so/SparkGeo-23dc6f799a338109b2f7fc7550113a58",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"OnDeck Fisheries","https://www.notion.so/OnDeck-Fisheries-23dc6f799a338174aae7fe9f78dc3b68",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Machine Learning Group - SFU","https://www.notion.so/Machine-Learning-Group-SFU-23dc6f799a3381b388aadf00b3f55dc0",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Trustworthy AI Lab - SFU","https://www.notion.so/Trustworthy-AI-Lab-SFU-23dc6f799a3381728f00f4ac9b83fcb7",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"PLAI (Pacific Laboratory for Artificial Intelligence) - UBC","https://www.notion.so/PLAI-Pacific-Laboratory-for-Artificial-Intelligence-UBC-23dc6f799a3381d2ad04d2f534f8b905",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Penny AI","https://www.notion.so/Penny-AI-23dc6f799a3381499c1ae0d819986dc7",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"VRIFY Technology","https://www.notion.so/VRIFY-Technology-23dc6f799a338139849fd286c118c02c",0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,73
+"EarthDaily Analytics","https://www.notion.so/EarthDaily-Analytics-236c6f799a3381d7a90be8a9cf642aae",0,1,1,1,1,1,1,1,0,1,1,0,1,1,0,73
+"Fobi AI","https://www.notion.so/Fobi-AI-236c6f799a3381fd8838c21c1926cfc5",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Softmax Data Inc.","https://www.notion.so/Softmax-Data-Inc-236c6f799a3381309b64f99f00788053",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Altitude Business Intelligence","https://www.notion.so/Altitude-Business-Intelligence-236c6f799a338117947de3633d8ab08a",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"Amplitude Ventures","https://www.notion.so/Amplitude-Ventures-236c6f799a33812c8ddaf2a2c8da0035",1,0,1,1,1,1,1,1,0,1,1,0,1,1,0,73
+"Brightspark Ventures","https://www.notion.so/Brightspark-Ventures-236c6f799a33813c8fb6c152bac10be0",1,0,1,0,1,1,1,1,0,1,1,1,1,1,0,73
+"UBC CAIDA Center","https://www.notion.so/UBC-CAIDA-Center-227c6f799a338110a348c4dcb4deba71",1,0,1,0,1,1,1,1,0,1,1,1,1,1,0,73
+"Unity Technologies (Vancouver)","https://www.notion.so/Unity-Technologies-Vancouver-1f7c6f799a33811cbfdec38f8b469ac3",0,1,1,1,1,1,1,1,0,1,1,0,1,1,0,73
+"Google Vancouver","https://www.notion.so/Google-Vancouver-1f7c6f799a338129b45ed8ced630179c",1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,73
+"MineSense","https://www.notion.so/MineSense-1f1c6f799a3381ec8b8fd9732ccaa47f",1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,73
+"SFU's Digital Democracies Institute","https://www.notion.so/SFU-s-Digital-Democracies-Institute-1f0c6f799a33812c9045d15b0693c76f",1,1,0,0,1,1,1,1,0,1,1,1,1,1,0,73
+"Vancouver Tech Journal","https://www.notion.so/Vancouver-Tech-Journal-1f0c6f799a33814d97d3da38d5f56edb",0,1,1,1,1,1,1,0,0,1,1,1,1,1,0,73
+"Vanedge Capital","https://www.notion.so/Vanedge-Capital-1f0c6f799a33812a919ddc64fa9df827",0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,73
+"TELUS Data & AI Initiatives","https://www.notion.so/TELUS-Data-AI-Initiatives-1f0c6f799a3381a191d2ee02caeabfe2",1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,73
+"BC Centre for Innovation and Clean Energy","https://www.notion.so/BC-Centre-for-Innovation-and-Clean-Energy-23fc6f799a338136b651fed831c1c8a8",1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,80
+"InBC Life Sciences Investment Fund","https://www.notion.so/InBC-Life-Sciences-Investment-Fund-23fc6f799a33812e85dfd82e9c1b44c1",1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,80
+"BCSC RegTech Sandbox","https://www.notion.so/BCSC-RegTech-Sandbox-23fc6f799a33811d929af5ef3ad03969",1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,80
+"Pano AI BC","https://www.notion.so/Pano-AI-BC-23fc6f799a3381779069d3d249dfff5b",1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,80
+"PacifiCan Regional Artificial Intelligence Initiative","https://www.notion.so/PacifiCan-Regional-Artificial-Intelligence-Initiative-23fc6f799a3381598654caf7c9e5006e",1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,80
+"MiningTech North America","https://www.notion.so/MiningTech-North-America-23fc6f799a338178a4f4c8dd6581afb2",1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,80
+"Timezyx","https://www.notion.so/Timezyx-23dc6f799a33811d944afe3ba9ece32a",0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"AI Scout Solutions","https://www.notion.so/AI-Scout-Solutions-23dc6f799a3381e2b265c16c8b8d3181",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Kanooq Industries Inc.","https://www.notion.so/Kanooq-Industries-Inc-23dc6f799a33817197adfcff2baf0a58",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Nexera Robotics","https://www.notion.so/Nexera-Robotics-23dc6f799a3381afbf3ed640e16fd8f7",1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,80
+"pH7 Technologies","https://www.notion.so/pH7-Technologies-23dc6f799a3381bb96e3d8390bfd4c73",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Build Smartr Robotics","https://www.notion.so/Build-Smartr-Robotics-23dc6f799a3381caa561ead9a2668429",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Anodyne Chemistries","https://www.notion.so/Anodyne-Chemistries-23dc6f799a3381a7a907daaca0f08b42",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Aqua Intelligent","https://www.notion.so/Aqua-Intelligent-23dc6f799a33813090b1e4812c4b7cd9",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Arrowsmith Genetics","https://www.notion.so/Arrowsmith-Genetics-23dc6f799a3381f9ad4cf530031c9f51",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Canexia Health","https://www.notion.so/Canexia-Health-23dc6f799a33815b9fddfe8347058ffa",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Nytilus Inc","https://www.notion.so/Nytilus-Inc-23dc6f799a3381bf8f0bfe9c052a7df9",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"7Gen","https://www.notion.so/7Gen-23dc6f799a33819b895cd661b62a0131",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Ekona Power","https://www.notion.so/Ekona-Power-23dc6f799a3381f1bc21d079942ed916",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Photonic Inc","https://www.notion.so/Photonic-Inc-23dc6f799a33815e9c0fffd40ad3f266",1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,80
+"Improving","https://www.notion.so/Improving-23dc6f799a338117bcb4c3df7786beac",0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Digitalist North America","https://www.notion.so/Digitalist-North-America-23dc6f799a33811d81a8f434f2b07cd7",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"ValueLabs","https://www.notion.so/ValueLabs-23dc6f799a3381079e94eb0d7bad78a5",0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Venovis","https://www.notion.so/Venovis-23dc6f799a3381618abfc8832818bd4b",1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,80
+"Steamclock Software","https://www.notion.so/Steamclock-Software-23dc6f799a33810b8529ea4777c521dc",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Autonopia","https://www.notion.so/Autonopia-23dc6f799a3381e4962ce83f565b80b8",1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,80
+"Compression.ai","https://www.notion.so/Compression-ai-23dc6f799a3381e383fef975f55614f8",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Glance Technologies","https://www.notion.so/Glance-Technologies-23dc6f799a338144b577f891fdc60ff3",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"FYBR","https://www.notion.so/FYBR-23dc6f799a3381b1952efb96975ac056",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"DeepND","https://www.notion.so/DeepND-23dc6f799a33817db682c17db865e7aa",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Theory+Practice","https://www.notion.so/Theory-Practice-23dc6f799a33818dbe34c0fde5433f6c",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"FIRMOGRAM","https://www.notion.so/FIRMOGRAM-23dc6f799a3381d39a64c608275ab2b5",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Caliber Data Labs","https://www.notion.so/Caliber-Data-Labs-23dc6f799a3381dc8a04ce37d64da482",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Evolve Biologix","https://www.notion.so/Evolve-Biologix-23dc6f799a3381268d45e384a2dddef6",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Diabits","https://www.notion.so/Diabits-23dc6f799a3381409e00eaddbb188205",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"CareCru","https://www.notion.so/CareCru-23dc6f799a3381618ad6fd2f7d4777ab",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Disrupted Logic","https://www.notion.so/Disrupted-Logic-23dc6f799a3381c6a0f0c9a851d29e42",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Nextwave Software","https://www.notion.so/Nextwave-Software-23dc6f799a33814a85f1e13a5ddb5a31",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Ehsai","https://www.notion.so/Ehsai-23dc6f799a3381da85bada25185110a4",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Skylab Technologies","https://www.notion.so/Skylab-Technologies-23dc6f799a3381bb8b97c9890a34148d",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Judi.ai","https://www.notion.so/Judi-ai-23dc6f799a3381728cd8c57add383203",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Intellabridge Technology Corporation","https://www.notion.so/Intellabridge-Technology-Corporation-23dc6f799a3381a79330fe6d0095bb50",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Spheria","https://www.notion.so/Spheria-23dc6f799a3381ffa275e37861d38a9f",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Spexi","https://www.notion.so/Spexi-23dc6f799a33816b9b43cb5df605806d",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"ThisFish Inc.","https://www.notion.so/ThisFish-Inc-23dc6f799a338130951df18d4351d61c",1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,80
+"VodaSafe","https://www.notion.so/VodaSafe-23dc6f799a338144a550fab0fd4a4546",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Pilot - pilotplans.com","https://www.notion.so/Pilot-pilotplans-com-23dc6f799a3381798f60e712928bccee",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Plasmatic Technologies Inc.","https://www.notion.so/Plasmatic-Technologies-Inc-23dc6f799a33814c9c60faaeed5a4cc6",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Plantiga Technologies Inc","https://www.notion.so/Plantiga-Technologies-Inc-23dc6f799a3381f196e2cd554411b7c7",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Legible Media Inc.","https://www.notion.so/Legible-Media-Inc-23dc6f799a338191b310c26f6ddda472",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Cifra","https://www.notion.so/Cifra-23dc6f799a338174a45df6841d03a6c4",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"4AG Robotics","https://www.notion.so/4AG-Robotics-23dc6f799a3381118ef7dfe49820a945",1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,80
+"UVic Advanced Control and Intelligent Systems (ACIS) Lab","https://www.notion.so/UVic-Advanced-Control-and-Intelligent-Systems-ACIS-Lab-23dc6f799a338106811bcffb2abd4499",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Inverted AI","https://www.notion.so/Inverted-AI-23dc6f799a33818b90b7d20efdd7fac5",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"MetaOptima (DermEngine)","https://www.notion.so/MetaOptima-DermEngine-23dc6f799a33810b8702cb15089b5edc",0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,80
+"Niricson","https://www.notion.so/Niricson-23dc6f799a338119acbeeb4e9fe42ec4",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"MarineLabs","https://www.notion.so/MarineLabs-23dc6f799a33813dab74f97001c15892",1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,80
+"Quandri","https://www.notion.so/Quandri-23dc6f799a33819a9ad6dc566b773426",1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,80
+"Adastra Corporation","https://www.notion.so/Adastra-Corporation-236c6f799a33810a89d0e201fb5a9f8a",1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Kai Analytics International","https://www.notion.so/Kai-Analytics-International-236c6f799a338180b3b3c6c03a8f9b27",1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,80
+"Visier","https://www.notion.so/Visier-227c6f799a338124ba25e73122d22c05",0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,80
+"AbCellera","https://www.notion.so/AbCellera-227c6f799a3381fea66bdf3fce90b557",0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,80
+"SFU Computing Science & Creative AI Labs","https://www.notion.so/SFU-Computing-Science-Creative-AI-Labs-1f8c6f799a3381a99538f2ef0484b2a0",1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,80
+"Planview (Vancouver)","https://www.notion.so/Planview-Vancouver-1f8c6f799a3381e8a551d1572b959831",1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,80
+"Teck Resources & AltaML Applied AI Lab","https://www.notion.so/Teck-Resources-AltaML-Applied-AI-Lab-1f7c6f799a3381a7a857d822d2990e70",1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,80
+"IBM Vancouver","https://www.notion.so/IBM-Vancouver-1f7c6f799a338148898fc017d396b11f",1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,80
+"Cisco Systems (Vancouver)","https://www.notion.so/Cisco-Systems-Vancouver-1f7c6f799a33815897eff79713a73b03",1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,80
+"1QBit","https://www.notion.so/1QBit-1f1c6f799a3381c7ae29e2dcd342789b",0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,80
+"Terramera","https://www.notion.so/Terramera-1f1c6f799a33818a8d2ff6800062366a",1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,80
+"Animikii","https://www.notion.so/Animikii-1f1c6f799a33810a90d9e27a8a97a2b0",0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,80
+"Law Society of BC AI Ethics Program","https://www.notion.so/Law-Society-of-BC-AI-Ethics-Program-23fc6f799a3381de8010f35a21a8f4e3",1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,87
+"Payday","https://www.notion.so/Payday-23dc6f799a3381419873e765870f13ea",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Browse AI","https://www.notion.so/Browse-AI-23dc6f799a338139a460d403a9538e08",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Bell Canada AI Data Centre Kamloops","https://www.notion.so/Bell-Canada-AI-Data-Centre-Kamloops-23dc6f799a33816097e5d41c6d84badb",1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,87
+"MoogleLabs","https://www.notion.so/MoogleLabs-23dc6f799a338197be38d6a92ea4412b",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"AIEX","https://www.notion.so/AIEX-23dc6f799a3381a9bb63e9e24158ed69",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"BC + AI Ecosystem Association","https://www.notion.so/BC-AI-Ecosystem-Association-23dc6f799a33813a87cadb616da00740",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Kindred","https://www.notion.so/Kindred-23dc6f799a3381fba273dd8afaa06e0b",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Innovate BC","https://www.notion.so/Innovate-BC-23dc6f799a33813a9d4dd8d40eb0bf50",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Orca Water","https://www.notion.so/Orca-Water-23dc6f799a33815d9b3ed97573a14b75",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Lite-1","https://www.notion.so/Lite-1-23dc6f799a33818f96f7f943931eb7a8",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"CereCura Nanotherapeutics","https://www.notion.so/CereCura-Nanotherapeutics-23dc6f799a338166a83bcd73a0ce2ec1",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"SmartParent Mobile Health Inc","https://www.notion.so/SmartParent-Mobile-Health-Inc-23dc6f799a3381d2b750fd46603b62e1",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Amphoraxe Life Sciences Inc","https://www.notion.so/Amphoraxe-Life-Sciences-Inc-23dc6f799a3381579dc5ee78f5fd0321",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"HomeCourt/NEX Team","https://www.notion.so/HomeCourt-NEX-Team-23dc6f799a3381f8af32d4cd0226188a",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Rockburst Technologies","https://www.notion.so/Rockburst-Technologies-23dc6f799a3381268541d58095fcc84a",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Mangrove Lithium","https://www.notion.so/Mangrove-Lithium-23dc6f799a3381ad8e2bff525b18aef4",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Quantum Algorithms Institute","https://www.notion.so/Quantum-Algorithms-Institute-23dc6f799a3381dda3a2ddcdada377b4",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Ekohe","https://www.notion.so/Ekohe-23dc6f799a33811a83e1c0c82b9e849d",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"IT Kapital","https://www.notion.so/IT-Kapital-23dc6f799a33812192f5c9c7d6ead3d1",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"MistyWest","https://www.notion.so/MistyWest-23dc6f799a33811385c5c4593c2b3ad5",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Denologix","https://www.notion.so/Denologix-23dc6f799a3381b585bcc1c7760e9cde",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"INTERSOG","https://www.notion.so/INTERSOG-23dc6f799a33817289b6ddc4875d7755",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Proto","https://www.notion.so/Proto-23dc6f799a3381bf85f3c4734b035202",1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,87
+"Eli Report","https://www.notion.so/Eli-Report-23dc6f799a33819086b1c0f16fd86d82",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Motion Metrics","https://www.notion.so/Motion-Metrics-23dc6f799a33819eb542c86bd5875c22",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Warranty Life","https://www.notion.so/Warranty-Life-23dc6f799a338187a111d4478a735ead",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Thinkcx","https://www.notion.so/Thinkcx-23dc6f799a33813a9711dfb60aac7eee",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Mintent","https://www.notion.so/Mintent-23dc6f799a33816c8552eaaeebd3073a",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Illusense","https://www.notion.so/Illusense-23dc6f799a33813291d8f224a75c315b",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Youneeq","https://www.notion.so/Youneeq-23dc6f799a3381898263effee91956db",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Scopemedia","https://www.notion.so/Scopemedia-23dc6f799a33812fa992d3d1a74f9772",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Wavo","https://www.notion.so/Wavo-23dc6f799a3381a89759ebab8088ef2e",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Inp Capital","https://www.notion.so/Inp-Capital-23dc6f799a33815f8c87cef013414d04",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Olive","https://www.notion.so/Olive-23dc6f799a338175abc2c27ff5b33e1c",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Centre for Artificial Intelligence Decision-making and Action (CAIDA)","https://www.notion.so/Centre-for-Artificial-Intelligence-Decision-making-and-Action-CAIDA-23dc6f799a3381f88d57f71c93932cd8",1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,87
+"UnlockLand (Meton.ai product)","https://www.notion.so/UnlockLand-Meton-ai-product-23dc6f799a3381d8aca0c368ef30cc2c",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Bonsai Micro","https://www.notion.so/Bonsai-Micro-23dc6f799a338151ac13f3f183794ab3",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Lumen5","https://www.notion.so/Lumen5-23dc6f799a3381f5abffdb667664844c",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"CRWN.ai","https://www.notion.so/CRWN-ai-23dc6f799a338110acf5df1449e5c2e5",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"TerraSense Analytics","https://www.notion.so/TerraSense-Analytics-23dc6f799a3381ef9b77ef23d973151b",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Pani Energy","https://www.notion.so/Pani-Energy-23dc6f799a338173931ccaf7c2258588",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Levr.ai","https://www.notion.so/Levr-ai-23dc6f799a3381ba83f3c599ff16a137",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Charli AI","https://www.notion.so/Charli-AI-23dc6f799a33816ca13bcea35e8b96fe",0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,87
+"Apera AI","https://www.notion.so/Apera-AI-23dc6f799a3381029b8bf6f988aae39f",1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,87
+"Voronoi Health Analytics","https://www.notion.so/Voronoi-Health-Analytics-236c6f799a3381129d5cfad7739366f5",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Zfort Group","https://www.notion.so/Zfort-Group-236c6f799a338191912ff54d701a7494",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"IntLabs","https://www.notion.so/IntLabs-236c6f799a3381b5b8b2fdc7c52f567f",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Responsive AI","https://www.notion.so/Responsive-AI-236c6f799a3381c08941d7c6e2c500c6",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Silo AI Vancouver","https://www.notion.so/Silo-AI-Vancouver-227c6f799a3381e4bc60ea161cf5430e",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"D-Wave Systems","https://www.notion.so/D-Wave-Systems-1f8c6f799a3381cb926dec8330e0ff04",0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,87
+"VIATEC AI Meetups","https://www.notion.so/VIATEC-AI-Meetups-1f8c6f799a33818a808be65be1a09646",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"University of Victoria (UVic) AI Research","https://www.notion.so/University-of-Victoria-UVic-AI-Research-1f8c6f799a3381248fc6f0daabe7d0af",1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,87
+"Hootsuite","https://www.notion.so/Hootsuite-1f7c6f799a338162ad8edbc2864b7f80",1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,87
+"Clir Renewables","https://www.notion.so/Clir-Renewables-1f0c6f799a3381249f4dfe642a3b116a",1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,87
+"First Nations Technology Council (FNTC)","https://www.notion.so/First-Nations-Technology-Council-FNTC-1f0c6f799a338184afeee90530a1f68b",1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,87
+"Artificial Intelligence Network of BC (AInBC)","https://www.notion.so/Artificial-Intelligence-Network-of-BC-AInBC-1f0c6f799a33816fb270fd4ca2e34fe8",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,87
+"Aspect Biosystems","https://www.notion.so/Aspect-Biosystems-23fc6f799a3381309a24ef13cd5beb71",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Produce8","https://www.notion.so/Produce8-23dc6f799a3381188523f9f329627006",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"RIVAL Technologies","https://www.notion.so/RIVAL-Technologies-23dc6f799a33812488f8d580eccd72ea",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Open Ocean Robotics","https://www.notion.so/Open-Ocean-Robotics-23dc6f799a3381fcb6e4dfc4347ed3f4",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Verdi Technologies","https://www.notion.so/Verdi-Technologies-23dc6f799a3381ddb188c19af7e02abc",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Digital Technology Supercluster","https://www.notion.so/Digital-Technology-Supercluster-23dc6f799a3381b6aa0dcba176a7845a",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Vancouver AI Community Meetup","https://www.notion.so/Vancouver-AI-Community-Meetup-23dc6f799a3381fd8d7fffa0e0e80d73",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Spare","https://www.notion.so/Spare-23dc6f799a3381ee8b58d03c352fda1d",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Iris Automation","https://www.notion.so/Iris-Automation-23dc6f799a338170be61e6d815033f01",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Wizard Labs","https://www.notion.so/Wizard-Labs-23dc6f799a3381949345db96aab72b1d",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"deltAlyz Corp","https://www.notion.so/deltAlyz-Corp-23dc6f799a3381378cb4e08a336edbef",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Certn","https://www.notion.so/Certn-23dc6f799a3381d59356fed9bc525c1c",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Variational AI","https://www.notion.so/Variational-AI-23dc6f799a3381e0ba8ac5a48fc5b79b",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Sanctuary AI","https://www.notion.so/Sanctuary-AI-23dc6f799a3381c19745c23026f9b5f0",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Novarc Technologies","https://www.notion.so/Novarc-Technologies-236c6f799a3381079520c1fa2a38a6a8",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Finger Food Advanced Technology Group","https://www.notion.so/Finger-Food-Advanced-Technology-Group-227c6f799a3381d79d31cc2fd8910412",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Microsoft Research Asia Vancouver","https://www.notion.so/Microsoft-Research-Asia-Vancouver-227c6f799a3381398c6bd68951892879",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Absolute Software Vancouver","https://www.notion.so/Absolute-Software-Vancouver-1f8c6f799a338105a6a6e70376f2fb61",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Two Hat Security","https://www.notion.so/Two-Hat-Security-1f1c6f799a33818498d7f4f1e583c8e3",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93
+"Klue","https://www.notion.so/Klue-1f1c6f799a33819098dbd86a03011dc6",1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,93

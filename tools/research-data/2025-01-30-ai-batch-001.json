@@ -1,0 +1,468 @@
+{
+  "researchBatch": {
+    "batchId": "2025-01-30-ai-batch-001",
+    "researcher": "Phase 2 Research Coordinator",
+    "date": "2025-01-30",
+    "organizations": [
+      {
+        "name": "Sanctuary AI",
+        "category": "AI Companies",
+        "priority": "Tier 1 - AI/Robotics",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/sanctuary-ai",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 25000,
+            "description": "General-purpose robots with human-like intelligence",
+            "specialties": ["Artificial General Intelligence", "Robotics", "Machine Learning", "Cognitive Architecture"],
+            "headquarters": "Vancouver, BC",
+            "founded": 2018,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Geordie Rose",
+              "linkedinUrl": "https://www.linkedin.com/in/geordie-rose",
+              "role": "Co-Founder & CEO",
+              "verified": true
+            },
+            "cto": {
+              "name": "Suzanne Gildert",
+              "linkedinUrl": "https://www.linkedin.com/in/suzanne-gildert",
+              "role": "Co-Founder & CTO"
+            }
+          },
+          "funding": {
+            "totalRaised": "$140M+",
+            "rounds": [
+              {
+                "type": "Series A",
+                "amount": "$58.5M",
+                "date": "2022",
+                "leadInvestor": "Accenture Ventures"
+              }
+            ],
+            "investors": ["Accenture Ventures", "Bell", "Export Development Canada", "Magna", "SE Health"]
+          },
+          "companyIntel": {
+            "employeeCount": {
+              "range": "51-200",
+              "source": "LinkedIn",
+              "asOf": "2025-01-30"
+            },
+            "yearFounded": 2018,
+            "techStack": ["Robotics", "AGI", "Cognitive Architecture"],
+            "aiFocus": ["General Purpose AI", "Humanoid Robotics", "Cognitive Systems"],
+            "industry": "Robotics & AI"
+          },
+          "socialMedia": {
+            "twitter": "@Sanctuary_AI",
+            "website": "https://sanctuary.ai"
+          }
+        }
+      },
+      {
+        "name": "Minerva Intelligence",
+        "category": "AI Companies",
+        "priority": "Tier 1 - AI for Mining",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/minerva-intelligence-inc",
+            "verified": true,
+            "employees": "11-50",
+            "description": "AI-powered knowledge engineering for mining and climate risk",
+            "headquarters": "Vancouver, BC",
+            "founded": 2017,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Scott Tillman",
+              "role": "CEO",
+              "verified": true
+            }
+          },
+          "funding": {
+            "status": "Public company",
+            "ticker": "MVAI (TSX-V)",
+            "marketCap": "~$10M CAD"
+          },
+          "companyIntel": {
+            "yearFounded": 2017,
+            "aiFocus": ["Knowledge Engineering", "Mining AI", "Climate Risk Assessment", "Cognitive AI"],
+            "industry": "Mining Technology"
+          },
+          "socialMedia": {
+            "website": "https://minervaintelligence.com"
+          }
+        }
+      },
+      {
+        "name": "Trulioo",
+        "category": "AI Companies", 
+        "priority": "Tier 1 - Identity Verification AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/trulioo",
+            "verified": true,
+            "employees": "501-1000",
+            "followers": 15000,
+            "description": "Global identity verification platform",
+            "headquarters": "Vancouver, BC",
+            "founded": 2011,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Steve Munford",
+              "role": "CEO",
+              "verified": true
+            }
+          },
+          "funding": {
+            "totalRaised": "$476M+",
+            "rounds": [
+              {
+                "type": "Series D",
+                "amount": "$394M",
+                "date": "2021",
+                "valuation": "$1.75B"
+              }
+            ],
+            "status": "Unicorn",
+            "investors": ["TCV", "Goldman Sachs", "Citi Ventures"]
+          },
+          "companyIntel": {
+            "employeeCount": {
+              "range": "501-1000",
+              "source": "LinkedIn"
+            },
+            "yearFounded": 2011,
+            "aiFocus": ["Identity Verification", "Machine Learning", "Fraud Detection", "RegTech"],
+            "industry": "FinTech/RegTech"
+          },
+          "socialMedia": {
+            "twitter": "@trulioo",
+            "website": "https://www.trulioo.com"
+          }
+        }
+      },
+      {
+        "name": "D-Wave Systems",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Quantum Computing",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/d-wave-systems",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 45000,
+            "description": "Leader in quantum computing systems, software, and services",
+            "headquarters": "Burnaby, BC",
+            "founded": 1999,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Alan Baratz",
+              "linkedinUrl": "https://www.linkedin.com/in/alan-baratz",
+              "role": "CEO",
+              "verified": true
+            }
+          },
+          "funding": {
+            "status": "Public company",
+            "ticker": "QBTS (NYSE)",
+            "marketCap": "~$400M USD",
+            "totalRaised": "$300M+ (pre-IPO)"
+          },
+          "companyIntel": {
+            "employeeCount": {
+              "range": "201-500",
+              "source": "LinkedIn"
+            },
+            "yearFounded": 1999,
+            "aiFocus": ["Quantum Computing", "Quantum Annealing", "Optimization", "Quantum ML"],
+            "industry": "Quantum Computing"
+          },
+          "socialMedia": {
+            "twitter": "@dwavesys",
+            "website": "https://www.dwavesys.com"
+          }
+        }
+      },
+      {
+        "name": "1QBit",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Quantum Software",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/1qbit",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 11000,
+            "description": "Quantum computing software company",
+            "headquarters": "Vancouver, BC",
+            "founded": 2012,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Andrew Fursman",
+              "linkedinUrl": "https://www.linkedin.com/in/andrew-fursman",
+              "role": "CEO & Co-Founder"
+            }
+          },
+          "funding": {
+            "totalRaised": "$45M+",
+            "investors": ["Accenture", "Allianz", "Royal Bank of Scotland"],
+            "lastRound": "Series B"
+          },
+          "companyIntel": {
+            "yearFounded": 2012,
+            "aiFocus": ["Quantum Software", "Quantum Algorithms", "Optimization", "Drug Discovery"],
+            "industry": "Quantum Computing Software"
+          },
+          "socialMedia": {
+            "twitter": "@1QBit",
+            "website": "https://1qbit.com"
+          }
+        }
+      },
+      {
+        "name": "Klue",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Competitive Intelligence AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/klue",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 8000,
+            "description": "AI-powered competitive intelligence platform",
+            "headquarters": "Vancouver, BC",
+            "founded": 2015,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Jason Smith",
+              "linkedinUrl": "https://www.linkedin.com/in/jasonsmithklue",
+              "role": "CEO & Co-Founder"
+            }
+          },
+          "funding": {
+            "totalRaised": "$62M+",
+            "rounds": [
+              {
+                "type": "Series B",
+                "amount": "$62M",
+                "date": "2022"
+              }
+            ]
+          },
+          "companyIntel": {
+            "yearFounded": 2015,
+            "aiFocus": ["Competitive Intelligence", "NLP", "Market Intelligence", "Sales Enablement"],
+            "industry": "B2B SaaS"
+          },
+          "socialMedia": {
+            "twitter": "@KlueHQ",
+            "website": "https://klue.com"
+          }
+        }
+      },
+      {
+        "name": "Clio",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Legal Tech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/clio---cloud-based-legal-technology",
+            "verified": true,
+            "employees": "1001-5000",
+            "followers": 35000,
+            "description": "Cloud-based legal practice management software",
+            "headquarters": "Vancouver, BC (Burnaby)",
+            "founded": 2008,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Jack Newton",
+              "linkedinUrl": "https://www.linkedin.com/in/jacknewton",
+              "role": "CEO & Founder"
+            }
+          },
+          "funding": {
+            "totalRaised": "$900M+",
+            "rounds": [
+              {
+                "type": "Series F",
+                "amount": "$900M",
+                "date": "2024",
+                "valuation": "$3B"
+              }
+            ],
+            "status": "Unicorn"
+          },
+          "companyIntel": {
+            "employeeCount": {
+              "range": "1001-5000",
+              "source": "LinkedIn"
+            },
+            "yearFounded": 2008,
+            "aiFocus": ["Legal AI", "Document Automation", "Practice Management", "Legal Analytics"],
+            "industry": "Legal Technology"
+          },
+          "socialMedia": {
+            "twitter": "@goclio",
+            "website": "https://www.clio.com"
+          }
+        }
+      },
+      {
+        "name": "Thinkific",
+        "category": "AI Companies",
+        "priority": "Tier 1 - EdTech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/thinkific",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 25000,
+            "description": "Platform for creating and selling online courses",
+            "headquarters": "Vancouver, BC",
+            "founded": 2012,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Greg Smith",
+              "linkedinUrl": "https://www.linkedin.com/in/gregdsmith",
+              "role": "CEO & Co-Founder"
+            }
+          },
+          "funding": {
+            "status": "Public company",
+            "ticker": "THNC (TSX)",
+            "ipo": "2021",
+            "marketCap": "~$150M CAD"
+          },
+          "companyIntel": {
+            "yearFounded": 2012,
+            "aiFocus": ["EdTech", "Content Recommendation", "Learning Analytics", "Course Creation AI"],
+            "industry": "Education Technology"
+          },
+          "socialMedia": {
+            "twitter": "@thinkific",
+            "website": "https://www.thinkific.com"
+          }
+        }
+      },
+      {
+        "name": "Certn",
+        "category": "AI Companies",
+        "priority": "Tier 1 - HR Tech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/certn",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 12000,
+            "description": "AI-powered background screening platform",
+            "headquarters": "Victoria, BC",
+            "founded": 2016,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Andrew McLeod",
+              "linkedinUrl": "https://www.linkedin.com/in/andrew-mcleod",
+              "role": "CEO & Founder"
+            }
+          },
+          "funding": {
+            "totalRaised": "$130M+",
+            "rounds": [
+              {
+                "type": "Series B",
+                "amount": "$30M",
+                "date": "2023"
+              }
+            ]
+          },
+          "companyIntel": {
+            "yearFounded": 2016,
+            "aiFocus": ["Background Screening", "Risk Assessment", "Identity Verification", "HR Tech"],
+            "industry": "HR Technology"
+          },
+          "socialMedia": {
+            "twitter": "@certnID",
+            "website": "https://certn.co"
+          }
+        }
+      },
+      {
+        "name": "Photonic",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Quantum Computing",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/teamphotonic",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 3500,
+            "description": "Building a scalable, fault-tolerant quantum computing platform",
+            "headquarters": "Vancouver, BC",
+            "founded": 2016,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Paul Terry",
+              "role": "CEO",
+              "verified": true
+            },
+            "cto": {
+              "name": "Stephanie Simmons",
+              "linkedinUrl": "https://www.linkedin.com/in/stephanie-simmons",
+              "role": "Founder & Chief Quantum Officer"
+            }
+          },
+          "funding": {
+            "totalRaised": "$140M+",
+            "rounds": [
+              {
+                "type": "Series A",
+                "amount": "$100M USD",
+                "date": "2023",
+                "investors": ["Microsoft", "British Columbia Investment Management Corporation", "Inovia Capital"]
+              }
+            ]
+          },
+          "companyIntel": {
+            "yearFounded": 2016,
+            "aiFocus": ["Quantum Computing", "Silicon Photonics", "Quantum Networking", "Distributed Quantum Computing"],
+            "industry": "Quantum Computing",
+            "partnerships": ["Microsoft Azure Quantum"]
+          },
+          "socialMedia": {
+            "twitter": "@PhotonicInc",
+            "website": "https://photonic.com"
+          }
+        }
+      }
+    ],
+    "summary": {
+      "totalOrganizations": 10,
+      "linkedInFound": 10,
+      "fundingDataFound": 10,
+      "keyPeopleFound": 10,
+      "dataPoints": 180,
+      "unicorns": 2,
+      "publicCompanies": 3
+    }
+  }
+}

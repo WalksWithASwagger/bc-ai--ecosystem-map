@@ -1,0 +1,77 @@
+{
+  "updated": [
+    {
+      "name": "Thinkific",
+      "pageId": "240c6f79-9a33-8147-beed-e0df8d0c74fc",
+      "funding": "Updated"
+    },
+    {
+      "name": "Athennian",
+      "pageId": "23fc6f79-9a33-81ec-9b00-e5350a21065d",
+      "funding": "$23M Series B (2022)",
+      "category": "Legal Tech"
+    },
+    {
+      "name": "Traction on Demand",
+      "pageId": "240c6f79-9a33-817d-9849-e58177aa0b05",
+      "funding": "Updated"
+    },
+    {
+      "name": "Lane",
+      "pageId": "240c6f79-9a33-812e-afb8-e60854815e73",
+      "funding": "$4M Seed (2023)",
+      "category": "Fintech"
+    }
+  ],
+  "created": [
+    {
+      "name": "Phoenix Labs",
+      "pageId": "240c6f79-9a33-8130-92b3-de589fea8287",
+      "funding": "$35M Series C (2020)",
+      "category": "Game Development Studio"
+    },
+    {
+      "name": "Relic Entertainment",
+      "pageId": "240c6f79-9a33-8185-b724-cc5bfc9f81c9",
+      "funding": "Acquired by SEGA (2013)",
+      "category": "Game Development Studio"
+    },
+    {
+      "name": "Careteam Technologies",
+      "pageId": "240c6f79-9a33-81e5-aaad-f23c3cd7d053",
+      "funding": "$7.2M Series A (2023)",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Response Biomedical",
+      "pageId": "240c6f79-9a33-81e4-9425-e8ea3ffbdba1",
+      "funding": "Public (TSX:RBM)",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Corvus Energy",
+      "pageId": "240c6f79-9a33-8117-944b-f16f17371048",
+      "funding": "Acquired by Hanwha (2024)",
+      "category": "CleanTech"
+    },
+    {
+      "name": "Loop Energy",
+      "pageId": "240c6f79-9a33-81ae-bd2c-fa145e84bf0e",
+      "funding": "Public (TSX:LPEN)",
+      "category": "CleanTech"
+    },
+    {
+      "name": "Reebee",
+      "pageId": "240c6f79-9a33-814b-9233-fbb143d64dc2",
+      "funding": "$10M Series B (2021)",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Chimp",
+      "pageId": "240c6f79-9a33-81fc-bfeb-f9c49eb55e64",
+      "funding": "$10M Series B (2020)",
+      "category": "Fintech"
+    }
+  ],
+  "errors": []
+}

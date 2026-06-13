@@ -1,0 +1,169 @@
+{"company":"BC + AI Ecosystem Association","companyId":"23dc6f79-9a33-813a-87ca-db616da00740","timestamp":"2025-08-03T07:54:28.914Z","enrichments":{},"sources":[]}
+{"company":"Anodyne Chemistries","companyId":"23dc6f79-9a33-81a7-a907-daaca0f08b42","timestamp":"2025-08-03T07:54:31.906Z","enrichments":{},"sources":[]}
+{"company":"7Gen","companyId":"23dc6f79-9a33-819b-895c-d661b62a0131","timestamp":"2025-08-03T07:54:41.934Z","enrichments":{},"sources":[]}
+{"company":"Denologix","companyId":"23dc6f79-9a33-81b5-85bc-c1c7760e9cde","timestamp":"2025-08-03T07:54:50.353Z","enrichments":{},"sources":[]}
+{"company":"Youneeq","companyId":"23dc6f79-9a33-8189-8263-effee91956db","timestamp":"2025-08-03T07:54:55.620Z","enrichments":{"keyPeople":{"text":"Christopher White (Consectetur adipiscing elit, sed do euism onsectetur adipiscing elit, sed.)\nChristopher White (Consectetur adipiscing elit, sed do euism onsectetur adipiscing elit, sed.)\nChristopher White (Consectetur adipiscing elit, sed do euism onsectetur adipiscing elit, sed.)\nMike Lally (Consectetur adipiscing elit, sed do euism onsectetur adipiscing elit, sed.)\nMike Lally (Consectetur adipiscing elit, sed do euism onsectetur adipiscing elit, sed.)","confidence":0.9,"source":"https://www.youneeq.ca/team"}},"sources":[{"field":"keyPeople","source":"https://www.youneeq.ca/team"}]}
+{"company":"Wavo","companyId":"23dc6f79-9a33-81a8-9759-ebab8088ef2e","timestamp":"2025-08-03T07:55:15.216Z","enrichments":{},"sources":[]}
+{"company":"Ehsai","companyId":"23dc6f79-9a33-81da-85ba-da25185110a4","timestamp":"2025-08-03T07:55:26.858Z","enrichments":{},"sources":[]}
+{"company":"Skylab Technologies","companyId":"23dc6f79-9a33-81bb-8b97-c9890a34148d","timestamp":"2025-08-03T07:55:43.418Z","enrichments":{"funding":{"text":"$.M Seed","confidence":0.8,"source":"https://skylabtech.ai"},"keyPeople":{"text":"Mohammad Nourbakhsh (Machine Learning Developer)","confidence":0.9,"source":"https://skylabtech.ai/about"}},"sources":[{"field":"funding","source":"https://skylabtech.ai"},{"field":"keyPeople","source":"https://skylabtech.ai/about"}]}
+{"company":"Mintent","companyId":"23dc6f79-9a33-816c-8552-eaaeebd3073a","timestamp":"2025-08-03T07:55:47.914Z","enrichments":{},"sources":[]}
+{"company":"Inp Capital","companyId":"23dc6f79-9a33-815f-8c87-cef013414d04","timestamp":"2025-08-03T07:56:01.802Z","enrichments":{},"sources":[]}
+{"company":"IT Kapital","companyId":"23dc6f79-9a33-8121-92f5-c9c7d6ead3d1","timestamp":"2025-08-03T07:56:06.203Z","enrichments":{},"sources":[]}
+{"company":"Silo AI Vancouver","companyId":"227c6f79-9a33-81e4-bc60-ea161cf5430e","timestamp":"2025-08-03T07:56:13.918Z","enrichments":{},"sources":[]}
+{"company":"Microsoft Research Asia Vancouver","companyId":"227c6f79-9a33-8139-8c6b-d68951892879","timestamp":"2025-08-03T07:56:36.729Z","enrichments":{},"sources":[]}
+{"company":"AI Community Conference - Vancouver","companyId":"23fc6f79-9a33-81b1-acfe-f0c48073ddf1","timestamp":"2025-08-03T07:56:38.799Z","enrichments":{"funding":{"text":"$928B series o","confidence":0.8,"source":"https://www.communitydays.org/"}},"sources":[{"field":"funding","source":"https://www.communitydays.org/"}]}
+{"company":"Leasey.AI","companyId":"23fc6f79-9a33-81b5-9314-fe3df8ab6f2c","timestamp":"2025-08-03T07:56:42.555Z","enrichments":{},"sources":[]}
+{"company":"Innovate BC","companyId":"23dc6f79-9a33-813a-9d4d-d8d40eb0bf50","timestamp":"2025-08-03T07:56:45.476Z","enrichments":{},"sources":[]}
+{"company":"Lite-1","companyId":"23dc6f79-9a33-818f-96f7-f943931eb7a8","timestamp":"2025-08-03T07:56:48.888Z","enrichments":{},"sources":[]}
+{"company":"Build Smartr Robotics","companyId":"23dc6f79-9a33-81ca-a561-ead9a2668429","timestamp":"2025-08-03T07:56:53.815Z","enrichments":{},"sources":[]}
+{"company":"Olive","companyId":"23dc6f79-9a33-8175-abc2-c27ff5b33e1c","timestamp":"2025-08-03T07:56:57.731Z","enrichments":{},"sources":[]}
+{"company":"UnlockLand (Meton.ai product)","companyId":"23dc6f79-9a33-81d8-aca0-c368ef30cc2c","timestamp":"2025-08-03T07:57:04.402Z","enrichments":{},"sources":[]}
+{"company":"Rigid Robotics","companyId":"240c6f79-9a33-8182-8bc9-f503f5381116","timestamp":"2025-08-03T07:57:06.818Z","enrichments":{},"sources":[]}
+{"company":"Nexera Robotics","companyId":"23dc6f79-9a33-81af-bf3e-d640e16fd8f7","timestamp":"2025-08-03T07:57:17.998Z","enrichments":{},"sources":[]}
+{"company":"Scopemedia","companyId":"23dc6f79-9a33-812f-a992-d3d1a74f9772","timestamp":"2025-08-03T07:57:20.443Z","enrichments":{},"sources":[]}
+{"company":"Verdi Technologies","companyId":"23dc6f79-9a33-81dd-b188-c19af7e02abc","timestamp":"2025-08-03T07:57:22.868Z","enrichments":{},"sources":[]}
+{"company":"Bonsai Micro","companyId":"23dc6f79-9a33-8151-ac13-f3f183794ab3","timestamp":"2025-08-03T07:57:26.580Z","enrichments":{},"sources":[]}
+{"company":"IAMGOLD Innovation","companyId":"240c6f79-9a33-8165-a23a-c3f876a5eabf","timestamp":"2025-08-03T07:57:38.145Z","enrichments":{},"sources":[]}
+{"company":"Cohere Health Vancouver","companyId":"240c6f79-9a33-811b-bdf0-c46ae8a64687","timestamp":"2025-08-03T07:57:43.791Z","enrichments":{},"sources":[]}
+{"company":"HealthTech Connex","companyId":"240c6f79-9a33-8158-aad6-fcb1e569c6fd","timestamp":"2025-08-03T07:57:50.870Z","enrichments":{"keyPeople":{"text":"Kirk Fisher (Executive)","confidence":0.7,"source":"https://www.healthtechconnex.com"}},"sources":[{"field":"keyPeople","source":"https://www.healthtechconnex.com"}]}
+{"company":"deltAlyz Corp","companyId":"23dc6f79-9a33-8137-8cb4-e08a336edbef","timestamp":"2025-08-03T07:57:57.350Z","enrichments":{},"sources":[]}
+{"company":"4AG Robotics","companyId":"23dc6f79-9a33-8111-8ef7-dfe49820a945","timestamp":"2025-08-03T07:57:59.677Z","enrichments":{},"sources":[]}
+{"company":"Centre for Artificial Intelligence Decision-making and Action (CAIDA)","companyId":"23dc6f79-9a33-81f8-8d57-f71c93932cd8","timestamp":"2025-08-03T07:58:03.846Z","enrichments":{},"sources":[]}
+{"company":"Variational AI","companyId":"23dc6f79-9a33-81e0-ba8a-c5a48fc5b79b","timestamp":"2025-08-03T07:58:06.805Z","enrichments":{"funding":{"text":"$7B\n\nSource: https://variational.ai/press","confidence":0.8,"source":"https://variational.ai/press"}},"sources":[{"field":"funding","source":"https://variational.ai/press"}]}
+{"company":"Artificial Intelligence Network of BC (AInBC)","companyId":"1f0c6f79-9a33-816f-b270-fd4ca2e34fe8","timestamp":"2025-08-03T07:58:13.360Z","enrichments":{"funding":{"text":"$.B Funding","confidence":0.8,"source":"https://ainbc.ai"}},"sources":[{"field":"funding","source":"https://ainbc.ai"}]}
+{"company":"BC Centre for Innovation and Clean Energy","companyId":"23fc6f79-9a33-8136-b651-fed831c1c8a8","timestamp":"2025-08-03T07:58:16.001Z","enrichments":{},"sources":[]}
+{"company":"Excelar Technologies","companyId":"23fc6f79-9a33-81f2-aa7d-f41a2157ffd8","timestamp":"2025-08-03T07:58:19.298Z","enrichments":{"email":{"email":"info@excelar.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"MarineAI Technologies","companyId":"23fc6f79-9a33-8154-ab55-d07faddcc321","timestamp":"2025-08-03T07:58:47.131Z","enrichments":{"email":{"email":"info@marineai.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"AIEX","companyId":"23dc6f79-9a33-81a9-bb63-e9e24158ed69","timestamp":"2025-08-03T07:58:51.153Z","enrichments":{},"sources":[]}
+{"company":"Digital Technology Supercluster","companyId":"23dc6f79-9a33-81b6-aa0d-cba176a7845a","timestamp":"2025-08-03T07:59:05.917Z","enrichments":{"funding":{"text":"$200M\n\nSource: https://digitalsupercluster.ca/media","confidence":0.8,"source":"https://digitalsupercluster.ca/media"}},"sources":[{"field":"funding","source":"https://digitalsupercluster.ca/media"}]}
+{"company":"Arrowsmith Genetics","companyId":"23dc6f79-9a33-81f9-ad4c-f530031c9f51","timestamp":"2025-08-03T07:59:15.763Z","enrichments":{},"sources":[]}
+{"company":"Canexia Health","companyId":"23dc6f79-9a33-815b-9fdd-fe8347058ffa","timestamp":"2025-08-03T07:59:20.873Z","enrichments":{},"sources":[]}
+{"company":"HomeCourt/NEX Team","companyId":"23dc6f79-9a33-81f8-af32-d4cd0226188a","timestamp":"2025-08-03T07:59:24.839Z","enrichments":{},"sources":[]}
+{"company":"FTSY","companyId":"23dc6f79-9a33-8140-8403-e09bb69985d4","timestamp":"2025-08-03T07:59:30.322Z","enrichments":{"email":{"email":"info@ftsy.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Compression.ai","companyId":"23dc6f79-9a33-81e3-83fe-f975f55614f8","timestamp":"2025-08-03T07:59:46.481Z","enrichments":{"email":{"email":"info@compression.ai","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Glance Technologies","companyId":"23dc6f79-9a33-8144-b577-f891fdc60ff3","timestamp":"2025-08-03T07:59:54.277Z","enrichments":{},"sources":[]}
+{"company":"SHADE.ai","companyId":"23dc6f79-9a33-81e2-a85d-e2a0d3f4b05a","timestamp":"2025-08-03T08:00:00.971Z","enrichments":{"email":{"email":"info@shade.ai","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"AntEater","companyId":"23dc6f79-9a33-81a5-864b-fc8e055e7ae7","timestamp":"2025-08-03T08:00:04.461Z","enrichments":{"email":{"email":"info@anteater.io","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Lambda Science","companyId":"23dc6f79-9a33-811e-aabd-c0551d8c4da4","timestamp":"2025-08-03T08:00:07.372Z","enrichments":{"email":{"email":"info@lambdascience.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Eli Report","companyId":"23dc6f79-9a33-8190-86b1-c0f16fd86d82","timestamp":"2025-08-03T08:00:10.881Z","enrichments":{},"sources":[]}
+{"company":"Sentient","companyId":"23dc6f79-9a33-8157-8931-f46f8cf77e63","timestamp":"2025-08-03T08:00:37.174Z","enrichments":{"email":{"email":"info@sentient.com","confidence":0.7,"source":"Pattern (MX verified)"},"keyPeople":{"text":"Kirsten LaMotte (In her role, Kirsten oversees all Business Development, Partnerships and Events for Sentient Jet...)","confidence":0.9,"source":"https://www.sentient.com/team"}},"sources":[{"field":"email","source":"Pattern (MX verified)"},{"field":"keyPeople","source":"https://www.sentient.com/team"}]}
+{"company":"TalentMarketplace","companyId":"23dc6f79-9a33-8180-946d-e027f77f5721","timestamp":"2025-08-03T08:00:45.539Z","enrichments":{},"sources":[]}
+{"company":"Theory+Practice","companyId":"23dc6f79-9a33-818d-be34-c0fde5433f6c","timestamp":"2025-08-03T08:00:48.147Z","enrichments":{"email":{"email":"info@theorypractice.ai","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"FIRMOGRAM","companyId":"23dc6f79-9a33-81d3-9a64-c608275ab2b5","timestamp":"2025-08-03T08:00:51.852Z","enrichments":{"email":{"email":"info@firmogram.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"CareCru","companyId":"23dc6f79-9a33-8161-8ad6-fd2f7d4777ab","timestamp":"2025-08-03T08:00:57.466Z","enrichments":{},"sources":[]}
+{"company":"Sports Iq Analytics","companyId":"23dc6f79-9a33-81b5-a6c5-f9881d713228","timestamp":"2025-08-03T08:01:02.181Z","enrichments":{"email":{"email":"info@sports.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Warranty Life","companyId":"23dc6f79-9a33-8187-a111-d4478a735ead","timestamp":"2025-08-03T08:01:36.404Z","enrichments":{},"sources":[]}
+{"company":"Thinkcx","companyId":"23dc6f79-9a33-813a-9711-dfb60aac7eee","timestamp":"2025-08-03T08:01:43.053Z","enrichments":{},"sources":[]}
+{"company":"Strategybox","companyId":"23dc6f79-9a33-81c4-ab6e-d5054a76ea73","timestamp":"2025-08-03T08:01:52.892Z","enrichments":{},"sources":[]}
+{"company":"Disrupted Logic","companyId":"23dc6f79-9a33-81c6-a0f0-c9a851d29e42","timestamp":"2025-08-03T08:01:59.943Z","enrichments":{"email":{"email":"info@disruptedlogic.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Nextwave Software","companyId":"23dc6f79-9a33-814a-85f1-e13a5ddb5a31","timestamp":"2025-08-03T08:02:54.431Z","enrichments":{},"sources":[]}
+{"company":"Illusense","companyId":"23dc6f79-9a33-8132-91d8-f224a75c315b","timestamp":"2025-08-03T08:03:01.562Z","enrichments":{},"sources":[]}
+{"company":"Scanbo","companyId":"23dc6f79-9a33-811a-82c7-fbdde4cbfe8a","timestamp":"2025-08-03T08:03:04.654Z","enrichments":{"email":{"email":"info@scanbo.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Blockmint","companyId":"23dc6f79-9a33-81db-af41-c09c08abf9d7","timestamp":"2025-08-03T08:03:28.281Z","enrichments":{},"sources":[]}
+{"company":"Advize","companyId":"23dc6f79-9a33-811d-b460-d2c8f341a7f4","timestamp":"2025-08-03T08:03:34.758Z","enrichments":{"email":{"email":"info@advize.ca","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Viewpoint Ai","companyId":"23dc6f79-9a33-8103-a5ed-f5fff8b87864","timestamp":"2025-08-03T08:03:39.865Z","enrichments":{"email":{"email":"yourname@company.com","confidence":0.9,"source":"Website"}},"sources":[{"field":"email","source":"Website"}]}
+{"company":"Xtract Ai","companyId":"23dc6f79-9a33-8157-b566-d30d584bf312","timestamp":"2025-08-03T08:03:47.160Z","enrichments":{"email":{"email":"info@xtract.io","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Onecup Ai","companyId":"23dc6f79-9a33-8181-b5c1-fa5d120a9ced","timestamp":"2025-08-03T08:03:56.520Z","enrichments":{"email":{"email":"help@shopblends.com","confidence":0.9,"source":"Website"}},"sources":[{"field":"email","source":"Website"}]}
+{"company":"BC + AI Ecosystem Association","companyId":"23dc6f79-9a33-813a-87ca-db616da00740","timestamp":"2025-08-03T08:09:18.808Z","enrichments":{},"sources":[]}
+{"company":"Anodyne Chemistries","companyId":"23dc6f79-9a33-81a7-a907-daaca0f08b42","timestamp":"2025-08-03T08:09:21.433Z","enrichments":{},"sources":[]}
+{"company":"7Gen","companyId":"23dc6f79-9a33-819b-895c-d661b62a0131","timestamp":"2025-08-03T08:09:26.929Z","enrichments":{},"sources":[]}
+{"company":"Denologix","companyId":"23dc6f79-9a33-81b5-85bc-c1c7760e9cde","timestamp":"2025-08-03T08:09:30.941Z","enrichments":{},"sources":[]}
+{"company":"Youneeq","companyId":"23dc6f79-9a33-8189-8263-effee91956db","timestamp":"2025-08-03T08:09:33.918Z","enrichments":{},"sources":[]}
+{"company":"Wavo","companyId":"23dc6f79-9a33-81a8-9759-ebab8088ef2e","timestamp":"2025-08-03T08:09:47.142Z","enrichments":{},"sources":[]}
+{"company":"Ehsai","companyId":"23dc6f79-9a33-81da-85ba-da25185110a4","timestamp":"2025-08-03T08:09:52.073Z","enrichments":{},"sources":[]}
+{"company":"Mintent","companyId":"23dc6f79-9a33-816c-8552-eaaeebd3073a","timestamp":"2025-08-03T08:10:07.257Z","enrichments":{},"sources":[]}
+{"company":"Inp Capital","companyId":"23dc6f79-9a33-815f-8c87-cef013414d04","timestamp":"2025-08-03T08:10:15.736Z","enrichments":{},"sources":[]}
+{"company":"IT Kapital","companyId":"23dc6f79-9a33-8121-92f5-c9c7d6ead3d1","timestamp":"2025-08-03T08:10:19.237Z","enrichments":{},"sources":[]}
+{"company":"Silo AI Vancouver","companyId":"227c6f79-9a33-81e4-bc60-ea161cf5430e","timestamp":"2025-08-03T08:10:21.968Z","enrichments":{},"sources":[]}
+{"company":"Microsoft Research Asia Vancouver","companyId":"227c6f79-9a33-8139-8c6b-d68951892879","timestamp":"2025-08-03T08:10:44.474Z","enrichments":{},"sources":[]}
+{"company":"AI Community Conference - Vancouver","companyId":"23fc6f79-9a33-81b1-acfe-f0c48073ddf1","timestamp":"2025-08-03T08:10:46.545Z","enrichments":{},"sources":[]}
+{"company":"Leasey.AI","companyId":"23fc6f79-9a33-81b5-9314-fe3df8ab6f2c","timestamp":"2025-08-03T08:10:49.033Z","enrichments":{},"sources":[]}
+{"company":"Innovate BC","companyId":"23dc6f79-9a33-813a-9d4d-d8d40eb0bf50","timestamp":"2025-08-03T08:10:51.881Z","enrichments":{},"sources":[]}
+{"company":"Lite-1","companyId":"23dc6f79-9a33-818f-96f7-f943931eb7a8","timestamp":"2025-08-03T08:10:54.844Z","enrichments":{},"sources":[]}
+{"company":"Build Smartr Robotics","companyId":"23dc6f79-9a33-81ca-a561-ead9a2668429","timestamp":"2025-08-03T08:10:59.705Z","enrichments":{},"sources":[]}
+{"company":"Olive","companyId":"23dc6f79-9a33-8175-abc2-c27ff5b33e1c","timestamp":"2025-08-03T08:11:03.689Z","enrichments":{},"sources":[]}
+{"company":"UnlockLand (Meton.ai product)","companyId":"23dc6f79-9a33-81d8-aca0-c368ef30cc2c","timestamp":"2025-08-03T08:11:09.929Z","enrichments":{},"sources":[]}
+{"company":"BC + AI Ecosystem Association","companyId":"23dc6f79-9a33-813a-87ca-db616da00740","timestamp":"2025-08-03T16:23:25.968Z","enrichments":{},"sources":[]}
+{"company":"Anodyne Chemistries","companyId":"23dc6f79-9a33-81a7-a907-daaca0f08b42","timestamp":"2025-08-03T16:23:28.601Z","enrichments":{},"sources":[]}
+{"company":"7Gen","companyId":"23dc6f79-9a33-819b-895c-d661b62a0131","timestamp":"2025-08-03T16:23:33.095Z","enrichments":{},"sources":[]}
+{"company":"Wavo","companyId":"23dc6f79-9a33-81a8-9759-ebab8088ef2e","timestamp":"2025-08-03T16:23:38.652Z","enrichments":{},"sources":[]}
+{"company":"Ehsai","companyId":"23dc6f79-9a33-81da-85ba-da25185110a4","timestamp":"2025-08-03T16:23:43.877Z","enrichments":{},"sources":[]}
+{"company":"Mintent","companyId":"23dc6f79-9a33-816c-8552-eaaeebd3073a","timestamp":"2025-08-03T16:23:58.642Z","enrichments":{},"sources":[]}
+{"company":"Inp Capital","companyId":"23dc6f79-9a33-815f-8c87-cef013414d04","timestamp":"2025-08-03T16:24:04.618Z","enrichments":{},"sources":[]}
+{"company":"IT Kapital","companyId":"23dc6f79-9a33-8121-92f5-c9c7d6ead3d1","timestamp":"2025-08-03T16:24:08.568Z","enrichments":{},"sources":[]}
+{"company":"Microsoft Research Asia Vancouver","companyId":"227c6f79-9a33-8139-8c6b-d68951892879","timestamp":"2025-08-03T16:24:11.146Z","enrichments":{},"sources":[]}
+{"company":"AI Community Conference - Vancouver","companyId":"23fc6f79-9a33-81b1-acfe-f0c48073ddf1","timestamp":"2025-08-03T16:24:13.219Z","enrichments":{},"sources":[]}
+{"company":"Innovate BC","companyId":"23dc6f79-9a33-813a-9d4d-d8d40eb0bf50","timestamp":"2025-08-03T16:24:15.701Z","enrichments":{},"sources":[]}
+{"company":"Lite-1","companyId":"23dc6f79-9a33-818f-96f7-f943931eb7a8","timestamp":"2025-08-03T16:24:18.999Z","enrichments":{},"sources":[]}
+{"company":"Build Smartr Robotics","companyId":"23dc6f79-9a33-81ca-a561-ead9a2668429","timestamp":"2025-08-03T16:24:23.475Z","enrichments":{},"sources":[]}
+{"company":"Olive","companyId":"23dc6f79-9a33-8175-abc2-c27ff5b33e1c","timestamp":"2025-08-03T16:24:27.428Z","enrichments":{},"sources":[]}
+{"company":"UnlockLand (Meton.ai product)","companyId":"23dc6f79-9a33-81d8-aca0-c368ef30cc2c","timestamp":"2025-08-03T16:24:33.805Z","enrichments":{},"sources":[]}
+{"company":"Lila Bioscience","companyId":"244c6f79-9a33-81da-975a-f23353c402e4","timestamp":"2025-08-03T16:24:36.116Z","enrichments":{},"sources":[]}
+{"company":"Rigid Robotics","companyId":"240c6f79-9a33-8182-8bc9-f503f5381116","timestamp":"2025-08-03T16:24:38.134Z","enrichments":{},"sources":[]}
+{"company":"Nexera Robotics","companyId":"23dc6f79-9a33-81af-bf3e-d640e16fd8f7","timestamp":"2025-08-03T16:24:48.536Z","enrichments":{},"sources":[]}
+{"company":"Scopemedia","companyId":"23dc6f79-9a33-812f-a992-d3d1a74f9772","timestamp":"2025-08-03T16:24:50.925Z","enrichments":{},"sources":[]}
+{"company":"Verdi Technologies","companyId":"23dc6f79-9a33-81dd-b188-c19af7e02abc","timestamp":"2025-08-03T16:24:53.190Z","enrichments":{},"sources":[]}
+{"company":"Bonsai Micro","companyId":"23dc6f79-9a33-8151-ac13-f3f183794ab3","timestamp":"2025-08-03T16:24:56.972Z","enrichments":{},"sources":[]}
+{"company":"Flash Forest","companyId":"244c6f79-9a33-818a-98b7-c7c6cb8d117b","timestamp":"2025-08-03T16:25:07.459Z","enrichments":{"email":{"email":"info@flashforest.ca","confidence":0.9,"source":"Website"}},"sources":[{"field":"email","source":"Website"}]}
+{"company":"IAMGOLD Innovation","companyId":"240c6f79-9a33-8165-a23a-c3f876a5eabf","timestamp":"2025-08-03T16:25:11.850Z","enrichments":{},"sources":[]}
+{"company":"Cohere Health Vancouver","companyId":"240c6f79-9a33-811b-bdf0-c46ae8a64687","timestamp":"2025-08-03T16:25:17.418Z","enrichments":{},"sources":[]}
+{"company":"deltAlyz Corp","companyId":"23dc6f79-9a33-8137-8cb4-e08a336edbef","timestamp":"2025-08-03T16:25:24.759Z","enrichments":{},"sources":[]}
+{"company":"4AG Robotics","companyId":"23dc6f79-9a33-8111-8ef7-dfe49820a945","timestamp":"2025-08-03T16:25:27.067Z","enrichments":{},"sources":[]}
+{"company":"Centre for Artificial Intelligence Decision-making and Action (CAIDA)","companyId":"23dc6f79-9a33-81f8-8d57-f71c93932cd8","timestamp":"2025-08-03T16:25:32.792Z","enrichments":{},"sources":[]}
+{"company":"Nexii Building Solutions","companyId":"244c6f79-9a33-8123-8fca-d4e58a7dbb68","timestamp":"2025-08-03T16:25:35.562Z","enrichments":{"email":{"email":"inquiries@nexii.com","confidence":0.9,"source":"Website"}},"sources":[{"field":"email","source":"Website"}]}
+{"company":"BC Centre for Innovation and Clean Energy","companyId":"23fc6f79-9a33-8136-b651-fed831c1c8a8","timestamp":"2025-08-03T16:25:40.954Z","enrichments":{},"sources":[]}
+{"company":"Excelar Technologies","companyId":"23fc6f79-9a33-81f2-aa7d-f41a2157ffd8","timestamp":"2025-08-03T16:25:44.050Z","enrichments":{},"sources":[]}
+{"company":"MarineAI Technologies","companyId":"23fc6f79-9a33-8154-ab55-d07faddcc321","timestamp":"2025-08-03T16:26:00.785Z","enrichments":{},"sources":[]}
+{"company":"AIEX","companyId":"23dc6f79-9a33-81a9-bb63-e9e24158ed69","timestamp":"2025-08-03T16:26:03.273Z","enrichments":{},"sources":[]}
+{"company":"Arrowsmith Genetics","companyId":"23dc6f79-9a33-81f9-ad4c-f530031c9f51","timestamp":"2025-08-03T16:26:17.489Z","enrichments":{},"sources":[]}
+{"company":"Canexia Health","companyId":"23dc6f79-9a33-815b-9fdd-fe8347058ffa","timestamp":"2025-08-03T16:26:22.267Z","enrichments":{},"sources":[]}
+{"company":"HomeCourt/NEX Team","companyId":"23dc6f79-9a33-81f8-af32-d4cd0226188a","timestamp":"2025-08-03T16:26:26.097Z","enrichments":{},"sources":[]}
+{"company":"FTSY","companyId":"23dc6f79-9a33-8140-8403-e09bb69985d4","timestamp":"2025-08-03T16:26:30.991Z","enrichments":{},"sources":[]}
+{"company":"Compression.ai","companyId":"23dc6f79-9a33-81e3-83fe-f975f55614f8","timestamp":"2025-08-03T16:26:35.188Z","enrichments":{},"sources":[]}
+{"company":"Glance Technologies","companyId":"23dc6f79-9a33-8144-b577-f891fdc60ff3","timestamp":"2025-08-03T16:26:39.292Z","enrichments":{},"sources":[]}
+{"company":"SHADE.ai","companyId":"23dc6f79-9a33-81e2-a85d-e2a0d3f4b05a","timestamp":"2025-08-03T16:26:43.753Z","enrichments":{},"sources":[]}
+{"company":"AntEater","companyId":"23dc6f79-9a33-81a5-864b-fc8e055e7ae7","timestamp":"2025-08-03T16:26:46.223Z","enrichments":{},"sources":[]}
+{"company":"Lambda Science","companyId":"23dc6f79-9a33-811e-aabd-c0551d8c4da4","timestamp":"2025-08-03T16:26:48.535Z","enrichments":{},"sources":[]}
+{"company":"Eli Report","companyId":"23dc6f79-9a33-8190-86b1-c0f16fd86d82","timestamp":"2025-08-03T16:26:50.978Z","enrichments":{},"sources":[]}
+{"company":"Sentient","companyId":"23dc6f79-9a33-8157-8931-f46f8cf77e63","timestamp":"2025-08-03T16:27:06.682Z","enrichments":{},"sources":[]}
+{"company":"TalentMarketplace","companyId":"23dc6f79-9a33-8180-946d-e027f77f5721","timestamp":"2025-08-03T16:27:10.981Z","enrichments":{},"sources":[]}
+{"company":"Theory+Practice","companyId":"23dc6f79-9a33-818d-be34-c0fde5433f6c","timestamp":"2025-08-03T16:27:13.390Z","enrichments":{},"sources":[]}
+{"company":"FIRMOGRAM","companyId":"23dc6f79-9a33-81d3-9a64-c608275ab2b5","timestamp":"2025-08-03T16:27:16.007Z","enrichments":{},"sources":[]}
+{"company":"CareCru","companyId":"23dc6f79-9a33-8161-8ad6-fd2f7d4777ab","timestamp":"2025-08-03T16:27:19.282Z","enrichments":{},"sources":[]}
+{"company":"Sports Iq Analytics","companyId":"23dc6f79-9a33-81b5-a6c5-f9881d713228","timestamp":"2025-08-03T16:27:22.609Z","enrichments":{},"sources":[]}
+{"company":"Warranty Life","companyId":"23dc6f79-9a33-8187-a111-d4478a735ead","timestamp":"2025-08-03T16:27:44.251Z","enrichments":{},"sources":[]}
+{"company":"Thinkcx","companyId":"23dc6f79-9a33-813a-9711-dfb60aac7eee","timestamp":"2025-08-03T16:27:50.675Z","enrichments":{},"sources":[]}
+{"company":"Strategybox","companyId":"23dc6f79-9a33-81c4-ab6e-d5054a76ea73","timestamp":"2025-08-03T16:27:56.406Z","enrichments":{},"sources":[]}
+{"company":"Disrupted Logic","companyId":"23dc6f79-9a33-81c6-a0f0-c9a851d29e42","timestamp":"2025-08-03T16:28:03.383Z","enrichments":{},"sources":[]}
+{"company":"Nextwave Software","companyId":"23dc6f79-9a33-814a-85f1-e13a5ddb5a31","timestamp":"2025-08-03T16:28:36.673Z","enrichments":{},"sources":[]}
+{"company":"Illusense","companyId":"23dc6f79-9a33-8132-91d8-f224a75c315b","timestamp":"2025-08-03T16:28:43.587Z","enrichments":{},"sources":[]}
+{"company":"Scanbo","companyId":"23dc6f79-9a33-811a-82c7-fbdde4cbfe8a","timestamp":"2025-08-03T16:28:46.393Z","enrichments":{},"sources":[]}
+{"company":"Blockmint","companyId":"23dc6f79-9a33-81db-af41-c09c08abf9d7","timestamp":"2025-08-03T16:29:01.661Z","enrichments":{},"sources":[]}
+{"company":"Advize","companyId":"23dc6f79-9a33-811d-b460-d2c8f341a7f4","timestamp":"2025-08-03T16:29:07.167Z","enrichments":{},"sources":[]}
+{"company":"Viewpoint Ai","companyId":"23dc6f79-9a33-8103-a5ed-f5fff8b87864","timestamp":"2025-08-03T16:29:10.319Z","enrichments":{},"sources":[]}
+{"company":"Xtract Ai","companyId":"23dc6f79-9a33-8157-b566-d30d584bf312","timestamp":"2025-08-03T16:29:14.930Z","enrichments":{},"sources":[]}
+{"company":"Onecup Ai","companyId":"23dc6f79-9a33-8181-b5c1-fa5d120a9ced","timestamp":"2025-08-03T16:29:20.850Z","enrichments":{},"sources":[]}
+{"company":"Intellabridge Technology Corporation","companyId":"23dc6f79-9a33-81a7-9330-fe6d0095bb50","timestamp":"2025-08-03T16:29:41.831Z","enrichments":{},"sources":[]}
+{"company":"Women Love Herbs","companyId":"23dc6f79-9a33-81eb-8293-f13d82a2d6d6","timestamp":"2025-08-03T16:29:44.572Z","enrichments":{"email":{"email":"info@womenloveherbs.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Intuitive AI.","companyId":"23dc6f79-9a33-818a-aa9b-cb38dcd9e128","timestamp":"2025-08-03T16:29:52.126Z","enrichments":{"email":{"email":"info@intuitive.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Spheria","companyId":"23dc6f79-9a33-81ff-a275-e37861d38a9f","timestamp":"2025-08-03T16:30:02.293Z","enrichments":{},"sources":[]}
+{"company":"Helios-Helmet","companyId":"23dc6f79-9a33-81db-8d0a-c513f276a998","timestamp":"2025-08-03T16:30:05.889Z","enrichments":{"email":{"email":"info@helios-helmet.com","confidence":0.9,"source":"Website"}},"sources":[{"field":"email","source":"Website"}]}
+{"company":"Safety CLI Cybersecurity","companyId":"23dc6f79-9a33-8142-a860-f4edc5058562","timestamp":"2025-08-03T16:30:35.423Z","enrichments":{"email":{"email":"info@safety.io","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"AI Home Optimizer","companyId":"23dc6f79-9a33-81b7-8f07-fb4132cff563","timestamp":"2025-08-03T16:30:58.412Z","enrichments":{"email":{"email":"info@ai.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Properti Edge Solutions","companyId":"23dc6f79-9a33-8148-8ad7-d0fe2a41e2ba","timestamp":"2025-08-03T16:31:04.568Z","enrichments":{"email":{"email":"david@propertiedge.com","confidence":0.9,"source":"Website"}},"sources":[{"field":"email","source":"Website"}]}
+{"company":"Pilot - pilotplans.com","companyId":"23dc6f79-9a33-8179-8f60-e712928bccee","timestamp":"2025-08-03T16:31:10.904Z","enrichments":{"email":{"email":"info@pilotplans.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Djobzy","companyId":"23dc6f79-9a33-81e4-b8ae-d24935abb9b5","timestamp":"2025-08-03T16:31:18.522Z","enrichments":{"email":{"email":"info@djobzy.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Adopto","companyId":"23dc6f79-9a33-814d-8e9f-ded8704cfdba","timestamp":"2025-08-03T16:31:30.487Z","enrichments":{"email":{"email":"info@adopto.org","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Swipe Right App","companyId":"23dc6f79-9a33-81e5-9701-ed735281d85a","timestamp":"2025-08-03T16:31:38.096Z","enrichments":{"email":{"email":"info@swipe.com","confidence":0.9,"source":"Website"}},"sources":[{"field":"email","source":"Website"}]}
+{"company":"VirtualReception.AI","companyId":"23dc6f79-9a33-8189-851e-edcd4773d1ab","timestamp":"2025-08-03T16:31:43.363Z","enrichments":{"email":{"email":"info@virtualreception.ai","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Ringable AI","companyId":"23dc6f79-9a33-8116-ba98-e112febed2b5","timestamp":"2025-08-03T16:31:49.925Z","enrichments":{},"sources":[]}
+{"company":"Prompt Genie","companyId":"23dc6f79-9a33-8176-ab6e-faa7b6117bab","timestamp":"2025-08-03T16:31:58.670Z","enrichments":{"email":{"email":"info@promptgenie.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"LōD Technologies Inc.","companyId":"23dc6f79-9a33-81dc-8137-c5cefae032c8","timestamp":"2025-08-03T16:32:01.793Z","enrichments":{"email":{"email":"info@ld.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"EPIC Semiconductors","companyId":"23dc6f79-9a33-8181-b9d9-cba6685bb81d","timestamp":"2025-08-03T16:32:17.997Z","enrichments":{},"sources":[]}
+{"company":"Thynkli","companyId":"23dc6f79-9a33-8115-b11e-cf09506ea76e","timestamp":"2025-08-03T16:32:26.673Z","enrichments":{"email":{"email":"info@thynkli.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"FansNetwork","companyId":"23dc6f79-9a33-81c8-aeeb-dd68a7b8cead","timestamp":"2025-08-03T16:32:40.463Z","enrichments":{"email":{"email":"info@fansnetwork.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Blackout Media","companyId":"23dc6f79-9a33-814d-bcfe-c9226472778c","timestamp":"2025-08-03T16:32:56.317Z","enrichments":{"email":{"email":"karl@blackoutmedia.ca","confidence":0.9,"source":"Website"},"funding":{"text":"$.B series d","confidence":0.8,"source":"https://www.blackoutmedia.ca"}},"sources":[{"field":"email","source":"Website"},{"field":"funding","source":"https://www.blackoutmedia.ca"}]}
+{"company":"1SecondPainting","companyId":"23dc6f79-9a33-810f-a61f-d813454afa7b","timestamp":"2025-08-03T16:33:03.801Z","enrichments":{"email":{"email":"info@1secondpainting.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"Flashee","companyId":"23dc6f79-9a33-81c4-b67b-c1db4ba889d3","timestamp":"2025-08-03T16:33:12.089Z","enrichments":{"email":{"email":"info@brandbucket.com","confidence":0.9,"source":"Website"}},"sources":[{"field":"email","source":"Website"}]}
+{"company":"Caseway","companyId":"23dc6f79-9a33-8155-a137-e76ee0bdcf89","timestamp":"2025-08-03T16:33:19.807Z","enrichments":{"email":{"email":"info@caseway.com","confidence":0.7,"source":"Pattern (MX verified)"}},"sources":[{"field":"email","source":"Pattern (MX verified)"}]}
+{"company":"VRFY Inc.","companyId":"23dc6f79-9a33-8148-b08c-ec1001d1a0ab","timestamp":"2025-08-03T16:33:23.983Z","enrichments":{},"sources":[]}

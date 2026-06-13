@@ -1,0 +1,639 @@
+{
+  "timestamp": "2025-08-03T06:53:54.594Z",
+  "mode": "live",
+  "researched": 20,
+  "updated": 0,
+  "discoveries": {
+    "aiFocusAreas": 7,
+    "keyPeople": 2,
+    "logos": 8,
+    "projects": 0
+  },
+  "companies": [
+    {
+      "name": "1QB Information Technologies",
+      "discoveries": {
+        "aiFocusAreas": [
+          "Quantum Computing"
+        ],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://1qbit.com/",
+          "github": null,
+          "twitter": "https://twitter.com/1QB_it",
+          "facebook": "https://www.facebook.com/1qbit",
+          "youtube": "https://www.youtube.com/channel/UCCOnA0a3kQM_V9gNf8J4sQA",
+          "blog": null
+        },
+        "logo": {
+          "fileName": "1QB_Information_Technologies_logo.svg",
+          "filePath": "/Users/kk/ecosystem-map-bc-ai/logos/1QB_Information_Technologies_logo.svg",
+          "sourceUrl": "https://1qbit.com/img/1QBit_logo.svg",
+          "downloadedAt": "2025-08-03T06:54:00.420Z"
+        },
+        "description": "We believe the future of computation requires new forms of computational hardware co-developed with software to solve high-value problems.",
+        "notableProjects": []
+      },
+      "sources": [
+        {
+          "url": "https://1qbit.com/",
+          "dataType": "AI Focus Areas",
+          "accessedAt": "2025-08-03T06:53:54.871Z"
+        }
+      ]
+    },
+    {
+      "name": "Canalyst",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [
+          {
+            "name": "and PM",
+            "role": "Executive",
+            "source": "https://canalyst.com/",
+            "discoveredAt": "2025-08-03T06:54:05.129Z"
+          },
+          {
+            "name": "Brandon Wier",
+            "role": "Executive",
+            "source": "https://canalyst.com/",
+            "discoveredAt": "2025-08-03T06:54:05.129Z"
+          }
+        ],
+        "funding": [],
+        "links": {
+          "website": "https://canalyst.com/",
+          "github": null,
+          "twitter": "https://twitter.com/CanalystModels",
+          "facebook": null,
+          "youtube": null,
+          "blog": "https://canalyst.com/blog/"
+        },
+        "logo": null,
+        "description": "4,000+ financial models with every KPI that matters, built and updated by our team of analysts.",
+        "notableProjects": []
+      },
+      "sources": [
+        {
+          "url": "https://canalyst.com/",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:05.129Z"
+        },
+        {
+          "url": "https://canalyst.com/",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:05.129Z"
+        }
+      ]
+    },
+    {
+      "name": "BBTV Holdings",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://www.bbtv.com",
+          "github": null,
+          "twitter": null,
+          "facebook": null,
+          "youtube": null,
+          "blog": "https://www.bbtv.com/blog"
+        },
+        "logo": null,
+        "description": "Our industry-leading solutions empower the world's most influential creators, brands and media companies.",
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "MetaVRse",
+      "discoveries": {
+        "aiFocusAreas": [
+          "Machine Learning & Deep Learning",
+          "Computer Vision",
+          "Cybersecurity AI",
+          "Quantum Computing"
+        ],
+        "keyPeople": [
+          {
+            "name": "of XR",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "at Unlimited",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "of ARB",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "of Orbital",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "of Unlimited",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "and serves",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "Julie Smithson",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "Dan Blair",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "XR Women",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "ix Ventures",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          },
+          {
+            "name": "is father",
+            "role": "Executive",
+            "source": "https://metavrse.com",
+            "discoveredAt": "2025-08-03T06:54:13.205Z"
+          }
+        ],
+        "funding": [],
+        "links": {
+          "website": "https://metavrse.com",
+          "github": null,
+          "twitter": null,
+          "facebook": null,
+          "youtube": null,
+          "blog": null
+        },
+        "logo": null,
+        "description": "METAVRSE is a 3D creation platform for the spatial web",
+        "notableProjects": []
+      },
+      "sources": [
+        {
+          "url": "https://metavrse.com",
+          "dataType": "AI Focus Areas",
+          "accessedAt": "2025-08-03T06:54:12.527Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        },
+        {
+          "url": "https://metavrse.com",
+          "dataType": "Key People",
+          "accessedAt": "2025-08-03T06:54:13.205Z"
+        }
+      ]
+    },
+    {
+      "name": "IAMGOLD Innovation",
+      "discoveries": {
+        "aiFocusAreas": [
+          "CleanTech AI"
+        ],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://www.iamgold.com",
+          "github": null,
+          "twitter": "https://twitter.com/IAMGOLD_Corp",
+          "facebook": null,
+          "youtube": null,
+          "blog": "https://www.iamgold.com/English/blog/default.aspx"
+        },
+        "logo": null,
+        "description": null,
+        "notableProjects": []
+      },
+      "sources": [
+        {
+          "url": "https://www.iamgold.com",
+          "dataType": "AI Focus Areas",
+          "accessedAt": "2025-08-03T06:54:16.874Z"
+        }
+      ]
+    },
+    {
+      "name": "Enterra Feed",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://www.enterrafeed.com",
+          "github": null,
+          "twitter": null,
+          "facebook": null,
+          "youtube": null,
+          "blog": null
+        },
+        "logo": null,
+        "description": "Dewa89 merupakan link resmi login situs penyedia provider terlengkap yang memberikan inovasi, sensasi dan 24 jam service with free Live RTP every day!",
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Lucent BioSciences",
+      "discoveries": {
+        "aiFocusAreas": [
+          "CleanTech AI"
+        ],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://www.lucentbiosciences.com",
+          "github": null,
+          "twitter": "https://twitter.com/soileos",
+          "facebook": "https://www.facebook.com/soileos/",
+          "youtube": null,
+          "blog": "http://blog.lucentbio.com/"
+        },
+        "logo": {
+          "fileName": "Lucent_BioSciences_logo.svg",
+          "filePath": "/Users/kk/ecosystem-map-bc-ai/logos/Lucent_BioSciences_logo.svg",
+          "sourceUrl": "https://lucentbiosciences.com/wp-content/uploads/2022/11/logo.svg",
+          "downloadedAt": "2025-08-03T06:54:38.169Z"
+        },
+        "description": "Lucent Bio innovates crop nutrition for climate-smart agri-food systems, fostering circular economies for a resilient agricultural sector.",
+        "notableProjects": []
+      },
+      "sources": [
+        {
+          "url": "https://www.lucentbiosciences.com",
+          "dataType": "AI Focus Areas",
+          "accessedAt": "2025-08-03T06:54:29.972Z"
+        }
+      ]
+    },
+    {
+      "name": "Ayogo Health",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {},
+        "logo": null,
+        "description": null,
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Verge Agriculture",
+      "discoveries": {
+        "aiFocusAreas": [
+          "Robotics & Automation"
+        ],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://www.vergeag.com",
+          "github": null,
+          "twitter": null,
+          "facebook": null,
+          "youtube": null,
+          "blog": "https://www.vergeag.com/blog"
+        },
+        "logo": {
+          "fileName": "Verge_Agriculture_logo.png",
+          "filePath": "/Users/kk/ecosystem-map-bc-ai/logos/Verge_Agriculture_logo.png",
+          "sourceUrl": "https://www.vergeag.com/Verge%20Logo%20White%20-1-%20-1-.png",
+          "downloadedAt": "2025-08-03T06:54:45.312Z"
+        },
+        "description": "Our massive transformative purpose is to accelerate the transition to autonomous farming. Autonomy in agriculture isn't missing hardware. It's bottlenecked by the absence of a grower decision layer. Verge Ag develops software that empowers growers to plan, simulate, validate, and efficiently execute the movement of equipment in the field, bridging machine capability with grower intelligence",
+        "notableProjects": []
+      },
+      "sources": [
+        {
+          "url": "https://www.vergeag.com",
+          "dataType": "AI Focus Areas",
+          "accessedAt": "2025-08-03T06:54:43.746Z"
+        }
+      ]
+    },
+    {
+      "name": "CRH Medical",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {},
+        "logo": null,
+        "description": null,
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Eupraxia Pharmaceuticals",
+      "discoveries": {
+        "aiFocusAreas": [
+          "Healthcare AI",
+          "Edge Computing"
+        ],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://eupraxiapharma.com",
+          "github": null,
+          "twitter": "https://twitter.com/eupraxia_pharma?lang=en",
+          "facebook": null,
+          "youtube": null,
+          "blog": null
+        },
+        "logo": {
+          "fileName": "Eupraxia_Pharmaceuticals_logo.png",
+          "filePath": "/Users/kk/ecosystem-map-bc-ai/logos/Eupraxia_Pharmaceuticals_logo.png",
+          "sourceUrl": "https://s27.q4cdn.com/842820706/files/design/Eupraxia_Color-01.png",
+          "downloadedAt": "2025-08-03T06:54:59.252Z"
+        },
+        "description": null,
+        "notableProjects": []
+      },
+      "sources": [
+        {
+          "url": "https://eupraxiapharma.com",
+          "dataType": "AI Focus Areas",
+          "accessedAt": "2025-08-03T06:54:54.752Z"
+        }
+      ]
+    },
+    {
+      "name": "Aurinia Pharmaceuticals",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://www.auriniapharma.com",
+          "github": null,
+          "twitter": "https://x.com/AuriniaPharma",
+          "facebook": "https://www.facebook.com/AuriniaPharma",
+          "youtube": null,
+          "blog": null
+        },
+        "logo": {
+          "fileName": "Aurinia_Pharmaceuticals_logo.png",
+          "filePath": "/Users/kk/ecosystem-map-bc-ai/logos/Aurinia_Pharmaceuticals_logo.png",
+          "sourceUrl": "https://cdn.prod.website-files.com/682c6d61ab20a1eae95adbc6/684b2da77f3a0b8ea149c967_aurinia-logo-r.avif",
+          "downloadedAt": "2025-08-03T06:55:04.111Z"
+        },
+        "description": "Aurinia Pharmaceuticals Inc. is a biopharmaceutical company focused on delivering therapies to people living with autoimmune diseases with high unmet medical needs.",
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Chimp",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://chimp.net",
+          "github": null,
+          "twitter": null,
+          "facebook": null,
+          "youtube": null,
+          "blog": null
+        },
+        "logo": null,
+        "description": "Find Canadian charities, manage your charitable giving, give with others, and create the change you want to see in the world from one account.",
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Reebee",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {},
+        "logo": null,
+        "description": null,
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Loop Energy",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://loopenergy.com",
+          "github": null,
+          "twitter": null,
+          "facebook": null,
+          "youtube": null,
+          "blog": null
+        },
+        "logo": null,
+        "description": null,
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Corvus Energy",
+      "discoveries": {
+        "aiFocusAreas": [
+          "CleanTech AI"
+        ],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://corvusenergy.com",
+          "github": null,
+          "twitter": null,
+          "facebook": "https://www.facebook.com/Corvusenergyglobal/",
+          "youtube": null,
+          "blog": null
+        },
+        "logo": null,
+        "description": "Marine Energy Storage Systems: Corvus Energy is the world’s leading supplier of safe, innovative and reliable zero-emission solutions for all segments in the maritime industry.",
+        "notableProjects": []
+      },
+      "sources": [
+        {
+          "url": "https://corvusenergy.com",
+          "dataType": "AI Focus Areas",
+          "accessedAt": "2025-08-03T06:55:26.169Z"
+        }
+      ]
+    },
+    {
+      "name": "Response Biomedical",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://responsebio.com",
+          "github": null,
+          "twitter": "https://twitter.com/Response_Bio",
+          "facebook": "https://www.facebook.com/ResponseBiomedical/",
+          "youtube": "https://www.youtube.com/user/ResponseBiomedical",
+          "blog": null
+        },
+        "logo": {
+          "fileName": "Response_Biomedical_logo.svg",
+          "filePath": "/Users/kk/ecosystem-map-bc-ai/logos/Response_Biomedical_logo.svg",
+          "sourceUrl": "https://responsebio.com/wp-content/uploads/2024/07/logo-response-biomedical.svg",
+          "downloadedAt": "2025-08-03T06:55:31.757Z"
+        },
+        "description": "Response Biomedical is passionate about providing diagnostic tools to help prevent life-threatening diseases. We're raising the bar in acute care diagnostics.",
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Careteam Technologies",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://careteam.ca",
+          "github": null,
+          "twitter": null,
+          "facebook": null,
+          "youtube": null,
+          "blog": null
+        },
+        "logo": null,
+        "description": null,
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Relic Entertainment",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://www.relic.com",
+          "github": null,
+          "twitter": "https://twitter.com/relicgames",
+          "facebook": "https://www.facebook.com/relicentertainment",
+          "youtube": "https://www.youtube.com/user/RelicCM",
+          "blog": null
+        },
+        "logo": {
+          "fileName": "Relic_Entertainment_logo.png",
+          "filePath": "/Users/kk/ecosystem-map-bc-ai/logos/Relic_Entertainment_logo.png",
+          "sourceUrl": "https://shared.reliclink.com/dlls/0cad007967bccb7bdd3d63f013af76a5.png",
+          "downloadedAt": "2025-08-03T06:55:38.434Z"
+        },
+        "description": null,
+        "notableProjects": []
+      },
+      "sources": []
+    },
+    {
+      "name": "Phoenix Labs",
+      "discoveries": {
+        "aiFocusAreas": [],
+        "keyPeople": [],
+        "funding": [],
+        "links": {
+          "website": "https://phxlabs.ca",
+          "github": null,
+          "twitter": "https://twitter.com/phoenixlabs",
+          "facebook": "https://www.facebook.com/PhxLabs/",
+          "youtube": null,
+          "blog": null
+        },
+        "logo": {
+          "fileName": "Phoenix_Labs_logo.svg",
+          "filePath": "/Users/kk/ecosystem-map-bc-ai/logos/Phoenix_Labs_logo.svg",
+          "sourceUrl": "https://phxlabs.ca/images/Logo_White_Centered.svg",
+          "downloadedAt": "2025-08-03T06:55:41.439Z"
+        },
+        "description": "Our worlds empower players to share enduring stories like never before.",
+        "notableProjects": []
+      },
+      "sources": []
+    }
+  ]
+}

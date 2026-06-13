@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-08-04T17:36:41.491Z",
+  "sources": {
+    "igniteProgram": "https://www.innovatebc.ca/programs-for-innovators/ignite-program/",
+    "accelerateProgram": "https://www.innovatebc.ca/programs-for-innovators/accelerate-program/",
+    "portfolioCompanies": "https://www.innovatebc.ca/success-stories/",
+    "fundingRecipients": "https://www.innovatebc.ca/news/"
+  },
+  "scraped": {
+    "ignite": 0,
+    "news": 0,
+    "success": 0
+  },
+  "merged": 0
+}

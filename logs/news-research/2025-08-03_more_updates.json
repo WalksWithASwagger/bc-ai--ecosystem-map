@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-08-03T08:36:03.399Z",
+  "companiesUpdated": 3,
+  "totalFieldsUpdated": 17,
+  "logs": [
+    {
+      "company": "Moment Energy",
+      "success": true,
+      "fieldsUpdated": 6
+    },
+    {
+      "company": "Phaidra",
+      "success": true,
+      "fieldsUpdated": 6
+    },
+    {
+      "company": "Roomvu",
+      "success": true,
+      "fieldsUpdated": 5
+    }
+  ]
+}

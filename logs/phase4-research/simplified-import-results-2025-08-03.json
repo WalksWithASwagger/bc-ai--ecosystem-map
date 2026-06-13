@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-03T09:22:33.042Z",
+  "results": {
+    "totalProcessed": 100,
+    "imported": 0,
+    "skipped": 45,
+    "errors": 55,
+    "importedCompanies": []
+  },
+  "importedCompanies": [],
+  "newDatabaseTotal": 882,
+  "milestoneApproached": false,
+  "legendaryAchieved": false
+}

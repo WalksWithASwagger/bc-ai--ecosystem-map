@@ -1,0 +1,139 @@
+{
+  "updates": [
+    {
+      "name": "Sanctuary AI",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/sanctuary-ai",
+        "Year Founded": 2018,
+        "Key People": "CEO & Co-Founder: Geordie Rose (https://www.linkedin.com/in/geordie-rose)\nCTO & Co-Founder: Suzanne Gildert (https://www.linkedin.com/in/suzanne-gildert)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series A: $58.5M (2022) | Total raised: $140M+ | 51-200 employees | Backed by Accenture, Bell, Magna | Building general-purpose robots with human-like intelligence",
+        "Short Blurb": "Robotics company developing general-purpose AI and humanoid robots. Founded in 2018, raised $140M+ with backing from Accenture, Bell, and Magna.",
+        "Twitter": "@Sanctuary_AI",
+        "AI Focus Areas": ["General Purpose AI", "Humanoid Robotics", "Cognitive Systems", "Artificial General Intelligence"]
+      }
+    },
+    {
+      "name": "Minerva Intelligence",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/minerva-intelligence-inc",
+        "Year Founded": 2017,
+        "Key People": "CEO: Scott Tillman",
+        "Size": "Startup (1-50)",
+        "Focus & Notes": "Public company (TSX-V: MVAI) | Market cap ~$10M CAD | AI-powered knowledge engineering for mining and climate risk",
+        "Short Blurb": "AI knowledge engineering company for mining and climate risk assessment. Public company trading on TSX-V (MVAI).",
+        "AI Focus Areas": ["Knowledge Engineering", "Mining AI", "Climate Risk Assessment", "Cognitive AI"]
+      }
+    },
+    {
+      "name": "Trulioo",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/trulioo",
+        "Year Founded": 2011,
+        "Key People": "CEO: Steve Munford",
+        "Size": "Enterprise (250+)",
+        "Focus & Notes": "Series D: $394M (2021) | Total raised: $476M+ | Valuation: $1.75B (Unicorn) | 501-1000 employees | Backed by TCV, Goldman Sachs",
+        "Short Blurb": "Global identity verification unicorn valued at $1.75B. Founded in 2011, raised $476M+ including $394M Series D from TCV and Goldman Sachs.",
+        "Twitter": "@trulioo",
+        "AI Focus Areas": ["Identity Verification", "Machine Learning", "Fraud Detection", "RegTech"]
+      }
+    },
+    {
+      "name": "D-Wave Systems",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/d-wave-systems",
+        "Year Founded": 1999,
+        "Key People": "CEO: Alan Baratz (https://www.linkedin.com/in/alan-baratz)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Public company (NYSE: QBTS) | Market cap ~$400M USD | 201-500 employees | Leader in quantum computing systems",
+        "Short Blurb": "Quantum computing pioneer founded in 1999. Public company (NYSE: QBTS) with 200+ employees, leading in quantum annealing systems.",
+        "Twitter": "@dwavesys",
+        "City/Region": "Burnaby",
+        "BC Region": "Lower Mainland",
+        "AI Focus Areas": ["Quantum Computing", "Quantum Annealing", "Optimization", "Quantum ML"]
+      }
+    },
+    {
+      "name": "1QBit",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/1qbit",
+        "Year Founded": 2012,
+        "Key People": "CEO & Co-Founder: Andrew Fursman (https://www.linkedin.com/in/andrew-fursman)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Total raised: $45M+ | 51-200 employees | Backed by Accenture, Allianz | Quantum software for optimization and drug discovery",
+        "Short Blurb": "Quantum computing software company founded in 2012. Raised $45M+ from Accenture and Allianz, focusing on quantum algorithms for optimization.",
+        "Twitter": "@1QBit",
+        "AI Focus Areas": ["Quantum Software", "Quantum Algorithms", "Optimization", "Drug Discovery"]
+      }
+    },
+    {
+      "name": "Klue",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/klue",
+        "Year Founded": 2015,
+        "Key People": "CEO & Co-Founder: Jason Smith (https://www.linkedin.com/in/jasonsmithklue)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series B: $62M (2022) | Total raised: $62M+ | 51-200 employees | AI-powered competitive intelligence platform",
+        "Short Blurb": "AI-powered competitive intelligence platform founded in 2015. Raised $62M Series B in 2022, helping teams track and analyze competitors.",
+        "Twitter": "@KlueHQ",
+        "AI Focus Areas": ["Competitive Intelligence", "NLP", "Market Intelligence", "Sales Enablement"]
+      }
+    },
+    {
+      "name": "Clio",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/clio---cloud-based-legal-technology",
+        "Year Founded": 2008,
+        "Key People": "CEO & Founder: Jack Newton (https://www.linkedin.com/in/jacknewton)",
+        "Size": "Enterprise (250+)",
+        "Focus & Notes": "Series F: $900M (2024) | Valuation: $3B (Unicorn) | 1000+ employees | Cloud-based legal practice management",
+        "Short Blurb": "Legal tech unicorn valued at $3B. Founded in 2008, raised $900M Series F in 2024, serving 150,000+ legal professionals globally.",
+        "Twitter": "@goclio",
+        "City/Region": "Burnaby",
+        "BC Region": "Lower Mainland",
+        "AI Focus Areas": ["Legal AI", "Document Automation", "Practice Management", "Legal Analytics"]
+      }
+    },
+    {
+      "name": "Thinkific",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/thinkific",
+        "Year Founded": 2012,
+        "Key People": "CEO & Co-Founder: Greg Smith (https://www.linkedin.com/in/gregdsmith)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Public company (TSX: THNC) | IPO 2021 | Market cap ~$150M CAD | 201-500 employees | Online course platform",
+        "Short Blurb": "EdTech platform for online course creation. Founded in 2012, went public on TSX in 2021, serving 50,000+ course creators.",
+        "Twitter": "@thinkific",
+        "AI Focus Areas": ["EdTech", "Content Recommendation", "Learning Analytics", "Course Creation AI"]
+      }
+    },
+    {
+      "name": "Certn",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/certn",
+        "Year Founded": 2016,
+        "Key People": "CEO & Founder: Andrew McLeod (https://www.linkedin.com/in/andrew-mcleod)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series B: $30M (2023) | Total raised: $130M+ | 201-500 employees | AI-powered background screening",
+        "Short Blurb": "AI-powered background screening platform founded in 2016. Raised $130M+ including $30M Series B in 2023, based in Victoria.",
+        "Twitter": "@certnID",
+        "City/Region": "Victoria",
+        "BC Region": "Vancouver Island",
+        "AI Focus Areas": ["Background Screening", "Risk Assessment", "Identity Verification", "HR Tech"]
+      }
+    },
+    {
+      "name": "Photonic",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/teamphotonic",
+        "Year Founded": 2016,
+        "Key People": "CEO: Paul Terry\nFounder & Chief Quantum Officer: Stephanie Simmons (https://www.linkedin.com/in/stephanie-simmons)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series A: $100M USD (2023) | Total raised: $140M+ | Backed by Microsoft, BCI, Inovia | Building scalable quantum computing platform",
+        "Short Blurb": "Quantum computing company building silicon photonic platform. Founded in 2016, raised $100M Series A from Microsoft and others in 2023.",
+        "Twitter": "@PhotonicInc",
+        "AI Focus Areas": ["Quantum Computing", "Silicon Photonics", "Quantum Networking", "Distributed Quantum Computing"]
+      }
+    }
+  ]
+}

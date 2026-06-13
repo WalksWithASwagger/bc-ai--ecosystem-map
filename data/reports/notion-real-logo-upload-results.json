@@ -1,0 +1,200 @@
+{
+  "total": 34,
+  "successful": 20,
+  "failed": 14,
+  "skipped": 0,
+  "uploads": [
+    {
+      "company": "Clio",
+      "filename": "Clio_logo.png",
+      "pageId": "23fc6f79-9a33-818f-81c1-daa1fa1a2a5c",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Clio_logo.png"
+    },
+    {
+      "company": "D-Wave Systems",
+      "filename": "D_Wave_Systems_logo.png",
+      "pageId": "1f8c6f79-9a33-81cb-926d-ec8330e0ff04",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/D_Wave_Systems_logo.png"
+    },
+    {
+      "company": "Sanctuary AI",
+      "filename": "Sanctuary_AI_logo.png",
+      "pageId": "23dc6f79-9a33-81c1-9745-c23026f9b5f0",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Sanctuary_AI_logo.png"
+    },
+    {
+      "company": "AbCellera",
+      "filename": "AbCellera_logo.svg",
+      "pageId": "23dc6f79-9a33-81d0-8914-ffcdc86b1700",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/AbCellera_logo.svg"
+    },
+    {
+      "company": "Terramera",
+      "filename": "Terramera_logo.png",
+      "pageId": "1f1c6f79-9a33-818a-8d2f-f6800062366a",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Terramera_logo.png"
+    },
+    {
+      "company": "Hootsuite",
+      "filename": "Hootsuite_logo_clearbit.png",
+      "pageId": "1f7c6f79-9a33-8162-ad8e-dbc2864b7f80",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Hootsuite_logo_clearbit.png"
+    },
+    {
+      "company": "Procurify",
+      "filename": "Procurify_logo_clearbit.png",
+      "pageId": "240c6f79-9a33-81e4-b5e4-d3e039632bec",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Procurify_logo_clearbit.png"
+    },
+    {
+      "company": "Klue",
+      "filename": "Klue_logo_clearbit.png",
+      "pageId": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Klue_logo_clearbit.png"
+    },
+    {
+      "company": "MetaOptima",
+      "filename": "MetaOptima_logo_clearbit.png",
+      "pageId": "23dc6f79-9a33-810b-8702-cb15089b5edc",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/MetaOptima_logo_clearbit.png"
+    },
+    {
+      "company": "Zenhub",
+      "filename": "Zenhub_clearbit_logo.png",
+      "pageId": "240c6f79-9a33-813e-810a-f19fccb08754",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Zenhub_clearbit_logo.png"
+    },
+    {
+      "company": "Finger Food ATG",
+      "filename": "Finger_Food_ATG_clearbit_logo.png",
+      "pageId": "240c6f79-9a33-819d-9e58-f7e640777abb",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Finger_Food_ATG_clearbit_logo.png"
+    },
+    {
+      "company": "Redlen Technologies",
+      "filename": "Redlen_Technologies_clearbit_logo.png",
+      "pageId": "240c6f79-9a33-81a6-ba44-c2eecd65105d",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Redlen_Technologies_clearbit_logo.png"
+    },
+    {
+      "company": "Ada",
+      "filename": "Ada_clearbit_logo.png",
+      "pageId": "23fc6f79-9a33-81be-9128-e260cb998df9",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Ada_clearbit_logo.png"
+    },
+    {
+      "company": "Trulioo",
+      "filename": "Trulioo_clearbit_logo.png",
+      "pageId": "240c6f79-9a33-8141-9a97-edc6de36d550",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Trulioo_clearbit_logo.png"
+    },
+    {
+      "company": "Dapper Labs",
+      "filename": "Dapper_Labs_clearbit_logo.png",
+      "pageId": "23fc6f79-9a33-8192-9d2f-e1c3d5f4a2a9",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Dapper_Labs_clearbit_logo.png"
+    },
+    {
+      "company": "Finn AI",
+      "filename": "Finn_AI_clearbit_logo.png",
+      "pageId": "23dc6f79-9a33-81fe-aaa9-fefd1df86fd8",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Finn_AI_clearbit_logo.png"
+    },
+    {
+      "company": "QHR Technologies",
+      "filename": "QHR_Technologies_clearbit_logo.png",
+      "pageId": "23fc6f79-9a33-8131-85a3-ff4fd10b4d94",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/QHR_Technologies_clearbit_logo.png"
+    },
+    {
+      "company": "Mogo",
+      "filename": "Mogo_clearbit_logo.png",
+      "pageId": "240c6f79-9a33-818c-a54f-ff1e2c9c5fe6",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Mogo_clearbit_logo.png"
+    },
+    {
+      "company": "Copilot",
+      "filename": "Copilot_clearbit_logo.png",
+      "pageId": "23dc6f79-9a33-81c4-8070-f76878fd1555",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Copilot_clearbit_logo.png"
+    },
+    {
+      "company": "Vision Critical",
+      "filename": "Vision_Critical_logo_clearbit.png",
+      "pageId": "23fc6f79-9a33-81de-890b-fb2743bf0ad7",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Vision_Critical_logo_clearbit.png"
+    }
+  ],
+  "errors": [
+    {
+      "company": "Plotly",
+      "filename": "Plotly_logo_clearbit.png",
+      "error": "Company not found in database: Plotly"
+    },
+    {
+      "company": "Avigilon",
+      "filename": "Avigilon_clearbit_logo.png",
+      "error": "Company not found in database: Avigilon"
+    },
+    {
+      "company": "UrbanLogiq",
+      "filename": "UrbanLogiq_clearbit_logo.png",
+      "error": "Company not found in database: UrbanLogiq"
+    },
+    {
+      "company": "Nimble AI",
+      "filename": "Nimble_AI_clearbit_logo.png",
+      "error": "Company not found in database: Nimble AI"
+    },
+    {
+      "company": "Validere",
+      "filename": "Validere_clearbit_logo.png",
+      "error": "Company not found in database: Validere"
+    },
+    {
+      "company": "Invoke",
+      "filename": "Invoke_clearbit_logo.png",
+      "error": "Company not found in database: Invoke"
+    },
+    {
+      "company": "Beanworks",
+      "filename": "Beanworks_clearbit_logo.png",
+      "error": "Company not found in database: Beanworks"
+    },
+    {
+      "company": "Flighthub",
+      "filename": "Flighthub_clearbit_logo.png",
+      "error": "Company not found in database: Flighthub"
+    },
+    {
+      "company": "Phreesia",
+      "filename": "Phreesia_clearbit_logo.png",
+      "error": "Company not found in database: Phreesia"
+    },
+    {
+      "company": "Paymi",
+      "filename": "Paymi_clearbit_logo.png",
+      "error": "Company not found in database: Paymi"
+    },
+    {
+      "company": "Mobify",
+      "filename": "Mobify_logo_clearbit.png",
+      "error": "Company not found in database: Mobify"
+    },
+    {
+      "company": "BuildDirect",
+      "filename": "BuildDirect_logo_clearbit.png",
+      "error": "Company not found in database: BuildDirect"
+    },
+    {
+      "company": "Elastic Path",
+      "filename": "Elastic_Path_logo_clearbit.png",
+      "error": "Company not found in database: Elastic Path"
+    },
+    {
+      "company": "BroadbandTV",
+      "filename": "BroadbandTV_placeholder_logo.svg",
+      "error": "Company not found in database: BroadbandTV"
+    }
+  ]
+}

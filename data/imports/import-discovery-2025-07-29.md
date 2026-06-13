@@ -1,0 +1,189 @@
+# Discovery Files Import Log - 2025-07-29
+
+## Imported Organizations (49)
+
+- [Meton AI](https://www.notion.so/Meton-AI-23fc6f799a3381028af8d81b632dbd61)
+- [Boast AI](https://www.notion.so/Boast-AI-23fc6f799a33818aa6c0c5fe10727e6d)
+- [Shape Immersive](https://www.notion.so/Shape-Immersive-23fc6f799a338146a3edfb5d2725cb1a)
+- [Circle Innovation Vancouver AI Community](https://www.notion.so/Circle-Innovation-Vancouver-AI-Community-23fc6f799a3381d6aafcf1e7f3d18b2c)
+- [BC Fast Pilot AI Projects](https://www.notion.so/BC-Fast-Pilot-AI-Projects-23fc6f799a33818eb964da7b9a50ada9)
+- [RAII Grant Recipients 2025](https://www.notion.so/RAII-Grant-Recipients-2025-23fc6f799a3381e8bb83d81f112e5580)
+- [DigiBC Signals AI Showcase](https://www.notion.so/DigiBC-Signals-AI-Showcase-23fc6f799a3381398c2de340278f023e)
+- [DigiBC Creative AI Members](https://www.notion.so/DigiBC-Creative-AI-Members-23fc6f799a338193b79be19e18cc35c2)
+- [Scale AI BC Recipients](https://www.notion.so/Scale-AI-BC-Recipients-23fc6f799a3381bb99b4e06406856531)
+- [NEXT AI BC Companies](https://www.notion.so/NEXT-AI-BC-Companies-23fc6f799a3381f38f71f47fe1bd53e8)
+- [AI Community Conference Vancouver](https://www.notion.so/AI-Community-Conference-Vancouver-23fc6f799a3381a9a85fef6f540f38d6)
+- [Applied AI Research Association](https://www.notion.so/Applied-AI-Research-Association-23fc6f799a3381bc8b42fac3bfec6c00)
+- [Vancouver AI Community](https://www.notion.so/Vancouver-AI-Community-23fc6f799a33814facaedd235bec0a8d)
+- [UBC Centre for Artificial Intelligence Decision-making and Action](https://www.notion.so/UBC-Centre-for-Artificial-Intelligence-Decision-making-and-Action-23fc6f799a3381fba32bc9ada0c8db6c)
+- [Creative Destruction Lab Vancouver](https://www.notion.so/Creative-Destruction-Lab-Vancouver-23fc6f799a338125bd81cc8b7174db35)
+- [Indigenous Protocol and AI Working Group](https://www.notion.so/Indigenous-Protocol-and-AI-Working-Group-23fc6f799a33811e9b3ae74d7e2a374b)
+- [Abundant Intelligences](https://www.notion.so/Abundant-Intelligences-23fc6f799a3381f5ac1ce2d39d8e2afd)
+- [UBC Kwak'wala AI Immersion Project](https://www.notion.so/UBC-Kwak-wala-AI-Immersion-Project-23fc6f799a3381a0a2d6fce118349c76)
+- [FLAIR BC Initiative](https://www.notion.so/FLAIR-BC-Initiative-23fc6f799a338105972af5291ba9504e)
+- [Athletica](https://www.notion.so/Athletica-23fc6f799a338182a2bbe940ec42bd56)
+- [Flento](https://www.notion.so/Flento-23fc6f799a338163b381f20d468c5831)
+- [Plantiga](https://www.notion.so/Plantiga-23fc6f799a3381a8b297c6d626afaa49)
+- [ICCSMLAI Vancouver Sports Track](https://www.notion.so/ICCSMLAI-Vancouver-Sports-Track-23fc6f799a3381eaa212d090b77e7270)
+- [Artificial Muse Music AI Residency](https://www.notion.so/Artificial-Muse-Music-AI-Residency-23fc6f799a3381ea96e4c920b4f5e0b2)
+- [SFU Metacreation Lab for Creative AI](https://www.notion.so/SFU-Metacreation-Lab-for-Creative-AI-23fc6f799a33812a8213de318d6dfb1a)
+- [Stellar Code Lab](https://www.notion.so/Stellar-Code-Lab-23fc6f799a3381d98f76c5cf99a45e14)
+- [DigiBC Signals Program](https://www.notion.so/DigiBC-Signals-Program-23fc6f799a33816097c7e88be6c2cc38)
+- [VAG AI Imitation Game Program](https://www.notion.so/VAG-AI-Imitation-Game-Program-23fc6f799a33819c9509c69697a06631)
+- [AI Network of British Columbia](https://www.notion.so/AI-Network-of-British-Columbia-23fc6f799a338181b0d0d1f15d6fea41)
+- [BC AI Refugee Integration Platform](https://www.notion.so/BC-AI-Refugee-Integration-Platform-23fc6f799a3381819afbd64b7a742f5b)
+- [BC Wildfire Service AI Analytics](https://www.notion.so/BC-Wildfire-Service-AI-Analytics-23fc6f799a33814994d4e6e6bce9d31e)
+- [Service BC AI Search Platform](https://www.notion.so/Service-BC-AI-Search-Platform-23fc6f799a33819d9938cdac0c303ac4)
+- [ChildCare Services BC AI Platform](https://www.notion.so/ChildCare-Services-BC-AI-Platform-23fc6f799a33815bb33af8403797ca98)
+- [Excelar Technologies](https://www.notion.so/Excelar-Technologies-23fc6f799a3381f2aa7df41a2157ffd8)
+- [Microsoft Canada AI Hub](https://www.notion.so/Microsoft-Canada-AI-Hub-23fc6f799a3381be9128e260cb998df9)
+- [BC Regional AI Initiative Recipients](https://www.notion.so/BC-Regional-AI-Initiative-Recipients-23fc6f799a33819bac0fd316a92b8c07)
+- [DigiBC Creative Technology Association](https://www.notion.so/DigiBC-Creative-Technology-Association-23fc6f799a3381538746ee1da8fadb29)
+- [BC Centre for Innovation and Clean Energy](https://www.notion.so/BC-Centre-for-Innovation-and-Clean-Energy-23fc6f799a338136b651fed831c1c8a8)
+- [BC Aerospace Skills Gap Analysis](https://www.notion.so/BC-Aerospace-Skills-Gap-Analysis-23fc6f799a33810d9becd80a4eb94511)
+- [West Vancouver Schools Cybersecurity AI](https://www.notion.so/West-Vancouver-Schools-Cybersecurity-AI-23fc6f799a3381bbb02ecd84b4dbb29e)
+- [Stellantis LG Energy Solution BC](https://www.notion.so/Stellantis-LG-Energy-Solution-BC-23fc6f799a33815a9713def1a495e575)
+- [Artificial Intelligence Underwriting Company](https://www.notion.so/Artificial-Intelligence-Underwriting-Company-23fc6f799a338149952cccba95955b66)
+- [BC Regional AI Initiative](https://www.notion.so/BC-Regional-AI-Initiative-23fc6f799a3381619022db94c076be74)
+- [BC AI Assist Program](https://www.notion.so/BC-AI-Assist-Program-23fc6f799a33817f9effd3cfefab274a)
+- [City of Surrey AI Initiative](https://www.notion.so/City-of-Surrey-AI-Initiative-23fc6f799a3381029150faf5dc3126da)
+- [City of Richmond AI Strategy](https://www.notion.so/City-of-Richmond-AI-Strategy-23fc6f799a3381509eeaf8d3d206b6b8)
+- [SFU Metacreation Lab Creative AI](https://www.notion.so/SFU-Metacreation-Lab-Creative-AI-23fc6f799a3381679e03da3b0e33fa9e)
+- [Properti Edge](https://www.notion.so/Properti-Edge-23fc6f799a33816ba9a9c048f4282e69)
+- [SkyAcres](https://www.notion.so/SkyAcres-23fc6f799a33811bb373ec277010dbd9)
+
+## Skipped Organizations (130)
+
+- Clio
+- Sanctuary AI
+- D-Wave Systems
+- VRIFY Technology
+- AbCellera
+- Klue
+- TIMEZYX
+- pH7 Technologies
+- MATT3R
+- Indiegraf
+- Defang Software Labs
+- Lila Sciences
+- AI Summit Vancouver 2025
+- DevFest YVR AI Summit
+- Vancouver AI Academy
+- Van AI Space
+- AI4Good Canada
+- SFU AI Research Group
+- BCIT Applied Artificial Intelligence Program
+- BC Centre for Innovation and Clean Energy AI Program
+- entrepreneurship@UBC Accelerate
+- Coast Capital Savings Innovation Centre
+- BC Tech Association Hypergrowth
+- Upper Nicola Band AI Data Centre
+- Drive Hockey Analytics
+- TourismTechBC
+- Tourism Innovation Lab
+- TIABC AI Workshop Initiative
+- RCAB Advanced Manufacturing Laboratory
+- Neptune Terminals
+- BC Manufacturing Skills Initiative
+- 18 Wheels Logistics
+- Deltaport Container Terminal
+- VFPA Terminal 2 Project
+- DP World Canada
+- Fraser Surrey Docks
+- BuildingOS
+- ConstructAI
+- BC Construction Technology Initiative
+- Vancouver PropTech Hub
+- BC Skills Training AI Initiative
+- BC Industry Partners AI Consortium
+- Athennian
+- Rally Legal
+- BCSC RegTech Sandbox
+- Law Society of BC AI Ethics Program
+- Radical Entertainment
+- External Development Summit Vancouver
+- Keywords Studios Vancouver
+- Unity Muse Vancouver Community
+- 3D AI Studio Vancouver
+- Vancouver Game Dev AI Collective
+- BC AI Gaming Innovation Fund
+- Semios
+- BC On-Farm Technology Adoption Program
+- Investment Agriculture Foundation of BC
+- Farmonaut BC
+- BC Agritech Training Initiative
+- MineSense
+- Southern Cross Gold BC
+- Kamloops Exploration Group
+- MiningTech North America Conference
+- MarineAI Technologies
+- OceanWise
+- Ocean Networks Canada AI Lab
+- Blue Economy Innovation Hub
+- BC Ocean and Marine Industry Association
+- Pano AI BC
+- qathet Regional District Fire AI
+- CFS Mass Timber Innovation and Research Lab
+- BC Forest Innovation and Bioeconomy Manufacturing Program
+- Prince George Wildfire AI Network
+- Audette.io
+- Echosec Systems
+- Barnacle Systems
+- Flytographer
+- UVic AI and Machine Learning Lab
+- QHR Technologies
+- FreshGrade
+- Disney Interactive Studios Kelowna
+- Yeti Farm Creative
+- FNHA Digital Health Division
+- Indigenous Digital Equity Strategy BC
+- Photonic Inc
+- Nirvanic Consciousness Technologies
+- Quantum BC
+- Quantum Matter Institute
+- SFU Quantum Fabrication Centre
+- TRU Computer Science Department
+- Northern Development Initiative Trust
+- UNBC Computer Science Department
+- Tkmlps Development Corporation
+- AQC 2025 Vancouver
+- BC Cleantech CEO Alliance
+- BCIT Applied Research Centre for Sustainability Energy and Resource Innovations
+- GreenMeter AI
+- Evergrow
+- Leasey.AI
+- Big Whale Labs
+- Felix
+- Toonie
+- Dapper Labs
+- Kardium
+- MindfulGarden
+- CareConnect
+- SFU Digital Health Innovation Lab
+- UBC Biomedical Research Facility
+- Riipen
+- Edvisor.io
+- Tutor Lily Inc
+- BC AI in Education Initiative
+- Microsoft VCH AI Partnership
+- Digital Technology Supercluster Healthtech AI
+- InBC Life Sciences Investment Fund
+- Consortium for Aerospace Research and Innovation in Canada
+- BCIT Aerospace Technology Campus
+- BCIT Centre of Excellence for Aerospace
+- Vancouver International Privacy Security Summit
+- Government Cybersecurity Showcase BC
+- Canadian Artificial Intelligence Safety Institute
+- BCIT Xanadu Quantum Computing Program
+- BC Hydro Electrification Initiative
+- BC Hydro Clean Power Action Plan
+- PacifiCan Regional Artificial Intelligence Initiative
+- Site C Hydroelectric Project AI Division
+- BC Clean Energy Innovation Program
+- BC Financial AI Compliance Initiative
+- BC Actuarial AI Society
+- BC Data Centre AI Initiative
+- ClearSpark AI
+
+## Failed Organizations (0)
+

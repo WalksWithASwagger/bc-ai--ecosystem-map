@@ -1,0 +1,76 @@
+{
+  "success": 7,
+  "failed": 0,
+  "details": [
+    {
+      "name": "Sanctuary AI",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    },
+    {
+      "name": "D-Wave Systems",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    },
+    {
+      "name": "1QBit",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    },
+    {
+      "name": "Klue",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    },
+    {
+      "name": "Clio",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    },
+    {
+      "name": "Certn",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    },
+    {
+      "name": "Photonic Inc",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    }
+  ]
+}

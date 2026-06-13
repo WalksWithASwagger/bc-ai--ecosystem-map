@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-08-03T06:44:45.702Z",
+  "execution": "COMPANY_PROFILES_PROCESSING",
+  "summary": {
+    "processed": 6,
+    "successful": 0,
+    "failed": 6,
+    "totalFieldsUpdated": 0,
+    "successRate": "0%"
+  },
+  "companiesUpdated": [],
+  "errors": [
+    {
+      "name": "Clio",
+      "error": "No updates needed"
+    },
+    {
+      "name": "Sanctuary AI\n**Organization Name**: Sanctuary AI\n- **Website:** https://www.sanctuary.ai/\n- **Industry:** Humanoid Robotics / General-Purpose AI\n- **Founded:** 2018\n- **Headquarters:** Vancouver, BC\n- **Founders:** \n  - Geordie Rose",
+      "error": "Not found in database"
+    },
+    {
+      "name": "D-Wave Quantum Inc.",
+      "error": "Not found in database"
+    },
+    {
+      "name": "VRIFY Technology Inc.\n**Organization Name**: VRIFY Technology\n- **Website:** https://vrify.com/\n- **LinkedIn:** https://www.linkedin.com/company/vrify\n- **Industry:** AI-Assisted Mineral Discovery / Mining Technology\n- **Founded:** 2017",
+      "error": "Not found in database"
+    },
+    {
+      "name": "AbCellera Biologics Inc.",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Klue\n**Organization Name**: Klue\n- **Website:** https://klue.com/\n- **Industry:** Competitive Intelligence / Sales Enablement AI\n- **Founded:** 2015\n- **Headquarters:** Vancouver, BC\n- **Founders:** \n  - Jason Smith - Co-founder and CEO\n  - Sarathy Naicker - Co-founder and CTO\n- **Team Size:** ~250 employees",
+      "error": "Not found in database"
+    }
+  ]
+}

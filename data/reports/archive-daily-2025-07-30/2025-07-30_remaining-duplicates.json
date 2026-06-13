@@ -1,0 +1,100 @@
+{
+  "duplicatePairs": [
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-814a-a218-ceba9ac28392",
+        "name": "SFU Digital Health Innovation Lab"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8154-870e-c817e8d599c5",
+        "name": "Digital Health Innovation Lab (SFU)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-81ea-a951-fa3fb05d806f",
+        "name": "Vancouver International Privacy Security Summit"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8137-af3e-d5cd76563945",
+        "name": "Vancouver International Privacy & Security Summit"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-81b1-acfe-f0c48073ddf1",
+        "name": "AI Community Conference - Vancouver"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8103-a874-e40642487025",
+        "name": "AI Community Conference Vancouver"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "1f7c6f79-9a33-8197-b70b-d9ace803fd84",
+        "name": "UBC Centre for Artificial Intelligence Decision-making and Action"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-81c9-b5b0-e5ac31729562",
+        "name": "Centre for Artificial Intelligence Decision-making and Action (CAIDA)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "1f1c6f79-9a33-81b2-af6b-efcaa151b1eb",
+        "name": "Creative Destruction Lab Vancouver (CDL)"
+      },
+      "duplicate": {
+        "id": "23dc6f79-9a33-8183-ba2e-cdd5e1102f98",
+        "name": "Creative Destruction Lab – Vancouver (CDL-V)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-81d2-ad04-d2f534f8b905",
+        "name": "PLAI (Pacific Laboratory for Artificial Intelligence) - UBC"
+      },
+      "duplicate": {
+        "id": "23dc6f79-9a33-8167-b1b5-d10acaab8e2b",
+        "name": "Pacific Laboratory for Artificial Intelligence (PLAI)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "1f7c6f79-9a33-8197-b70b-d9ace803fd84",
+        "name": "UBC Centre for AI Decision-making and Action (CAIDA)"
+      },
+      "duplicate": {
+        "id": "23dc6f79-9a33-817d-b740-fd40ecef5a9b",
+        "name": "CAIDA (Centre for AI Decision-making and Action) - UBC"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "1f0c6f79-9a33-81a1-91d2-ee02caeabfe2",
+        "name": "TELUS Data & AI Initiatives"
+      },
+      "duplicate": {
+        "id": "1f8c6f79-9a33-81ff-b004-dd8900d6e5ed",
+        "name": "TELUS - Data & AI Initiatives"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    }
+  ]
+} 

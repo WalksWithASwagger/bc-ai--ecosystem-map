@@ -1,0 +1,64 @@
+{
+  "added": [
+    {
+      "name": "Photonic Inc.",
+      "pageId": "240c6f79-9a33-8145-be5d-e88257984149",
+      "category": "Technology Companies",
+      "funding": "$100M USD (November 2023) - Microsoft, British Columbia Investment Management Corporation, Inovia Capital, Amadeus Capital Partners"
+    },
+    {
+      "name": "Acuitas Therapeutics",
+      "pageId": "240c6f79-9a33-81ef-be0d-e832f6cc8fa5",
+      "category": "Healthcare & Biotech",
+      "funding": "$200M Series B (2023) - Undisclosed strategic investors, Government of Canada, Private investors"
+    },
+    {
+      "name": "Xenon Pharmaceuticals",
+      "pageId": "240c6f79-9a33-81f0-a30d-f62d25bcc9be",
+      "category": "Healthcare & Biotech",
+      "funding": "Public (NASDAQ:XENE) - Public markets, Genentech, Teva, BVF Partners",
+      "valuation": "$1.8B market cap"
+    },
+    {
+      "name": "Kabam",
+      "pageId": "240c6f79-9a33-81bc-91de-cd5baef49401",
+      "category": "Game Development Studio",
+      "funding": "Acquired by Netmarble (2017) - Netmarble (acquirer), Alibaba, Google, Intel Capital, Warner Bros",
+      "valuation": "$800M (acquisition price)"
+    },
+    {
+      "name": "Mogo",
+      "pageId": "240c6f79-9a33-818c-a54f-ff1e2c9c5fe6",
+      "category": "Fintech",
+      "funding": "Public (TSX:MOGO, NASDAQ:MOGO) - Public markets, Power Financial, Difference Capital",
+      "valuation": "$100M market cap"
+    },
+    {
+      "name": "Coinsquare",
+      "pageId": "240c6f79-9a33-81f4-be97-d45c4ff47375",
+      "category": "Fintech",
+      "funding": "$83.2M (December 2021) - Mogo, Canaccord Genuity, Mavenwood Capital",
+      "valuation": "$500M+ (peak valuation)"
+    },
+    {
+      "name": "Nymi",
+      "pageId": "240c6f79-9a33-8103-b406-d9bd5d24ce18",
+      "category": "Technology Companies",
+      "funding": "$31M Series B - Relay Ventures, Ignition Partners, Salesforce Ventures, MasterCard"
+    },
+    {
+      "name": "Carbon Engineering",
+      "pageId": "240c6f79-9a33-810b-9af6-ee4286908701",
+      "category": "CleanTech",
+      "funding": "$68M (2019) - Oxy Low Carbon Ventures, Bill Gates, BHP, Chevron Technology Ventures"
+    },
+    {
+      "name": "Ballard Power Systems",
+      "pageId": "240c6f79-9a33-810a-85a5-eb43eb957c8f",
+      "category": "CleanTech",
+      "funding": "Public (TSX:BLDP, NASDAQ:BLDP) - Public markets, Weichai Power, Broad-Ocean Motor",
+      "valuation": "$600M market cap"
+    }
+  ],
+  "errors": []
+}

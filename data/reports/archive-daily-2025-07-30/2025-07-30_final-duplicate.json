@@ -1,0 +1,16 @@
+{
+  "duplicatePairs": [
+    {
+      "keeper": {
+        "id": "23fc6f799a3381b1acfef0c48073ddf1",
+        "name": "AI Community Conference - Vancouver"
+      },
+      "duplicate": {
+        "id": "23fc6f799a338103a874e40642487025",
+        "name": "AI Community Conference Vancouver"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    }
+  ]
+} 

@@ -1,0 +1,536 @@
+{
+  "totalCompanies": 630,
+  "duplicates": [],
+  "dataInconsistencies": [
+    {
+      "name": "STEMCELL Technologies",
+      "id": "240c6f79-9a33-817d-898f-fc94ede14e55",
+      "issues": [
+        "Company categorized as AI but description lacks AI-related terms"
+      ]
+    },
+    {
+      "name": "Law Society of BC AI Ethics Program",
+      "id": "23fc6f79-9a33-81de-8010-f35a21a8f4e3",
+      "issues": [
+        "Year founded (1884) seems too old for a tech company"
+      ]
+    },
+    {
+      "name": "Leasey.AI",
+      "id": "23fc6f79-9a33-81b5-9314-fe3df8ab6f2c",
+      "issues": [
+        "Company categorized as AI but description lacks AI-related terms"
+      ]
+    },
+    {
+      "name": "Gaze AI",
+      "id": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+      "issues": [
+        "Company categorized as AI but description lacks AI-related terms"
+      ]
+    }
+  ],
+  "invalidData": [
+    {
+      "name": "AI Community Conference - Vancouver",
+      "id": "23fc6f79-9a33-81b1-acfe-f0c48073ddf1",
+      "issues": [
+        "LinkedIn URL format issue: https://www.linkedin.com/in/issam-laradji-67ba1a99/"
+      ]
+    },
+    {
+      "name": "University of Victoria (UVic) AI Research",
+      "id": "1f8c6f79-9a33-8124-8fc6-f0daabe7d0af",
+      "issues": [
+        "LinkedIn URL format issue: https://ca.linkedin.com/school/university-of-victoria"
+      ]
+    },
+    {
+      "name": "LLM & AI Meetup (Vancouver)",
+      "id": "1f0c6f79-9a33-8128-9488-d439ceb836fd",
+      "issues": [
+        "LinkedIn URL format issue: https://www.linkedin.com/in/issam-laradji-67ba1a99/"
+      ]
+    }
+  ],
+  "missingCriticalFields": [],
+  "fundingValidation": [],
+  "revenueValidation": [],
+  "companyNames": {},
+  "similarNames": [
+    {
+      "name1": "BBTV Holdings",
+      "name2": "LōD Technologies Inc.",
+      "id1": "240c6f79-9a33-81d4-9f4a-d3d6be9635b9",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 28.57142857142857,
+      "severity": "medium"
+    },
+    {
+      "name1": "IAMGOLD Innovation",
+      "name2": "LōD Technologies Inc.",
+      "id1": "240c6f79-9a33-8165-a23a-c3f876a5eabf",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 9.523809523809524,
+      "severity": "medium"
+    },
+    {
+      "name1": "MineSense Technologies",
+      "name2": "MineSense",
+      "id1": "240c6f79-9a33-8189-b76a-f2d9a11d3a9f",
+      "id2": "1f1c6f79-9a33-81ec-8b8f-d9732ccaa47f",
+      "similarity": 40.909090909090914,
+      "severity": "medium"
+    },
+    {
+      "name1": "Eupraxia Pharmaceuticals",
+      "name2": "Aurinia Pharmaceuticals",
+      "id1": "240c6f79-9a33-8195-b80c-d3ac7a6f2825",
+      "id2": "240c6f79-9a33-818a-a526-ca1621f97465",
+      "similarity": 83.33333333333334,
+      "severity": "medium"
+    },
+    {
+      "name1": "A&K Robotics",
+      "name2": "4AG Robotics",
+      "id1": "240c6f79-9a33-81b5-9754-d589e8a3ae18",
+      "id2": "23dc6f79-9a33-8111-8ef7-dfe49820a945",
+      "similarity": 75,
+      "severity": "medium"
+    },
+    {
+      "name1": "Photonic Inc.",
+      "name2": "Photonic Inc",
+      "id1": "240c6f79-9a33-8145-be5d-e88257984149",
+      "id2": "23dc6f79-9a33-815e-9c0f-ffd40ad3f266",
+      "similarity": 92.3076923076923,
+      "severity": "medium"
+    },
+    {
+      "name1": "OnDeck Fisheries AI",
+      "name2": "OnDeck Fisheries",
+      "id1": "240c6f79-9a33-8191-81ae-c84835838bdb",
+      "id2": "23dc6f79-9a33-8174-aae7-fe9f78dc3b68",
+      "similarity": 84.21052631578947,
+      "severity": "medium"
+    },
+    {
+      "name1": "City of Surrey AI Initiative",
+      "name2": "Surrey AI",
+      "id1": "23fc6f79-9a33-8102-9150-faf5dc3126da",
+      "id2": "236c6f79-9a33-81e2-a0c0-ce459dd4cb7c",
+      "similarity": 32.142857142857146,
+      "severity": "medium"
+    },
+    {
+      "name1": "BC Regional AI Initiative",
+      "name2": "BC Regional AI Initiative Recipients",
+      "id1": "23fc6f79-9a33-8161-9022-db94c076be74",
+      "id2": "23fc6f79-9a33-819b-ac0f-d316a92b8c07",
+      "similarity": 69.44444444444444,
+      "severity": "medium"
+    },
+    {
+      "name1": "Stellantis LG Energy Solution BC",
+      "name2": "Stellantis LG Energy Solution BC Partnership",
+      "id1": "23fc6f79-9a33-815a-9713-def1a495e575",
+      "id2": "23fc6f79-9a33-8148-881d-c34f8a9d58ac",
+      "similarity": 72.72727272727273,
+      "severity": "medium"
+    },
+    {
+      "name1": "BC Centre for Innovation and Clean Energy",
+      "name2": "B.C. Centre for Innovation and Clean Energy (CICE)",
+      "id1": "23fc6f79-9a33-8136-b651-fed831c1c8a8",
+      "id2": "23fc6f79-9a33-8192-8f87-ca7b4e44245c",
+      "similarity": 82,
+      "severity": "medium"
+    },
+    {
+      "name1": "ChildCare Services BC AI Platform",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-815b-b33a-f8403797ca98",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 15.151515151515152,
+      "severity": "medium"
+    },
+    {
+      "name1": "BC Wildfire Service AI Analytics",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-8149-94d4-e6e6bce9d31e",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 15.625,
+      "severity": "medium"
+    },
+    {
+      "name1": "Plantiga",
+      "name2": "Plantiga Technologies Inc",
+      "id1": "23fc6f79-9a33-81a8-b297-c6d626afaa49",
+      "id2": "23dc6f79-9a33-81f1-96e2-cd554411b7c7",
+      "similarity": 32,
+      "severity": "medium"
+    },
+    {
+      "name1": "Flento",
+      "name2": "Flento app (by Acrostrong)",
+      "id1": "23fc6f79-9a33-8163-b381-f20d468c5831",
+      "id2": "23dc6f79-9a33-81fa-b173-f06fc8eb85db",
+      "similarity": 23.076923076923077,
+      "severity": "medium"
+    },
+    {
+      "name1": "Indigenous Protocol and AI Working Group",
+      "name2": "Proto",
+      "id1": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b",
+      "id2": "23dc6f79-9a33-81bf-85f3-c4734b035202",
+      "similarity": 12.5,
+      "severity": "medium"
+    },
+    {
+      "name1": "Meton AI",
+      "name2": "UnlockLand (Meton.ai product)",
+      "id1": "23fc6f79-9a33-8102-8af8-d81b632dbd61",
+      "id2": "23dc6f79-9a33-81d8-aca0-c368ef30cc2c",
+      "similarity": 24.137931034482758,
+      "severity": "medium"
+    },
+    {
+      "name1": "Meton AI",
+      "name2": "Meton.ai (UnlockLand parent company)",
+      "id1": "23fc6f79-9a33-8102-8af8-d81b632dbd61",
+      "id2": "23dc6f79-9a33-81c6-982a-c311a194070d",
+      "similarity": 19.444444444444446,
+      "severity": "medium"
+    },
+    {
+      "name1": "External Development Summit Vancouver",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-81aa-a1cf-d69182e824b9",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 18.91891891891892,
+      "severity": "medium"
+    },
+    {
+      "name1": "Pano AI BC",
+      "name2": "Pano AI BC Operations",
+      "id1": "23fc6f79-9a33-8177-9069-d3d249dfff5b",
+      "id2": "23fc6f79-9a33-8125-b009-ff24fe1152a4",
+      "similarity": 47.61904761904761,
+      "severity": "medium"
+    },
+    {
+      "name1": "MiningTech North America Conference",
+      "name2": "MiningTech North America",
+      "id1": "23fc6f79-9a33-81bd-a9f6-eabdb1a08712",
+      "id2": "23fc6f79-9a33-8178-a4f4-c8dd6581afb2",
+      "similarity": 68.57142857142857,
+      "severity": "medium"
+    },
+    {
+      "name1": "Southern Cross Gold BC",
+      "name2": "Southern Cross Gold BC Operations",
+      "id1": "23fc6f79-9a33-812c-96c2-fbea33cb386a",
+      "id2": "23fc6f79-9a33-8162-8412-d8a84c1490b8",
+      "similarity": 66.66666666666666,
+      "severity": "medium"
+    },
+    {
+      "name1": "Southern Cross Gold BC",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-812c-96c2-fbea33cb386a",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 13.636363636363635,
+      "severity": "medium"
+    },
+    {
+      "name1": "Farmonaut BC",
+      "name2": "Farmonaut BC Operations",
+      "id1": "23fc6f79-9a33-8198-bad8-dabc55067107",
+      "id2": "23fc6f79-9a33-8192-824f-c7158b97b3b9",
+      "similarity": 52.17391304347826,
+      "severity": "medium"
+    },
+    {
+      "name1": "Fraser Surrey Docks",
+      "name2": "Fraser Surrey Docks AI Operations",
+      "id1": "23fc6f79-9a33-811c-90ea-fa87642b56ca",
+      "id2": "23fc6f79-9a33-8187-87a0-e2fc29fe2b80",
+      "similarity": 57.57575757575758,
+      "severity": "medium"
+    },
+    {
+      "name1": "Neptune Terminals",
+      "name2": "Neptune Terminals AI Operations",
+      "id1": "23fc6f79-9a33-81bf-9525-c79e16ff3a40",
+      "id2": "23fc6f79-9a33-8114-81cb-fb32f74070f6",
+      "similarity": 54.83870967741935,
+      "severity": "medium"
+    },
+    {
+      "name1": "CDL Vancouver",
+      "name2": "Creative Destruction Lab Vancouver (CDL-Vancouver)",
+      "id1": "23fc6f79-9a33-81e4-9815-c524beb0dc4f",
+      "id2": "23dc6f79-9a33-8107-9a58-e45e1089f75f",
+      "similarity": 26,
+      "severity": "medium"
+    },
+    {
+      "name1": "Digital Technology Supercluster Healthtech Initiative",
+      "name2": "Digital Technology Supercluster",
+      "id1": "23fc6f79-9a33-81c0-816e-d93782f79461",
+      "id2": "23dc6f79-9a33-81b6-aa0d-cba176a7845a",
+      "similarity": 58.490566037735846,
+      "severity": "medium"
+    },
+    {
+      "name1": "External Development Summit (XDS)",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-8173-9383-eaf346b45cd7",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 15.151515151515152,
+      "severity": "medium"
+    },
+    {
+      "name1": "qathet Regional District AI Fire System",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-81cd-95b5-e4424e1a4c4c",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 17.94871794871795,
+      "severity": "medium"
+    },
+    {
+      "name1": "Southern Cross Gold BC Operations",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-8162-8412-d8a84c1490b8",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 18.181818181818183,
+      "severity": "medium"
+    },
+    {
+      "name1": "BuildingOS",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-8131-a7aa-ec527c83d5bc",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 14.285714285714285,
+      "severity": "medium"
+    },
+    {
+      "name1": "DP World Canada",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23fc6f79-9a33-8176-bc16-dad5b67b0e95",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 9.523809523809524,
+      "severity": "medium"
+    },
+    {
+      "name1": "UNBC Computer Science Department",
+      "name2": "TRU Computer Science Department",
+      "id1": "23fc6f79-9a33-81f9-9f66-e769aa7008d9",
+      "id2": "23fc6f79-9a33-81c9-90b1-f640c28b3f55",
+      "similarity": 87.5,
+      "severity": "medium"
+    },
+    {
+      "name1": "BC Tech Association Hypergrowth",
+      "name2": "BC Tech Association",
+      "id1": "23fc6f79-9a33-8131-ad7a-f17dc181998b",
+      "id2": "1f0c6f79-9a33-8161-9b56-d60856022333",
+      "similarity": 61.29032258064516,
+      "severity": "medium"
+    },
+    {
+      "name1": "Defang Software Labs",
+      "name2": "Defang",
+      "id1": "23fc6f79-9a33-8186-8f0e-e8b02eef3dc0",
+      "id2": "23fc6f79-9a33-81c6-ac32-fb6864bcec70",
+      "similarity": 30,
+      "severity": "medium"
+    },
+    {
+      "name1": "Hugo Inc",
+      "name2": "Hugo",
+      "id1": "23fc6f79-9a33-81df-94fd-cb462dd55bdf",
+      "id2": "23dc6f79-9a33-817d-ae48-ed7cbd8c346f",
+      "similarity": 50,
+      "severity": "medium"
+    },
+    {
+      "name1": "Fujitsu Intelligence Technology",
+      "name2": "Fujitsu",
+      "id1": "23fc6f79-9a33-813e-bae0-e6aaa88cdace",
+      "id2": "23dc6f79-9a33-81c8-8d6f-fd8162eeca73",
+      "similarity": 22.58064516129032,
+      "severity": "medium"
+    },
+    {
+      "name1": "Canexia Health (Imagia Canexia Health)",
+      "name2": "Canexia Health",
+      "id1": "23fc6f79-9a33-8131-b80c-e9c8e945e5b1",
+      "id2": "23dc6f79-9a33-815b-9fdd-fe8347058ffa",
+      "similarity": 36.84210526315789,
+      "severity": "medium"
+    },
+    {
+      "name1": "Gaze AI",
+      "name2": "Gaze",
+      "id1": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+      "id2": "23dc6f79-9a33-8191-aed1-c426c1c54f00",
+      "similarity": 57.14285714285714,
+      "severity": "medium"
+    },
+    {
+      "name1": "Kanooq Industries Inc.",
+      "name2": "Kanooq Industries",
+      "id1": "23dc6f79-9a33-8171-97ad-fcff2baf0a58",
+      "id2": "23dc6f79-9a33-810e-99d6-d2e8fee5bb97",
+      "similarity": 77.27272727272727,
+      "severity": "medium"
+    },
+    {
+      "name1": "AbCellera Biologics",
+      "name2": "AbCellera",
+      "id1": "23dc6f79-9a33-81d0-8914-ffcdc86b1700",
+      "id2": "227c6f79-9a33-81fe-a66b-df3fce90b557",
+      "similarity": 47.368421052631575,
+      "severity": "medium"
+    },
+    {
+      "name1": "Women in Machine Learning & Data Science (WiMLDS Vancouver)",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23dc6f79-9a33-8100-a933-dac23159a3b0",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 20.33898305084746,
+      "severity": "medium"
+    },
+    {
+      "name1": "Build Smartr Robotics",
+      "name2": "LōD Technologies Inc.",
+      "id1": "23dc6f79-9a33-81ca-a561-ead9a2668429",
+      "id2": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "similarity": 9.523809523809524,
+      "severity": "medium"
+    },
+    {
+      "name1": "RBC Borealis",
+      "name2": "RBC Borealis AI (Vancouver Lab)",
+      "id1": "23dc6f79-9a33-81f6-bf0f-ea2117753b46",
+      "id2": "1f8c6f79-9a33-8179-a60d-daa0d4738e2e",
+      "similarity": 38.70967741935484,
+      "severity": "medium"
+    },
+    {
+      "name1": "deltAlyz Corp",
+      "name2": "deltAlyz Canada",
+      "id1": "23dc6f79-9a33-8137-8cb4-e08a336edbef",
+      "id2": "236c6f79-9a33-8155-bb2b-ec8b92feeecf",
+      "similarity": 66.66666666666666,
+      "severity": "medium"
+    },
+    {
+      "name1": "Olive",
+      "name2": "Olive Technologies, Inc",
+      "id1": "23dc6f79-9a33-8175-abc2-c27ff5b33e1c",
+      "id2": "23dc6f79-9a33-81b6-926f-cfaafdcd2f57",
+      "similarity": 21.73913043478261,
+      "severity": "medium"
+    },
+    {
+      "name1": "Telus Ventures",
+      "name2": "TELUS",
+      "id1": "23dc6f79-9a33-8190-a6eb-f0c5683c5548",
+      "id2": "1f1c6f79-9a33-81e6-bad9-ec0e66ae4892",
+      "similarity": 35.714285714285715,
+      "severity": "medium"
+    },
+    {
+      "name1": "LōD Technologies Inc.",
+      "name2": "Orishnal Digital Services",
+      "id1": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "id2": "236c6f79-9a33-811e-8944-ff2a0c1495f1",
+      "similarity": 16,
+      "severity": "medium"
+    },
+    {
+      "name1": "LōD Technologies Inc.",
+      "name2": "WildlifeAI",
+      "id1": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "id2": "1f1c6f79-9a33-812b-ad85-c3272a1c507b",
+      "similarity": 14.285714285714285,
+      "severity": "medium"
+    },
+    {
+      "name1": "LōD Technologies Inc.",
+      "name2": "SFU's Digital Democracies Institute",
+      "id1": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "id2": "1f0c6f79-9a33-812c-9045-d15b0693c76f",
+      "similarity": 25.71428571428571,
+      "severity": "medium"
+    },
+    {
+      "name1": "LōD Technologies Inc.",
+      "name2": "Women in ML & Data Science (WiMLDS YVR)",
+      "id1": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+      "id2": "1f0c6f79-9a33-81b3-b10c-efbaf7d78668",
+      "similarity": 20.51282051282051,
+      "severity": "medium"
+    },
+    {
+      "name1": "Artemisdata",
+      "name2": "Artemis",
+      "id1": "23dc6f79-9a33-81eb-8091-e3ab8403d7f9",
+      "id2": "236c6f79-9a33-81cd-b214-fa0c242ac127",
+      "similarity": 63.63636363636363,
+      "severity": "medium"
+    },
+    {
+      "name1": "Animikii Indigenous Technology Inc",
+      "name2": "Animikii",
+      "id1": "23dc6f79-9a33-814d-9f8b-cccfc1b2f434",
+      "id2": "1f1c6f79-9a33-810a-90d9-e27a8a97a2b0",
+      "similarity": 23.52941176470588,
+      "severity": "medium"
+    },
+    {
+      "name1": "AIM Lab (Artificial Intelligence in Medicine Lab)",
+      "name2": "AIMA Inc",
+      "id1": "23dc6f79-9a33-81c5-ba86-fbc5e2051f65",
+      "id2": "23dc6f79-9a33-8120-be84-d8574c230327",
+      "similarity": 16.3265306122449,
+      "severity": "medium"
+    },
+    {
+      "name1": "Adastra",
+      "name2": "Adastra Corporation",
+      "id1": "23dc6f79-9a33-811c-82cc-e99db3585c35",
+      "id2": "236c6f79-9a33-810a-89d0-e201fb5a9f8a",
+      "similarity": 36.84210526315789,
+      "severity": "medium"
+    },
+    {
+      "name1": "Finn AI",
+      "name2": "Finn.ai",
+      "id1": "23dc6f79-9a33-81fe-aaa9-fefd1df86fd8",
+      "id2": "1f1c6f79-9a33-81fd-9a9d-ffd755e9c5dc",
+      "similarity": 85.71428571428571,
+      "severity": "medium"
+    },
+    {
+      "name1": "TELUS Sovereign AI Factories",
+      "name2": "TELUS",
+      "id1": "23dc6f79-9a33-812e-bd98-e5c2f4527238",
+      "id2": "1f1c6f79-9a33-81e6-bad9-ec0e66ae4892",
+      "similarity": 17.857142857142858,
+      "severity": "medium"
+    },
+    {
+      "name1": "TELUS",
+      "name2": "TELUS Data & AI Initiatives",
+      "id1": "1f1c6f79-9a33-81e6-bad9-ec0e66ae4892",
+      "id2": "1f0c6f79-9a33-81a1-91d2-ee02caeabfe2",
+      "similarity": 18.51851851851852,
+      "severity": "medium"
+    }
+  ],
+  "dataQualityScore": 98.88888888888889
+}

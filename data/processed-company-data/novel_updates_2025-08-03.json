@@ -1,0 +1,32 @@
+[
+  {
+    "id": "240c6f79-9a33-8150-a237-c55332a2d061",
+    "name": "Vancouver’s Appnovation",
+    "properties": {
+      "Funding": {
+        "rich_text": [
+          {
+            "text": {
+              "content": "$11.6 million Series B (September 28, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025) - Lead: Unknown\n\nSource: https://betakit.com/vancouvers-appnovation-raises-11-6-million-cad-in-series-b-financing/\nDiscovered: 2025-08-03T06:44:38.273Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "1f1c6f79-9a33-817c-aad0-f1f298dc2dd2",
+    "name": "Vancouver-based Dooly",
+    "properties": {
+      "Funding": {
+        "rich_text": [
+          {
+            "text": {
+              "content": "$2.64 million Series B (May 20, 2021\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025) - Lead: Spark Capital\n\nSource: https://betakit.com/vancouver-based-dooly-raises-80-million-usd-series-b-round/\nDiscovered: 2025-08-03T06:44:38.274Z"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

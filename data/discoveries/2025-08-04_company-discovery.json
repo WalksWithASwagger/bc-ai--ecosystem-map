@@ -1,0 +1,155 @@
+{
+  "timestamp": "2025-08-04T16:41:48.560Z",
+  "discoveries": [
+    {
+      "name": "Klue",
+      "website": "https://klue.com",
+      "description": "Competitive intelligence platform using AI",
+      "source": "BC Tech Directory",
+      "discoveredAt": "2025-08-04T16:41:49.464Z"
+    },
+    {
+      "name": "Cmd",
+      "website": "https://cmd.com",
+      "description": "Cloud-first security platform",
+      "source": "BC Tech Directory",
+      "discoveredAt": "2025-08-04T16:41:50.068Z"
+    },
+    {
+      "name": "Certn",
+      "website": "https://certn.co",
+      "description": "AI-powered background screening",
+      "source": "BC Tech Directory",
+      "discoveredAt": "2025-08-04T16:41:50.767Z"
+    },
+    {
+      "name": "Motive.io",
+      "website": "https://motive.io",
+      "description": "AI coaching platform",
+      "source": "BC Tech Directory",
+      "discoveredAt": "2025-08-04T16:41:51.779Z"
+    },
+    {
+      "name": "Pharity AI",
+      "category": "Healthcare AI",
+      "location": "Vancouver",
+      "source": "Innovate BC",
+      "discoveredAt": "2025-08-04T16:41:52.356Z"
+    },
+    {
+      "name": "WaitWell",
+      "category": "Healthcare AI",
+      "location": "Victoria",
+      "source": "Innovate BC",
+      "discoveredAt": "2025-08-04T16:41:53.911Z"
+    },
+    {
+      "name": "Clarius Mobile Health",
+      "category": "Healthcare AI",
+      "location": "Burnaby",
+      "source": "Innovate BC",
+      "discoveredAt": "2025-08-04T16:41:54.484Z"
+    },
+    {
+      "name": "Aspect Biosystems",
+      "university": "UBC",
+      "category": "Bioprinting AI",
+      "source": "University Spin-offs",
+      "discoveredAt": "2025-08-04T16:41:55.058Z"
+    },
+    {
+      "name": "Boreal Genomics",
+      "university": "UBC",
+      "category": "Healthcare AI",
+      "source": "University Spin-offs",
+      "discoveredAt": "2025-08-04T16:41:55.637Z"
+    },
+    {
+      "name": "Kardium",
+      "university": "UBC",
+      "category": "Healthcare AI",
+      "source": "University Spin-offs",
+      "discoveredAt": "2025-08-04T16:41:56.212Z"
+    },
+    {
+      "name": "Defang",
+      "accelerator": "CDL",
+      "category": "Developer Tools AI",
+      "source": "Accelerators",
+      "discoveredAt": "2025-08-04T16:41:56.776Z"
+    },
+    {
+      "name": "Nytilus",
+      "accelerator": "Launch Academy",
+      "category": "EdTech AI",
+      "source": "Accelerators",
+      "discoveredAt": "2025-08-04T16:41:57.338Z"
+    },
+    {
+      "name": "Audette",
+      "accelerator": "Spring",
+      "category": "HealthTech AI",
+      "source": "Accelerators",
+      "discoveredAt": "2025-08-04T16:41:57.913Z"
+    },
+    {
+      "name": "Mashup Machine",
+      "funding": "$2M seed",
+      "date": "2024",
+      "source": "Funding News",
+      "discoveredAt": "2025-08-04T16:41:58.750Z"
+    },
+    {
+      "name": "Shade AI",
+      "funding": "$5M Series A",
+      "date": "2024",
+      "source": "Funding News",
+      "discoveredAt": "2025-08-04T16:41:59.327Z"
+    },
+    {
+      "name": "This Fish",
+      "funding": "$3M",
+      "date": "2024",
+      "source": "Funding News",
+      "discoveredAt": "2025-08-04T16:41:59.901Z"
+    }
+  ],
+  "sources": [
+    {
+      "url": "BC Tech Directory",
+      "type": "BC Tech Directory",
+      "companiesFound": 4,
+      "searchedAt": "2025-08-04T16:41:48.561Z"
+    },
+    {
+      "url": "Innovate BC",
+      "type": "Innovate BC",
+      "companiesFound": 3,
+      "searchedAt": "2025-08-04T16:41:48.561Z"
+    },
+    {
+      "url": "University Spin-offs",
+      "type": "University Spin-offs",
+      "companiesFound": 3,
+      "searchedAt": "2025-08-04T16:41:48.561Z"
+    },
+    {
+      "url": "Accelerators",
+      "type": "Accelerators",
+      "companiesFound": 3,
+      "searchedAt": "2025-08-04T16:41:48.562Z"
+    },
+    {
+      "url": "Funding News",
+      "type": "Funding News",
+      "companiesFound": 3,
+      "searchedAt": "2025-08-04T16:41:48.562Z"
+    }
+  ],
+  "stats": {
+    "sourcesSearched": 5,
+    "companiesFound": 16,
+    "novelCompanies": 16,
+    "duplicates": 0
+  }
+}

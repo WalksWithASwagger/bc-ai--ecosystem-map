@@ -1,0 +1,656 @@
+{
+  "timestamp": "2025-08-03T06:43:52.198Z",
+  "execution": "BATCH_IMPORT_ORGANIZATIONS_PROCESSING_FIXED",
+  "summary": {
+    "processed": 85,
+    "successful": 66,
+    "failed": 19,
+    "totalFieldsUpdated": 169,
+    "successRate": "78%"
+  },
+  "companiesUpdated": [
+    {
+      "name": "Good Chemistry",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Open Ocean Robotics",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Produce8",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Timezyx",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "UnlockLand",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "AI Scout Solutions",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "MoogleLabs",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Yeti Farm Creative",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Tkmlps Development Corporation",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "FNHA Digital Health Division",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Indigenous Digital Equity Strategy BC",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "fieldsUpdated": [
+        "BC Region",
+        "Funding",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Canadian Artificial Intelligence Safety Institute",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Clean Energy Innovation Program",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Financial AI Compliance Initiative",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Investment Agriculture Foundation of BC",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BCSC RegTech Sandbox",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Surrey AI Initiative",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "SFU Quantum Fabrication Centre",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BCIT Xanadu Quantum Computing Program",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "UVic AI and Machine Learning Lab",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "TRU Computer Science Department",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "UNBC Computer Science Department",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BCIT Applied Artificial Intelligence Program",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BCIT Centre of Excellence for Aerospace",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Quantum Matter Institute",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Consortium for Aerospace Research and Innovation in Canada",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Actuarial AI Society",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Thales Canada",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Stellantis LG Energy Solution BC",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Bell Canada AI Data Centre Kamloops",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Disney Interactive Studios Kelowna",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "QHR Technologies",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Upper Nicola Band AI Data Centre",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Data Centre AI Initiative",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Hydro Electrification Initiative",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Raven Indigenous Capital Partners",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Kensington Capital Partners",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Brightspark Ventures",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Pender Ventures",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Vancouver Angel Network (VANTEC)",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "QueerTech QT Founders Catalyst Program",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "entrepreneurship@UBC Accelerate",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Coast Capital Savings Innovation Centre",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Quantum BC",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Aerospace Skills Gap Analysis Project",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Government Cybersecurity Showcase BC",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "AQC 2025 Vancouver",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "West Vancouver Schools Cybersecurity AI Program",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Law Society of BC AI Ethics Program",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "DigiBC Signals Program",
+      "fieldsUpdated": [
+        "BC Region",
+        "Funding",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "fieldsUpdated": [
+        "Funding",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "RIVAL Technologies",
+      "fieldsUpdated": [
+        "BC Region",
+        "AI Focus Areas",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Vision Critical (Alida)",
+      "fieldsUpdated": [
+        "BC Region",
+        "Funding",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Fintel Connect",
+      "fieldsUpdated": [
+        "BC Region",
+        "Funding",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "3DentAI",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Prince George AI Fire Detection Network",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Advertising Intelligence (ADINT.AI)",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "AIEX",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "ClearSpark AI",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Swipe Right App",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Cloudburst Research",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Canexia Health",
+      "fieldsUpdated": [
+        "BC Region",
+        "Funding",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Nytilus Inc",
+      "fieldsUpdated": [
+        "BC Region",
+        "Funding",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    }
+  ],
+  "errors": [
+    {
+      "name": "Reflection.ai",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Caroline Running Wolf AI Language Project",
+      "error": "Not found in database"
+    },
+    {
+      "name": "NRC-IRAP AI Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Ministry of AI",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC AI Adoption for Education Initiative",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Agricultural Technology Adoption Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Wildfire AI Satellite Analysis Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Business Registry AI Enhancement",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Centre for Innovation and Clean Energy AI Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "City of Vancouver AI Strategy",
+      "error": "Not found in database"
+    },
+    {
+      "name": "UBC AI for Climate Solutions Lab",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Fort Tectoria",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Vancouver International Privacy & Security Summit",
+      "error": "Not found in database"
+    },
+    {
+      "name": "DevFest YVR AI Summit",
+      "error": "Not found in database"
+    },
+    {
+      "name": "AI Community Conference Vancouver",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC AI for Refugees Initiative",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC AI Ethics Network",
+      "error": "Not found in database"
+    },
+    {
+      "name": "OnDeck Fisheries AI",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Forestry Innovation Investment Program",
+      "error": "Not found in database"
+    }
+  ]
+}

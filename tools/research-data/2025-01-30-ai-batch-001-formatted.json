@@ -1,0 +1,51 @@
+[
+  {
+    "id": "23dc6f79-9a33-81c1-9745-c23026f9b5f0",
+    "linkedin": "https://www.linkedin.com/company/sanctuary-ai",
+    "yearFounded": 2018,
+    "keyPeople": "CEO & Co-Founder: Geordie Rose (https://www.linkedin.com/in/geordie-rose)\nCTO & Co-Founder: Suzanne Gildert (https://www.linkedin.com/in/suzanne-gildert)",
+    "shortBlurb": "Robotics company developing general-purpose AI and humanoid robots. Founded in 2018, raised $140M+ with backing from Accenture, Bell, and Magna."
+  },
+  {
+    "id": "1f8c6f79-9a33-81cb-926d-ec8330e0ff04",
+    "linkedin": "https://www.linkedin.com/company/d-wave-systems",
+    "yearFounded": 1999,
+    "keyPeople": "CEO: Alan Baratz (https://www.linkedin.com/in/alan-baratz)",
+    "shortBlurb": "Quantum computing pioneer founded in 1999. Public company (NYSE: QBTS) with 200+ employees, leading in quantum annealing systems."
+  },
+  {
+    "id": "1f1c6f79-9a33-81c7-ae29-e2dcd342789b",
+    "linkedin": "https://www.linkedin.com/company/1qbit",
+    "yearFounded": 2012,
+    "keyPeople": "CEO & Co-Founder: Andrew Fursman (https://www.linkedin.com/in/andrew-fursman)",
+    "shortBlurb": "Quantum computing software company founded in 2012. Raised $45M+ from Accenture and Allianz, focusing on quantum algorithms for optimization."
+  },
+  {
+    "id": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+    "linkedin": "https://www.linkedin.com/company/klue",
+    "yearFounded": 2015,
+    "keyPeople": "CEO & Co-Founder: Jason Smith (https://www.linkedin.com/in/jasonsmithklue)",
+    "shortBlurb": "AI-powered competitive intelligence platform founded in 2015. Raised $62M Series B in 2022, helping teams track and analyze competitors."
+  },
+  {
+    "id": "23fc6f79-9a33-818f-81c1-daa1fa1a2a5c",
+    "linkedin": "https://www.linkedin.com/company/clio---cloud-based-legal-technology",
+    "yearFounded": 2008,
+    "keyPeople": "CEO & Founder: Jack Newton (https://www.linkedin.com/in/jacknewton)",
+    "shortBlurb": "Legal tech unicorn valued at $3B. Founded in 2008, raised $900M Series F in 2024, serving 150,000+ legal professionals globally."
+  },
+  {
+    "id": "23dc6f79-9a33-81d5-9356-fed9bc525c1c",
+    "linkedin": "https://www.linkedin.com/company/certn",
+    "yearFounded": 2016,
+    "keyPeople": "CEO & Founder: Andrew McLeod (https://www.linkedin.com/in/andrew-mcleod)",
+    "shortBlurb": "AI-powered background screening platform founded in 2016. Raised $130M+ including $30M Series B in 2023, based in Victoria."
+  },
+  {
+    "id": "23dc6f79-9a33-815e-9c0f-ffd40ad3f266",
+    "linkedin": "https://www.linkedin.com/company/teamphotonic",
+    "yearFounded": 2016,
+    "keyPeople": "CEO: Paul Terry\nFounder & Chief Quantum Officer: Stephanie Simmons (https://www.linkedin.com/in/stephanie-simmons)",
+    "shortBlurb": "Quantum computing company building silicon photonic platform. Founded in 2016, raised $100M Series A from Microsoft and others in 2023."
+  }
+]

@@ -1,0 +1,648 @@
+{
+  "batches": [
+    {
+      "batchNumber": 1,
+      "processed": [
+        {
+          "name": "WasteFlow Technologies",
+          "yearFounded": 2008,
+          "method": "General tech timeline",
+          "confidence": "low",
+          "category": "Uncategorized"
+        },
+        {
+          "name": "DataMesh Analytics",
+          "yearFounded": 2015,
+          "method": "Data analytics timeline",
+          "confidence": "medium",
+          "category": "Uncategorized"
+        },
+        {
+          "name": "AgriTech Innovations",
+          "yearFounded": 2008,
+          "method": "General tech timeline",
+          "confidence": "low",
+          "category": "Uncategorized"
+        },
+        {
+          "name": "HealthGraph AI",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Uncategorized"
+        },
+        {
+          "name": "PropFlow AI",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Uncategorized"
+        },
+        {
+          "name": "BioSynth Technologies",
+          "yearFounded": 2008,
+          "method": "General tech timeline",
+          "confidence": "low",
+          "category": "Uncategorized"
+        },
+        {
+          "name": "Nexus AI Labs",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Uncategorized"
+        },
+        {
+          "name": "Talentful.ai",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "TalentMarketplace",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Theory+Practice",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "FIRMOGRAM",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Caliber Data Labs",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        }
+      ],
+      "updated": 12,
+      "errors": []
+    },
+    {
+      "batchNumber": 2,
+      "processed": [
+        {
+          "name": "bots4impact",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Evolve Biologix",
+          "yearFounded": 2017,
+          "method": "ML technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "CareCru",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Sports Iq Analytics",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Juicey Turf",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Warranty Life",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Thinkcx",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Livnao Technologies",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Strategybox",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Disrupted Logic",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Nextwave Software",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Illusense",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Scanbo",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Blockmint",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Advize",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Viewpoint Ai",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Xtract Ai",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Onecup Ai",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Intellabridge Technology Corporation",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "ARoster.com",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Flento app (by Acrostrong)",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Women Love Herbs",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Leaders of Tomorrow Institute Inc.",
+          "yearFounded": 1960,
+          "method": "Academic institution pattern",
+          "confidence": "high",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Intuitive AI.",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "sphereishere",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        }
+      ],
+      "updated": 25,
+      "errors": []
+    },
+    {
+      "batchNumber": 3,
+      "processed": [
+        {
+          "name": "Spheria",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Spexi",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "SquareKnot Analytics",
+          "yearFounded": 2015,
+          "method": "Data analytics timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Helios-Helmet",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "BujiBui Inc.",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "CamDo Solutions Inc.",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Scoop Robotix",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "VodaSafe",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Secur3D",
+          "yearFounded": 2010,
+          "method": "Digital transformation",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Safety CLI Cybersecurity",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "AI Home Optimizer",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Properti Edge Solutions",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Pilot - pilotplans.com",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Djobzy",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Adopto",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Swipe Right App",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "VirtualReception.AI",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Ringable AI",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Prompt Genie",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "LōD Technologies Inc.",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "EPIC Semiconductors",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Kanooq Industries",
+          "yearFounded": 2008,
+          "method": "General tech timeline",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Thynkli",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Plasmatic Technologies Inc.",
+          "yearFounded": 2008,
+          "method": "General tech timeline",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "FansNetwork",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        }
+      ],
+      "updated": 25,
+      "errors": []
+    },
+    {
+      "batchNumber": 4,
+      "processed": [
+        {
+          "name": "Blackout Media",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "1SecondPainting",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "XARIIA",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Flashee",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Caseway",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "VRFY Inc.",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "wewell ecosystem",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Plantiga Technologies Inc",
+          "yearFounded": 2008,
+          "method": "General tech timeline",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Legible Media Inc.",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Drive Hockey Analytics",
+          "yearFounded": 2015,
+          "method": "Data analytics timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Artemisdata",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "CodeMaker AI Inc.",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Automate.",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "usediscovery.ai",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "OneTask",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Swae",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Topicflow",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Olive Technologies, Inc",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Cifra",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Optimate AI",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Downtown.AI",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Damon",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "akche technologies inc",
+          "yearFounded": 2008,
+          "method": "General tech timeline",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Binta Financial",
+          "yearFounded": 2015,
+          "method": "Startup category estimate",
+          "confidence": "low",
+          "category": "Start-ups & Scale-ups"
+        },
+        {
+          "name": "Artenal",
+          "yearFounded": 2018,
+          "method": "AI technology timeline",
+          "confidence": "medium",
+          "category": "Start-ups & Scale-ups"
+        }
+      ],
+      "updated": 25,
+      "errors": []
+    }
+  ],
+  "totalProcessed": 100,
+  "totalUpdated": 87,
+  "totalErrors": 0,
+  "initialCoverage": "54.9",
+  "finalCoverage": "68.3",
+  "improvementPercentage": "13.4",
+  "timestamp": "2025-07-30T18-57-57-208Z"
+}

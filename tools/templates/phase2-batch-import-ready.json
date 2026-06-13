@@ -1,0 +1,57 @@
+{
+  "_description": "Ready-to-import format for batch updating Notion database",
+  "_instructions": "Fill in the data and use with tools/utility/batch-update.js",
+  "updates": [
+    {
+      "id": "[Notion page ID - get from database]",
+      "name": "Organization Name (for reference)",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/example",
+        "Year Founded": 2018,
+        "Key People": "CEO: Jane Smith (https://linkedin.com/in/janesmith)\nCTO: John Doe (https://linkedin.com/in/johndoe)\nFounders: Jane Smith, Bob Johnson",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series A: $10M (2023) | Total raised: $15M | 87 employees | AI Focus: Computer Vision, NLP for healthcare",
+        "Short Blurb": "AI company developing computer vision solutions for healthcare diagnostics. Founded in 2018, raised $15M Series A in 2023.",
+        "Twitter": "@exampleai",
+        "City/Region": "Vancouver",
+        "BC Region": "Lower Mainland",
+        "Location": "123 Main Street, Vancouver, BC V6B 1A1",
+        "AI Focus Areas": ["Computer Vision", "Healthcare AI", "Machine Learning", "Predictive Analytics"]
+      }
+    },
+    {
+      "_template": true,
+      "id": "[Required: Notion page ID]",
+      "name": "[Optional: For your reference]",
+      "properties": {
+        "LinkedIn": "[Company LinkedIn URL]",
+        "Year Founded": "[Number: YYYY]",
+        "Key People": "[Text: Role: Name (LinkedIn URL) separated by newlines]",
+        "Size": "[Select: 'Startup (1-50)' | 'Scale-up (51-250)' | 'Enterprise (250+)']",
+        "Focus & Notes": "[Text: Funding | Employee count | Other key facts]",
+        "Short Blurb": "[Text: 1-2 sentence description with key facts]",
+        "Twitter": "[Text: Twitter handle with @]",
+        "Email": "[Email: Primary contact email]",
+        "Phone": "[Phone: Primary contact number]",
+        "Website": "[URL: Company website]",
+        "City/Region": "[Text: City name]",
+        "BC Region": "[Select: 'Lower Mainland' | 'Vancouver Island' | 'Interior' | 'North']",
+        "Location": "[Text: Full address if available]",
+        "AI Focus Areas": "[Array of strings: List of AI focus areas]",
+        "Category": "[Select: Must match existing categories exactly]",
+        "Logo": "[URL: Company logo URL]",
+        "Latitude": "[Number: Decimal latitude]",
+        "Longitude": "[Number: Decimal longitude]"
+      }
+    }
+  ],
+  "_usage": "node tools/utility/batch-update.js tools/templates/phase2-batch-import-ready.json",
+  "_notes": [
+    "Only include properties you want to update",
+    "Size field must match exact select options",
+    "BC Region must match exact select options", 
+    "AI Focus Areas should be an array of strings",
+    "Dates should be in Year Founded as numbers (e.g., 2018)",
+    "Keep entries under 2000 characters for rich text fields"
+  ]
+}

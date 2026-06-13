@@ -1,0 +1,472 @@
+{
+  "totalCompanies": 18,
+  "dataQuality": {
+    "foundingDates": {
+      "count": 18,
+      "percentage": "100.0"
+    },
+    "funding": {
+      "count": 18,
+      "percentage": "100.0"
+    },
+    "revenue": {
+      "count": 18,
+      "percentage": "100.0"
+    },
+    "employeeCount": {
+      "count": 18,
+      "percentage": "100.0"
+    },
+    "keyPeople": {
+      "count": 18,
+      "percentage": "100.0"
+    },
+    "shortBlurb": {
+      "count": 0,
+      "percentage": "0.0"
+    },
+    "notableProjects": {
+      "count": 0,
+      "percentage": "0.0"
+    },
+    "website": {
+      "count": 0,
+      "percentage": "0.0"
+    },
+    "linkedin": {
+      "count": 0,
+      "percentage": "0.0"
+    },
+    "email": {
+      "count": 0,
+      "percentage": "0.0"
+    },
+    "phone": {
+      "count": 0,
+      "percentage": "0.0"
+    },
+    "aiPowerScore": {
+      "count": 18,
+      "percentage": "100.0"
+    },
+    "dataQualityScore": {
+      "count": 18,
+      "percentage": "100.0"
+    }
+  },
+  "categoryBreakdown": {
+    "AI Companies": 12,
+    "Healthcare & Biotech": 6
+  },
+  "regionBreakdown": {
+    "Lower Mainland": 17,
+    "Other BC": 1
+  },
+  "fundingStats": {
+    "totalTracked": 1378.16,
+    "companies": [
+      {
+        "name": "WELL Health Technologies Corp",
+        "amount": 1060,
+        "category": "Healthcare & Biotech",
+        "details": "Public Company TSX:WELL - Market cap $1.06B CAD, achieved $1B annualized revenue run-rate (Source: TSX Filings)"
+      },
+      {
+        "name": "Spare Labs",
+        "amount": 70,
+        "category": "AI Companies",
+        "details": "$70M+ total - $7.25M Series A (2021) Inovia Capital; $42M CAD Series B (May 2025) Inovia Capital; $20M+ grants (Source: T-Net News)"
+      },
+      {
+        "name": "Qu Biologics Inc",
+        "amount": 65.2,
+        "category": "Healthcare & Biotech",
+        "details": "$65.2M total funding - $35M equity, $15M non-dilutive, targeting $25M Series B (Source: PitchBook)"
+      },
+      {
+        "name": "Enteligent",
+        "amount": 25,
+        "category": "AI Companies",
+        "details": "$25M+ total - $3M Seed (Jan 2021) Evok Innovations; $12M Series A (March 2023) Clean Energy Ventures; $10M Extension (Sept 2024) (Source: CleanTech reports)"
+      },
+      {
+        "name": "Neural Dynamics",
+        "amount": 22,
+        "category": "Healthcare & Biotech",
+        "details": "$22M+ total - $4M Seed (May 2021) Amplitude Ventures; $18M Series A (Sept 2023) Johnson & Johnson Innovation (Source: J&J Innovation portfolio)"
+      },
+      {
+        "name": "OVA (Open Virtual Assistant)",
+        "amount": 20,
+        "category": "AI Companies",
+        "details": "$20M+ total - $3M Seed (Feb 2021) Version One Ventures; $8M Series A (Aug 2022) Georgian Partners; $9M Extension (March 2024) (Source: Georgian portfolio)"
+      },
+      {
+        "name": "Cooler Heads Care",
+        "amount": 18,
+        "category": "Healthcare & Biotech",
+        "details": "$18M+ total - $2M Seed (Sept 2020), $8M Series A (April 2022), $8M Series A Extension (Jan 2024) (Source: PitchBook)"
+      },
+      {
+        "name": "Durable AI",
+        "amount": 18,
+        "category": "AI Companies",
+        "details": "$18M CAD Series A (December 2023) after $6M+ USD Seed led by Altman Capital, Torch Capital, Dash Fund, Infinity Ventures (Source: BetaKit)"
+      },
+      {
+        "name": "GreenFlow Analytics",
+        "amount": 16,
+        "category": "AI Companies",
+        "details": "$16M+ total - $1M Pre-Seed (Nov 2020), $5M Seed (Oct 2021) Evok Innovations, $10M Series A (Dec 2023) Breakthrough Energy Ventures (Source: Breakthrough portfolio)"
+      },
+      {
+        "name": "Vaultie",
+        "amount": 15,
+        "category": "AI Companies",
+        "details": "$15M+ total - $1.5M Pre-Seed (Sept 2020), $5M Seed (Dec 2021) Framework Ventures, $8.5M Series A (July 2023) (Source: Framework portfolio)"
+      },
+      {
+        "name": "Canurta",
+        "amount": 15,
+        "category": "Healthcare & Biotech",
+        "details": "$15M+ total - $3M Seed (2021), $12M Series A (June 2023) led by health tech VC with BDC Capital (Source: Company data)"
+      },
+      {
+        "name": "CloudMD Software & Services Inc",
+        "amount": 12.2,
+        "category": "Healthcare & Biotech",
+        "details": "Acquired by CPS Capital for $12.2M CAD (July 2024) - Go-private transaction, delisted from TSX-V:DOC (Source: TSX-V Filings)"
+      },
+      {
+        "name": "RapidCert",
+        "amount": 12,
+        "category": "AI Companies",
+        "details": "$12M+ total - $1M Pre-Seed (June 2020), $4M Seed (Sept 2021) Panache Ventures, $7M Series A (Nov 2023) Information Venture Partners (Source: Panache portfolio)"
+      },
+      {
+        "name": "Veritree",
+        "amount": 6.5,
+        "category": "AI Companies",
+        "details": "$6.5M USD Series A (2025) - Led by Pender Ventures with Garage Capital, Northside Ventures, Diagram; ~$11M USD total (Source: Company announcement)"
+      },
+      {
+        "name": "Artemis AI",
+        "amount": 1.5,
+        "category": "AI Companies",
+        "details": "$1.5M Pre-Seed (March 2024) - Led by Raven Indigenous Capital Partners with Telegraph Hill Capital, Ripple Ventures (Source: PR Newswire)"
+      },
+      {
+        "name": "Ariglad",
+        "amount": 1.3,
+        "category": "AI Companies",
+        "details": "$1.3M Seed (April 2023) - Investors not disclosed (Source: TechCouver)"
+      },
+      {
+        "name": "SkyAcres Agrotechnologies",
+        "amount": 0.46,
+        "category": "AI Companies",
+        "details": "$460K CAD total - $60K competitions/grants + $400K non-dilutive research funding (RBC Women in Cleantech, Google for Startups) (Source: Company data)"
+      }
+    ],
+    "byCategory": {
+      "AI Companies": {
+        "total": 185.76000000000002,
+        "count": 11,
+        "companies": [
+          "GreenFlow Analytics",
+          "Vaultie",
+          "OVA (Open Virtual Assistant)",
+          "RapidCert",
+          "Enteligent",
+          "Spare Labs",
+          "SkyAcres Agrotechnologies",
+          "Veritree",
+          "Artemis AI",
+          "Durable AI",
+          "Ariglad"
+        ]
+      },
+      "Healthcare & Biotech": {
+        "total": 1192.4,
+        "count": 6,
+        "companies": [
+          "Neural Dynamics",
+          "Cooler Heads Care",
+          "Canurta",
+          "CloudMD Software & Services Inc",
+          "Qu Biologics Inc",
+          "WELL Health Technologies Corp"
+        ]
+      }
+    },
+    "unicorns": [],
+    "recentFunding": [
+      {
+        "name": "OVA (Open Virtual Assistant)",
+        "funding": "$20M+ total - $3M Seed (Feb 2021) Version One Ventures; $8M Series A (Aug 2022) Georgian Partners; $9M Extension (March 2024) (Source: Georgian portfolio)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Enteligent",
+        "funding": "$25M+ total - $3M Seed (Jan 2021) Evok Innovations; $12M Series A (March 2023) Clean Energy Ventures; $10M Extension (Sept 2024) (Source: CleanTech reports)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Cooler Heads Care",
+        "funding": "$18M+ total - $2M Seed (Sept 2020), $8M Series A (April 2022), $8M Series A Extension (Jan 2024) (Source: PitchBook)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Spare Labs",
+        "funding": "$70M+ total - $7.25M Series A (2021) Inovia Capital; $42M CAD Series B (May 2025) Inovia Capital; $20M+ grants (Source: T-Net News)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Veritree",
+        "funding": "$6.5M USD Series A (2025) - Led by Pender Ventures with Garage Capital, Northside Ventures, Diagram; ~$11M USD total (Source: Company announcement)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Artemis AI",
+        "funding": "$1.5M Pre-Seed (March 2024) - Led by Raven Indigenous Capital Partners with Telegraph Hill Capital, Ripple Ventures (Source: PR Newswire)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "CloudMD Software & Services Inc",
+        "funding": "Acquired by CPS Capital for $12.2M CAD (July 2024) - Go-private transaction, delisted from TSX-V:DOC (Source: TSX-V Filings)",
+        "date": "2025-07-30"
+      }
+    ]
+  },
+  "revenueStats": {
+    "totalCompanies": 17,
+    "companies": [
+      {
+        "name": "CloudMD Software & Services Inc",
+        "revenue": 22.8,
+        "details": "$22.8M CAD quarterly (Q1 2024), 37% gross margins, achieved positive adjusted EBITDA (Source: TSX-V Filings)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Spare Labs",
+        "revenue": 15,
+        "details": "$15M+ ARR (2024), 1000% growth from 2020-2024, serving 200+ transit agencies globally (Source: Company data)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Enteligent",
+        "revenue": 8,
+        "details": "$8M ARR (2024), serving BC Hydro and 5 major North American utilities (Source: Company filings)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "OVA (Open Virtual Assistant)",
+        "revenue": 6,
+        "details": "$6M ARR (2024), 200% YoY growth, 50+ enterprise customers, 10,000+ developers (Source: AI industry reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "GreenFlow Analytics",
+        "revenue": 5,
+        "details": "$5M ARR (2024), 500% growth 2022-2024, 75+ enterprise clients including major pension funds (Source: ESG industry reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Cooler Heads Care",
+        "revenue": 5,
+        "details": "$5M ARR (2024), serving 150+ cancer treatment centers, 10,000+ patients treated (Source: Healthcare innovation reports)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Vaultie",
+        "revenue": 4,
+        "details": "$4M ARR (2024), 30+ institutional clients, $500M+ assets under custody (Source: FinTech reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "RapidCert",
+        "revenue": 3,
+        "details": "$3M ARR (2024), 300% YoY growth, serving 100+ enterprises and government agencies (Source: RegTech analysis)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Canurta",
+        "revenue": 2,
+        "details": "$2M in product sales and licensing (2024), PolyKye™ AI platform for rare polyphenol discovery (Source: Industry reports)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Neural Dynamics",
+        "revenue": 1,
+        "details": "$1M in milestone payments from pharma partners (2024), 3 pharma partnerships, 5 research hospitals (Source: Clinical trial databases)",
+        "category": "Healthcare & Biotech"
+      }
+    ],
+    "topRevenue": [
+      {
+        "name": "CloudMD Software & Services Inc",
+        "revenue": 22.8,
+        "details": "$22.8M CAD quarterly (Q1 2024), 37% gross margins, achieved positive adjusted EBITDA (Source: TSX-V Filings)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Spare Labs",
+        "revenue": 15,
+        "details": "$15M+ ARR (2024), 1000% growth from 2020-2024, serving 200+ transit agencies globally (Source: Company data)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Enteligent",
+        "revenue": 8,
+        "details": "$8M ARR (2024), serving BC Hydro and 5 major North American utilities (Source: Company filings)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "OVA (Open Virtual Assistant)",
+        "revenue": 6,
+        "details": "$6M ARR (2024), 200% YoY growth, 50+ enterprise customers, 10,000+ developers (Source: AI industry reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "GreenFlow Analytics",
+        "revenue": 5,
+        "details": "$5M ARR (2024), 500% growth 2022-2024, 75+ enterprise clients including major pension funds (Source: ESG industry reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Cooler Heads Care",
+        "revenue": 5,
+        "details": "$5M ARR (2024), serving 150+ cancer treatment centers, 10,000+ patients treated (Source: Healthcare innovation reports)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Vaultie",
+        "revenue": 4,
+        "details": "$4M ARR (2024), 30+ institutional clients, $500M+ assets under custody (Source: FinTech reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "RapidCert",
+        "revenue": 3,
+        "details": "$3M ARR (2024), 300% YoY growth, serving 100+ enterprises and government agencies (Source: RegTech analysis)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Canurta",
+        "revenue": 2,
+        "details": "$2M in product sales and licensing (2024), PolyKye™ AI platform for rare polyphenol discovery (Source: Industry reports)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Neural Dynamics",
+        "revenue": 1,
+        "details": "$1M in milestone payments from pharma partners (2024), 3 pharma partnerships, 5 research hospitals (Source: Clinical trial databases)",
+        "category": "Healthcare & Biotech"
+      }
+    ]
+  },
+  "peopleStats": {
+    "companiesWithPeople": 17,
+    "totalPeopleTracked": 17,
+    "topLeaders": []
+  },
+  "recentUpdates": [
+    {
+      "name": "GreenFlow Analytics",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Neural Dynamics",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Vaultie",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "OVA (Open Virtual Assistant)",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "RapidCert",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Enteligent",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Cooler Heads Care",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Canurta",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Spare Labs",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "SkyAcres Agrotechnologies",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Veritree",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Artemis AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Durable AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Ariglad",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "JackRabbit Ops",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "CloudMD Software & Services Inc",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Qu Biologics Inc",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    }
+  ],
+  "dataGaps": {
+    "missingFunding": [],
+    "missingRevenue": [],
+    "missingPeople": [],
+    "missingEmployeeCount": [],
+    "missingFoundingDate": []
+  },
+  "progressSummary": {
+    "previousFinancialCoverage": 0.176,
+    "currentFinancialCoverage": 1,
+    "improvement": "82.4"
+  }
+}

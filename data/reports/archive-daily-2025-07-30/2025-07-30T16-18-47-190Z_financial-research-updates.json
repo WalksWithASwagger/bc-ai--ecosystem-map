@@ -1,0 +1,68 @@
+{
+  "updated": [
+    {
+      "name": "Tasktop",
+      "pageId": "240c6f79-9a33-81ac-b9eb-e0a1b540af8d",
+      "funding": "Acquired by Planview (April 2023)",
+      "revenue": "$50M+ ARR (at acquisition)"
+    },
+    {
+      "name": "Procurify",
+      "pageId": "240c6f79-9a33-81e4-b5e4-d3e039632bec",
+      "funding": "$26M Series C (September 2021)",
+      "revenue": "$10-20M ARR (est.)"
+    },
+    {
+      "name": "STEMCELL Technologies",
+      "pageId": "240c6f79-9a33-817d-898f-fc94ede14e55",
+      "funding": "Private/Bootstrapped",
+      "revenue": "$700M+ (2023 est.)"
+    },
+    {
+      "name": "Thinkific",
+      "pageId": "240c6f79-9a33-8147-beed-e0df8d0c74fc",
+      "funding": "IPO (TSX:THNC) - April 2021",
+      "revenue": "$57.8M CAD (2023)",
+      "valuation": "$150M CAD market cap (as of 2025)"
+    },
+    {
+      "name": "Trulioo",
+      "pageId": "240c6f79-9a33-8141-9a97-edc6de36d550",
+      "funding": "$394M Series D (June 2021)",
+      "revenue": "$100M+ ARR (2023 est.)",
+      "valuation": "$1.75B (unicorn)"
+    },
+    {
+      "name": "Minerva Intelligence",
+      "pageId": "240c6f79-9a33-815b-9c2b-de11e9dc0aac",
+      "funding": "Public (TSXV:MVAI)",
+      "revenue": "$1-2M (2023)",
+      "valuation": "$5-10M market cap"
+    },
+    {
+      "name": "Boast AI",
+      "pageId": "23fc6f79-9a33-818a-a6c0-c5fe10727e6d",
+      "funding": "$23M Series A (March 2022)",
+      "revenue": "$10-15M ARR (est.)"
+    },
+    {
+      "name": "Meton AI",
+      "pageId": "23fc6f79-9a33-8102-8af8-d81b632dbd61",
+      "funding": "Seed funding",
+      "revenue": "Pre-revenue"
+    },
+    {
+      "name": "Leasey.AI",
+      "pageId": "23fc6f79-9a33-81b5-9314-fe3df8ab6f2c",
+      "funding": "Pre-seed",
+      "revenue": "Early revenue"
+    },
+    {
+      "name": "GreenMeter AI",
+      "pageId": "23fc6f79-9a33-819c-8e7b-f51b33bdbd16",
+      "funding": "Government grants",
+      "revenue": "Early revenue"
+    }
+  ],
+  "errors": []
+}

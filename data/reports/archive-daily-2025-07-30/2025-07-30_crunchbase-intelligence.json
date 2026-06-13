@@ -1,0 +1,181 @@
+[
+  {
+    "pageId": "23fc6f79-9a33-8177-9069-d3d249dfff5b",
+    "organization": "Pano AI BC",
+    "data": {
+      "funding": {
+        "value": "$20M Series A (September 2022)",
+        "details": {
+          "amount": "$20M",
+          "round": "Series A",
+          "date": "2022-09",
+          "leadInvestor": "Valor Equity Partners",
+          "otherInvestors": "T-Mobile Ventures, Salesforce Ventures",
+          "totalFunding": "$25M"
+        },
+        "source": {
+          "url": "https://www.crunchbase.com/organization/pano-ai",
+          "type": "Crunchbase",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      },
+      "employees": {
+        "value": "47 employees",
+        "details": {
+          "count": "47",
+          "asOf": "2025-07-30",
+          "growthNote": "Growing team focused on wildfire detection"
+        },
+        "source": {
+          "url": "https://www.linkedin.com/company/pano-ai",
+          "type": "LinkedIn",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      },
+      "yearFounded": {
+        "value": 2020,
+        "source": {
+          "url": "https://www.crunchbase.com/organization/pano-ai",
+          "type": "Crunchbase",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      },
+      "keyPeople": {
+        "value": "Sonia Kastner (CEO), Arvind Satyam (CTO)",
+        "details": [
+          {
+            "name": "Sonia Kastner",
+            "title": "CEO",
+            "linkedIn": "https://www.linkedin.com/in/soniakastner/"
+          },
+          {
+            "name": "Arvind Satyam",
+            "title": "CTO",
+            "linkedIn": "https://www.linkedin.com/in/arvindsatyam/"
+          }
+        ],
+        "source": {
+          "url": "https://www.crunchbase.com/organization/pano-ai",
+          "type": "Crunchbase",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      }
+    }
+  },
+  {
+    "pageId": "23fc6f79-9a33-8177-8fb1-fbfa25cbea69",
+    "organization": "Edvisor.io",
+    "data": {
+      "employees": {
+        "value": "23 employees",
+        "details": {
+          "count": "23",
+          "asOf": "2025-07-30",
+          "linkedInRange": "11-50 employees"
+        },
+        "source": {
+          "url": "https://www.linkedin.com/company/edvisor-io",
+          "type": "LinkedIn",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      },
+      "description": {
+        "value": "Edvisor.io is a SaaS platform designed for education agencies and schools to manage their operations, from CRM to accounting, in one integrated system.",
+        "source": {
+          "url": "https://www.linkedin.com/company/edvisor-io",
+          "type": "LinkedIn",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      }
+    }
+  },
+  {
+    "pageId": "23fc6f79-9a33-812e-85df-d82e9c1b44c1",
+    "organization": "InBC Life Sciences Investment Fund",
+    "data": {
+      "funding": {
+        "value": "$500M Fund (Government)",
+        "details": {
+          "amount": "$500M",
+          "type": "Government Strategic Investment Fund",
+          "date": "2021",
+          "note": "This is a fund that invests in companies, not a company raising funds"
+        },
+        "source": {
+          "url": "https://news.gov.bc.ca/releases/2021JERI0019-000476",
+          "type": "Government Press Release",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      },
+      "yearFounded": {
+        "value": 2021,
+        "source": {
+          "url": "https://www.inbcinvestment.ca/about",
+          "type": "Company Website",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      },
+      "keyPeople": {
+        "value": "Jill Earthy (CEO)",
+        "details": [
+          {
+            "name": "Jill Earthy",
+            "title": "CEO",
+            "linkedIn": "https://www.linkedin.com/in/jillearthy/"
+          }
+        ],
+        "source": {
+          "url": "https://www.linkedin.com/company/inbcinvestment",
+          "type": "LinkedIn",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      }
+    }
+  },
+  {
+    "pageId": "23fc6f79-9a33-816e-a523-ee91747b774d",
+    "organization": "Digital Technology Supercluster Healthtech AI",
+    "data": {
+      "funding": {
+        "value": "$300M+ Program Funding",
+        "details": {
+          "federalFunding": "$153M",
+          "industryMatching": "$153M+",
+          "totalProgram": "$300M+",
+          "type": "Innovation Supercluster Program",
+          "date": "2018",
+          "note": "Not-for-profit consortium, not traditional VC funding"
+        },
+        "source": {
+          "url": "https://www.ic.gc.ca/eic/site/093.nsf/eng/00008.html",
+          "type": "Government Website",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "high"
+      },
+      "employees": {
+        "value": "30-40 employees",
+        "details": {
+          "count": "30-40",
+          "asOf": "2025-07-30",
+          "note": "Core team managing 500+ member organizations"
+        },
+        "source": {
+          "url": "https://www.linkedin.com/company/digital-technology-supercluster/",
+          "type": "LinkedIn",
+          "accessDate": "2025-07-30"
+        },
+        "confidence": "medium"
+      }
+    }
+  }
+]

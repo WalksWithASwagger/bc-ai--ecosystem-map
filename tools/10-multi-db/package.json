@@ -1,0 +1,29 @@
+{
+  "name": "ecosystem-multi-db",
+  "version": "1.0.0",
+  "description": "Multi-database research architecture tools",
+  "main": "project-manager.js",
+  "scripts": {
+    "setup": "node setup.js",
+    "create-project": "node project-manager.js create",
+    "list-projects": "node project-manager.js list",
+    "run-pipeline": "node universal-pipeline.js",
+    "project-status": "node universal-pipeline.js",
+    "test": "echo \"Testing multi-db architecture...\" && npm run list-projects"
+  },
+  "keywords": [
+    "research",
+    "database",
+    "pipelines",
+    "AI",
+    "ecosystem"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^4.0.1",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0",
+    "openai": "^4.0.0"
+  }
+}

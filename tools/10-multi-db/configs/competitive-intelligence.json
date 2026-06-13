@@ -1,0 +1,83 @@
+{
+  "id": "competitive-intelligence",
+  "name": "Competitive Intelligence",
+  "type": "competitive",
+  "description": "Monitor competitors, product launches, and market movements",
+  "createdAt": "2025-08-04T22:01:37.350Z",
+  "status": "active",
+  "dataSources": {
+    "notion": {
+      "databaseId": "",
+      "tokenEnvVar": "NOTION_TOKEN_COMPETITIVE-INTELLIGENCE"
+    }
+  },
+  "pipelines": {
+    "discovery": {
+      "enabled": true,
+      "frequency": "daily"
+    },
+    "enrichment": {
+      "enabled": true,
+      "frequency": "weekly"
+    },
+    "funding": {
+      "enabled": false,
+      "frequency": "daily"
+    },
+    "competitive": {
+      "enabled": true,
+      "frequency": "weekly"
+    },
+    "temporal": {
+      "enabled": true
+    }
+  },
+  "schema": {
+    "entities": [
+      "competitor",
+      "product",
+      "announcement",
+      "partnership"
+    ],
+    "relationships": [
+      "competes_with",
+      "launched",
+      "partnered_with"
+    ],
+    "properties": {
+      "competitor": [
+        "name",
+        "size",
+        "market_cap",
+        "revenue",
+        "location"
+      ],
+      "product": [
+        "name",
+        "category",
+        "pricing",
+        "features"
+      ],
+      "announcement": [
+        "type",
+        "date",
+        "impact",
+        "source"
+      ],
+      "partnership": [
+        "type",
+        "date",
+        "value",
+        "duration"
+      ]
+    }
+  },
+  "paths": {
+    "root": "/Users/kk/ecosystem-map-bc-ai/data/projects/competitive-intelligence",
+    "data": "/Users/kk/ecosystem-map-bc-ai/data/projects/competitive-intelligence/data",
+    "logs": "/Users/kk/ecosystem-map-bc-ai/data/projects/competitive-intelligence/logs",
+    "reports": "/Users/kk/ecosystem-map-bc-ai/data/projects/competitive-intelligence/reports",
+    "discoveries": "/Users/kk/ecosystem-map-bc-ai/data/projects/competitive-intelligence/discoveries",
+    "temporalKg": "/Users/kk/ecosystem-map-bc-ai/data/projects/competitive-intelligence/data/temporal-kg"
+  }
+}

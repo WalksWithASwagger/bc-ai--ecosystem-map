@@ -1,0 +1,96 @@
+{
+  "updated": [
+    {
+      "name": "D-Wave Systems",
+      "pageId": "1f8c6f79-9a33-81cb-926d-ec8330e0ff04",
+      "funding": "Public (NYSE:QBTS) via SPAC (August 2022)",
+      "revenue": "$8.2M (2023)",
+      "valuation": "$400M market cap (2025)",
+      "category": "Quantum Computing"
+    },
+    {
+      "name": "Zymeworks",
+      "pageId": "23dc6f79-9a33-813d-80e1-d9a0ce2345a1",
+      "funding": "Public (NYSE:ZYME)",
+      "revenue": "$124M (2023)",
+      "valuation": "$800M market cap",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Archiact",
+      "pageId": "240c6f79-9a33-81bd-a04c-fac254358e1d",
+      "funding": "$10M Series A (2021)",
+      "revenue": "$5-10M (est.)",
+      "category": "VR/AR"
+    },
+    {
+      "name": "Kindred",
+      "pageId": "23dc6f79-9a33-81fb-a273-dd8afaa06e0b",
+      "funding": "Acquired by Ocado (November 2020)",
+      "revenue": "Pre-revenue (at acquisition)",
+      "valuation": "$262M (acquisition price)",
+      "category": "Robotics"
+    },
+    {
+      "name": "Vision Critical",
+      "pageId": "23fc6f79-9a33-81de-890b-fb2743bf0ad7",
+      "funding": "Acquired by Veritas Capital (2014)",
+      "revenue": "$100M+ (at acquisition)",
+      "valuation": "$300M+ (acquisition price)",
+      "category": "SaaS"
+    }
+  ],
+  "notFound": [
+    {
+      "name": "Photonic Inc.",
+      "category": "Quantum Computing",
+      "fundingInfo": "$100M USD (November 2023)"
+    },
+    {
+      "name": "Acuitas Therapeutics",
+      "category": "Healthcare & Biotech",
+      "fundingInfo": "$200M Series B (2023)"
+    },
+    {
+      "name": "Xenon Pharmaceuticals",
+      "category": "Healthcare & Biotech",
+      "fundingInfo": "Public (NASDAQ:XENE)"
+    },
+    {
+      "name": "Kabam",
+      "category": "Gaming",
+      "fundingInfo": "Acquired by Netmarble (2017)"
+    },
+    {
+      "name": "Mogo",
+      "category": "Fintech",
+      "fundingInfo": "Public (TSX:MOGO, NASDAQ:MOGO)"
+    },
+    {
+      "name": "Coinsquare",
+      "category": "Blockchain",
+      "fundingInfo": "$83.2M (December 2021)"
+    },
+    {
+      "name": "Nymi",
+      "category": "Fintech",
+      "fundingInfo": "$31M Series B"
+    },
+    {
+      "name": "Slack (Vancouver office)",
+      "category": "SaaS",
+      "fundingInfo": "Acquired by Salesforce (July 2021)"
+    },
+    {
+      "name": "Carbon Engineering",
+      "category": "CleanTech",
+      "fundingInfo": "$68M (2019)"
+    },
+    {
+      "name": "Ballard Power Systems",
+      "category": "CleanTech",
+      "fundingInfo": "Public (TSX:BLDP, NASDAQ:BLDP)"
+    }
+  ],
+  "errors": []
+}

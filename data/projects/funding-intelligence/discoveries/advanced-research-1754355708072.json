@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "researchDate": "2025-08-05T01:01:48.072Z",
+    "sourceFunders": 304,
+    "totalDiscoveries": 15,
+    "connections": 2,
+    "opportunities": 5
+  },
+  "discoveries": [
+    {
+      "name": "Bessemer Venture Partners",
+      "type": "VC",
+      "reason": "Co-invests with Sequoia Capital",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 92.9673315031692,
+      "status": "candidate",
+      "researchPriority": 95
+    },
+    {
+      "name": "Lightspeed Venture Partners",
+      "type": "VC",
+      "reason": "Similar focus areas to a16z",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 66.06705146828297,
+      "status": "candidate",
+      "researchPriority": 70
+    },
+    {
+      "name": "Greylock Partners",
+      "type": "VC",
+      "reason": "Enterprise software focus",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 98.53990082733183,
+      "status": "candidate",
+      "researchPriority": 70
+    },
+    {
+      "name": "IRAP (Industrial Research Assistance Program)",
+      "type": "Government",
+      "reason": "Related to Innovate BC",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 77.03513021505974,
+      "status": "candidate",
+      "researchPriority": 65
+    },
+    {
+      "name": "MITACS",
+      "type": "Research",
+      "reason": "Complements NSERC/SSHRC programs",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 91.414381613468,
+      "status": "candidate",
+      "researchPriority": 50
+    },
+    {
+      "name": "Export Development Canada",
+      "type": "Government",
+      "reason": "Related to CanExport",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 67.1487357056432,
+      "status": "candidate",
+      "researchPriority": 65
+    },
+    {
+      "name": "Vancouver Angel Forum",
+      "type": "Angel Network",
+      "reason": "Geographic clustering",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 92.37136922544708,
+      "status": "candidate",
+      "researchPriority": 60
+    },
+    {
+      "name": "KEIRETSU Forum",
+      "type": "Angel Network",
+      "reason": "Active in BC market",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 79.35890005965666,
+      "status": "candidate",
+      "researchPriority": 50
+    },
+    {
+      "name": "Band of Angels",
+      "type": "Angel Network",
+      "reason": "Tech focus alignment",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 79.20883085864105,
+      "status": "candidate",
+      "researchPriority": 50
+    },
+    {
+      "name": "Intel Capital",
+      "type": "Corporate VC",
+      "reason": "Intel corporate presence",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 80.73696862421095,
+      "status": "candidate",
+      "researchPriority": 50
+    },
+    {
+      "name": "Microsoft Ventures",
+      "type": "Corporate VC",
+      "reason": "Microsoft partnership",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 83.28266820600257,
+      "status": "candidate",
+      "researchPriority": 50
+    },
+    {
+      "name": "Salesforce Ventures",
+      "type": "Corporate VC",
+      "reason": "Salesforce presence",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 93.673156615637,
+      "status": "candidate",
+      "researchPriority": 50
+    },
+    {
+      "name": "Chan Zuckerberg Initiative",
+      "type": "Foundation",
+      "reason": "Similar to Gates Foundation",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 94.57516491002737,
+      "status": "candidate",
+      "researchPriority": 50
+    },
+    {
+      "name": "Schmidt Futures",
+      "type": "Foundation",
+      "reason": "Tech-focused philanthropy",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 94.61853428357651,
+      "status": "candidate",
+      "researchPriority": 50
+    },
+    {
+      "name": "Open Society Foundations",
+      "type": "Foundation",
+      "reason": "Media/journalism funding",
+      "discoveredAt": "2025-08-05T01:01:48.071Z",
+      "confidence": 83.59471603830795,
+      "status": "candidate",
+      "researchPriority": 50
+    }
+  ],
+  "connections": [
+    {
+      "type": "program_synergy",
+      "description": "Canadian government funding programs often stack",
+      "funders": [
+        "https://www.sshrc",
+        "Here is the master funder list with contact details:",
+        "New Frontiers of Research Fund",
+        "Website: https://www.sshrc",
+        "Social Science and Humanities Research Council"
+      ],
+      "opportunity": "Apply to multiple programs simultaneously",
+      "strength": "high"
+    },
+    {
+      "type": "corporate_ecosystem",
+      "description": "Tech giants with multiple funding programs",
+      "funders": [
+        "Microsoft: https://www.microsoft.com/en",
+        "IBM: https://www.ibm.com/ca"
+      ],
+      "opportunity": "Leverage existing partnerships for warm introductions",
+      "strength": "medium"
+    }
+  ],
+  "researchOpportunities": [
+    {
+      "type": "market_expansion",
+      "title": "BC Cleantech Funding Landscape",
+      "description": "Research BC-specific cleantech and climate funders",
+      "priority": "high",
+      "estimatedFunders": 25,
+      "effort": "medium"
+    },
+    {
+      "type": "sector_deep_dive",
+      "title": "AI/ML Specialized Funds",
+      "description": "Find AI-focused funds and accelerators",
+      "priority": "high",
+      "estimatedFunders": 40,
+      "effort": "low"
+    },
+    {
+      "type": "geographic_expansion",
+      "title": "Toronto Tech Ecosystem",
+      "description": "Expand coverage to Toronto-based funders",
+      "priority": "medium",
+      "estimatedFunders": 60,
+      "effort": "high"
+    },
+    {
+      "type": "stage_specific",
+      "title": "Pre-Seed & Angel Networks",
+      "description": "Focus on early-stage funding sources",
+      "priority": "high",
+      "estimatedFunders": 35,
+      "effort": "medium"
+    },
+    {
+      "type": "international",
+      "title": "US Cross-Border Funders",
+      "description": "US funds that invest in Canadian companies",
+      "priority": "medium",
+      "estimatedFunders": 50,
+      "effort": "high"
+    }
+  ],
+  "processingLog": [
+    "[2025-08-05T01:01:48.065Z] 🚀 Starting advanced funder research...",
+    "[2025-08-05T01:01:48.069Z] 📊 Loading enriched funder data...",
+    "[2025-08-05T01:01:48.071Z] ✅ Loaded 304 enriched funders",
+    "[2025-08-05T01:01:48.071Z] 🔍 Analyzing investment patterns and focus areas...",
+    "[2025-08-05T01:01:48.071Z] 📈 Found 4 focus areas",
+    "[2025-08-05T01:01:48.071Z] 🌍 Found 14 locations",
+    "[2025-08-05T01:01:48.071Z] 🕸️ Discovering related funders and connections...",
+    "[2025-08-05T01:01:48.071Z] 🔍 Discovered 15 potential new funders",
+    "[2025-08-05T01:01:48.071Z] 🔗 Mapping funding ecosystem connections...",
+    "[2025-08-05T01:01:48.072Z] 🔗 Mapped 2 funding ecosystem connections",
+    "[2025-08-05T01:01:48.072Z] 💡 Generating new research opportunities...",
+    "[2025-08-05T01:01:48.072Z] 💡 Generated 5 research opportunities"
+  ]
+}

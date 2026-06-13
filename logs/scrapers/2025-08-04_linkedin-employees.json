@@ -1,0 +1,266 @@
+{
+  "timestamp": "2025-08-04T23:20:58.427Z",
+  "mode": "dry_run",
+  "results": {
+    "processed": 20,
+    "updated": 20,
+    "failed": 0,
+    "discoveries": [
+      {
+        "organization": "Immersio Learning Inc.",
+        "linkedin": "https://ca.linkedin.com/in/phongdg",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://ca.linkedin.com/in/phongdg",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:38.404Z"
+        },
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "organization": "BC Centre for Innovation and Clean Energy",
+        "linkedin": "https://www.linkedin.com/company/bccentreforinnovationandcleanenergyaiprogram",
+        "employeeData": {
+          "min": 501,
+          "max": 1000,
+          "text": "501-1000 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/bccentreforinnovationandcleanenergyaiprogram",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:39.405Z"
+        },
+        "category": "Innovation Centres & Hubs"
+      },
+      {
+        "organization": "Athletica",
+        "linkedin": "https://ca.linkedin.com/company/sport-systems-unlimited-corp.",
+        "employeeData": {
+          "min": 501,
+          "max": 1000,
+          "text": "501-1000 employees (2025-08-04)",
+          "source": "https://ca.linkedin.com/company/sport-systems-unlimited-corp.",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:40.407Z"
+        }
+      },
+      {
+        "organization": "InBC Life Sciences Investment Fund",
+        "linkedin": "https://ca.linkedin.com/company/inbcinvestment",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://ca.linkedin.com/company/inbcinvestment",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:41.408Z"
+        },
+        "category": "Investment Fund"
+      },
+      {
+        "organization": "Law Society of BC AI Ethics Program",
+        "linkedin": "https://www.linkedin.com/company/law-society-of-british-columbia/",
+        "employeeData": {
+          "min": 501,
+          "max": 1000,
+          "text": "501-1000 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/law-society-of-british-columbia/",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:42.409Z"
+        },
+        "category": "Community"
+      },
+      {
+        "organization": "BCSC RegTech Sandbox",
+        "linkedin": "https://www.linkedin.com/company/british-columbia-securities-commission/",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/british-columbia-securities-commission/",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:43.411Z"
+        },
+        "category": "Government"
+      },
+      {
+        "organization": "PacifiCan Regional Artificial Intelligence Initiative",
+        "linkedin": "https://www.linkedin.com/company/pacifican/",
+        "employeeData": {
+          "min": 1,
+          "max": 10,
+          "text": "1-10 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/pacifican/",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:44.413Z"
+        },
+        "category": "Government"
+      },
+      {
+        "organization": "DevFest YVR / AI Summit Vancouver",
+        "linkedin": "https://www.linkedin.com/company/devfestyvraisummit",
+        "employeeData": {
+          "min": 1,
+          "max": 10,
+          "text": "1-10 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/devfestyvraisummit",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:45.414Z"
+        },
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "organization": "AI Community Conference - Vancouver",
+        "linkedin": "https://www.linkedin.com/in/issam-laradji-67ba1a99/",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/in/issam-laradji-67ba1a99/",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:46.415Z"
+        },
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "organization": "Edvisor.io",
+        "linkedin": "https://www.linkedin.com/company/edvisor-io",
+        "employeeData": {
+          "min": 1000,
+          "max": null,
+          "text": "1000+ employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/edvisor-io",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:47.416Z"
+        }
+      },
+      {
+        "organization": "Riipen",
+        "linkedin": "https://ca.linkedin.com/company/riipen-networks-inc",
+        "employeeData": {
+          "min": 201,
+          "max": 500,
+          "text": "201-500 employees (2025-08-04)",
+          "source": "https://ca.linkedin.com/company/riipen-networks-inc",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:48.418Z"
+        }
+      },
+      {
+        "organization": "Toonie",
+        "linkedin": "https://linkedin.com/company/officialtoonie/?viewAsMember=true",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://linkedin.com/company/officialtoonie/?viewAsMember=true",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:49.419Z"
+        }
+      },
+      {
+        "organization": "Felix",
+        "linkedin": "https://ca.linkedin.com/company/felixhealthca",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://ca.linkedin.com/company/felixhealthca",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:50.420Z"
+        }
+      },
+      {
+        "organization": "Big Whale Labs",
+        "linkedin": "https://www.linkedin.com/company/big-whale-labs",
+        "employeeData": {
+          "min": 11,
+          "max": 50,
+          "text": "11-50 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/big-whale-labs",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:51.421Z"
+        },
+        "category": "Web3 Startup"
+      },
+      {
+        "organization": "B.C. Centre for Innovation and Clean Energy (CICE)",
+        "linkedin": "https://www.linkedin.com/company/bccentreforinnovationandcleanenergycice",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/bccentreforinnovationandcleanenergycice",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:52.422Z"
+        },
+        "category": "Innovation Centres & Hubs"
+      },
+      {
+        "organization": "BC Cleantech CEO Alliance",
+        "linkedin": "https://www.linkedin.com/company/bccleantechceoalliance",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/bccleantechceoalliance",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:53.423Z"
+        },
+        "category": "Industry Association"
+      },
+      {
+        "organization": "BC AI Gaming Innovation Fund",
+        "linkedin": "https://www.linkedin.com/company/bcaigaminginnovationfund",
+        "employeeData": {
+          "min": 11,
+          "max": 50,
+          "text": "11-50 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/bcaigaminginnovationfund",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:54.423Z"
+        },
+        "category": "Industry Association"
+      },
+      {
+        "organization": "Vancouver Game Development AI Collective",
+        "linkedin": "https://www.linkedin.com/company/vancouvergamedevelopmentaicollective",
+        "employeeData": {
+          "min": 11,
+          "max": 50,
+          "text": "11-50 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/vancouvergamedevelopmentaicollective",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:55.424Z"
+        },
+        "category": "Industry Association"
+      },
+      {
+        "organization": "3D AI Studio Vancouver",
+        "linkedin": "https://www.linkedin.com/company/3daistudiovancouver",
+        "employeeData": {
+          "min": 51,
+          "max": 200,
+          "text": "51-200 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/3daistudiovancouver",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:56.425Z"
+        },
+        "category": "AI Companies"
+      },
+      {
+        "organization": "Unity Muse Vancouver Users",
+        "linkedin": "https://www.linkedin.com/company/unitymusevancouverusers",
+        "employeeData": {
+          "min": 501,
+          "max": 1000,
+          "text": "501-1000 employees (2025-08-04)",
+          "source": "https://www.linkedin.com/company/unitymusevancouverusers",
+          "confidence": 0.75,
+          "lastVerified": "2025-08-04T23:20:57.426Z"
+        },
+        "category": "Developer Community"
+      }
+    ]
+  }
+}

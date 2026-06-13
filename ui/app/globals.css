@@ -1,0 +1,173 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Aurora Borealis Dark Theme Variables */
+[data-theme="dark"] {
+  --aurora-cyan: #00f5ff;
+  --aurora-green: #39ff14;
+  --aurora-purple: #bf00ff;
+  --aurora-pink: #ff073a;
+  --aurora-yellow: #ffff00;
+  --aurora-blue: #0080ff;
+  --aurora-teal: #00ffff;
+  --aurora-magenta: #ff1493;
+}
+
+/* Japanese Minimalist Light Theme Variables */
+[data-theme="light"] {
+  --zen-charcoal: #2d3748;
+  --zen-stone: #4a5568;
+  --zen-bamboo: #68d391;
+  --zen-cherry: #f56565;
+  --zen-sky: #4299e1;
+  --zen-paper: #f7fafc;
+  --zen-ink: #1a202c;
+  --zen-gold: #d69e2e;
+}
+
+/* Custom Animations */
+@keyframes gradient-x {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes aurora-wave {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+    opacity: 0.7;
+  }
+  33% {
+    transform: translateY(-10px) rotate(1deg);
+    opacity: 1;
+  }
+  66% {
+    transform: translateY(5px) rotate(-1deg);
+    opacity: 0.8;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes glow-pulse {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(0, 245, 255, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(0, 245, 255, 0.6);
+  }
+}
+
+/* Utility Classes */
+.animate-gradient-x {
+  animation: gradient-x 15s ease infinite;
+  background-size: 200% 200%;
+}
+
+.animate-shimmer {
+  animation: shimmer 2s linear infinite;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  background-size: 200% 100%;
+}
+
+.animate-aurora-wave {
+  animation: aurora-wave 8s ease-in-out infinite;
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-glow-pulse {
+  animation: glow-pulse 3s ease-in-out infinite;
+}
+
+/* Aurora Borealis Background */
+.aurora-bg {
+  background: linear-gradient(45deg, #0f172a, #1e1b4b, #312e81, #1e1b4b, #0f172a);
+  background-size: 400% 400%;
+  animation: gradient-x 20s ease infinite;
+}
+
+/* Japanese Zen Background */
+.zen-bg {
+  background: linear-gradient(135deg, #f8fafc, #e2e8f0, #cbd5e1, #e2e8f0, #f8fafc);
+  background-size: 400% 400%;
+  animation: gradient-x 25s ease infinite;
+}
+
+/* Glass Morphism Effects */
+.glass-dark {
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-light {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #00f5ff, #bf00ff);
+  border-radius: 4px;
+}
+
+[data-theme="light"] ::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+[data-theme="light"] ::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #3b82f6, #8b5cf6);
+  border-radius: 4px;
+}
+
+/* Responsive Design Helpers */
+.container-responsive {
+  @apply mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl;
+}
+
+/* Typography Enhancements */
+.text-gradient-aurora {
+  background: linear-gradient(45deg, #00f5ff, #39ff14, #bf00ff, #ff073a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-zen {
+  background: linear-gradient(45deg, #2d3748, #4299e1, #68d391);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

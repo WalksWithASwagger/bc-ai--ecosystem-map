@@ -1,0 +1,128 @@
+{
+  "updated": [],
+  "alreadyHadDates": [
+    {
+      "name": "Properly",
+      "existingYear": 2018,
+      "expectedYear": 2018
+    },
+    {
+      "name": "Vision Critical (Alida)",
+      "existingYear": 2000,
+      "expectedYear": 2000
+    },
+    {
+      "name": "Reebee",
+      "existingYear": 2012,
+      "expectedYear": 2012
+    },
+    {
+      "name": "Chimp",
+      "existingYear": 2014,
+      "expectedYear": 2014
+    },
+    {
+      "name": "Traction on Demand",
+      "existingYear": 2006,
+      "expectedYear": 2006
+    },
+    {
+      "name": "Semios",
+      "existingYear": 2010,
+      "expectedYear": 2010
+    },
+    {
+      "name": "Photonic Inc",
+      "existingYear": 2016,
+      "expectedYear": 2016
+    },
+    {
+      "name": "Acuitas Therapeutics",
+      "existingYear": 2009,
+      "expectedYear": 2009
+    },
+    {
+      "name": "Cohere Health Vancouver",
+      "existingYear": 2019,
+      "expectedYear": 2019
+    },
+    {
+      "name": "MineSense",
+      "existingYear": 2008,
+      "expectedYear": 2008
+    },
+    {
+      "name": "Tasktop",
+      "existingYear": 2007,
+      "expectedYear": 2007
+    },
+    {
+      "name": "Wysdom.AI",
+      "existingYear": 2016,
+      "expectedYear": 2018
+    },
+    {
+      "name": "Kindred",
+      "existingYear": 2014,
+      "expectedYear": 2014
+    },
+    {
+      "name": "Careteam Technologies",
+      "existingYear": 2016,
+      "expectedYear": 2016
+    },
+    {
+      "name": "Response Biomedical",
+      "existingYear": 1988,
+      "expectedYear": 1988
+    },
+    {
+      "name": "Eupraxia Pharmaceuticals",
+      "existingYear": 2019,
+      "expectedYear": 2019
+    },
+    {
+      "name": "CRH Medical",
+      "existingYear": 2001,
+      "expectedYear": 2001
+    },
+    {
+      "name": "Copperleaf Technologies",
+      "existingYear": 2000,
+      "expectedYear": 2000
+    },
+    {
+      "name": "Absolute Software Vancouver",
+      "existingYear": 1993,
+      "expectedYear": 1993
+    }
+  ],
+  "notFound": [
+    {
+      "searchName": "BuildDirect",
+      "expectedYear": 1999
+    },
+    {
+      "searchName": "Roadhouse Interactive",
+      "expectedYear": 2003
+    },
+    {
+      "searchName": "Capybara Games",
+      "expectedYear": 2003
+    },
+    {
+      "searchName": "Moment Energy",
+      "expectedYear": 2020
+    },
+    {
+      "searchName": "Hazel Technologies",
+      "expectedYear": 2015
+    }
+  ],
+  "errors": [],
+  "totalUpdated": 0,
+  "totalCompaniesInDB": 630,
+  "companiesWithDates": 199,
+  "newCoveragePercentage": "31.6",
+  "improvementPercentage": "0.0"
+}

@@ -1,0 +1,1410 @@
+{
+  "totalCompanies": 991,
+  "fieldAnalysis": {
+    "Name": {
+      "total": 991,
+      "filled": 991,
+      "empty": 0,
+      "completionRate": "100.0"
+    },
+    "Website": {
+      "total": 991,
+      "filled": 381,
+      "empty": 610,
+      "completionRate": "38.4"
+    },
+    "LinkedIn": {
+      "total": 991,
+      "filled": 362,
+      "empty": 629,
+      "completionRate": "36.5"
+    },
+    "Focus & Notes": {
+      "total": 991,
+      "filled": 605,
+      "empty": 386,
+      "completionRate": "61.0"
+    },
+    "Funding": {
+      "total": 991,
+      "filled": 527,
+      "empty": 464,
+      "completionRate": "53.2"
+    },
+    "Category": {
+      "total": 991,
+      "filled": 929,
+      "empty": 62,
+      "completionRate": "93.7"
+    },
+    "BC Region": {
+      "total": 991,
+      "filled": 893,
+      "empty": 98,
+      "completionRate": "90.1"
+    },
+    "City/Region": {
+      "total": 991,
+      "filled": 886,
+      "empty": 105,
+      "completionRate": "89.4"
+    },
+    "Key People": {
+      "total": 991,
+      "filled": 248,
+      "empty": 743,
+      "completionRate": "25.0"
+    },
+    "Founded": {
+      "total": 991,
+      "filled": 0,
+      "empty": 991,
+      "completionRate": "0.0"
+    },
+    "Company Size": {
+      "total": 991,
+      "filled": 0,
+      "empty": 991,
+      "completionRate": "0.0"
+    },
+    "Logo": {
+      "total": 991,
+      "filled": 20,
+      "empty": 971,
+      "completionRate": "2.0"
+    },
+    "Data Source": {
+      "total": 991,
+      "filled": 669,
+      "empty": 322,
+      "completionRate": "67.5"
+    }
+  },
+  "emptyFieldCounts": {
+    "Name": 0,
+    "Website": 610,
+    "LinkedIn": 629,
+    "Focus & Notes": 386,
+    "Funding": 464,
+    "Category": 62,
+    "BC Region": 98,
+    "City/Region": 105,
+    "Key People": 743,
+    "Founded": 991,
+    "Company Size": 991,
+    "Logo": 971,
+    "Data Source": 322
+  },
+  "completionRates": {
+    "Name": "100.0",
+    "Website": "38.4",
+    "LinkedIn": "36.5",
+    "Focus & Notes": "61.0",
+    "Funding": "53.2",
+    "Category": "93.7",
+    "BC Region": "90.1",
+    "City/Region": "89.4",
+    "Key People": "25.0",
+    "Founded": "0.0",
+    "Company Size": "0.0",
+    "Logo": "2.0",
+    "Data Source": "67.5"
+  },
+  "priorityEnrichment": [
+    {
+      "field": "Founded",
+      "completionRate": "0.0",
+      "emptyCount": 991,
+      "priority": "HIGH"
+    },
+    {
+      "field": "Company Size",
+      "completionRate": "0.0",
+      "emptyCount": 991,
+      "priority": "HIGH"
+    },
+    {
+      "field": "Logo",
+      "completionRate": "2.0",
+      "emptyCount": 971,
+      "priority": "HIGH"
+    },
+    {
+      "field": "Key People",
+      "completionRate": "25.0",
+      "emptyCount": 743,
+      "priority": "HIGH"
+    },
+    {
+      "field": "LinkedIn",
+      "completionRate": "36.5",
+      "emptyCount": 629,
+      "priority": "HIGH"
+    },
+    {
+      "field": "Website",
+      "completionRate": "38.4",
+      "emptyCount": 610,
+      "priority": "HIGH"
+    },
+    {
+      "field": "Funding",
+      "completionRate": "53.2",
+      "emptyCount": 464,
+      "priority": "MEDIUM"
+    },
+    {
+      "field": "Focus & Notes",
+      "completionRate": "61.0",
+      "emptyCount": 386,
+      "priority": "LOW"
+    },
+    {
+      "field": "Data Source",
+      "completionRate": "67.5",
+      "emptyCount": 322,
+      "priority": "LOW"
+    },
+    {
+      "field": "City/Region",
+      "completionRate": "89.4",
+      "emptyCount": 105,
+      "priority": "LOW"
+    },
+    {
+      "field": "BC Region",
+      "completionRate": "90.1",
+      "emptyCount": 98,
+      "priority": "LOW"
+    },
+    {
+      "field": "Category",
+      "completionRate": "93.7",
+      "emptyCount": 62,
+      "priority": "LOW"
+    },
+    {
+      "field": "Name",
+      "completionRate": "100.0",
+      "emptyCount": 0,
+      "priority": "LOW"
+    }
+  ],
+  "duplicateCandidates": [
+    {
+      "normalizedName": "promptplayground",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81a5-b78b-f4d774860302",
+          "name": "PromptPlayground",
+          "url": "https://www.notion.so/PromptPlayground-244c6f799a3381a5b78bf4d774860302"
+        },
+        {
+          "id": "244c6f79-9a33-8148-be96-fc85e61c3138",
+          "name": "PromptPlayground",
+          "url": "https://www.notion.so/PromptPlayground-244c6f799a338148be96fc85e61c3138"
+        }
+      ]
+    },
+    {
+      "normalizedName": "cortexquill",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-817d-b1a4-ed15fc8b3beb",
+          "name": "CortexQuill",
+          "url": "https://www.notion.so/CortexQuill-244c6f799a33817db1a4ed15fc8b3beb"
+        },
+        {
+          "id": "244c6f79-9a33-8142-b823-d3cc22252939",
+          "name": "CortexQuill",
+          "url": "https://www.notion.so/CortexQuill-244c6f799a338142b823d3cc22252939"
+        }
+      ]
+    },
+    {
+      "normalizedName": "storyforge",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8197-8280-d981da2fa739",
+          "name": "StoryForge AI",
+          "url": "https://www.notion.so/StoryForge-AI-244c6f799a3381978280d981da2fa739"
+        },
+        {
+          "id": "244c6f79-9a33-81f4-a938-fcd4c1081ad0",
+          "name": "StoryForge AI",
+          "url": "https://www.notion.so/StoryForge-AI-244c6f799a3381f4a938fcd4c1081ad0"
+        }
+      ]
+    },
+    {
+      "normalizedName": "craftml",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8164-9615-dc2de59afc35",
+          "name": "CraftML",
+          "url": "https://www.notion.so/CraftML-244c6f799a3381649615dc2de59afc35"
+        },
+        {
+          "id": "244c6f79-9a33-81c7-b885-e57f9e8afab7",
+          "name": "CraftML",
+          "url": "https://www.notion.so/CraftML-244c6f799a3381c7b885e57f9e8afab7"
+        }
+      ]
+    },
+    {
+      "normalizedName": "autoprompt",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8120-bb7f-fb0c240461e5",
+          "name": "AutoPrompt",
+          "url": "https://www.notion.so/AutoPrompt-244c6f799a338120bb7ffb0c240461e5"
+        },
+        {
+          "id": "244c6f79-9a33-8163-a48f-ce3019d99648",
+          "name": "AutoPrompt",
+          "url": "https://www.notion.so/AutoPrompt-244c6f799a338163a48fce3019d99648"
+        }
+      ]
+    },
+    {
+      "normalizedName": "picoplan",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8126-80f6-f880433e7c7b",
+          "name": "PicoPlan AI",
+          "url": "https://www.notion.so/PicoPlan-AI-244c6f799a33812680f6f880433e7c7b"
+        },
+        {
+          "id": "244c6f79-9a33-8103-a95f-ef4ba9a072d3",
+          "name": "PicoPlan AI",
+          "url": "https://www.notion.so/PicoPlan-AI-244c6f799a338103a95fef4ba9a072d3"
+        }
+      ]
+    },
+    {
+      "normalizedName": "drag drop law",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81cc-91eb-f164bdb22201",
+          "name": "Drag & Drop Law",
+          "url": "https://www.notion.so/Drag-Drop-Law-244c6f799a3381cc91ebf164bdb22201"
+        },
+        {
+          "id": "244c6f79-9a33-81ea-9c4a-fd824c5d1bf6",
+          "name": "Drag & Drop Law",
+          "url": "https://www.notion.so/Drag-Drop-Law-244c6f799a3381ea9c4afd824c5d1bf6"
+        }
+      ]
+    },
+    {
+      "normalizedName": "hypernatural",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81d3-a0ad-d3ba1f10a4d4",
+          "name": "Hypernatural",
+          "url": "https://www.notion.so/Hypernatural-244c6f799a3381d3a0add3ba1f10a4d4"
+        },
+        {
+          "id": "244c6f79-9a33-81bc-ad35-cbf3ebda87fb",
+          "name": "Hypernatural",
+          "url": "https://www.notion.so/Hypernatural-244c6f799a3381bcad35cbf3ebda87fb"
+        }
+      ]
+    },
+    {
+      "normalizedName": "gsp cloud",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81b1-878f-fdc727ed725b",
+          "name": "GSP Cloud",
+          "url": "https://www.notion.so/GSP-Cloud-244c6f799a3381b1878ffdc727ed725b"
+        },
+        {
+          "id": "244c6f79-9a33-81f3-8a35-e8eeca15a7c1",
+          "name": "GSP Cloud",
+          "url": "https://www.notion.so/GSP-Cloud-244c6f799a3381f38a35e8eeca15a7c1"
+        }
+      ]
+    },
+    {
+      "normalizedName": "homesight",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-810c-a214-c6da756726e1",
+          "name": "HomeSight AI",
+          "url": "https://www.notion.so/HomeSight-AI-244c6f799a33810ca214c6da756726e1"
+        },
+        {
+          "id": "244c6f79-9a33-8192-9490-ef3d8921bf5e",
+          "name": "HomeSight AI",
+          "url": "https://www.notion.so/HomeSight-AI-244c6f799a3381929490ef3d8921bf5e"
+        }
+      ]
+    },
+    {
+      "normalizedName": "beaconfleet",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-817c-9c80-e4b385464853",
+          "name": "BeaconFleet",
+          "url": "https://www.notion.so/BeaconFleet-244c6f799a33817c9c80e4b385464853"
+        },
+        {
+          "id": "244c6f79-9a33-81d9-bdc7-ccbeee8b4635",
+          "name": "BeaconFleet",
+          "url": "https://www.notion.so/BeaconFleet-244c6f799a3381d9bdc7ccbeee8b4635"
+        }
+      ]
+    },
+    {
+      "normalizedName": "circuittree",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-819f-abd1-c5ffc373ada5",
+          "name": "CircuitTree",
+          "url": "https://www.notion.so/CircuitTree-244c6f799a33819fabd1c5ffc373ada5"
+        },
+        {
+          "id": "244c6f79-9a33-814a-940e-dc94a5bde6b4",
+          "name": "CircuitTree",
+          "url": "https://www.notion.so/CircuitTree-244c6f799a33814a940edc94a5bde6b4"
+        }
+      ]
+    },
+    {
+      "normalizedName": "skylink grid",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81f7-aaa2-c98cf6a6f26f",
+          "name": "SkyLink Grid",
+          "url": "https://www.notion.so/SkyLink-Grid-244c6f799a3381f7aaa2c98cf6a6f26f"
+        },
+        {
+          "id": "244c6f79-9a33-81df-9a2b-cd93a6640dc1",
+          "name": "SkyLink Grid",
+          "url": "https://www.notion.so/SkyLink-Grid-244c6f799a3381df9a2bcd93a6640dc1"
+        }
+      ]
+    },
+    {
+      "normalizedName": "hydrolytics",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8107-ab0c-f36134439d72",
+          "name": "Hydrolytics AI",
+          "url": "https://www.notion.so/Hydrolytics-AI-244c6f799a338107ab0cf36134439d72"
+        },
+        {
+          "id": "244c6f79-9a33-81e1-bdc4-d3d23e8980f2",
+          "name": "Hydrolytics AI",
+          "url": "https://www.notion.so/Hydrolytics-AI-244c6f799a3381e1bdc4d3d23e8980f2"
+        }
+      ]
+    },
+    {
+      "normalizedName": "envirodx",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81e8-9612-f66ffc66db24",
+          "name": "EnviroDX",
+          "url": "https://www.notion.so/EnviroDX-244c6f799a3381e89612f66ffc66db24"
+        },
+        {
+          "id": "244c6f79-9a33-81c8-b226-c70a81ab1d92",
+          "name": "EnviroDX",
+          "url": "https://www.notion.so/EnviroDX-244c6f799a3381c8b226c70a81ab1d92"
+        }
+      ]
+    },
+    {
+      "normalizedName": "sensehome",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8123-906a-dbe574736df2",
+          "name": "SenseHome",
+          "url": "https://www.notion.so/SenseHome-244c6f799a338123906adbe574736df2"
+        },
+        {
+          "id": "244c6f79-9a33-8193-9e3b-c4c1ce125d68",
+          "name": "SenseHome",
+          "url": "https://www.notion.so/SenseHome-244c6f799a3381939e3bc4c1ce125d68"
+        }
+      ]
+    },
+    {
+      "normalizedName": "nanosense",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81a5-b6f7-df48d521f695",
+          "name": "NanoSense AI",
+          "url": "https://www.notion.so/NanoSense-AI-244c6f799a3381a5b6f7df48d521f695"
+        },
+        {
+          "id": "244c6f79-9a33-81a8-b3f6-f996a13755a1",
+          "name": "NanoSense AI",
+          "url": "https://www.notion.so/NanoSense-AI-244c6f799a3381a8b3f6f996a13755a1"
+        }
+      ]
+    },
+    {
+      "normalizedName": "spexcel sensors",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8165-8b5a-f1030f4c1f89",
+          "name": "SpexCel Sensors",
+          "url": "https://www.notion.so/SpexCel-Sensors-244c6f799a3381658b5af1030f4c1f89"
+        },
+        {
+          "id": "244c6f79-9a33-810b-a2db-e9fc04d87491",
+          "name": "SpexCel Sensors",
+          "url": "https://www.notion.so/SpexCel-Sensors-244c6f799a33810ba2dbe9fc04d87491"
+        }
+      ]
+    },
+    {
+      "normalizedName": "littlelit",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-816b-8dc2-c389d23e4cbf",
+          "name": "LittleLit",
+          "url": "https://www.notion.so/LittleLit-244c6f799a33816b8dc2c389d23e4cbf"
+        },
+        {
+          "id": "244c6f79-9a33-813a-93bb-d9f934eb5d24",
+          "name": "LittleLit",
+          "url": "https://www.notion.so/LittleLit-244c6f799a33813a93bbd9f934eb5d24"
+        }
+      ]
+    },
+    {
+      "normalizedName": "dragonscale",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8135-a487-e802eb9b7d7c",
+          "name": "Dragonscale",
+          "url": "https://www.notion.so/Dragonscale-244c6f799a338135a487e802eb9b7d7c"
+        },
+        {
+          "id": "244c6f79-9a33-81f1-a0b5-c90ffaf69614",
+          "name": "Dragonscale",
+          "url": "https://www.notion.so/Dragonscale-244c6f799a3381f1a0b5c90ffaf69614"
+        }
+      ]
+    },
+    {
+      "normalizedName": "vaultt",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8140-9724-d4b1684499fc",
+          "name": "Vaultt AI",
+          "url": "https://www.notion.so/Vaultt-AI-244c6f799a3381409724d4b1684499fc"
+        },
+        {
+          "id": "244c6f79-9a33-8173-b4d4-c7e14f8f2a90",
+          "name": "Vaultt AI",
+          "url": "https://www.notion.so/Vaultt-AI-244c6f799a338173b4d4c7e14f8f2a90"
+        }
+      ]
+    },
+    {
+      "normalizedName": "tokenfolio",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81c9-b8d9-f7c55d33acca",
+          "name": "TokenFolio",
+          "url": "https://www.notion.so/TokenFolio-244c6f799a3381c9b8d9f7c55d33acca"
+        },
+        {
+          "id": "244c6f79-9a33-8183-8b2b-c7bfa1587027",
+          "name": "TokenFolio",
+          "url": "https://www.notion.so/TokenFolio-244c6f799a3381838b2bc7bfa1587027"
+        }
+      ]
+    },
+    {
+      "normalizedName": "layeredledger",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81ab-987c-f047b82a8616",
+          "name": "LayeredLedger",
+          "url": "https://www.notion.so/LayeredLedger-244c6f799a3381ab987cf047b82a8616"
+        },
+        {
+          "id": "244c6f79-9a33-81bd-82a4-c2e930d5bdf9",
+          "name": "LayeredLedger",
+          "url": "https://www.notion.so/LayeredLedger-244c6f799a3381bd82a4c2e930d5bdf9"
+        }
+      ]
+    },
+    {
+      "normalizedName": "flow blockchain",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81b9-b694-d90b20f815c9",
+          "name": "Flow Blockchain",
+          "url": "https://www.notion.so/Flow-Blockchain-244c6f799a3381b9b694d90b20f815c9"
+        },
+        {
+          "id": "244c6f79-9a33-81cf-8b7c-f14baa697a6c",
+          "name": "Flow Blockchain",
+          "url": "https://www.notion.so/Flow-Blockchain-244c6f799a3381cf8b7cf14baa697a6c"
+        }
+      ]
+    },
+    {
+      "normalizedName": "idvector",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81aa-be0e-c1a5a11ee1d5",
+          "name": "IDVector",
+          "url": "https://www.notion.so/IDVector-244c6f799a3381aabe0ec1a5a11ee1d5"
+        },
+        {
+          "id": "244c6f79-9a33-8190-83fc-c48efdfdd1da",
+          "name": "IDVector",
+          "url": "https://www.notion.so/IDVector-244c6f799a33819083fcc48efdfdd1da"
+        }
+      ]
+    },
+    {
+      "normalizedName": "safevault",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8184-82c4-f46bc6a0976d",
+          "name": "SafeVault",
+          "url": "https://www.notion.so/SafeVault-244c6f799a33818482c4f46bc6a0976d"
+        },
+        {
+          "id": "244c6f79-9a33-8171-84bf-d192d76a5339",
+          "name": "SafeVault",
+          "url": "https://www.notion.so/SafeVault-244c6f799a33817184bfd192d76a5339"
+        }
+      ]
+    },
+    {
+      "normalizedName": "cyberguardians",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8108-9867-c09805fb4cff",
+          "name": "CyberGuardians AI",
+          "url": "https://www.notion.so/CyberGuardians-AI-244c6f799a3381089867c09805fb4cff"
+        },
+        {
+          "id": "244c6f79-9a33-81af-a48b-f88526cca7a3",
+          "name": "CyberGuardians AI",
+          "url": "https://www.notion.so/CyberGuardians-AI-244c6f799a3381afa48bf88526cca7a3"
+        }
+      ]
+    },
+    {
+      "normalizedName": "cafcybercom",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81fd-a952-f987c97d50fd",
+          "name": "CAFCyberCom",
+          "url": "https://www.notion.so/CAFCyberCom-244c6f799a3381fda952f987c97d50fd"
+        },
+        {
+          "id": "244c6f79-9a33-81b6-91fa-f830d8dcd0d8",
+          "name": "CAFCyberCom",
+          "url": "https://www.notion.so/CAFCyberCom-244c6f799a3381b691faf830d8dcd0d8"
+        }
+      ]
+    },
+    {
+      "normalizedName": "zerothreat",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8193-bca8-f6c42c024745",
+          "name": "ZeroThreat",
+          "url": "https://www.notion.so/ZeroThreat-244c6f799a338193bca8f6c42c024745"
+        },
+        {
+          "id": "244c6f79-9a33-815d-936f-dec26ea6b20a",
+          "name": "ZeroThreat",
+          "url": "https://www.notion.so/ZeroThreat-244c6f799a33815d936fdec26ea6b20a"
+        }
+      ]
+    },
+    {
+      "normalizedName": "nebulock",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8162-a369-c06d65ed3f3d",
+          "name": "Nebulock",
+          "url": "https://www.notion.so/Nebulock-244c6f799a338162a369c06d65ed3f3d"
+        },
+        {
+          "id": "244c6f79-9a33-81a9-9a4a-eadc0614013e",
+          "name": "Nebulock",
+          "url": "https://www.notion.so/Nebulock-244c6f799a3381a99a4aeadc0614013e"
+        }
+      ]
+    },
+    {
+      "normalizedName": "geoguard",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81c8-b33e-d3deceb1e7d4",
+          "name": "GeoGuard",
+          "url": "https://www.notion.so/GeoGuard-244c6f799a3381c8b33ed3deceb1e7d4"
+        },
+        {
+          "id": "244c6f79-9a33-81d6-b624-db214fd00105",
+          "name": "GeoGuard",
+          "url": "https://www.notion.so/GeoGuard-244c6f799a3381d6b624db214fd00105"
+        }
+      ]
+    },
+    {
+      "normalizedName": "geocomply",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81df-9c14-cbef669b20a2",
+          "name": "GeoComply",
+          "url": "https://www.notion.so/GeoComply-244c6f799a3381df9c14cbef669b20a2"
+        },
+        {
+          "id": "244c6f79-9a33-818f-8c19-eac3998507bf",
+          "name": "GeoComply",
+          "url": "https://www.notion.so/GeoComply-244c6f799a33818f8c19eac3998507bf"
+        }
+      ]
+    },
+    {
+      "normalizedName": "styx intelligence",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-818a-94ff-d4ffcda1abf7",
+          "name": "Styx Intelligence",
+          "url": "https://www.notion.so/Styx-Intelligence-244c6f799a33818a94ffd4ffcda1abf7"
+        },
+        {
+          "id": "244c6f79-9a33-816c-bf9d-e9abb882f646",
+          "name": "Styx Intelligence",
+          "url": "https://www.notion.so/Styx-Intelligence-244c6f799a33816cbf9de9abb882f646"
+        }
+      ]
+    },
+    {
+      "normalizedName": "arcus power",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8195-98e9-d3d9f1a55032",
+          "name": "Arcus Power",
+          "url": "https://www.notion.so/Arcus-Power-244c6f799a33819598e9d3d9f1a55032"
+        },
+        {
+          "id": "244c6f79-9a33-81c6-b74e-d97413f7e1f4",
+          "name": "Arcus Power",
+          "url": "https://www.notion.so/Arcus-Power-244c6f799a3381c6b74ed97413f7e1f4"
+        }
+      ]
+    },
+    {
+      "normalizedName": "skyscout",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8177-ade3-c3fb77abd2c7",
+          "name": "SkyScout AI",
+          "url": "https://www.notion.so/SkyScout-AI-244c6f799a338177ade3c3fb77abd2c7"
+        },
+        {
+          "id": "244c6f79-9a33-81fc-890d-d63f47aa9f87",
+          "name": "SkyScout AI",
+          "url": "https://www.notion.so/SkyScout-AI-244c6f799a3381fc890dd63f47aa9f87"
+        }
+      ]
+    },
+    {
+      "normalizedName": "aigreening",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81f4-befd-c8be205b40eb",
+          "name": "AIGreening",
+          "url": "https://www.notion.so/AIGreening-244c6f799a3381f4befdc8be205b40eb"
+        },
+        {
+          "id": "244c6f79-9a33-81f1-9780-ca54d316b9bc",
+          "name": "AIGreening",
+          "url": "https://www.notion.so/AIGreening-244c6f799a3381f19780ca54d316b9bc"
+        }
+      ]
+    },
+    {
+      "normalizedName": "fireswarm solutions",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81ff-81b7-f6fd143c7f54",
+          "name": "FireSwarm Solutions",
+          "url": "https://www.notion.so/FireSwarm-Solutions-244c6f799a3381ff81b7f6fd143c7f54"
+        },
+        {
+          "id": "244c6f79-9a33-8126-8366-c656e9863afd",
+          "name": "FireSwarm Solutions",
+          "url": "https://www.notion.so/FireSwarm-Solutions-244c6f799a3381268366c656e9863afd"
+        }
+      ]
+    },
+    {
+      "normalizedName": "daric clouding solutions",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81bf-9a11-dd11744f07a1",
+          "name": "Daric Clouding Solutions",
+          "url": "https://www.notion.so/Daric-Clouding-Solutions-244c6f799a3381bf9a11dd11744f07a1"
+        },
+        {
+          "id": "244c6f79-9a33-81d1-b370-e2b121d83c55",
+          "name": "Daric Clouding Solutions",
+          "url": "https://www.notion.so/Daric-Clouding-Solutions-244c6f799a3381d1b370e2b121d83c55"
+        }
+      ]
+    },
+    {
+      "normalizedName": "affinity group",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81de-89ef-cfd1273b5bad",
+          "name": "Affinity Group",
+          "url": "https://www.notion.so/Affinity-Group-244c6f799a3381de89efcfd1273b5bad"
+        },
+        {
+          "id": "244c6f79-9a33-81f2-af53-d225ac472247",
+          "name": "Affinity Group",
+          "url": "https://www.notion.so/Affinity-Group-244c6f799a3381f2af53d225ac472247"
+        }
+      ]
+    },
+    {
+      "normalizedName": "novatone consulting",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-814b-97d4-f728896516f9",
+          "name": "Novatone Consulting",
+          "url": "https://www.notion.so/Novatone-Consulting-244c6f799a33814b97d4f728896516f9"
+        },
+        {
+          "id": "244c6f79-9a33-817a-ab23-d87ef1147808",
+          "name": "Novatone Consulting",
+          "url": "https://www.notion.so/Novatone-Consulting-244c6f799a33817aab23d87ef1147808"
+        }
+      ]
+    },
+    {
+      "normalizedName": "quartech",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8183-809b-da9e62c1f9ff",
+          "name": "Quartech Systems",
+          "url": "https://www.notion.so/Quartech-Systems-244c6f799a338183809bda9e62c1f9ff"
+        },
+        {
+          "id": "244c6f79-9a33-812c-8772-c8eeb280c606",
+          "name": "Quartech Systems",
+          "url": "https://www.notion.so/Quartech-Systems-244c6f799a33812c8772c8eeb280c606"
+        }
+      ]
+    },
+    {
+      "normalizedName": "light",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81d8-88dd-fab7c4c9637f",
+          "name": "Light AI",
+          "url": "https://www.notion.so/Light-AI-244c6f799a3381d888ddfab7c4c9637f"
+        },
+        {
+          "id": "244c6f79-9a33-8126-9947-ed63748aa868",
+          "name": "Light AI",
+          "url": "https://www.notion.so/Light-AI-244c6f799a3381269947ed63748aa868"
+        }
+      ]
+    },
+    {
+      "normalizedName": "medbright",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8105-8126-c8e13a8d3121",
+          "name": "MedBright AI",
+          "url": "https://www.notion.so/MedBright-AI-244c6f799a3381058126c8e13a8d3121"
+        },
+        {
+          "id": "244c6f79-9a33-811c-a2b5-e8f8d137ec32",
+          "name": "MedBright AI",
+          "url": "https://www.notion.so/MedBright-AI-244c6f799a33811ca2b5e8f8d137ec32"
+        }
+      ]
+    },
+    {
+      "normalizedName": "healwell",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-819c-b567-e8c0ca3d1adc",
+          "name": "HEALWELL AI",
+          "url": "https://www.notion.so/HEALWELL-AI-244c6f799a33819cb567e8c0ca3d1adc"
+        },
+        {
+          "id": "244c6f79-9a33-8180-ac21-e885983c03b1",
+          "name": "HEALWELL AI",
+          "url": "https://www.notion.so/HEALWELL-AI-244c6f799a338180ac21e885983c03b1"
+        }
+      ]
+    },
+    {
+      "normalizedName": "satisfai health",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81e3-b79a-f057571ff055",
+          "name": "Satisfai Health",
+          "url": "https://www.notion.so/Satisfai-Health-244c6f799a3381e3b79af057571ff055"
+        },
+        {
+          "id": "244c6f79-9a33-818c-9262-dbd042caba60",
+          "name": "Satisfai Health",
+          "url": "https://www.notion.so/Satisfai-Health-244c6f799a33818c9262dbd042caba60"
+        }
+      ]
+    },
+    {
+      "normalizedName": "molecular you",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-815c-9e10-cb05060631d8",
+          "name": "Molecular You",
+          "url": "https://www.notion.so/Molecular-You-244c6f799a33815c9e10cb05060631d8"
+        },
+        {
+          "id": "244c6f79-9a33-818f-97a2-df1a45fb869e",
+          "name": "Molecular You",
+          "url": "https://www.notion.so/Molecular-You-244c6f799a33818f97a2df1a45fb869e"
+        }
+      ]
+    },
+    {
+      "normalizedName": "downtownai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81eb-ac39-f72f234697bc",
+          "name": "Downtown.AI",
+          "url": "https://www.notion.so/Downtown-AI-244c6f799a3381ebac39f72f234697bc"
+        },
+        {
+          "id": "244c6f79-9a33-818f-8482-e6fd7f1c45bd",
+          "name": "Downtown.AI",
+          "url": "https://www.notion.so/Downtown-AI-244c6f799a33818f8482e6fd7f1c45bd"
+        }
+      ]
+    },
+    {
+      "normalizedName": "ideon",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8160-80c6-c0bf9da4390c",
+          "name": "Ideon Technologies",
+          "url": "https://www.notion.so/Ideon-Technologies-244c6f799a33816080c6c0bf9da4390c"
+        },
+        {
+          "id": "244c6f79-9a33-8195-8081-fef4f973b60e",
+          "name": "Ideon Technologies",
+          "url": "https://www.notion.so/Ideon-Technologies-244c6f799a3381958081fef4f973b60e"
+        }
+      ]
+    },
+    {
+      "normalizedName": "ceedar",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8165-8c32-c46574d34294",
+          "name": "Ceedar",
+          "url": "https://www.notion.so/Ceedar-244c6f799a3381658c32c46574d34294"
+        },
+        {
+          "id": "244c6f79-9a33-8154-b40a-fec7fff96a10",
+          "name": "Ceedar",
+          "url": "https://www.notion.so/Ceedar-244c6f799a338154b40afec7fff96a10"
+        }
+      ]
+    },
+    {
+      "normalizedName": "xtao",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8178-89e7-ed74ceca8cf5",
+          "name": "xTAO",
+          "url": "https://www.notion.so/xTAO-244c6f799a33817889e7ed74ceca8cf5"
+        },
+        {
+          "id": "244c6f79-9a33-816a-b0d6-d8a2cdbc2381",
+          "name": "xTAO",
+          "url": "https://www.notion.so/xTAO-244c6f799a33816ab0d6d8a2cdbc2381"
+        }
+      ]
+    },
+    {
+      "normalizedName": "gumloop",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8161-b6ef-f084807bfba1",
+          "name": "Gumloop",
+          "url": "https://www.notion.so/Gumloop-244c6f799a338161b6eff084807bfba1"
+        },
+        {
+          "id": "244c6f79-9a33-814e-9416-f05d750e498f",
+          "name": "Gumloop",
+          "url": "https://www.notion.so/Gumloop-244c6f799a33814e9416f05d750e498f"
+        }
+      ]
+    },
+    {
+      "normalizedName": "exathinklabs",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8192-bf30-d4c928d06d1e",
+          "name": "ExaThinkLabs",
+          "url": "https://www.notion.so/ExaThinkLabs-244c6f799a338192bf30d4c928d06d1e"
+        },
+        {
+          "id": "244c6f79-9a33-8173-a238-e125b65192b3",
+          "name": "ExaThinkLabs",
+          "url": "https://www.notion.so/ExaThinkLabs-244c6f799a338173a238e125b65192b3"
+        }
+      ]
+    },
+    {
+      "normalizedName": "second brain",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8173-8cf5-edcebd80c54d",
+          "name": "Second Brain",
+          "url": "https://www.notion.so/Second-Brain-244c6f799a3381738cf5edcebd80c54d"
+        },
+        {
+          "id": "244c6f79-9a33-81fc-a1de-f5d4ef4505d0",
+          "name": "Second Brain",
+          "url": "https://www.notion.so/Second-Brain-244c6f799a3381fca1def5d4ef4505d0"
+        }
+      ]
+    },
+    {
+      "normalizedName": "doolyai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8193-9694-d0abfbae8974",
+          "name": "Dooly.ai",
+          "url": "https://www.notion.so/Dooly-ai-244c6f799a3381939694d0abfbae8974"
+        },
+        {
+          "id": "244c6f79-9a33-8102-b3e8-db3acf768823",
+          "name": "Dooly.ai",
+          "url": "https://www.notion.so/Dooly-ai-244c6f799a338102b3e8db3acf768823"
+        }
+      ]
+    },
+    {
+      "normalizedName": "borderless",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81cb-8225-e9b22ad2238d",
+          "name": "Borderless AI",
+          "url": "https://www.notion.so/Borderless-AI-244c6f799a3381cb8225e9b22ad2238d"
+        },
+        {
+          "id": "244c6f79-9a33-81d5-b585-db90909d67d2",
+          "name": "Borderless AI",
+          "url": "https://www.notion.so/Borderless-AI-244c6f799a3381d5b585db90909d67d2"
+        }
+      ]
+    },
+    {
+      "normalizedName": "veritree",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-814f-bb98-d285d3cd4712",
+          "name": "Veritree",
+          "url": "https://www.notion.so/Veritree-244c6f799a33814fbb98d285d3cd4712"
+        },
+        {
+          "id": "240c6f79-9a33-8152-953e-cf00b1aa7645",
+          "name": "Veritree",
+          "url": "https://www.notion.so/Veritree-240c6f799a338152953ecf00b1aa7645"
+        }
+      ]
+    },
+    {
+      "normalizedName": "ak robotics",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-812a-bc05-d995142e1324",
+          "name": "A&K Robotics",
+          "url": "https://www.notion.so/A-K-Robotics-244c6f799a33812abc05d995142e1324"
+        },
+        {
+          "id": "240c6f79-9a33-81b5-9754-d589e8a3ae18",
+          "name": "A&K Robotics",
+          "url": "https://www.notion.so/A-K-Robotics-240c6f799a3381b59754d589e8a3ae18"
+        }
+      ]
+    },
+    {
+      "normalizedName": "tasktop",
+      "companies": [
+        {
+          "id": "240c6f79-9a33-8196-ac68-cf2d703f5727",
+          "name": "Tasktop Technologies",
+          "url": "https://www.notion.so/Tasktop-Technologies-240c6f799a338196ac68cf2d703f5727"
+        },
+        {
+          "id": "240c6f79-9a33-81ac-b9eb-e0a1b540af8d",
+          "name": "Tasktop",
+          "url": "https://www.notion.so/Tasktop-240c6f799a3381acb9ebe0a1b540af8d"
+        }
+      ]
+    },
+    {
+      "normalizedName": "minerva intelligence",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81a9-9fde-f2cd37fa2d31",
+          "name": "Minerva Intelligence",
+          "url": "https://www.notion.so/Minerva-Intelligence-244c6f799a3381a99fdef2cd37fa2d31"
+        },
+        {
+          "id": "240c6f79-9a33-815b-9c2b-de11e9dc0aac",
+          "name": "Minerva Intelligence",
+          "url": "https://www.notion.so/Minerva-Intelligence-240c6f799a33815b9c2bde11e9dc0aac"
+        }
+      ]
+    },
+    {
+      "normalizedName": "spare",
+      "companies": [
+        {
+          "id": "240c6f79-9a33-817a-937f-ee3ee94fc341",
+          "name": "Spare Labs",
+          "url": "https://www.notion.so/Spare-Labs-240c6f799a33817a937fee3ee94fc341"
+        },
+        {
+          "id": "23dc6f79-9a33-81ee-8b58-d03c352fda1d",
+          "name": "Spare",
+          "url": "https://www.notion.so/Spare-23dc6f799a3381ee8b58d03c352fda1d"
+        }
+      ]
+    },
+    {
+      "normalizedName": "gaze",
+      "companies": [
+        {
+          "id": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+          "name": "Gaze AI",
+          "url": "https://www.notion.so/Gaze-AI-23fc6f799a3381a08292f5bfad343bfd"
+        },
+        {
+          "id": "23dc6f79-9a33-8191-aed1-c426c1c54f00",
+          "name": "Gaze",
+          "url": "https://www.notion.so/Gaze-23dc6f799a338191aed1c426c1c54f00"
+        }
+      ]
+    },
+    {
+      "normalizedName": "compressionai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8134-8d1d-eea36cac66d0",
+          "name": "Compression.ai",
+          "url": "https://www.notion.so/Compression-ai-244c6f799a3381348d1deea36cac66d0"
+        },
+        {
+          "id": "23dc6f79-9a33-81e3-83fe-f975f55614f8",
+          "name": "Compression.ai",
+          "url": "https://www.notion.so/Compression-ai-23dc6f799a3381e383fef975f55614f8"
+        }
+      ]
+    },
+    {
+      "normalizedName": "shadeai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81df-9f92-d4d3592183d2",
+          "name": "SHADE.ai",
+          "url": "https://www.notion.so/SHADE-ai-244c6f799a3381df9f92d4d3592183d2"
+        },
+        {
+          "id": "23dc6f79-9a33-81e2-a85d-e2a0d3f4b05a",
+          "name": "SHADE.ai",
+          "url": "https://www.notion.so/SHADE-ai-23dc6f799a3381e2a85de2a0d3f4b05a"
+        }
+      ]
+    },
+    {
+      "normalizedName": "talentfulai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81be-b2e5-e4ed7bdbead9",
+          "name": "Talentful.ai",
+          "url": "https://www.notion.so/Talentful-ai-244c6f799a3381beb2e5e4ed7bdbead9"
+        },
+        {
+          "id": "23dc6f79-9a33-8164-a83c-f0bc2d8071c7",
+          "name": "Talentful.ai",
+          "url": "https://www.notion.so/Talentful-ai-23dc6f799a338164a83cf0bc2d8071c7"
+        }
+      ]
+    },
+    {
+      "normalizedName": "theorypractice",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-813f-93e7-ece94b2b5bf8",
+          "name": "Theory+Practice",
+          "url": "https://www.notion.so/Theory-Practice-244c6f799a33813f93e7ece94b2b5bf8"
+        },
+        {
+          "id": "23dc6f79-9a33-818d-be34-c0fde5433f6c",
+          "name": "Theory+Practice",
+          "url": "https://www.notion.so/Theory-Practice-23dc6f799a33818dbe34c0fde5433f6c"
+        }
+      ]
+    },
+    {
+      "normalizedName": "judiai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-815f-ae66-c94cf2837b0b",
+          "name": "JUDI.ai",
+          "url": "https://www.notion.so/JUDI-ai-244c6f799a33815fae66c94cf2837b0b"
+        },
+        {
+          "id": "23dc6f79-9a33-8172-8cd8-c57add383203",
+          "name": "Judi.ai",
+          "url": "https://www.notion.so/Judi-ai-23dc6f799a3381728cd8c57add383203"
+        }
+      ]
+    },
+    {
+      "normalizedName": "arostercom",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-812e-b046-ffe47c401fe6",
+          "name": "ARoster.com",
+          "url": "https://www.notion.so/ARoster-com-244c6f799a33812eb046ffe47c401fe6"
+        },
+        {
+          "id": "23dc6f79-9a33-814a-a50f-cc9e3d903770",
+          "name": "ARoster.com",
+          "url": "https://www.notion.so/ARoster-com-23dc6f799a33814aa50fcc9e3d903770"
+        }
+      ]
+    },
+    {
+      "normalizedName": "helioshelmet",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8172-9cb2-d7373ae79dfb",
+          "name": "Helios-Helmet",
+          "url": "https://www.notion.so/Helios-Helmet-244c6f799a3381729cb2d7373ae79dfb"
+        },
+        {
+          "id": "23dc6f79-9a33-81db-8d0a-c513f276a998",
+          "name": "Helios-Helmet",
+          "url": "https://www.notion.so/Helios-Helmet-23dc6f799a3381db8d0ac513f276a998"
+        }
+      ]
+    },
+    {
+      "normalizedName": "virtualreceptionai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-811f-bfff-f5af278ee9cc",
+          "name": "VirtualReception.ai",
+          "url": "https://www.notion.so/VirtualReception-ai-244c6f799a33811fbffff5af278ee9cc"
+        },
+        {
+          "id": "23dc6f79-9a33-8189-851e-edcd4773d1ab",
+          "name": "VirtualReception.AI",
+          "url": "https://www.notion.so/VirtualReception-AI-23dc6f799a338189851eedcd4773d1ab"
+        }
+      ]
+    },
+    {
+      "normalizedName": "kanooq industries",
+      "companies": [
+        {
+          "id": "23dc6f79-9a33-8171-97ad-fcff2baf0a58",
+          "name": "Kanooq Industries Inc.",
+          "url": "https://www.notion.so/Kanooq-Industries-Inc-23dc6f799a33817197adfcff2baf0a58"
+        },
+        {
+          "id": "23dc6f79-9a33-810e-99d6-d2e8fee5bb97",
+          "name": "Kanooq Industries",
+          "url": "https://www.notion.so/Kanooq-Industries-23dc6f799a33810e99d6d2e8fee5bb97"
+        }
+      ]
+    },
+    {
+      "normalizedName": "plantiga",
+      "companies": [
+        {
+          "id": "23fc6f79-9a33-81a8-b297-c6d626afaa49",
+          "name": "Plantiga",
+          "url": "https://www.notion.so/Plantiga-23fc6f799a3381a8b297c6d626afaa49"
+        },
+        {
+          "id": "23dc6f79-9a33-81f1-96e2-cd554411b7c7",
+          "name": "Plantiga Technologies Inc",
+          "url": "https://www.notion.so/Plantiga-Technologies-Inc-23dc6f799a3381f196e2cd554411b7c7"
+        }
+      ]
+    },
+    {
+      "normalizedName": "usediscoveryai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81e7-b612-c67fd86ded2e",
+          "name": "usediscovery.ai",
+          "url": "https://www.notion.so/usediscovery-ai-244c6f799a3381e7b612c67fd86ded2e"
+        },
+        {
+          "id": "23dc6f79-9a33-81c6-afcd-d50471279ba5",
+          "name": "usediscovery.ai",
+          "url": "https://www.notion.so/usediscovery-ai-23dc6f799a3381c6afcdd50471279ba5"
+        }
+      ]
+    },
+    {
+      "normalizedName": "olive",
+      "companies": [
+        {
+          "id": "23dc6f79-9a33-8175-abc2-c27ff5b33e1c",
+          "name": "Olive",
+          "url": "https://www.notion.so/Olive-23dc6f799a338175abc2c27ff5b33e1c"
+        },
+        {
+          "id": "23dc6f79-9a33-81b6-926f-cfaafdcd2f57",
+          "name": "Olive Technologies, Inc",
+          "url": "https://www.notion.so/Olive-Technologies-Inc-23dc6f799a3381b6926fcfaafdcd2f57"
+        }
+      ]
+    },
+    {
+      "normalizedName": "downtownai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81eb-ac39-f72f234697bc",
+          "name": "Downtown.AI",
+          "url": "https://www.notion.so/Downtown-AI-244c6f799a3381ebac39f72f234697bc"
+        },
+        {
+          "id": "23dc6f79-9a33-81e3-b7d3-f9edb5c008f3",
+          "name": "Downtown.AI",
+          "url": "https://www.notion.so/Downtown-AI-23dc6f799a3381e3b7d3f9edb5c008f3"
+        }
+      ]
+    },
+    {
+      "normalizedName": "hugo",
+      "companies": [
+        {
+          "id": "23fc6f79-9a33-81df-94fd-cb462dd55bdf",
+          "name": "Hugo Inc",
+          "url": "https://www.notion.so/Hugo-Inc-23fc6f799a3381df94fdcb462dd55bdf"
+        },
+        {
+          "id": "23dc6f79-9a33-817d-ae48-ed7cbd8c346f",
+          "name": "Hugo",
+          "url": "https://www.notion.so/Hugo-23dc6f799a33817dae48ed7cbd8c346f"
+        }
+      ]
+    },
+    {
+      "normalizedName": "owlco",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81a0-abf4-ea7cfa13f10b",
+          "name": "Owl.co",
+          "url": "https://www.notion.so/Owl-co-244c6f799a3381a0abf4ea7cfa13f10b"
+        },
+        {
+          "id": "23dc6f79-9a33-815a-a13e-c6838cb71ff1",
+          "name": "Owl.co",
+          "url": "https://www.notion.so/Owl-co-23dc6f799a33815aa13ec6838cb71ff1"
+        }
+      ]
+    },
+    {
+      "normalizedName": "levrai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81fb-b093-d5c180c5fe8c",
+          "name": "Levr.ai",
+          "url": "https://www.notion.so/Levr-ai-244c6f799a3381fbb093d5c180c5fe8c"
+        },
+        {
+          "id": "23dc6f79-9a33-81ba-83f3-c599ff16a137",
+          "name": "Levr.ai",
+          "url": "https://www.notion.so/Levr-ai-23dc6f799a3381ba83f3c599ff16a137"
+        }
+      ]
+    },
+    {
+      "normalizedName": "adastra",
+      "companies": [
+        {
+          "id": "23dc6f79-9a33-811c-82cc-e99db3585c35",
+          "name": "Adastra",
+          "url": "https://www.notion.so/Adastra-23dc6f799a33811c82cce99db3585c35"
+        },
+        {
+          "id": "236c6f79-9a33-810a-89d0-e201fb5a9f8a",
+          "name": "Adastra Corporation",
+          "url": "https://www.notion.so/Adastra-Corporation-236c6f799a33810a89d0e201fb5a9f8a"
+        }
+      ]
+    },
+    {
+      "normalizedName": "artemis",
+      "companies": [
+        {
+          "id": "240c6f79-9a33-81d1-863f-db1e93708b2d",
+          "name": "Artemis AI",
+          "url": "https://www.notion.so/Artemis-AI-240c6f799a3381d1863fdb1e93708b2d"
+        },
+        {
+          "id": "236c6f79-9a33-81cd-b214-fa0c242ac127",
+          "name": "Artemis",
+          "url": "https://www.notion.so/Artemis-236c6f799a3381cdb214fa0c242ac127"
+        }
+      ]
+    },
+    {
+      "normalizedName": "dwave",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-81e7-b9ad-d1ba07d34f8d",
+          "name": "D-Wave",
+          "url": "https://www.notion.so/D-Wave-244c6f799a3381e7b9add1ba07d34f8d"
+        },
+        {
+          "id": "1f8c6f79-9a33-81cb-926d-ec8330e0ff04",
+          "name": "D-Wave Systems",
+          "url": "https://www.notion.so/D-Wave-Systems-1f8c6f799a3381cb926dec8330e0ff04"
+        }
+      ]
+    },
+    {
+      "normalizedName": "doolyai",
+      "companies": [
+        {
+          "id": "244c6f79-9a33-8193-9694-d0abfbae8974",
+          "name": "Dooly.ai",
+          "url": "https://www.notion.so/Dooly-ai-244c6f799a3381939694d0abfbae8974"
+        },
+        {
+          "id": "1f1c6f79-9a33-817c-aad0-f1f298dc2dd2",
+          "name": "Dooly.ai",
+          "url": "https://www.notion.so/Dooly-ai-1f1c6f799a33817caad0f1f298dc2dd2"
+        }
+      ]
+    }
+  ]
+}

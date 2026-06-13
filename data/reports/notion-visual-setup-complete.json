@@ -1,0 +1,160 @@
+{
+  "timestamp": "2025-08-03T07:49:35.696Z",
+  "verification": {
+    "logosInDatabase": 20,
+    "companiesWithLogos": 20,
+    "success": true
+  },
+  "boardViews": {
+    "configurationsReady": 6,
+    "manualSetupRequired": true
+  },
+  "uiComponents": {
+    "realApiEndpoint": "/api/notion/companies",
+    "enhancedDashboard": "RealNotionDashboard.tsx",
+    "databaseIntegration": true
+  },
+  "companies": [
+    {
+      "id": "240c6f79-9a33-81a6-ba44-c2eecd65105d",
+      "name": "SkyAcres Agrotechnologies",
+      "category": "AI Companies",
+      "funding": "$460K CAD total - $60K competitions/grants + $400K non-dilutive research funding (RBC Women in Cleantech, Google for Startups) (Source: Company data)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Redlen_Technologies_clearbit_logo.png"
+    },
+    {
+      "id": "240c6f79-9a33-813e-810a-f19fccb08754",
+      "name": "ZenHub",
+      "category": "Technology Companies",
+      "funding": "$13M Series A (2023) (Source: VentureBeat)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Zenhub_clearbit_logo.png"
+    },
+    {
+      "id": "240c6f79-9a33-818c-a54f-ff1e2c9c5fe6",
+      "name": "Mogo",
+      "category": "Fintech",
+      "funding": "$100M+ raised, filed for bankruptcy (2023)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Mogo_clearbit_logo.png"
+    },
+    {
+      "id": "240c6f79-9a33-819d-9e58-f7e640777abb",
+      "name": "Finger Food Studios",
+      "category": "Uncategorized",
+      "funding": "Acquired by Unity Technologies (2020) - Unity Technologies (acquirer), Yaletown Partners, BDC Capital",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Finger_Food_ATG_clearbit_logo.png"
+    },
+    {
+      "id": "240c6f79-9a33-81e4-b5e4-d3e039632bec",
+      "name": "Procurify",
+      "category": "AI Companies",
+      "funding": "$57M USD Total (2021) - Series B (Source: Crunchbase)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Procurify_logo_clearbit.png"
+    },
+    {
+      "id": "240c6f79-9a33-8141-9a97-edc6de36d550",
+      "name": "Trulioo",
+      "category": "AI Companies",
+      "funding": "{\"total\":\"$476.8M USD\",\"lastRound\":\"Series D $394M (2021-06)\",\"leadInvestor\":\"TCV (Technology Crossover Ventures)\",\"otherInvestors\":[\"Goldman Sachs\",\"Citi Ventures\",\"American Express Ventures\",\"Santander InnoVentures\",\"BDC Capital\"]}",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Trulioo_clearbit_logo.png"
+    },
+    {
+      "id": "23fc6f79-9a33-81be-9128-e260cb998df9",
+      "name": "Microsoft Canada AI Hub",
+      "category": "Innovation Centres & Hubs",
+      "funding": "Not specified",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Ada_clearbit_logo.png"
+    },
+    {
+      "id": "23fc6f79-9a33-8192-9d2f-e1c3d5f4a2a9",
+      "name": "Dapper Labs",
+      "category": "Crypto Unicorn",
+      "funding": "$607M USD Total (2021-09) - Coatue led $250M at $7.6B valuation (Source: Forbes, TechCrunch)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Dapper_Labs_clearbit_logo.png"
+    },
+    {
+      "id": "23fc6f79-9a33-818f-81c1-daa1fa1a2a5c",
+      "name": "Clio",
+      "category": "Legal Tech Leader",
+      "funding": "$386M USD Total (2021-04) - Series E led by NEA, T. Rowe Price (Source: TechCrunch)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Clio_logo.png"
+    },
+    {
+      "id": "23fc6f79-9a33-8131-85a3-ff4fd10b4d94",
+      "name": "QHR Technologies",
+      "category": "Company",
+      "funding": "Not specified",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/QHR_Technologies_clearbit_logo.png"
+    },
+    {
+      "id": "23fc6f79-9a33-81de-890b-fb2743bf0ad7",
+      "name": "Vision Critical (Alida)",
+      "category": "Company",
+      "funding": "$20M",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Vision_Critical_logo_clearbit.png"
+    },
+    {
+      "id": "23dc6f79-9a33-81d0-8914-ffcdc86b1700",
+      "name": "AbCellera Biologics",
+      "category": "Unicorn",
+      "funding": "Public company (NASDAQ: ABCL) (2020-12) - IPO raised $483M",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/AbCellera_logo.svg"
+    },
+    {
+      "id": "23dc6f79-9a33-81c4-8070-f76878fd1555",
+      "name": "CoPilot AI",
+      "category": "Start-ups & Scale-ups",
+      "funding": "$50M Series B (2024)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Copilot_clearbit_logo.png"
+    },
+    {
+      "id": "23dc6f79-9a33-81fe-aaa9-fefd1df86fd8",
+      "name": "Finn AI",
+      "category": "Start-ups & Scale-ups",
+      "funding": "$30M+ raised, acquired by Glia (2023)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Finn_AI_clearbit_logo.png"
+    },
+    {
+      "id": "23dc6f79-9a33-810b-8702-cb15089b5edc",
+      "name": "MetaOptima (DermEngine)",
+      "category": "Start-ups & Scale-ups",
+      "funding": "$8M+ raised (Source: Crunchbase)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/MetaOptima_logo_clearbit.png"
+    },
+    {
+      "id": "23dc6f79-9a33-81c1-9745-c23026f9b5f0",
+      "name": "Sanctuary AI",
+      "category": "Start-ups & Scale-ups",
+      "funding": "$140M+ Total, Seeking $175M additional (2024-07) - Multiple rounds, currently fundraising",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Sanctuary_AI_logo.png"
+    },
+    {
+      "id": "1f8c6f79-9a33-81cb-926d-ec8330e0ff04",
+      "name": "D-Wave Systems",
+      "category": "Enterprise / Corporate Divisions",
+      "funding": "{\"total\":\"$300M+ pre-IPO\",\"ipo\":\"2022-08 via SPAC merger with DPCM Capital\",\"majorInvestors\":[\"PSP Investments\",\"Goldman Sachs\",\"BDC Capital\",\"Bezos Expeditions\",\"In-Q-Tel\"]}",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/D_Wave_Systems_logo.png"
+    },
+    {
+      "id": "1f7c6f79-9a33-8162-ad8e-dbc2864b7f80",
+      "name": "Hootsuite",
+      "category": "Start-ups & Scale-ups",
+      "funding": "$300M Total across 6+ rounds (2023-04) - Insight Venture Partners, Accel Partners, OMERS Ventures, Fidelity, CIBC",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Hootsuite_logo_clearbit.png"
+    },
+    {
+      "id": "1f1c6f79-9a33-818a-8d2f-f6800062366a",
+      "name": "Terramera",
+      "category": "Start-ups & Scale-ups",
+      "funding": "$80M+ USD Total - Ospraie Ag Science led (Source: AgFunder)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Terramera_logo.png"
+    },
+    {
+      "id": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+      "name": "Klue",
+      "category": "Start-ups & Scale-ups",
+      "funding": "$81M USD Total (2021-10) - Tiger Global, Salesforce Ventures (Series B $62M)",
+      "logoUrl": "https://bc-ai-ecosystem.vercel.app/logos/Klue_logo_clearbit.png"
+    }
+  ],
+  "errors": []
+}

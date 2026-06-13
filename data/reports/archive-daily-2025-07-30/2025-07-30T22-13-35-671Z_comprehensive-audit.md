@@ -1,0 +1,900 @@
+# BC AI Ecosystem Database Comprehensive Audit
+*Generated: 2025-07-30*
+
+## 📊 Executive Summary
+
+- **Total Companies**: 680
+- **Financial Coverage**: 25.6% (+8.0% improvement)
+- **Data Quality Score**: 53.1%
+- **Total Tracked Funding**: $11.0B
+- **Companies with Revenue Data**: 152
+- **Recent Updates (7 days)**: 680
+
+## 📈 Progress Since Last Assessment
+
+| Metric | Previous | Current | Change |
+|--------|----------|---------|--------|
+| Funding Coverage | 17.6% | 25.6% | +8.0% |
+| Founding Dates | 79.2% | 79.7% | 0.5% |
+| Key People | 29.0% | 30.6% | 1.6% |
+
+## 🎯 Data Quality Metrics
+
+| Field | Count | Coverage |
+|-------|-------|----------|
+| Founding Dates | 542 | 79.7% |
+| Funding | 174 | 25.6% |
+| Revenue | 152 | 22.4% |
+| Employee Count | 169 | 24.9% |
+| Key People | 208 | 30.6% |
+| Short Blurb | 555 | 81.6% |
+| Notable Projects | 503 | 74.0% |
+| Website | 361 | 53.1% |
+| Linkedin | 355 | 52.2% |
+| Email | 167 | 24.6% |
+| Phone | 149 | 21.9% |
+| Ai Power Score | 680 | 100.0% |
+| Data Quality Score | 680 | 100.0% |
+
+## 💰 Financial Intelligence
+
+### Top 10 Funded Companies
+1. **WELL Health Technologies Corp** - $1060.0M (Healthcare & Biotech)
+2. **Rigid Robotics** - $975.0M (Start-ups & Scale-ups)
+3. **ThisFish Inc.** - $661.0M (Start-ups & Scale-ups)
+4. **1Password** - $620.0M (Cybersecurity)
+5. **Arbutus Biopharma Corporation** - $605.0M (Healthcare & Biotech)
+6. **Tasktop Technologies** - $500.0M (Technology Companies)
+7. **InBC Life Sciences Investment Fund** - $500.0M (Investment Fund)
+8. **AbCellera Biologics** - $483.0M (Unicorn)
+9. **AbCellera** - $483.0M (Enterprise / Corporate Divisions)
+10. **General Fusion** - $440.0M (Uncategorized)
+
+### Recent Funding Activity
+- OVA (Open Virtual Assistant): $20M+ total - $3M Seed (Feb 2021) Version One Ventures; $8M Series A (Aug 2022) Georgian Partners; $9M Extension (March 2024) (Source: Georgian portfolio) (Updated: 2025-07-30)
+- Enteligent: $25M+ total - $3M Seed (Jan 2021) Evok Innovations; $12M Series A (March 2023) Clean Energy Ventures; $10M Extension (Sept 2024) (Source: CleanTech reports) (Updated: 2025-07-30)
+- Cooler Heads Care: $18M+ total - $2M Seed (Sept 2020), $8M Series A (April 2022), $8M Series A Extension (Jan 2024) (Source: PitchBook) (Updated: 2025-07-30)
+- Spare Labs: $70M+ total - $7.25M Series A (2021) Inovia Capital; $42M CAD Series B (May 2025) Inovia Capital; $20M+ grants (Source: T-Net News) (Updated: 2025-07-30)
+- Veritree: $6.5M USD Series A (2025) - Led by Pender Ventures with Garage Capital, Northside Ventures, Diagram; ~$11M USD total (Source: Company announcement) (Updated: 2025-07-30)
+- Artemis AI: $1.5M Pre-Seed (March 2024) - Led by Raven Indigenous Capital Partners with Telegraph Hill Capital, Ripple Ventures (Source: PR Newswire) (Updated: 2025-07-30)
+- CloudMD Software & Services Inc: Acquired by CPS Capital for $12.2M CAD (July 2024) - Go-private transaction, delisted from TSX-V:DOC (Source: TSX-V Filings) (Updated: 2025-07-30)
+- Westport Fuel Systems Inc.: Public Company NASDAQ:WPRT, TSX:WPRT.TO - Market cap $69.55M USD (July 2025) (Source: Yahoo Finance) (Updated: 2025-07-30)
+- Moment Energy: $52M+ total - $15M Series A (Jan 2025) Amazon Climate Pledge Fund, Voyager Ventures; $20.3M DOE grant (Oct 2024) (Source: PR Newswire) (Updated: 2025-07-30)
+- Phaidra: $60.5M total - $25M Series A (2022) Starshort Capital; $12M Series B (July 2024) Index Ventures with Mark Cuban, Mustafa Suleyman (Source: TechCrunch) (Updated: 2025-07-30)
+- QuantumSense: $10M Series A (2025-06) - Led by Quantonation, Fujitsu Ventures (Source: Quantum Computing Report) (Updated: 2025-07-30)
+- WasteFlow Technologies: $7M Seed (2025-07) - Led by Chrysalix Venture Capital, Evok Innovations (Source: Waste360) (Updated: 2025-07-30)
+- CreatorFlow Media: $6M Seed (2025-06) - Led by Foundry Group, Version One Ventures (Source: VentureBeat) (Updated: 2025-07-30)
+- DataMesh Analytics: $4M Seed (2025-03) - Led by Georgian Partners, BDC Capital (Source: TechCrunch) (Updated: 2025-07-30)
+- EnergyFlow Dynamics: $14M Series A (2025-07) - Led by Energy Impact Partners, Evok Innovations (Source: EnergyTech) (Updated: 2025-07-30)
+- SecureChain Labs: $5M Seed (2025-05) - Led by Bessemer Venture Partners, Panache Ventures (Source: CyberScoop) (Updated: 2025-07-30)
+- GameFlow Studios: $3M Seed (2025-04) - Led by Konvoy Ventures, Play Ventures (Source: GamesBeat) (Updated: 2025-07-30)
+- AgriTech Innovations: $8M Seed (2025-06) - Led by S2G Ventures, Ospraie Ag Science (Source: AgFunder) (Updated: 2025-07-30)
+- SpaceLink Communications: $13M Series A (2025-07) - Led by Space Capital, Kepler Communications (strategic) (Source: SpaceNews) (Updated: 2025-07-30)
+- HealthGraph AI: $11M Series A (2025-06) - Led by Northpond Ventures, Amplitude Ventures (Source: MedCity News) (Updated: 2025-07-30)
+- Ocean Robotics Dynamics: $9M Series A (2025-07) - Led by Rhapsody Venture Partners, Ocean Ventures (Source: MarineNews) (Updated: 2025-07-30)
+- FinFlow Systems: $6M Seed (2025-05) - Led by Information Venture Partners, BDC Capital (Source: PaymentsSource) (Updated: 2025-07-30)
+- Immersive Learning Labs: $4M Seed (2025-06) - Led by Learn Capital, Brightspark Ventures (Source: EdSurge) (Updated: 2025-07-30)
+- CarbonFlow: $7M Seed (2025-07) - Led by Breakthrough Energy Ventures, Evok Innovations (Source: GreenBiz) (Updated: 2025-07-30)
+- PropFlow AI: $5M Seed (2025-04) - Led by Relay Ventures, Real Estate Foundation of BC (Source: BetaKit) (Updated: 2025-07-30)
+- Neural Therapeutics: $20M Series A (2025-06) - Led by Johnson & Johnson Innovation, Amplitude Ventures (Source: FierceBiotech) (Updated: 2025-07-30)
+- CleanGrid Systems: $10M Seed (2025-07) - Led by Evok Innovations, Chevron Technology Ventures (Source: CleanTechnica) (Updated: 2025-07-30)
+- BioSynth Technologies: $15M Series A (2025-05) - Led by Leaps by Bayer, BDC Deep Tech Fund (Source: BioCentury) (Updated: 2025-07-30)
+- Quantum Dynamics: $12M Series A (2025-07) - Led by Fujitsu Ventures, 1QB participation (Source: Business Wire) (Updated: 2025-07-30)
+- Nexus AI Labs: $8M Seed (2025-06) - Led by Version One Ventures, Inovia Capital participating (Source: TechCrunch) (Updated: 2025-07-30)
+- ModeMagic: $5.5M Seed (2024) - BDC Capital, Tiny Capital, Golden Ventures (Updated: 2025-07-30)
+- Cohere Health Vancouver: $80M Series C (March 2024) - Deerfield Management, Flare Capital Partners, Define Ventures (Updated: 2025-07-30)
+- Saltworks Technologies: $20M (2024) - Government and strategic investors, SDTC, BDC Capital, Chrysalix Venture Capital (Updated: 2025-07-30)
+- Later: $60M Series B (2024) - Madrona Venture Group, Founders Fund, Origin Ventures (Updated: 2025-07-30)
+- Cmd: $21.6M USD Total, Acquired by Elastic (2021-08) - Acquired by Elastic (terms undisclosed) (Source: Elastic announcement - Verified 2025-07-30) (Updated: 2025-07-30)
+- HealthTech Connex: $3.7M (2024) - PacifiCan Business Scale-up Program, N/A (Updated: 2025-07-30)
+- Rigid Robotics: $975,000 (November 2024) - PacifiCan Business Scale-up Program, N/A (Updated: 2025-07-30)
+- InBC Life Sciences Investment Fund: $500M Government Fund (2021) (Source: https://news.gov.bc.ca/releases/2021JERI0019-000476 - Verified 2025-07-29) (Updated: 2025-07-30)
+- Nirvanic Consciousness Technologies: Self-funded (Founder sold Kindred AI for $339M) (2024-08) - Suzanne Gildert (self-funded) (Source: Company announcements - Verified 2025-07-30) (Updated: 2025-07-30)
+- Flytographer: $1.72M Total (2017-09) - Forum for Women Entrepreneurs BC, Lyra Growth Partners (Source: https://pitchbook.com/profiles/company/98639-74 - Verified 2025-07-30) (Updated: 2025-07-30)
+- Barnacle Systems: $513K Government Contract (2024) - Canadian Coast Guard, Babcock Canada (Updated: 2025-07-30)
+- Indiegraf: $2.2M USD Seed (2024-10) - StandUp Ventures (lead), Coralus, Mucker Capital (Source: https://betakit.com/indiegraf-to-expand-independent-news-solution/ - Verified 2025-07-30) (Updated: 2025-07-30)
+- MATT3R: $2M Pre-seed (2021-12) - Nelson Investments, Vancouver-based investors (Source: https://techcouver.com/2025/01/08/bc-startups-to-watch-in-2025/ - Verified 2025-07-30) (Updated: 2025-07-30)
+- Hugo Inc: $6.1M Seed, Acquired by Calendly (2020-04) - Gradient Ventures (Google), Slack Fund, Founder Collective (Source: TechCrunch - Verified 2025-07-30) (Updated: 2025-07-30)
+- Aspect Biosystems: $115M Series B + $53.4M government grant (2025-01) - Dimension (lead), Novo Nordisk, Radical Ventures, InBC, Pallasite Ventures (Source: https://www.aspectbiosystems.com/news-resources/ - Verified 2025-07-30) (Updated: 2025-07-30)
+- Payday: $3M Seed, declined $15M acquisition (2023-03) - Moniepoint Inc (lead), Techstars, DFS Lab (Source: https://techcrunch.com/2023/03/29/payday-wants-to-power-the-future-of-work/ - Verified 2025-07-30) (Updated: 2025-07-30)
+- Open Ocean Robotics: $2.8M CAD + government contracts (2024-10) - Antares Ventures, Spring Impact Capital, Katapult Ocean (Source: https://www.openoceanrobotics.com/news/ - Verified 2025-07-30) (Updated: 2025-07-30)
+- Orca Water: $682K Total (Pre-seed raising) (2025-02) - Innovate BC (BC Fast Award), seeking pre-seed investors (Source: https://www.newventuresbc.com/2023/08/top-25-spotlight-orca-water/ - Verified 2025-07-29) (Updated: 2025-07-30)
+- Lite-1: $1.1M (2024) - Not disclosed (Source: https://www.linkedin.com/company/lite-1 - Verified 2025-07-29) (Updated: 2025-07-30)
+- Build Smartr Robotics: Competed for $100K angel investment (2023) - Angels4Climate competition (Source: Angels4Climate - Verified 2025-07-30) (Updated: 2025-07-30)
+- Canexia Health: $20M CAD (Last known, company bankrupt) (2022-02) - BDC Capital, Desjardins Capital, PacBridge Capital (Source: https://betakit.com/cancer-focused-imagia-canexia-health-files-for-bankruptcy-18-months-after-merger/ - Verified 2025-07-29) (Updated: 2025-07-30)
+- Rockburst Technologies: $250K from MICA + IGNITE funding + Raising $10M USD (2024) - Mining Innovation Commercialization Accelerator, Innovate BC (Source: Mining industry announcements - Verified 2025-07-30) (Updated: 2025-07-30)
+- ThisFish Inc.: $661,500 from Ocean Supercluster (September 2024) - Canada's Ocean Supercluster, Bitstrapped, Orca Specialty Foods (Updated: 2025-07-30)
+- Certn: $114M+ USD Total (Series B) (2023-04) - Series B extension $30M (Source: TechCrunch - Verified 2025-07-30) (Updated: 2025-07-30)
+- MarineLabs: $1.8M from Ocean Supercluster (January 2025) - Canada's Ocean Supercluster, Go Deep International, LeeWay Marine (Updated: 2025-07-30)
+- Visier: $154M Series F (May 2024) - Warburg Pincus, Goldman Sachs, Foundation Capital, Sorenson Capital (Updated: 2025-07-30)
+- AbCellera: Public company (NASDAQ: ABCL) (2020-12) - IPO raised $483M (Source: SEC filings - Verified 2025-07-30) (Updated: 2025-07-30)
+- Klue: $81M USD Total (2021-10) - Tiger Global, Salesforce Ventures (Series B $62M) (Source: Crunchbase - Verified 2025-07-30) (Updated: 2025-07-30)
+
+### Funding by Category
+- **Start-ups & Scale-ups**: $2545.0M across 29 companies
+- **Healthcare & Biotech**: $2279.6M across 13 companies
+- **Technology Companies**: $872.3M across 9 companies
+- **AI Companies**: $820.0M across 20 companies
+- **Uncategorized**: $654.0M across 24 companies
+- **Enterprise / Corporate Divisions**: $637.0M across 2 companies
+- **Cybersecurity**: $620.0M across 1 companies
+- **Fintech**: $501.7M across 5 companies
+- **Investment Fund**: $500.0M across 1 companies
+- **Unicorn**: $483.0M across 1 companies
+
+## 📍 Geographic Distribution
+
+- **Lower Mainland**: 478 companies (70.3%)
+- **Unknown**: 91 companies (13.4%)
+- **Other BC**: 47 companies (6.9%)
+- **Vancouver Island**: 30 companies (4.4%)
+- **Interior**: 19 companies (2.8%)
+- **Northern BC**: 8 companies (1.2%)
+- **Other Regions**: 7 companies (1.0%)
+
+## 🏢 Category Breakdown
+
+- **Start-ups & Scale-ups**: 243 companies
+- **AI Companies**: 55 companies
+- **Uncategorized**: 55 companies
+- **Academic & Research Labs**: 41 companies
+- **Enterprise / Corporate Divisions**: 33 companies
+- **Service Studios / Agencies**: 29 companies
+- **Industry Association**: 22 companies
+- **Healthcare & Biotech**: 19 companies
+- **Grassroots Communities**: 16 companies
+- **Technology Companies**: 12 companies
+- **Government & Public Sector**: 10 companies
+- **Education & Training Providers**: 10 companies
+- **Accelerators / Incubators**: 10 companies
+- **Investors & Funds**: 10 companies
+- **Fintech**: 8 companies
+
+## 🔴 Critical Data Gaps (Top 20 each)
+
+### Missing Funding Data
+- Motive.io
+- Payfirma
+- Narval Energy Inc.
+- Ocean AID
+- Appnovation
+- SkyAcres
+- City of Richmond AI Strategy
+- City of Surrey AI Initiative
+- BC AI Assist Program
+- BC Regional AI Initiative
+- Stellantis LG Energy Solution BC
+- BC Centre for Innovation and Clean Energy
+- DigiBC Creative Technology Association
+- BC Regional AI Initiative Recipients
+- Microsoft Canada AI Hub
+- Excelar Technologies
+- ChildCare Services BC AI Platform
+- Service BC AI Search Platform
+- BC Wildfire Service AI Analytics
+- BC AI Refugee Integration Platform
+
+### Missing Revenue Data
+- Narval Energy Inc.
+- Ocean AID
+- HealthTech Connex
+- Rigid Robotics
+- BC Regional AI Initiative
+- BC Regional AI Initiative Recipients
+- Excelar Technologies
+- ChildCare Services BC AI Platform
+- Service BC AI Search Platform
+- BC Wildfire Service AI Analytics
+- BC AI Refugee Integration Platform
+- Artificial Muse Music AI Residency
+- ICCSMLAI Vancouver Sports Track
+- FLAIR BC Initiative
+- Indigenous Protocol and AI Working Group
+- NEXT AI BC Companies
+- Scale AI BC Recipients
+- DigiBC Creative AI Members
+- DigiBC Signals AI Showcase
+- RAII Grant Recipients 2025
+
+### Missing People Data
+- IAMGOLD Innovation
+- Cohere Health Vancouver
+- Narval Energy Inc.
+- Ocean AID
+- HealthTech Connex
+- Rigid Robotics
+- SkyAcres
+- City of Richmond AI Strategy
+- City of Surrey AI Initiative
+- BC AI Assist Program
+
+## ✅ Recent Updates
+
+Companies updated in the last 7 days:
+- GreenFlow Analytics (AI Companies) - 2025-07-30
+- Neural Dynamics (Healthcare & Biotech) - 2025-07-30
+- Vaultie (AI Companies) - 2025-07-30
+- OVA (Open Virtual Assistant) (AI Companies) - 2025-07-30
+- RapidCert (AI Companies) - 2025-07-30
+- Enteligent (AI Companies) - 2025-07-30
+- Cooler Heads Care (Healthcare & Biotech) - 2025-07-30
+- Canurta (Healthcare & Biotech) - 2025-07-30
+- Spare Labs (AI Companies) - 2025-07-30
+- SkyAcres Agrotechnologies (AI Companies) - 2025-07-30
+- Veritree (AI Companies) - 2025-07-30
+- Artemis AI (AI Companies) - 2025-07-30
+- Durable AI (AI Companies) - 2025-07-30
+- Ariglad (AI Companies) - 2025-07-30
+- JackRabbit Ops (AI Companies) - 2025-07-30
+- CloudMD Software & Services Inc (Healthcare & Biotech) - 2025-07-30
+- Qu Biologics Inc (Healthcare & Biotech) - 2025-07-30
+- WELL Health Technologies Corp (Healthcare & Biotech) - 2025-07-30
+- Arbutus Biopharma Corporation (Healthcare & Biotech) - 2025-07-30
+- Pocketed (AI Companies) - 2025-07-30
+- Kater Technologies (AI Companies) - 2025-07-30
+- Westport Fuel Systems Inc. (AI Companies) - 2025-07-30
+- Roomvu (AI Companies) - 2025-07-30
+- Moment Energy (AI Companies) - 2025-07-30
+- Phaidra (AI Companies) - 2025-07-30
+- ZenHub (Technology Companies) - 2025-07-30
+- Lendesk Technologies (AI Companies) - 2025-07-30
+- 1QB Information Technologies (Technology Companies) - 2025-07-30
+- Canalyst (Fintech) - 2025-07-30
+- Tasktop Technologies (Technology Companies) - 2025-07-30
+- QuantumSense (Uncategorized) - 2025-07-30
+- WasteFlow Technologies (Uncategorized) - 2025-07-30
+- CreatorFlow Media (Uncategorized) - 2025-07-30
+- DataMesh Analytics (Uncategorized) - 2025-07-30
+- EnergyFlow Dynamics (Uncategorized) - 2025-07-30
+- SecureChain Labs (Uncategorized) - 2025-07-30
+- GameFlow Studios (Uncategorized) - 2025-07-30
+- AgriTech Innovations (Uncategorized) - 2025-07-30
+- SpaceLink Communications (Uncategorized) - 2025-07-30
+- HealthGraph AI (Uncategorized) - 2025-07-30
+- Ocean Robotics Dynamics (Uncategorized) - 2025-07-30
+- FinFlow Systems (Uncategorized) - 2025-07-30
+- Immersive Learning Labs (Uncategorized) - 2025-07-30
+- CarbonFlow (Uncategorized) - 2025-07-30
+- PropFlow AI (Uncategorized) - 2025-07-30
+- Neural Therapeutics (Uncategorized) - 2025-07-30
+- CleanGrid Systems (Uncategorized) - 2025-07-30
+- BioSynth Technologies (Uncategorized) - 2025-07-30
+- Quantum Dynamics (Uncategorized) - 2025-07-30
+- Nexus AI Labs (Uncategorized) - 2025-07-30
+- AgriSense AI (AI Companies) - 2025-07-30
+- Forest AI Systems (AI Companies) - 2025-07-30
+- Voltaiq Energy AI (AI Companies) - 2025-07-30
+- BBTV Holdings (Media Tech) - 2025-07-30
+- MetaVRse (VR/AR) - 2025-07-30
+- IAMGOLD Innovation (Mining) - 2025-07-30
+- Enterra Feed (AgTech) - 2025-07-30
+- Lucent BioSciences (AgTech) - 2025-07-30
+- Ayogo Health (Healthcare & Biotech) - 2025-07-30
+- Verge Agriculture (AgTech) - 2025-07-30
+- CRH Medical (Healthcare & Biotech) - 2025-07-30
+- Eupraxia Pharmaceuticals (Healthcare & Biotech) - 2025-07-30
+- Aurinia Pharmaceuticals (Healthcare & Biotech) - 2025-07-30
+- Chimp (Fintech) - 2025-07-30
+- Reebee (E-commerce) - 2025-07-30
+- Loop Energy (CleanTech) - 2025-07-30
+- Corvus Energy (CleanTech) - 2025-07-30
+- Response Biomedical (Healthcare & Biotech) - 2025-07-30
+- Careteam Technologies (Healthcare & Biotech) - 2025-07-30
+- Relic Entertainment (Game Development Studio) - 2025-07-30
+- Phoenix Labs (Game Development Studio) - 2025-07-30
+- Sendwithus (Marketing Tech) - 2025-07-30
+- Bench Accounting (Fintech) - 2025-07-30
+- Kiind (Fintech) - 2025-07-30
+- Unbounce (Marketing Tech) - 2025-07-30
+- Routific (Logistics Tech) - 2025-07-30
+- Bron Studios (Media Tech) - 2025-07-30
+- Thunderbird Entertainment (Media Tech) - 2025-07-30
+- 1Password (Cybersecurity) - 2025-07-30
+- Properly (PropTech Startup) - 2025-07-30
+- Rentberry (PropTech Startup) - 2025-07-30
+- Showbie (EdTech) - 2025-07-30
+- Manzil (Fintech) - 2025-07-30
+- Tenstorrent (Technology Companies) - 2025-07-30
+- LlamaZOO (Mining) - 2025-07-30
+- Copperleaf Technologies (Enterprise / Corporate Divisions) - 2025-07-30
+- Symend (Fintech) - 2025-07-30
+- A&K Robotics (Robotics) - 2025-07-30
+- Clarius Mobile Health (Healthcare & Biotech) - 2025-07-30
+- AlayaCare (Healthcare & Biotech) - 2025-07-30
+- Canvass Analytics (AI Companies) - 2025-07-30
+- Wysdom.AI (AI Companies) - 2025-07-30
+- ModeMagic (AI Companies) - 2025-07-30
+- Ballard Power Systems (CleanTech) - 2025-07-30
+- Carbon Engineering (CleanTech) - 2025-07-30
+- Nymi (Technology Companies) - 2025-07-30
+- Coinsquare (Fintech) - 2025-07-30
+- Mogo (Fintech) - 2025-07-30
+- Kabam (Game Development Studio) - 2025-07-30
+- Xenon Pharmaceuticals (Healthcare & Biotech) - 2025-07-30
+- Acuitas Therapeutics (Healthcare & Biotech) - 2025-07-30
+- Cohere Health Vancouver (Technology Companies) - 2025-07-30
+- Svante (Technology Companies) - 2025-07-30
+- Saltworks Technologies (Technology Companies) - 2025-07-30
+- Later (Technology Companies) - 2025-07-30
+- Article (Technology Companies) - 2025-07-30
+- Cmd (Technology Companies) - 2025-07-30
+- Riverlane Solutions (Uncategorized) - 2025-07-30
+- Motive.io (Uncategorized) - 2025-07-30
+- Payfirma (Uncategorized) - 2025-07-30
+- Archiact (Uncategorized) - 2025-07-30
+- Narval Energy Inc. (Start-ups & Scale-ups) - 2025-07-30
+- Finger Food Studios (Uncategorized) - 2025-07-30
+- Ocean AID (Start-ups & Scale-ups) - 2025-07-30
+- Traction on Demand (Uncategorized) - 2025-07-30
+- HealthTech Connex (Start-ups & Scale-ups) - 2025-07-30
+- Rigid Robotics (Start-ups & Scale-ups) - 2025-07-30
+- General Fusion (Uncategorized) - 2025-07-30
+- Tasktop (AI Companies) - 2025-07-30
+- Appnovation (Service Providers) - 2025-07-30
+- Procurify (AI Companies) - 2025-07-30
+- STEMCELL Technologies (AI Companies) - 2025-07-30
+- Thinkific (AI Companies) - 2025-07-30
+- Trulioo (AI Companies) - 2025-07-30
+- Minerva Intelligence (AI Companies) - 2025-07-30
+- SkyAcres (Uncategorized) - 2025-07-30
+- City of Richmond AI Strategy (Government & Public Sector) - 2025-07-30
+- City of Surrey AI Initiative (Government & Public Sector) - 2025-07-30
+- BC AI Assist Program (Education & Training Providers) - 2025-07-30
+- BC Regional AI Initiative (AI Companies) - 2025-07-30
+- Stellantis LG Energy Solution BC (Uncategorized) - 2025-07-30
+- BC Centre for Innovation and Clean Energy (Innovation Centres & Hubs) - 2025-07-30
+- DigiBC Creative Technology Association (Industry Association) - 2025-07-30
+- BC Regional AI Initiative Recipients (AI Companies) - 2025-07-30
+- Microsoft Canada AI Hub (Innovation Centres & Hubs) - 2025-07-30
+- Excelar Technologies (Start-ups & Scale-ups) - 2025-07-30
+- ChildCare Services BC AI Platform (Start-ups & Scale-ups) - 2025-07-30
+- Service BC AI Search Platform (Start-ups & Scale-ups) - 2025-07-30
+- BC Wildfire Service AI Analytics (Start-ups & Scale-ups) - 2025-07-30
+- BC AI Refugee Integration Platform (Start-ups & Scale-ups) - 2025-07-30
+- AI Network of British Columbia (Industry Association) - 2025-07-30
+- VAG AI Imitation Game Program (Education & Training Providers) - 2025-07-30
+- DigiBC Signals Program (Education & Training Providers) - 2025-07-30
+- Stellar Code Lab (Academic & Research Labs) - 2025-07-30
+- SFU Metacreation Lab for Creative AI (Academic & Research Labs) - 2025-07-30
+- Artificial Muse Music AI Residency (AI Companies) - 2025-07-30
+- ICCSMLAI Vancouver Sports Track (AI Companies) - 2025-07-30
+- Plantiga (Uncategorized) - 2025-07-30
+- Flento (Uncategorized) - 2025-07-30
+- Athletica (Uncategorized) - 2025-07-30
+- FLAIR BC Initiative (AI Companies) - 2025-07-30
+- UBC Kwak'wala AI Immersion Project (Academic & Research Labs) - 2025-07-30
+- Abundant Intelligences (Uncategorized) - 2025-07-30
+- Indigenous Protocol and AI Working Group (AI Companies) - 2025-07-30
+- NEXT AI BC Companies (AI Companies) - 2025-07-30
+- Scale AI BC Recipients (AI Companies) - 2025-07-30
+- DigiBC Creative AI Members (AI Companies) - 2025-07-30
+- DigiBC Signals AI Showcase (AI Companies) - 2025-07-30
+- RAII Grant Recipients 2025 (AI Companies) - 2025-07-30
+- BC Fast Pilot AI Projects (AI Companies) - 2025-07-30
+- Circle Innovation Vancouver AI Community (Innovation Centres & Hubs) - 2025-07-30
+- Shape Immersive (Uncategorized) - 2025-07-30
+- Boast AI (AI Companies) - 2025-07-30
+- Meton AI (AI Companies) - 2025-07-30
+- InBC Life Sciences Investment Fund (Investment Fund) - 2025-07-30
+- Microsoft VCH AI Partnership (Industry-Healthcare Partnership) - 2025-07-30
+- BCIT Applied Research Centre for Sustainability Energy and Resource Innovations (Academic & Research Labs) - 2025-07-30
+- Unity Muse Vancouver Community (User Group) - 2025-07-30
+- External Development Summit Vancouver (Industry Conferences & Events) - 2025-07-30
+- Law Society of BC AI Ethics Program (Professional Association) - 2025-07-30
+- BCSC RegTech Sandbox (Regulatory Initiative) - 2025-07-30
+- BC Forest Innovation and Bioeconomy Manufacturing Program (Government & Public Sector) - 2025-07-30
+- CFS Mass Timber Innovation and Research Lab (Academic & Research Labs) - 2025-07-30
+- Pano AI BC (Wildfire Tech) - 2025-07-30
+- MiningTech North America Conference (Industry Conferences & Events) - 2025-07-30
+- Southern Cross Gold BC (Mining) - 2025-07-30
+- Farmonaut BC (AgTech) - 2025-07-30
+- BC Industry Partners AI Consortium (Industry Association) - 2025-07-30
+- Vancouver PropTech Hub (Industry Association) - 2025-07-30
+- Fraser Surrey Docks (Port Terminal) - 2025-07-30
+- VFPA Terminal 2 Project (Port Development) - 2025-07-30
+- Deltaport Container Terminal (Port Terminal) - 2025-07-30
+- Neptune Terminals (Port Terminal) - 2025-07-30
+- TIABC AI Workshop Initiative (Industry Association) - 2025-07-30
+- Site C Hydroelectric Project AI Division (AI Companies) - 2025-07-30
+- PacifiCan Regional Artificial Intelligence Initiative (AI Companies) - 2025-07-30
+- BC Hydro Electrification Initiative (Government & Public Sector) - 2025-07-30
+- BCIT Xanadu Quantum Computing Program (Academic & Research Labs) - 2025-07-30
+- Vancouver International Privacy Security Summit (Industry Conferences & Events) - 2025-07-30
+- BC Tech Hypergrowth Program (Accelerators / Incubators) - 2025-07-30
+- UVic Coast Capital Innovation Centre (Innovation Centres & Hubs) - 2025-07-30
+- e@UBC Accelerate (Accelerators / Incubators) - 2025-07-30
+- CDL Vancouver (Accelerators / Incubators) - 2025-07-30
+- CICE AI Program (Accelerators / Incubators) - 2025-07-30
+- SFU Artificial Intelligence Research Group (Academic & Research Labs) - 2025-07-30
+- Applied AI Research Association (AAIRA) (Industry Association) - 2025-07-30
+- DevFest YVR / AI Summit Vancouver (Industry Conferences & Events) - 2025-07-30
+- AI Community Conference - Vancouver (Industry Conferences & Events) - 2025-07-30
+- Adiabatic Quantum Computing Conference 2025 (Industry Conferences & Events) - 2025-07-30
+- Thompson Rivers University Computer Science (Academic & Research Labs) - 2025-07-30
+- First Nations Health Authority Digital Health (Government) - 2025-07-30
+- University of Victoria AI and Machine Learning Lab (Academic & Research Labs) - 2025-07-30
+- InBC Life Sciences Fund (Government) - 2025-07-30
+- Digital Technology Supercluster Healthtech Initiative (Healthcare & Biotech) - 2025-07-30
+- Microsoft Vancouver Coastal Health Partnership (Corporate Partnership) - 2025-07-30
+- BC AI in Education Initiative (Government) - 2025-07-30
+- Tutor Lily Inc (Start-ups & Scale-ups) - 2025-07-30
+- Edvisor.io (Uncategorized) - 2025-07-30
+- Riipen (Uncategorized) - 2025-07-30
+- UBC Biomedical Research Facility (Academic & Research Labs) - 2025-07-30
+- CareConnect (Digital Therapeutics) - 2025-07-30
+- MindfulGarden (Digital Therapeutics) - 2025-07-30
+- Kardium (Uncategorized) - 2025-07-30
+- Dapper Labs (Crypto Unicorn) - 2025-07-30
+- Toonie (Uncategorized) - 2025-07-30
+- Felix (Uncategorized) - 2025-07-30
+- Big Whale Labs (Web3 Startup) - 2025-07-30
+- Leasey.AI (AI Companies) - 2025-07-30
+- B.C. Centre for Innovation and Clean Energy (CICE) (Innovation Centres & Hubs) - 2025-07-30
+- Evergrow (Uncategorized) - 2025-07-30
+- GreenMeter AI (AI Companies) - 2025-07-30
+- BC Cleantech CEO Alliance (Industry Association) - 2025-07-30
+- BC AI Gaming Innovation Fund (Industry Association) - 2025-07-30
+- Vancouver Game Development AI Collective (Industry Association) - 2025-07-30
+- 3D AI Studio Vancouver (AI Companies) - 2025-07-30
+- Unity Muse Vancouver Users (Developer Community) - 2025-07-30
+- Keywords Studios Vancouver (Game Development Services) - 2025-07-30
+- External Development Summit (XDS) (Industry Conferences & Events) - 2025-07-30
+- Radical Entertainment (Game Development Studio) - 2025-07-30
+- Law Society of BC AI Ethics Initiative (Industry Association) - 2025-07-30
+- BC Securities Commission RegTech Sandbox (Industry Association) - 2025-07-30
+- Rally Legal (Uncategorized) - 2025-07-30
+- Athennian (Uncategorized) - 2025-07-30
+- Clio (Legal Tech Leader) - 2025-07-30
+- Prince George AI Fire Detection Network (Industry Association) - 2025-07-30
+- Forest Innovation and Bioeconomy Program (Government) - 2025-07-30
+- Canadian Forest Service Mass Timber Lab (Academic & Research Labs) - 2025-07-30
+- qathet Regional District AI Fire System (Government & Public Sector) - 2025-07-30
+- Pano AI BC Operations (AI Companies) - 2025-07-30
+- BC Ocean and Marine Industry Association (Industry Association) - 2025-07-30
+- Blue Economy Innovation Hub (Innovation Centres & Hubs) - 2025-07-30
+- Ocean Networks Canada AI Lab (Academic & Research Labs) - 2025-07-30
+- OceanWise (Uncategorized) - 2025-07-30
+- MarineAI Technologies (Start-ups & Scale-ups) - 2025-07-30
+- MiningTech North America (Industry Conferences & Events) - 2025-07-30
+- Kamloops Exploration Group (Industry Association) - 2025-07-30
+- Southern Cross Gold BC Operations (Uncategorized) - 2025-07-30
+- BC Agritech Training Initiative (Training Program) - 2025-07-30
+- Farmonaut BC Operations (Uncategorized) - 2025-07-30
+- Investment Agriculture Foundation of BC (Foundation) - 2025-07-30
+- BC On-Farm Technology Adoption Program (Government) - 2025-07-30
+- Semios (AgTech Company) - 2025-07-30
+- BC Skills Training AI Initiative (Education & Training Providers) - 2025-07-30
+- Vancouver PropTech Ecosystem (Industry Association) - 2025-07-30
+- BC Construction Technology Initiative (Government) - 2025-07-30
+- ConstructAI (Construction Tech Startup) - 2025-07-30
+- BuildingOS (PropTech Startup) - 2025-07-30
+- Fraser Surrey Docks AI Operations (Deep-water Terminal) - 2025-07-30
+- DP World Canada (Smart Logistics Services) - 2025-07-30
+- Vancouver Fraser Port Authority Terminal 2 (Uncategorized) - 2025-07-30
+- 18 Wheels Logistics (3PL Company) - 2025-07-30
+- BC Manufacturing Skills Initiative (Government & Public Sector) - 2025-07-30
+- Neptune Terminals AI Operations (AI Companies) - 2025-07-30
+- RCAB Advanced Manufacturing Laboratory (Academic & Research Labs) - 2025-07-30
+- Tourism Industry Association of BC AI Workshop (Industry Association) - 2025-07-30
+- Tourism Innovation Lab (Innovation Lab) - 2025-07-29
+- TourismTechBC (Industry Association) - 2025-07-29
+- BC Data Centre AI Initiative (Academic & Research Labs) - 2025-07-30
+- BC Actuarial AI Society (Professional Association) - 2025-07-29
+- BC Financial AI Compliance Initiative (Industry Association) - 2025-07-29
+- Artificial Intelligence Underwriting Company (AIUC) (AI Companies) - 2025-07-30
+- BC Clean Energy Innovation Program (Innovation Centres & Hubs) - 2025-07-30
+- Site C Hydroelectric AI Integration (AI Companies) - 2025-07-30
+- BC Hydro Clean Power Action Plan (Uncategorized) - 2025-07-30
+- Stellantis LG Energy Solution BC Partnership (Service Providers) - 2025-07-30
+- Canadian Artificial Intelligence Safety Institute (Academic & Research Labs) - 2025-07-30
+- Government Cybersecurity Showcase BC (Government) - 2025-07-29
+- West Vancouver Schools Cybersecurity AI Program (Academic & Research Labs) - 2025-07-30
+- BC Aerospace Skills Gap Analysis Project (Industry Association) - 2025-07-29
+- BCIT Centre of Excellence for Aerospace (Training Center) - 2025-07-29
+- BCIT Aerospace Technology Campus (Academic & Research Labs) - 2025-07-30
+- Consortium for Aerospace Research and Innovation in Canada (Academic & Research Labs) - 2025-07-29
+- entrepreneurship@UBC Accelerate (Accelerators / Incubators) - 2025-07-29
+- AQC 2025 Vancouver (Non-Profit) - 2025-07-30
+- Tkmlps Development Corporation (Indigenous Tech & Creative Orgs) - 2025-07-30
+- UNBC Computer Science Department (Academic & Research Labs) - 2025-07-30
+- Northern Development Initiative Trust (Government) - 2025-07-30
+- TRU Computer Science Department (Academic & Research Labs) - 2025-07-30
+- SFU Quantum Fabrication Centre (Academic & Research Labs) - 2025-07-30
+- Quantum Matter Institute (Academic & Research Labs) - 2025-07-30
+- Quantum BC (Industry Association) - 2025-07-30
+- Nirvanic Consciousness Technologies (Start-ups & Scale-ups) - 2025-07-30
+- Indigenous Digital Equity Strategy BC (Indigenous Tech & Creative Orgs) - 2025-07-30
+- FNHA Digital Health Division (Indigenous Tech & Creative Orgs) - 2025-07-30
+- Yeti Farm Creative (Service Studios / Agencies) - 2025-07-30
+- Disney Interactive Studios Kelowna (Enterprise / Corporate Divisions) - 2025-07-30
+- FreshGrade (Start-ups & Scale-ups) - 2025-07-30
+- QHR Technologies (Enterprise / Corporate Divisions) - 2025-07-30
+- UVic AI and Machine Learning Lab (Academic & Research Labs) - 2025-07-30
+- Flytographer (Start-ups & Scale-ups) - 2025-07-30
+- Barnacle Systems (Start-ups & Scale-ups) - 2025-07-30
+- Echosec Systems (Start-ups & Scale-ups) - 2025-07-30
+- Audette.io (Start-ups & Scale-ups) - 2025-07-30
+- BC Tech Association Hypergrowth (Industry Association) - 2025-07-30
+- Coast Capital Savings Innovation Centre (Accelerators / Incubators) - 2025-07-30
+- BCIT Applied Artificial Intelligence Program (Education & Training Providers) - 2025-07-30
+- SFU AI Research Group (Academic & Research Labs) - 2025-07-30
+- AI4Good Canada (Non-Profit) - 2025-07-30
+- Van AI Space (Grassroots Communities) - 2025-07-30
+- Vancouver AI Academy (Education & Training Providers) - 2025-07-30
+- AI Summit Vancouver 2025 (Non-Profit) - 2025-07-30
+- Lila Sciences (Start-ups & Scale-ups) - 2025-07-30
+- Defang Software Labs (Start-ups & Scale-ups) - 2025-07-30
+- Indiegraf (Start-ups & Scale-ups) - 2025-07-30
+- MATT3R (Start-ups & Scale-ups) - 2025-07-30
+- Unblocked (Uncategorized) - 2025-07-30
+- Defang (Uncategorized) - 2025-07-30
+- Fintel Connect (Uncategorized) - 2025-07-30
+- SandboxAQ (Good Chemistry Acquisition) (Uncategorized) - 2025-07-30
+- Thales Canada (Uncategorized) - 2025-07-30
+- Simform (Uncategorized) - 2025-07-29
+- Mobcoder (Uncategorized) - 2025-07-30
+- Hugo Inc (Start-ups & Scale-ups) - 2025-07-30
+- Fujitsu Intelligence Technology (Technology Companies) - 2025-07-30
+- Cloudburst Research (Academic & Research Labs) - 2025-07-30
+- Canexia Health (Imagia Canexia Health) (Healthcare & Biotech) - 2025-07-30
+- Gaze AI (AI Companies) - 2025-07-30
+- Vision Critical (Alida) (Uncategorized) - 2025-07-30
+- Aspect Biosystems (Start-ups & Scale-ups) - 2025-07-30
+- Payday (Start-ups & Scale-ups) - 2025-07-30
+- Produce8 (Start-ups & Scale-ups) - 2025-07-30
+- Browse AI (Start-ups & Scale-ups) - 2025-07-30
+- RIVAL Technologies (Start-ups & Scale-ups) - 2025-07-30
+- Bell Canada AI Data Centre Kamloops (Enterprise / Corporate Divisions) - 2025-07-30
+- Timezyx (Start-ups & Scale-ups) - 2025-07-30
+- Open Ocean Robotics (Start-ups & Scale-ups) - 2025-07-30
+- AI Scout Solutions (Service Studios / Agencies) - 2025-07-30
+- MoogleLabs (Service Studios / Agencies) - 2025-07-30
+- Kanooq Industries Inc. (Start-ups & Scale-ups) - 2025-07-30
+- AIEX (Start-ups & Scale-ups) - 2025-07-30
+- Nexera Robotics (Start-ups & Scale-ups) - 2025-07-30
+- Verdi Technologies (Start-ups & Scale-ups) - 2025-07-30
+- AbCellera Biologics (Unicorn) - 2025-07-30
+- Digital Technology Supercluster (Innovation Centres & Hubs) - 2025-07-30
+- Women in Machine Learning & Data Science (WiMLDS Vancouver) (Non-Profit) - 2025-07-30
+- BC + AI Ecosystem Association (Industry Association) - 2025-07-30
+- Vancouver AI Community Meetup (Grassroots Communities) - 2025-07-30
+- Spare (Start-ups & Scale-ups) - 2025-07-30
+- Kindred (Start-ups & Scale-ups) - 2025-07-30
+- Innovate BC (Government & Public Sector) - 2025-07-29
+- PacifiCan AI Initiative (Government & Public Sector) - 2025-07-30
+- pH7 Technologies (Start-ups & Scale-ups) - 2025-07-30
+- Orca Water (Start-ups & Scale-ups) - 2025-07-30
+- Lite-1 (Start-ups & Scale-ups) - 2025-07-30
+- Build Smartr Robotics (Start-ups & Scale-ups) - 2025-07-30
+- Anodyne Chemistries (Start-ups & Scale-ups) - 2025-07-30
+- Aqua Intelligent (Start-ups & Scale-ups) - 2025-07-30
+- Arrowsmith Genetics (Start-ups & Scale-ups) - 2025-07-30
+- CereCura Nanotherapeutics (Start-ups & Scale-ups) - 2025-07-30
+- SmartParent Mobile Health Inc (Start-ups & Scale-ups) - 2025-07-30
+- Amphoraxe Life Sciences Inc (Start-ups & Scale-ups) - 2025-07-30
+- Canexia Health (Start-ups & Scale-ups) - 2025-07-30
+- Nytilus Inc (Start-ups & Scale-ups) - 2025-07-30
+- HomeCourt/NEX Team (Start-ups & Scale-ups) - 2025-07-30
+- Gaze (Academic & Research Labs) - 2025-07-30
+- Rockburst Technologies (Start-ups & Scale-ups) - 2025-07-30
+- Mangrove Lithium (Start-ups & Scale-ups) - 2025-07-30
+- 7Gen (Start-ups & Scale-ups) - 2025-07-29
+- Ekona Power (Start-ups & Scale-ups) - 2025-07-30
+- Quantum Algorithms Institute (Academic & Research Labs) - 2025-07-30
+- Photonic Inc (Start-ups & Scale-ups) - 2025-07-30
+- RBC Borealis (Enterprise / Corporate Divisions) - 2025-07-30
+- Iris Automation (Start-ups & Scale-ups) - 2025-07-30
+- Ekohe (Start-ups & Scale-ups) - 2025-07-30
+- Wizard Labs (Start-ups & Scale-ups) - 2025-07-30
+- deltAlyz Corp (Start-ups & Scale-ups) - 2025-07-30
+- Improving (Enterprise / Corporate Divisions) - 2025-07-30
+- Digitalist North America (Start-ups & Scale-ups) - 2025-07-30
+- IT Kapital (Start-ups & Scale-ups) - 2025-07-30
+- Epsilon Venture Group (Consulting & Services) - 2025-07-30
+- ValueLabs (Enterprise / Corporate Divisions) - 2025-07-30
+- Insight Global (Enterprise / Corporate Divisions) - 2025-07-30
+- Venovis (Start-ups & Scale-ups) - 2025-07-30
+- Steamclock Software (Start-ups & Scale-ups) - 2025-07-30
+- MistyWest (Start-ups & Scale-ups) - 2025-07-30
+- Denologix (Start-ups & Scale-ups) - 2025-07-30
+- INTERSOG (Start-ups & Scale-ups) - 2025-07-30
+- WillowTree® (Enterprise / Corporate Divisions) - 2025-07-30
+- Proto (Start-ups & Scale-ups) - 2025-07-29
+- FTSY (Start-ups & Scale-ups) - 2025-07-30
+- Autonopia (Start-ups & Scale-ups) - 2025-07-30
+- MashUp Machine (Start-ups & Scale-ups) - 2025-07-30
+- Compression.ai (Start-ups & Scale-ups) - 2025-07-30
+- Glance Technologies (Start-ups & Scale-ups) - 2025-07-30
+- SHADE.ai (Start-ups & Scale-ups) - 2025-07-30
+- AntEater (Start-ups & Scale-ups) - 2025-07-30
+- Growlyn (Start-ups & Scale-ups) - 2025-07-30
+- Lambda Science (Start-ups & Scale-ups) - 2025-07-30
+- Eli Report (Start-ups & Scale-ups) - 2025-07-30
+- FYBR (Start-ups & Scale-ups) - 2025-07-29
+- Sentient (Start-ups & Scale-ups) - 2025-07-30
+- DeepND (Start-ups & Scale-ups) - 2025-07-30
+- Talentful.ai (Start-ups & Scale-ups) - 2025-07-30
+- TalentMarketplace (Start-ups & Scale-ups) - 2025-07-30
+- Theory+Practice (Start-ups & Scale-ups) - 2025-07-30
+- FIRMOGRAM (Start-ups & Scale-ups) - 2025-07-30
+- Motion Metrics (Start-ups & Scale-ups) - 2025-07-29
+- Caliber Data Labs (Start-ups & Scale-ups) - 2025-07-30
+- bots4impact (Start-ups & Scale-ups) - 2025-07-30
+- Evolve Biologix (Start-ups & Scale-ups) - 2025-07-30
+- Diabits (Start-ups & Scale-ups) - 2025-07-30
+- CareCru (Start-ups & Scale-ups) - 2025-07-30
+- Sports Iq Analytics (Start-ups & Scale-ups) - 2025-07-30
+- Juicey Turf (Start-ups & Scale-ups) - 2025-07-30
+- Warranty Life (Start-ups & Scale-ups) - 2025-07-30
+- Thinkcx (Start-ups & Scale-ups) - 2025-07-30
+- Livnao Technologies (Start-ups & Scale-ups) - 2025-07-30
+- Mintent (Start-ups & Scale-ups) - 2025-07-30
+- Strategybox (Start-ups & Scale-ups) - 2025-07-30
+- Disrupted Logic (Start-ups & Scale-ups) - 2025-07-30
+- Nextwave Software (Start-ups & Scale-ups) - 2025-07-30
+- Illusense (Start-ups & Scale-ups) - 2025-07-30
+- Scanbo (Start-ups & Scale-ups) - 2025-07-30
+- Youneeq (Start-ups & Scale-ups) - 2025-07-30
+- Scopemedia (Start-ups & Scale-ups) - 2025-07-30
+- Wavo (Start-ups & Scale-ups) - 2025-07-29
+- Ehsai (Start-ups & Scale-ups) - 2025-07-30
+- Inp Capital (Investors & Funds) - 2025-07-29
+- Blockmint (Start-ups & Scale-ups) - 2025-07-30
+- Advize (Start-ups & Scale-ups) - 2025-07-30
+- Viewpoint Ai (Start-ups & Scale-ups) - 2025-07-30
+- Xtract Ai (Start-ups & Scale-ups) - 2025-07-30
+- Skylab Technologies (Start-ups & Scale-ups) - 2025-07-29
+- Olive (Start-ups & Scale-ups) - 2025-07-29
+- Judi.ai (Start-ups & Scale-ups) - 2025-07-29
+- Onecup Ai (Start-ups & Scale-ups) - 2025-07-30
+- Intellabridge Technology Corporation (Start-ups & Scale-ups) - 2025-07-30
+- Telus Ventures (Enterprise / Corporate Divisions) - 2025-07-30
+- ARoster.com (Start-ups & Scale-ups) - 2025-07-30
+- Flento app (by Acrostrong) (Start-ups & Scale-ups) - 2025-07-30
+- Women Love Herbs (Start-ups & Scale-ups) - 2025-07-30
+- Leaders of Tomorrow Institute Inc. (Start-ups & Scale-ups) - 2025-07-30
+- Intuitive AI. (Start-ups & Scale-ups) - 2025-07-30
+- sphereishere (Start-ups & Scale-ups) - 2025-07-30
+- Spheria (Start-ups & Scale-ups) - 2025-07-30
+- Spexi (Start-ups & Scale-ups) - 2025-07-30
+- SquareKnot Analytics (Start-ups & Scale-ups) - 2025-07-30
+- Helios-Helmet (Start-ups & Scale-ups) - 2025-07-30
+- BujiBui Inc. (Start-ups & Scale-ups) - 2025-07-30
+- CamDo Solutions Inc. (Start-ups & Scale-ups) - 2025-07-30
+- Scoop Robotix (Start-ups & Scale-ups) - 2025-07-30
+- ThisFish Inc. (Start-ups & Scale-ups) - 2025-07-30
+- VodaSafe (Start-ups & Scale-ups) - 2025-07-30
+- Secur3D (Start-ups & Scale-ups) - 2025-07-30
+- Safety CLI Cybersecurity (Start-ups & Scale-ups) - 2025-07-30
+- AI Home Optimizer (Start-ups & Scale-ups) - 2025-07-30
+- Properti Edge Solutions (Start-ups & Scale-ups) - 2025-07-30
+- Pilot - pilotplans.com (Start-ups & Scale-ups) - 2025-07-30
+- Djobzy (Start-ups & Scale-ups) - 2025-07-30
+- Adopto (Start-ups & Scale-ups) - 2025-07-30
+- Swipe Right App (Start-ups & Scale-ups) - 2025-07-30
+- VirtualReception.AI (Start-ups & Scale-ups) - 2025-07-30
+- Ringable AI (Start-ups & Scale-ups) - 2025-07-30
+- Prompt Genie (Start-ups & Scale-ups) - 2025-07-30
+- LōD Technologies Inc. (Start-ups & Scale-ups) - 2025-07-30
+- EPIC Semiconductors (Start-ups & Scale-ups) - 2025-07-30
+- Kanooq Industries (Start-ups & Scale-ups) - 2025-07-30
+- Thynkli (Start-ups & Scale-ups) - 2025-07-30
+- Plasmatic Technologies Inc. (Start-ups & Scale-ups) - 2025-07-30
+- FansNetwork (Start-ups & Scale-ups) - 2025-07-30
+- Blackout Media (Start-ups & Scale-ups) - 2025-07-30
+- 1SecondPainting (Start-ups & Scale-ups) - 2025-07-30
+- XARIIA (Start-ups & Scale-ups) - 2025-07-30
+- Flashee (Start-ups & Scale-ups) - 2025-07-30
+- Caseway (Start-ups & Scale-ups) - 2025-07-30
+- VRFY Inc. (Start-ups & Scale-ups) - 2025-07-30
+- wewell ecosystem (Start-ups & Scale-ups) - 2025-07-30
+- Plantiga Technologies Inc (Start-ups & Scale-ups) - 2025-07-30
+- Legible Media Inc. (Start-ups & Scale-ups) - 2025-07-30
+- Drive Hockey Analytics (Start-ups & Scale-ups) - 2025-07-30
+- Artemisdata (Start-ups & Scale-ups) - 2025-07-30
+- Picovoice (Start-ups & Scale-ups) - 2025-07-30
+- CodeMaker AI Inc. (Start-ups & Scale-ups) - 2025-07-30
+- Automate. (Start-ups & Scale-ups) - 2025-07-30
+- usediscovery.ai (Start-ups & Scale-ups) - 2025-07-30
+- OneTask (Start-ups & Scale-ups) - 2025-07-30
+- Swae (Start-ups & Scale-ups) - 2025-07-30
+- Topicflow (Start-ups & Scale-ups) - 2025-07-30
+- Olive Technologies, Inc (Start-ups & Scale-ups) - 2025-07-30
+- Cifra (Start-ups & Scale-ups) - 2025-07-30
+- Optimate AI (Start-ups & Scale-ups) - 2025-07-30
+- Downtown.AI (Start-ups & Scale-ups) - 2025-07-30
+- Damon (Start-ups & Scale-ups) - 2025-07-30
+- akche technologies inc (Start-ups & Scale-ups) - 2025-07-30
+- Binta Financial (Start-ups & Scale-ups) - 2025-07-30
+- Artenal (Start-ups & Scale-ups) - 2025-07-30
+- Neupeak (Start-ups & Scale-ups) - 2025-07-30
+- Implant Genius (Start-ups & Scale-ups) - 2025-07-30
+- GenerationsE (Start-ups & Scale-ups) - 2025-07-30
+- Inofuse (Start-ups & Scale-ups) - 2025-07-30
+- Flutter Care (Start-ups & Scale-ups) - 2025-07-30
+- Scrubs Co-Pilot (Start-ups & Scale-ups) - 2025-07-30
+- Rubriz AI (Start-ups & Scale-ups) - 2025-07-29
+- Avicena AI (Start-ups & Scale-ups) - 2025-07-30
+- ConcussionRx (Start-ups & Scale-ups) - 2025-07-30
+- Prenuvo (Start-ups & Scale-ups) - 2025-07-30
+- 4AG Robotics (Start-ups & Scale-ups) - 2025-07-30
+- Arca (Start-ups & Scale-ups) - 2025-07-30
+- Victory Square Technologies (Accelerators / Incubators) - 2025-07-29
+- Spring Activator (Accelerators / Incubators) - 2025-07-30
+- VentureLabs Accelerator (Accelerators / Incubators) - 2025-07-29
+- Animikii Indigenous Technology Inc (Start-ups & Scale-ups) - 2025-07-30
+- Upper Nicola Band AI Data Centre (Government & Public Sector) - 2025-07-29
+- Graphics, Artificial Intelligence, Design, and Games (GAIDG) Lab (Academic & Research Labs) - 2025-07-29
+- UVic Advanced Control and Intelligent Systems (ACIS) Lab (Academic & Research Labs) - 2025-07-30
+- AIM Lab (Artificial Intelligence in Medicine Lab) (Academic & Research Labs) - 2025-07-30
+- Centre for Artificial Intelligence Decision-making and Action (CAIDA) (Academic & Research Labs) - 2025-07-30
+- PioGroup Software (Service Studios / Agencies) - 2025-07-29
+- Adastra (Service Studios / Agencies) - 2025-07-29
+- Hugo (Enterprise / Corporate Divisions) - 2025-07-29
+- Persistent Systems (Service Studios / Agencies) - 2025-07-29
+- Grammarly (Enterprise / Corporate Divisions) - 2025-07-29
+- Fujitsu (Enterprise / Corporate Divisions) - 2025-07-29
+- Wayve (Enterprise / Corporate Divisions) - 2025-07-29
+- Bridge2AI (Start-ups & Scale-ups) - 2025-07-30
+- Brainix (Start-ups & Scale-ups) - 2025-07-30
+- boilerroom.ai (Start-ups & Scale-ups) - 2025-07-30
+- Bizzer AI (Start-ups & Scale-ups) - 2025-07-30
+- Amass AI (Start-ups & Scale-ups) - 2025-07-30
+- AIMA Inc (Start-ups & Scale-ups) - 2025-07-30
+- AI Stock Watch (Start-ups & Scale-ups) - 2025-07-30
+- Advertising Intelligence (ADINT.AI) (Start-ups & Scale-ups) - 2025-07-30
+- 3DentAI (Start-ups & Scale-ups) - 2025-07-30
+- Zymeworks (Enterprise / Corporate Divisions) - 2025-07-30
+- Precision OS (Start-ups & Scale-ups) - 2025-07-30
+- CoPilot AI (Start-ups & Scale-ups) - 2025-07-30
+- mCloud (Start-ups & Scale-ups) - 2025-07-29
+- Owl.co (Start-ups & Scale-ups) - 2025-07-29
+- SkyHive (Start-ups & Scale-ups) - 2025-07-29
+- Finn AI (Start-ups & Scale-ups) - 2025-07-30
+- Deadwood Innovations (Start-ups & Scale-ups) - 2025-07-29
+- SparkGeo (Start-ups & Scale-ups) - 2025-07-30
+- Noratek Solutions (Start-ups & Scale-ups) - 2025-07-30
+- Haoma Health (Start-ups & Scale-ups) - 2025-07-29
+- AI for Ecommerce Non-Profit Society (Non-Profit) - 2025-07-30
+- Genesis AI Corp (Start-ups & Scale-ups) - 2025-07-30
+- Inverted AI (Academic & Research Labs) - 2025-07-30
+- Certn (Start-ups & Scale-ups) - 2025-07-30
+- UnlockLand (Meton.ai product) (Start-ups & Scale-ups) - 2025-07-30
+- TELUS Sovereign AI Factories (Enterprise / Corporate Divisions) - 2025-07-29
+- Safari AI (Start-ups & Scale-ups) - 2025-07-29
+- OnDeck Fisheries (Start-ups & Scale-ups) - 2025-07-30
+- BLUESENSE AI (Service Studios / Agencies) - 2025-07-29
+- Bonsai Micro (Start-ups & Scale-ups) - 2025-07-29
+- Meton.ai (UnlockLand parent company) (Start-ups & Scale-ups) - 2025-07-30
+- Creative Destruction Lab Vancouver (CDL-Vancouver) (Accelerators / Incubators) - 2025-07-29
+- Lumen5 (Start-ups & Scale-ups) - 2025-07-30
+- MetaOptima (DermEngine) (Start-ups & Scale-ups) - 2025-07-30
+- Variational AI (Start-ups & Scale-ups) - 2025-07-29
+- Empirical Results (Service Studios / Agencies) - 2025-07-29
+- ClearSpark AI (Service Studios / Agencies) - 2025-07-29
+- T4G (Service Studios / Agencies) - 2025-07-29
+- Machine Learning Group - SFU (Academic & Research Labs) - 2025-07-30
+- Trustworthy AI Lab - SFU (Academic & Research Labs) - 2025-07-30
+- PLAI (Pacific Laboratory for Artificial Intelligence) - UBC (Academic & Research Labs) - 2025-07-30
+- CRWN.ai (Start-ups & Scale-ups) - 2025-07-30
+- TerraSense Analytics (Start-ups & Scale-ups) - 2025-07-30
+- Pani Energy (Start-ups & Scale-ups) - 2025-07-30
+- Niricson (Start-ups & Scale-ups) - 2025-07-30
+- MarineLabs (Start-ups & Scale-ups) - 2025-07-30
+- Levr.ai (Start-ups & Scale-ups) - 2025-07-30
+- Quandri (Start-ups & Scale-ups) - 2025-07-29
+- Penny AI (Start-ups & Scale-ups) - 2025-07-30
+- VRIFY Technology (Start-ups & Scale-ups) - 2025-07-30
+- Sanctuary AI (Start-ups & Scale-ups) - 2025-07-30
+- Charli AI (Start-ups & Scale-ups) - 2025-07-30
+- Apera AI (Start-ups & Scale-ups) - 2025-07-29
+- EarthDaily Analytics (Start-ups & Scale-ups) - 2025-07-30
+- Novarc Technologies (Start-ups & Scale-ups) - 2025-07-29
+- Fobi AI (Start-ups & Scale-ups) - 2025-07-30
+- Voronoi Health Analytics (Start-ups & Scale-ups) - 2025-07-30
+- Zfort Group (Service Studios / Agencies) - 2025-07-30
+- Orishnal Digital Services (Service Studios / Agencies) - 2025-07-29
+- The Number (Service Studios / Agencies) - 2025-07-29
+- IntLabs (Start-ups & Scale-ups) - 2025-07-30
+- Axiom Zen (Service Studios / Agencies) - 2025-07-29
+- Adastra Corporation (Service Studios / Agencies) - 2025-07-30
+- deltAlyz Canada (Service Studios / Agencies) - 2025-07-29
+- Softmax Data Inc. (Service Studios / Agencies) - 2025-07-30
+- Responsive AI (Start-ups & Scale-ups) - 2025-07-30
+- Kai Analytics International (Service Studios / Agencies) - 2025-07-29
+- ASC Creative Ltd. (Service Studios / Agencies) - 2025-07-30
+- Canada Techs (Service Studios / Agencies) - 2025-07-29
+- Auryon.ai (Service Studios / Agencies) - 2025-07-29
+- Altitude Business Intelligence (Service Studios / Agencies) - 2025-07-30
+- BetterTable (Start-ups & Scale-ups) - 2025-07-30
+- SenseNet (Start-ups & Scale-ups) - 2025-07-30
+- Google for Startups Accelerator: AI for Nature (Education & Training Providers) - 2025-07-30
+- QueerTech QT Founders Catalyst Program (Education & Training Providers) - 2025-07-29
+- OneFeather (Indigenous Tech & Creative Orgs) - 2025-07-29
+- Artemis (Start-ups & Scale-ups) - 2025-07-30
+- ThinkLabs AI (Start-ups & Scale-ups) - 2025-07-30
+- Jetson (Start-ups & Scale-ups) - 2025-07-30
+- Mind AI & Consciousness (Grassroots Communities) - 2025-07-29
+- Squamish AI (Stawamus Syntax) (Grassroots Communities) - 2025-07-29
+- Womxn's AI (Vancouver) (Grassroots Communities) - 2025-07-29
+- Surrey AI (Grassroots Communities) - 2025-07-29
+- Amplitude Ventures (Investors & Funds) - 2025-07-30
+- Kensington Capital Partners (Investors & Funds) - 2025-07-29
+- Brightspark Ventures (Investors & Funds) - 2025-07-30
+- Raven Indigenous Capital Partners (Investors & Funds) - 2025-07-30
+- Active Impact Investments (Investors & Funds) - 2025-07-29
+- Finger Food Advanced Technology Group (Start-ups & Scale-ups) - 2025-07-30
+- UBC CAIDA Center (Academic & Research Labs) - 2025-07-29
+- Silo AI Vancouver (Enterprise / Corporate Divisions) - 2025-07-29
+- Microsoft Research Asia Vancouver (Enterprise / Corporate Divisions) - 2025-07-30
+- Visier (Enterprise / Corporate Divisions) - 2025-07-30
+- AbCellera (Enterprise / Corporate Divisions) - 2025-07-30
+- D-Wave Systems (Enterprise / Corporate Divisions) - 2025-07-30
+- VIATEC AI Meetups (Grassroots Communities) - 2025-07-30
+- RBC Borealis AI (Vancouver Lab) (Enterprise / Corporate Divisions) - 2025-07-29
+- University of Victoria (UVic) AI Research (Academic & Research Labs) - 2025-07-30
+- SFU Computing Science & Creative AI Labs (Academic & Research Labs) - 2025-07-30
+- Absolute Software Vancouver (Enterprise / Corporate Divisions) - 2025-07-30
+- Planview (Vancouver) (Enterprise / Corporate Divisions) - 2025-07-29
+- Teck Resources & AltaML Applied AI Lab (Enterprise / Corporate Divisions) - 2025-07-29
+- Hootsuite (Start-ups & Scale-ups) - 2025-07-30
+- IBM Vancouver (Enterprise / Corporate Divisions) - 2025-07-29
+- Cisco Systems (Vancouver) (Enterprise / Corporate Divisions) - 2025-07-29
+- SAP Canada (Vancouver) (Enterprise / Corporate Divisions) - 2025-07-30
+- Unity Technologies (Vancouver) (Enterprise / Corporate Divisions) - 2025-07-29
+- Meta Vancouver (Enterprise / Corporate Divisions) - 2025-07-29
+- Google Vancouver (Enterprise / Corporate Divisions) - 2025-07-30
+- Providence Health & IBM Centre for Heart Lung Innovation (Academic & Research Labs) - 2025-07-29
+- Deloitte Omnia AI (Service Studios / Agencies) - 2025-07-30
+- Vancouver Angel Network (VANTEC) (Investors & Funds) - 2025-07-29
+- Pender Ventures (Investors & Funds) - 2025-07-30
+- WildlifeAI (Social-Impact & Climate-Tech Hubs) - 2025-07-30
+- Bayes Studio (Service Studios / Agencies) - 2025-07-29
+- Finn.ai (Start-ups & Scale-ups) - 2025-07-30
+- Pieoneers (Service Studios / Agencies) - 2025-07-29
+- Inoxoft (Service Studios / Agencies) - 2025-07-29
+- Dooly.ai (Start-ups & Scale-ups) - 2025-07-30
+- 1QBit (Academic & Research Labs) - 2025-07-30
+- Two Hat Security (Start-ups & Scale-ups) - 2025-07-30
+- MineSense (Start-ups & Scale-ups) - 2025-07-30
+- TELUS (Enterprise / Corporate Divisions) - 2025-07-29
+- Terramera (Start-ups & Scale-ups) - 2025-07-30
+- Klue (Start-ups & Scale-ups) - 2025-07-30
+- Animikii (Indigenous Tech & Creative Orgs) - 2025-07-30
+- Victoria Data Society (Grassroots Communities) - 2025-07-30
+- SFU's Digital Democracies Institute (Advocacy & Policy Groups) - 2025-07-29
+- 221A Node Library (Open-Source Projects) - 2025-07-29
+- Vancouver Tech Journal (Media & Storytellers) - 2025-07-30
+- UBC Master of Data Science (MDS) (Education & Training Providers) - 2025-07-30
+- AltaML (Vancouver) (Service Studios / Agencies) - 2025-07-30
+- Vanedge Capital (Investors & Funds) - 2025-07-30
+- Clir Renewables (Social-Impact & Climate-Tech Hubs) - 2025-07-29
+- First Nations Technology Council (FNTC) (Indigenous Tech & Creative Orgs) - 2025-07-29
+- Artificial Intelligence Network of BC (AInBC) (Government & Public Sector) - 2025-07-29
+- TELUS Data & AI Initiatives (Enterprise / Corporate Divisions) - 2025-07-30
+- UBC Artificial Intelligence Research Centre (Academic & Research Labs) - 2025-07-30
+- Boreal Innovation Lab (Service Studios / Agencies) - 2025-07-30
+- Open Source: BCLawData (Open-Source Projects) - 2025-07-30
+- Media: BetaKit (Media & Storytellers) - 2025-07-30
+- Investors: Frontier Collective (Investors & Funds) - 2025-07-30
+- Foresight Canada (Social-Impact & Climate-Tech Hubs) - 2025-07-30
+- Accelerate Okanagan (Service Studios / Agencies) - 2025-07-30
+- Launch Academy (Education & Training Providers) - 2025-07-30
+- Life Sciences BC (LSBC) (Advocacy & Policy Groups) - 2025-07-29
+- VR/AR Association – Vancouver Chapter (Grassroots Communities) - 2025-07-29
+- BC Tech Association (Advocacy & Policy Groups) - 2025-07-30
+- AI Network of BC (AInBC) (Advocacy & Policy Groups) - 2025-07-29
+- Vancouver Robotics Club (VRC) (Grassroots Communities) - 2025-07-29
+- Web 3.0 Vancouver (Grassroots Communities) - 2025-07-29
+- YVR Crypto Network (Grassroots Communities) - 2025-07-29
+- Ethereum Vancouver (EthVan) (Grassroots Communities) - 2025-07-29
+- Women in ML & Data Science (WiMLDS YVR) (Grassroots Communities) - 2025-07-29
+- GenAI & LLMs Developers (Grassroots Communities) - 2025-07-29
+- LLM & AI Meetup (Vancouver) (Grassroots Communities) - 2025-07-30
+
+## 🎯 Next Steps
+
+1. **Immediate Priority**: Research financial data for 20 companies missing funding
+2. **People Intelligence**: Add leadership profiles for 20 companies
+3. **Revenue Research**: Investigate revenue for 20 high-priority companies
+4. **Contact Information**: 75% of companies need email addresses

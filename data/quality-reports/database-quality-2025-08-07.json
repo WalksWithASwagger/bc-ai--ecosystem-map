@@ -1,0 +1,4864 @@
+{
+  "generatedAt": "2025-08-07T16:12:21.491Z",
+  "analysis": {
+    "totalOrgs": 665,
+    "fieldCompleteness": {
+      "Website": {
+        "complete": 475,
+        "incomplete": 190,
+        "percentage": 71
+      },
+      "LinkedIn": {
+        "complete": 332,
+        "incomplete": 333,
+        "percentage": 50
+      },
+      "Email": {
+        "complete": 307,
+        "incomplete": 358,
+        "percentage": 46
+      },
+      "Phone": {
+        "complete": 170,
+        "incomplete": 495,
+        "percentage": 26
+      },
+      "City/Region": {
+        "complete": 561,
+        "incomplete": 104,
+        "percentage": 84
+      },
+      "BC Region": {
+        "complete": 571,
+        "incomplete": 94,
+        "percentage": 86
+      },
+      "Category": {
+        "complete": 572,
+        "incomplete": 93,
+        "percentage": 86
+      },
+      "AI Focus Areas": {
+        "complete": 420,
+        "incomplete": 245,
+        "percentage": 63
+      },
+      "Year Founded": {
+        "complete": 548,
+        "incomplete": 117,
+        "percentage": 82
+      },
+      "Size": {
+        "complete": 291,
+        "incomplete": 374,
+        "percentage": 44
+      },
+      "Short Blurb": {
+        "complete": 662,
+        "incomplete": 3,
+        "percentage": 100
+      },
+      "Key People": {
+        "complete": 257,
+        "incomplete": 408,
+        "percentage": 39
+      },
+      "Latitude": {
+        "complete": 414,
+        "incomplete": 251,
+        "percentage": 62
+      },
+      "Longitude": {
+        "complete": 414,
+        "incomplete": 251,
+        "percentage": 62
+      },
+      "Logo": {
+        "complete": 19,
+        "incomplete": 646,
+        "percentage": 3
+      },
+      "Funding": {
+        "complete": 269,
+        "incomplete": 396,
+        "percentage": 40
+      },
+      "Revenue": {
+        "complete": 188,
+        "incomplete": 477,
+        "percentage": 28
+      },
+      "Valuation": {
+        "complete": 120,
+        "incomplete": 545,
+        "percentage": 18
+      },
+      "Employee Count": {
+        "complete": 231,
+        "incomplete": 434,
+        "percentage": 35
+      },
+      "Data Sources": {
+        "complete": 49,
+        "incomplete": 616,
+        "percentage": 7
+      }
+    },
+    "categoryBreakdown": {
+      "Technology Companies": {
+        "total": 13,
+        "avgCompleteness": 57
+      },
+      "Business Services": {
+        "total": 1,
+        "avgCompleteness": 25
+      },
+      "Start-ups & Scale-ups": {
+        "total": 218,
+        "avgCompleteness": 63
+      },
+      "HealthTech AI": {
+        "total": 1,
+        "avgCompleteness": 10
+      },
+      "Developer Tools AI": {
+        "total": 1,
+        "avgCompleteness": 10
+      },
+      "Healthcare AI": {
+        "total": 4,
+        "avgCompleteness": 25
+      },
+      "Venture Capital": {
+        "total": 1,
+        "avgCompleteness": 60
+      },
+      "AI Community Organization": {
+        "total": 1,
+        "avgCompleteness": 60
+      },
+      "Industry Association": {
+        "total": 18,
+        "avgCompleteness": 42
+      },
+      "Research Institute": {
+        "total": 1,
+        "avgCompleteness": 60
+      },
+      "AI Research Organization": {
+        "total": 1,
+        "avgCompleteness": 60
+      },
+      "Healthcare & Biotech": {
+        "total": 22,
+        "avgCompleteness": 55
+      },
+      "Robotics": {
+        "total": 2,
+        "avgCompleteness": 48
+      },
+      "Academic Research Lab": {
+        "total": 2,
+        "avgCompleteness": 60
+      },
+      "AI Startup": {
+        "total": 3,
+        "avgCompleteness": 27
+      },
+      "AI Companies": {
+        "total": 57,
+        "avgCompleteness": 46
+      },
+      "Fintech": {
+        "total": 8,
+        "avgCompleteness": 68
+      },
+      "Media Tech": {
+        "total": 3,
+        "avgCompleteness": 67
+      },
+      "VR/AR": {
+        "total": 1,
+        "avgCompleteness": 70
+      },
+      "Mining": {
+        "total": 3,
+        "avgCompleteness": 52
+      },
+      "AgTech": {
+        "total": 4,
+        "avgCompleteness": 58
+      },
+      "E-commerce": {
+        "total": 1,
+        "avgCompleteness": 55
+      },
+      "CleanTech": {
+        "total": 4,
+        "avgCompleteness": 68
+      },
+      "Game Development Studio": {
+        "total": 4,
+        "avgCompleteness": 60
+      },
+      "Marketing Tech": {
+        "total": 2,
+        "avgCompleteness": 65
+      },
+      "Logistics Tech": {
+        "total": 1,
+        "avgCompleteness": 60
+      },
+      "Cybersecurity": {
+        "total": 1,
+        "avgCompleteness": 70
+      },
+      "PropTech Startup": {
+        "total": 2,
+        "avgCompleteness": 70
+      },
+      "EdTech": {
+        "total": 1,
+        "avgCompleteness": 60
+      },
+      "Enterprise / Corporate Divisions": {
+        "total": 27,
+        "avgCompleteness": 63
+      },
+      "Service Providers": {
+        "total": 1,
+        "avgCompleteness": 70
+      },
+      "Government & Public Sector": {
+        "total": 6,
+        "avgCompleteness": 45
+      },
+      "Government": {
+        "total": 10,
+        "avgCompleteness": 44
+      },
+      "Education & Training Providers": {
+        "total": 6,
+        "avgCompleteness": 41
+      },
+      "Company": {
+        "total": 25,
+        "avgCompleteness": 57
+      },
+      "Innovation Centres & Hubs": {
+        "total": 6,
+        "avgCompleteness": 46
+      },
+      "Community": {
+        "total": 3,
+        "avgCompleteness": 48
+      },
+      "Academic & Research Labs": {
+        "total": 22,
+        "avgCompleteness": 48
+      },
+      "Innovation Hub": {
+        "total": 1,
+        "avgCompleteness": 60
+      },
+      "Investment Fund": {
+        "total": 1,
+        "avgCompleteness": 65
+      },
+      "Industry-Healthcare Partnership": {
+        "total": 1,
+        "avgCompleteness": 40
+      },
+      "User Group": {
+        "total": 1,
+        "avgCompleteness": 40
+      },
+      "Industry Conferences & Events": {
+        "total": 8,
+        "avgCompleteness": 45
+      },
+      "Wildfire Tech": {
+        "total": 1,
+        "avgCompleteness": 70
+      },
+      "Port Terminal": {
+        "total": 3,
+        "avgCompleteness": 40
+      },
+      "Port Development": {
+        "total": 1,
+        "avgCompleteness": 40
+      },
+      "Academic": {
+        "total": 1,
+        "avgCompleteness": 40
+      },
+      "Accelerators / Incubators": {
+        "total": 3,
+        "avgCompleteness": 33
+      },
+      "Corporate Partnership": {
+        "total": 1,
+        "avgCompleteness": 40
+      },
+      "Digital Therapeutics": {
+        "total": 2,
+        "avgCompleteness": 40
+      },
+      "Crypto Unicorn": {
+        "total": 1,
+        "avgCompleteness": 85
+      },
+      "Web3 Startup": {
+        "total": 1,
+        "avgCompleteness": 45
+      },
+      "Developer Community": {
+        "total": 1,
+        "avgCompleteness": 45
+      },
+      "Game Development Services": {
+        "total": 1,
+        "avgCompleteness": 45
+      },
+      "Legal Tech Leader": {
+        "total": 1,
+        "avgCompleteness": 80
+      },
+      "Training Program": {
+        "total": 1,
+        "avgCompleteness": 40
+      },
+      "AgTech Company": {
+        "total": 1,
+        "avgCompleteness": 60
+      },
+      "Construction Tech Startup": {
+        "total": 1,
+        "avgCompleteness": 35
+      },
+      "Deep-water Terminal": {
+        "total": 1,
+        "avgCompleteness": 25
+      },
+      "Smart Logistics Services": {
+        "total": 1,
+        "avgCompleteness": 45
+      },
+      "3PL Company": {
+        "total": 1,
+        "avgCompleteness": 50
+      },
+      "Investor": {
+        "total": 5,
+        "avgCompleteness": 46
+      },
+      "Unicorn": {
+        "total": 1,
+        "avgCompleteness": 85
+      },
+      "Non-Profit": {
+        "total": 2,
+        "avgCompleteness": 50
+      },
+      "Grassroots Communities": {
+        "total": 11,
+        "avgCompleteness": 48
+      },
+      "Government Agency": {
+        "total": 1,
+        "avgCompleteness": 85
+      },
+      "Consulting & Services": {
+        "total": 1,
+        "avgCompleteness": 50
+      },
+      "Investors & Funds": {
+        "total": 4,
+        "avgCompleteness": 65
+      },
+      "Service Studios / Agencies": {
+        "total": 15,
+        "avgCompleteness": 53
+      },
+      "Indigenous Tech & Creative Orgs": {
+        "total": 2,
+        "avgCompleteness": 63
+      },
+      "Advocacy & Policy Groups": {
+        "total": 2,
+        "avgCompleteness": 50
+      },
+      "Open-Source Projects": {
+        "total": 2,
+        "avgCompleteness": 43
+      },
+      "Media & Storytellers": {
+        "total": 2,
+        "avgCompleteness": 50
+      },
+      "Social-Impact & Climate-Tech Hubs": {
+        "total": 2,
+        "avgCompleteness": 55
+      }
+    },
+    "aiCompanies": {
+      "total": 465,
+      "completeness": {
+        "Website": {
+          "complete": 359,
+          "total": 465,
+          "percentage": 77
+        },
+        "Email": {
+          "complete": 261,
+          "total": 465,
+          "percentage": 56
+        },
+        "AI Focus Areas": {
+          "complete": 420,
+          "total": 465,
+          "percentage": 90
+        },
+        "Funding": {
+          "complete": 180,
+          "total": 465,
+          "percentage": 39
+        },
+        "Key People": {
+          "complete": 179,
+          "total": 465,
+          "percentage": 38
+        }
+      }
+    },
+    "mostIncomplete": [
+      {
+        "name": "Health & Climate Data Lab (UBC)",
+        "category": null,
+        "completionScore": 5,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "Borealis AI (RBC Research Lab)",
+        "category": null,
+        "completionScore": 5,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "Indigenous Tech Symposium",
+        "category": null,
+        "completionScore": 5,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "SFU Big Data Hub",
+        "category": null,
+        "completionScore": 5,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "UBC Sauder Data + AI Research Group",
+        "category": null,
+        "completionScore": 5,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "Digital Democracies Institute (SFU)",
+        "category": null,
+        "completionScore": 5,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "IM4 Lab (Emily Carr University)",
+        "category": null,
+        "completionScore": 5,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "AI Tinkerers Vancouver - Profile",
+        "category": null,
+        "completionScore": 5,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "Audette",
+        "category": "HealthTech AI",
+        "completionScore": 10,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "Defang",
+        "category": "Developer Tools AI",
+        "completionScore": 10,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "Boreal Genomics",
+        "category": "Healthcare AI",
+        "completionScore": 10,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "WaitWell",
+        "category": "Healthcare AI",
+        "completionScore": 10,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "Pharity AI",
+        "category": "Healthcare AI",
+        "completionScore": 10,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "Trustworthy AI Lab / Trustworthy AI Lab - SFU",
+        "category": null,
+        "completionScore": 15,
+        "missingFields": [
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "BC Region",
+          "Category"
+        ]
+      },
+      {
+        "name": "1. **Unblocked**",
+        "category": null,
+        "completionScore": 15,
+        "missingFields": [
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region",
+          "BC Region"
+        ]
+      },
+      {
+        "name": "City of Richmond AI Strategy",
+        "category": "Government & Public Sector",
+        "completionScore": 15,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "BC AI Assist Program",
+        "category": "Education & Training Providers",
+        "completionScore": 15,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "BC Regional AI Initiative",
+        "category": "AI Companies",
+        "completionScore": 15,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "BC Regional AI Initiative Recipients",
+        "category": "AI Companies",
+        "completionScore": 15,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      },
+      {
+        "name": "AI Network of British Columbia",
+        "category": "Industry Association",
+        "completionScore": 15,
+        "missingFields": [
+          "Website",
+          "LinkedIn",
+          "Email",
+          "Phone",
+          "City/Region"
+        ]
+      }
+    ],
+    "overallScore": 52
+  },
+  "targets": {
+    "websiteDiscovery": [
+      {
+        "id": "246c6f79-9a33-8167-bb68-d0b1394fc239",
+        "name": "Daric Clouding Solutions",
+        "category": "Technology Companies"
+      },
+      {
+        "id": "246c6f79-9a33-81d8-b343-d122c8182899",
+        "name": "Novatone Consulting Ltd.",
+        "category": "Technology Companies"
+      },
+      {
+        "id": "246c6f79-9a33-81fd-bf5b-d17064f0edb6",
+        "name": "Quartech Systems Ltd.",
+        "category": "Technology Companies"
+      },
+      {
+        "id": "240c6f79-9a33-814f-add1-cc65305f3224",
+        "name": "CodeStream",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8108-8737-f59c7ab8d019",
+        "name": "Twenty Billion Neurons",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81b3-a56b-c53536ba869f",
+        "name": "Absolute Software",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81eb-a48f-c4602b22549b",
+        "name": "Galvanize",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8133-9cbf-ef735bc28e10",
+        "name": "Origen Air",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81e2-950f-f980cef2c00f",
+        "name": "Beatdapp Software",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8140-b976-d65447f79fec",
+        "name": "GreenFlow Analytics",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81ae-98f0-cb72297cefcb",
+        "name": "Vaultie",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8144-897e-e32c2504e738",
+        "name": "OVA (Open Virtual Assistant)",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8134-9ea2-fc936c4951e4",
+        "name": "RapidCert",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-811e-a7e9-cc5f0a9711cf",
+        "name": "Enteligent",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81a6-ba44-c2eecd65105d",
+        "name": "SkyAcres Agrotechnologies",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8152-953e-cf00b1aa7645",
+        "name": "Veritree",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8116-8d1a-cc3d6da7d3a8",
+        "name": "Durable AI",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81f5-88e6-fe960823ce1b",
+        "name": "Ariglad",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8143-b4b4-f7e76dc59437",
+        "name": "JackRabbit Ops",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-812d-855e-fcdc6b8fd2a7",
+        "name": "Pocketed",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81c4-9318-dceb67b2e8eb",
+        "name": "Kater Technologies",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8131-b5d9-d295a807569a",
+        "name": "Westport Fuel Systems Inc.",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81f8-a233-e058f123e090",
+        "name": "Roomvu",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81ab-bf6d-c52d754a254d",
+        "name": "Moment Energy",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8121-92e4-d72a2527ab5e",
+        "name": "Phaidra",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-813e-810a-f19fccb08754",
+        "name": "ZenHub",
+        "category": "Technology Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8116-8597-f5daba437243",
+        "name": "Lendesk Technologies",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8179-b664-d704cc4233b9",
+        "name": "AgriSense AI",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81b4-bd74-f9abc62860cb",
+        "name": "Forest AI Systems",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-8160-9418-cff10e3c999e",
+        "name": "Voltaiq Energy AI",
+        "category": "AI Companies"
+      },
+      {
+        "id": "240c6f79-9a33-81d4-bf20-cc38b1b3f705",
+        "name": "Narval Energy Inc.",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "240c6f79-9a33-813f-b059-dd0b4fb7ad2e",
+        "name": "Ocean AID",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23fc6f79-9a33-8161-9022-db94c076be74",
+        "name": "BC Regional AI Initiative",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8153-8746-ee1da8fadb29",
+        "name": "DigiBC Creative Technology Association",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-819b-ac0f-d316a92b8c07",
+        "name": "BC Regional AI Initiative Recipients",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2",
+        "name": "Artificial Muse Music AI Residency",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-a212-d090b77e7270",
+        "name": "ICCSMLAI Vancouver Sports Track",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8105-972a-f5291ba9504e",
+        "name": "FLAIR BC Initiative",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b",
+        "name": "Indigenous Protocol and AI Working Group",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8",
+        "name": "NEXT AI BC Companies",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81bb-99b4-e06406856531",
+        "name": "Scale AI BC Recipients",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8193-b79b-e19e18cc35c2",
+        "name": "DigiBC Creative AI Members",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8139-8c2d-e340278f023e",
+        "name": "DigiBC Signals AI Showcase",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81e8-bb83-d81f112e5580",
+        "name": "RAII Grant Recipients 2025",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-818e-b964-da7b9a50ada9",
+        "name": "BC Fast Pilot AI Projects",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8102-8af8-d81b632dbd61",
+        "name": "Meton AI",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-819f-96ac-e9784041a029",
+        "name": "Microsoft VCH AI Partnership",
+        "category": "Industry-Healthcare Partnership"
+      },
+      {
+        "id": "23fc6f79-9a33-81b5-ad09-c285d08d695c",
+        "name": "BCIT Applied Research Centre for Sustainability Energy and Resource Innovations",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-81d7-8723-efbf5829fe6b",
+        "name": "Unity Muse Vancouver Community",
+        "category": "User Group"
+      },
+      {
+        "id": "23fc6f79-9a33-81aa-a1cf-d69182e824b9",
+        "name": "External Development Summit Vancouver",
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-8111-a043-df271f8e95a0",
+        "name": "BC Forest Innovation and Bioeconomy Manufacturing Program",
+        "category": "Government & Public Sector"
+      },
+      {
+        "id": "23fc6f79-9a33-817f-9b57-caa969f4554f",
+        "name": "CFS Mass Timber Innovation and Research Lab",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-81bd-a9f6-eabdb1a08712",
+        "name": "MiningTech North America Conference",
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-812c-96c2-fbea33cb386a",
+        "name": "Southern Cross Gold BC",
+        "category": "Mining"
+      },
+      {
+        "id": "23fc6f79-9a33-8198-bad8-dabc55067107",
+        "name": "Farmonaut BC",
+        "category": "AgTech"
+      },
+      {
+        "id": "23fc6f79-9a33-8104-86a0-d0e1957e632c",
+        "name": "BC Industry Partners AI Consortium",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-81f5-84f1-f3f6008f3c8e",
+        "name": "Vancouver PropTech Hub",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-811c-90ea-fa87642b56ca",
+        "name": "Fraser Surrey Docks",
+        "category": "Port Terminal"
+      },
+      {
+        "id": "23fc6f79-9a33-81bb-92fd-e9408c52e19c",
+        "name": "VFPA Terminal 2 Project",
+        "category": "Port Development"
+      },
+      {
+        "id": "23fc6f79-9a33-8125-a0e7-f7c920e4b8e8",
+        "name": "Deltaport Container Terminal",
+        "category": "Port Terminal"
+      },
+      {
+        "id": "23fc6f79-9a33-81bf-9525-c79e16ff3a40",
+        "name": "Neptune Terminals",
+        "category": "Port Terminal"
+      },
+      {
+        "id": "23fc6f79-9a33-8171-b9e3-d5790556b24f",
+        "name": "TIABC AI Workshop Initiative",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca",
+        "name": "Site C Hydroelectric Project AI Division",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81e5-b4e9-f62e69011c60",
+        "name": "BC Hydro Electrification Initiative",
+        "category": "Company"
+      },
+      {
+        "id": "23fc6f79-9a33-81f0-b59f-ff4000a394e5",
+        "name": "BCIT Xanadu Quantum Computing Program",
+        "category": "Academic"
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-a951-fa3fb05d806f",
+        "name": "Vancouver International Privacy Security Summit",
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-81d4-88d4-f40dd6e5157f",
+        "name": "CICE AI Program",
+        "category": "Accelerators / Incubators"
+      },
+      {
+        "id": "23fc6f79-9a33-812d-be34-f3974cee4ab8",
+        "name": "SFU Artificial Intelligence Research Group",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-8126-9330-f12d98fbfc33",
+        "name": "Thompson Rivers University Computer Science",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-8180-b520-d7d06882bfcc",
+        "name": "University of Victoria AI and Machine Learning Lab",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-81cb-ba45-fff149c337c7",
+        "name": "InBC Life Sciences Fund",
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-81c0-816e-d93782f79461",
+        "name": "Digital Technology Supercluster Healthtech Initiative",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "id": "23fc6f79-9a33-811b-ab60-d14ce505d900",
+        "name": "Microsoft Vancouver Coastal Health Partnership",
+        "category": "Corporate Partnership"
+      },
+      {
+        "id": "23fc6f79-9a33-81b0-acde-ee67f82cd45a",
+        "name": "BC AI in Education Initiative",
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-816d-8b8b-ccb2de125782",
+        "name": "UBC Biomedical Research Facility",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-814c-9abe-dd34607880ce",
+        "name": "BC AI Gaming Innovation Fund",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-819e-8b3f-d47a49dbbfd0",
+        "name": "Vancouver Game Development AI Collective",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-8180-8bb2-f24d31f306ad",
+        "name": "3D AI Studio Vancouver",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8129-9bf2-f50c3fdadaed",
+        "name": "Unity Muse Vancouver Users",
+        "category": "Developer Community"
+      },
+      {
+        "id": "23fc6f79-9a33-8173-9383-eaf346b45cd7",
+        "name": "External Development Summit (XDS)",
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-81f1-8ce8-f669be4346de",
+        "name": "Law Society of BC AI Ethics Initiative",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-81ed-bc87-ce76c95fd03b",
+        "name": "BC Securities Commission RegTech Sandbox",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-8114-971b-c7c3b76341ba",
+        "name": "Prince George AI Fire Detection Network",
+        "category": "Company"
+      },
+      {
+        "id": "23fc6f79-9a33-815e-8e98-f88e3e526304",
+        "name": "Forest Innovation and Bioeconomy Program",
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-8105-b4ff-de202f58cb7a",
+        "name": "Canadian Forest Service Mass Timber Lab",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-81cd-95b5-e4424e1a4c4c",
+        "name": "qathet Regional District AI Fire System",
+        "category": "Government & Public Sector"
+      },
+      {
+        "id": "23fc6f79-9a33-8125-b009-ff24fe1152a4",
+        "name": "Pano AI BC Operations",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-819b-be47-cfbd077585dc",
+        "name": "Blue Economy Innovation Hub",
+        "category": "Innovation Centres & Hubs"
+      },
+      {
+        "id": "23fc6f79-9a33-81b8-a8be-c89cb321113a",
+        "name": "BC Agritech Training Initiative",
+        "category": "Training Program"
+      },
+      {
+        "id": "23fc6f79-9a33-81f3-847a-eacf249abde2",
+        "name": "BC Skills Training AI Initiative",
+        "category": "Education & Training Providers"
+      },
+      {
+        "id": "23fc6f79-9a33-8128-acc9-f9a5f682700d",
+        "name": "BC Construction Technology Initiative",
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-8187-87a0-e2fc29fe2b80",
+        "name": "Fraser Surrey Docks AI Operations",
+        "category": "Deep-water Terminal"
+      },
+      {
+        "id": "23fc6f79-9a33-8176-bc16-dad5b67b0e95",
+        "name": "DP World Canada",
+        "category": "Smart Logistics Services"
+      },
+      {
+        "id": "23fc6f79-9a33-810d-940f-d96d005343b0",
+        "name": "BC Manufacturing Skills Initiative",
+        "category": "Government & Public Sector"
+      },
+      {
+        "id": "23fc6f79-9a33-8114-81cb-fb32f74070f6",
+        "name": "Neptune Terminals AI Operations",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb",
+        "name": "Artificial Intelligence Underwriting Company (AIUC)",
+        "category": "Company"
+      },
+      {
+        "id": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7",
+        "name": "Site C Hydroelectric AI Integration",
+        "category": "Company"
+      },
+      {
+        "id": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+        "name": "Gaze AI",
+        "category": "AI Companies"
+      },
+      {
+        "id": "23dc6f79-9a33-8100-a933-dac23159a3b0",
+        "name": "Women in Machine Learning & Data Science (WiMLDS Vancouver)",
+        "category": "Non-Profit"
+      },
+      {
+        "id": "23dc6f79-9a33-81f6-bf0f-ea2117753b46",
+        "name": "RBC Borealis",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-8187-a016-d27418833bc7",
+        "name": "Drive Hockey Analytics",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-8103-86f2-ff0a75c70895",
+        "name": "Google for Startups Accelerator: AI for Nature",
+        "category": "Education & Training Providers"
+      },
+      {
+        "id": "1f8c6f79-9a33-8179-a60d-daa0d4738e2e",
+        "name": "RBC Borealis AI (Vancouver Lab)",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f7c6f79-9a33-811c-bfde-c38f8b469ac3",
+        "name": "Unity Technologies (Vancouver)",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f1c6f79-9a33-81aa-ad1b-f8d94c3ff80a",
+        "name": "Deloitte Omnia AI",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "1f1c6f79-9a33-810a-90d9-e27a8a97a2b0",
+        "name": "Animikii",
+        "category": "Indigenous Tech & Creative Orgs"
+      }
+    ],
+    "emailEnrichment": [
+      {
+        "id": "245c6f79-9a33-8136-8ace-f627cd070cfd",
+        "name": "Immersio Learning Inc.",
+        "website": "https://immersio.io"
+      },
+      {
+        "id": "244c6f79-9a33-8100-bf22-d7e733eabc8f",
+        "name": "Eventbase",
+        "website": "https://www.eventbase.com"
+      },
+      {
+        "id": "244c6f79-9a33-810d-9949-cd3aafaf527e",
+        "name": "Coho Data",
+        "website": "https://www.cohodata.com"
+      },
+      {
+        "id": "240c6f79-9a33-81e5-aaad-f23c3cd7d053",
+        "name": "Careteam Technologies",
+        "website": "https://careteam.ca"
+      },
+      {
+        "id": "240c6f79-9a33-81e8-9fd0-f9e2c738c2e6",
+        "name": "Routific",
+        "website": "https://routific.com"
+      },
+      {
+        "id": "240c6f79-9a33-8127-894c-cf822cde3764",
+        "name": "Showbie",
+        "website": "https://www.showbie.com"
+      },
+      {
+        "id": "240c6f79-9a33-8101-a70c-de9c3f1c87a8",
+        "name": "LlamaZOO",
+        "website": "https://www.llamazoo.com"
+      },
+      {
+        "id": "240c6f79-9a33-8143-8fcb-d0fa3a62bc52",
+        "name": "AlayaCare",
+        "website": "https://alayacare.com"
+      },
+      {
+        "id": "240c6f79-9a33-81f7-bad6-ee532f9be345",
+        "name": "Canvass Analytics",
+        "website": "https://www.canvass.io"
+      },
+      {
+        "id": "240c6f79-9a33-81ca-982e-e5b804915194",
+        "name": "Wysdom.AI",
+        "website": "https://wysdom.ai"
+      },
+      {
+        "id": "240c6f79-9a33-810b-9af6-ee4286908701",
+        "name": "Carbon Engineering",
+        "website": "https://carbonengineering.com"
+      },
+      {
+        "id": "240c6f79-9a33-81f4-be97-d45c4ff47375",
+        "name": "Coinsquare",
+        "website": "https://coinsquare.com"
+      },
+      {
+        "id": "240c6f79-9a33-818c-a54f-ff1e2c9c5fe6",
+        "name": "Mogo",
+        "website": "https://www.mogo.ca"
+      },
+      {
+        "id": "240c6f79-9a33-81bc-91de-cd5baef49401",
+        "name": "Kabam",
+        "website": "https://www.kabam.com"
+      },
+      {
+        "id": "240c6f79-9a33-81c7-b421-e926d3054742",
+        "name": "Svante",
+        "website": "https://svanteinc.com"
+      },
+      {
+        "id": "240c6f79-9a33-818f-a249-faf56a2e5a09",
+        "name": "Saltworks Technologies",
+        "website": "https://www.saltworkstech.com"
+      },
+      {
+        "id": "240c6f79-9a33-8127-b1f3-da85914771d6",
+        "name": "Cmd",
+        "website": "https://cmd.com"
+      },
+      {
+        "id": "240c6f79-9a33-81ac-b9eb-e0a1b540af8d",
+        "name": "Tasktop",
+        "website": "https://www.tasktop.com"
+      },
+      {
+        "id": "240c6f79-9a33-81e4-b5e4-d3e039632bec",
+        "name": "Procurify",
+        "website": "https://www.procurify.com"
+      },
+      {
+        "id": "240c6f79-9a33-8147-beed-e0df8d0c74fc",
+        "name": "Thinkific",
+        "website": "https://www.thinkific.com"
+      },
+      {
+        "id": "240c6f79-9a33-8141-9a97-edc6de36d550",
+        "name": "Trulioo",
+        "website": "https://www.trulioo.com/"
+      },
+      {
+        "id": "23fc6f79-9a33-812a-8213-de318d6dfb1a",
+        "name": "SFU Metacreation Lab for Creative AI",
+        "website": "https://metacreation.net"
+      },
+      {
+        "id": "23fc6f79-9a33-81d6-aafc-f1e7f3d18b2c",
+        "name": "Circle Innovation ",
+        "website": "https://circleinnovation.ca"
+      },
+      {
+        "id": "23fc6f79-9a33-81a8-991d-fe1001776942",
+        "name": "SandboxAQ (Good Chemistry Acquisition)",
+        "website": "https://www.sandboxaq.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81d0-8914-ffcdc86b1700",
+        "name": "AbCellera Biologics",
+        "website": "https://www.abcellera.com"
+      },
+      {
+        "id": "23dc6f79-9a33-815e-9c0f-ffd40ad3f266",
+        "name": "Photonic Inc",
+        "website": "https://photonic.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81bf-bb08-e6e85b32bac1",
+        "name": "Epsilon Venture Group",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8155-ae3a-d66f1dc1962f",
+        "name": "Insight Global",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8161-8abf-c8832818bd4b",
+        "name": "Venovis",
+        "website": "https://www.venovis.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81e4-962c-e83f565b80b8",
+        "name": "Autonopia",
+        "website": "https://www.autonopia.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81b1-952e-fb96975ac056",
+        "name": "FYBR",
+        "website": "https://fybr.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-8164-a83c-f0bc2d8071c7",
+        "name": "Talentful.ai",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-81dc-8a04-ce37d64da482",
+        "name": "Caliber Data Labs",
+        "website": "https://www.caliber.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8145-aec1-ecc7c1545fec",
+        "name": "bots4impact",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8140-9e00-eaddbb188205",
+        "name": "Diabits",
+        "website": "https://www.diabits.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8149-ba02-df39efae8ca8",
+        "name": "Juicey Turf",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8112-bed0-cea9251776cf",
+        "name": "Livnao Technologies",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8190-a6eb-f0c5683c5548",
+        "name": "Telus Ventures",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-814a-a50f-cc9e3d903770",
+        "name": "ARoster.com",
+        "website": "https://www.aroster.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81fa-b173-f06fc8eb85db",
+        "name": "Flento app (by Acrostrong)",
+        "website": "https://www.flento.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81e5-8eaf-c1fe8fbbad3d",
+        "name": "Leaders of Tomorrow Institute Inc.",
+        "website": "https://www.leaders.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8129-9e9e-e173ae212c56",
+        "name": "BujiBui Inc.",
+        "website": "https://bujibui.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81ac-b2ae-e2ae16e533f7",
+        "name": "CamDo Solutions Inc.",
+        "website": "https://ca.linkedin.com/company/camdo-solutions-inc-"
+      },
+      {
+        "id": "23dc6f79-9a33-812a-8281-fc26880489c8",
+        "name": "Scoop Robotix",
+        "website": "https://www.scooprobotix.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8175-95e4-d47f67d82e1b",
+        "name": "Secur3D",
+        "website": "https://www.secur3d.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8119-a2ce-e4c14ad40b5a",
+        "name": "XARIIA",
+        "website": "https://www.xariia.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81eb-8091-e3ab8403d7f9",
+        "name": "Artemisdata",
+        "website": "https://artemisdata.io"
+      },
+      {
+        "id": "23dc6f79-9a33-819c-b87e-e98c56bd600e",
+        "name": "akche technologies inc",
+        "website": "https://www.akche.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81df-a80b-ef732d3252ae",
+        "name": "Binta Financial",
+        "website": "https://www.bintafinancial.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81a7-950e-ee1fc858a13c",
+        "name": "Neupeak",
+        "website": "https://www.neupeak.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81f6-9472-eeb83c737642",
+        "name": "Flutter Care",
+        "website": "https://www.fluttercare.com"
+      },
+      {
+        "id": "23dc6f79-9a33-814d-9f8b-cccfc1b2f434",
+        "name": "Animikii Indigenous Technology Inc",
+        "website": "https://www.animikii.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8111-83da-cc25b52cfc56",
+        "name": "Graphics, Artificial Intelligence, Design, and Games (GAIDG) Lab",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-812a-b731-f12a47839f7c",
+        "name": "Persistent Systems",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-81fb-866a-d8a83fd5fed7",
+        "name": "Grammarly",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-81f1-9e1c-ff4989b34112",
+        "name": "Wayve",
+        "website": "https://www.linkedin.com/company/wayve-technologies"
+      },
+      {
+        "id": "23dc6f79-9a33-81ec-bd1c-cf8c4ae8f48a",
+        "name": "Amass AI",
+        "website": "https://www.amass.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8120-be84-d8574c230327",
+        "name": "AIMA Inc",
+        "website": "https://www.aima.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8193-8fff-c7a57412c607",
+        "name": "AI Stock Watch",
+        "website": "https://www.aistockwatch.com"
+      },
+      {
+        "id": "23dc6f79-9a33-810b-9aee-d193262b9e46",
+        "name": "Advertising Intelligence (ADINT.AI)",
+        "website": "https://www.adint.ai/"
+      },
+      {
+        "id": "23dc6f79-9a33-81e0-af85-d21b4e1ce784",
+        "name": "3DentAI",
+        "website": "https://3dentai.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-813d-80e1-d9a0ce2345a1",
+        "name": "Zymeworks",
+        "website": "https://www.zymeworks.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81c4-8070-f76878fd1555",
+        "name": "CoPilot AI",
+        "website": "https://www.copilot.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-819f-94fa-c87091cb3fe0",
+        "name": "mCloud",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8153-922b-df1d6b735b2f",
+        "name": "SkyHive",
+        "website": "https://www.skyhive.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-81fe-aaa9-fefd1df86fd8",
+        "name": "Finn AI",
+        "website": "https://www.glia.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8109-b2f7-fc7550113a58",
+        "name": "SparkGeo",
+        "website": "https://www.sparkgeo.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81e0-a48d-ea0cb432a376",
+        "name": "AI for Ecommerce Non-Profit Society",
+        "website": "https://aiforecommerce.org"
+      },
+      {
+        "id": "23dc6f79-9a33-8159-9e94-f79403c7f31e",
+        "name": "Genesis AI Corp",
+        "website": "https://genesisai.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-812e-bd98-e5c2f4527238",
+        "name": "TELUS Sovereign AI Factories",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-81c6-982a-c311a194070d",
+        "name": "Meton.ai (UnlockLand parent company)",
+        "website": "https://ca.linkedin.com/company/meton-ai"
+      },
+      {
+        "id": "23dc6f79-9a33-81da-91c9-c89f305b9859",
+        "name": "ClearSpark AI",
+        "website": "https://ca.linkedin.com/company/clearspark-ai"
+      },
+      {
+        "id": "23dc6f79-9a33-8149-9c1a-e0d819986dc7",
+        "name": "Penny AI",
+        "website": "https://getpenny.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-8139-849f-d286c118c02c",
+        "name": "VRIFY Technology",
+        "website": "https://vrify.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8102-9b8b-f6f988aae39f",
+        "name": "Apera AI",
+        "website": "https://apera.ai"
+      },
+      {
+        "id": "236c6f79-9a33-81fd-8838-c21c1926cfc5",
+        "name": "Fobi AI",
+        "website": "https://www.fobiai.com"
+      },
+      {
+        "id": "236c6f79-9a33-8112-a451-ee0f4b3548bb",
+        "name": "Axiom Zen",
+        "website": "**"
+      },
+      {
+        "id": "236c6f79-9a33-810a-89d0-e201fb5a9f8a",
+        "name": "Adastra Corporation",
+        "website": "https://adastracorp.com/adastra-ai/"
+      },
+      {
+        "id": "236c6f79-9a33-8197-bad4-d67850271c06",
+        "name": "BetterTable",
+        "website": "https://www.bettertable.com"
+      },
+      {
+        "id": "236c6f79-9a33-8195-88cd-cd49fcb892c3",
+        "name": "SenseNet",
+        "website": "https://www.sensenet.com"
+      },
+      {
+        "id": "236c6f79-9a33-81b0-8c0c-fb94e425d88a",
+        "name": "ThinkLabs AI",
+        "website": "https://www.thinklabs.com"
+      },
+      {
+        "id": "236c6f79-9a33-81f1-b28c-dc1cf9487e0d",
+        "name": "Jetson",
+        "website": "https://www.jetson.com"
+      },
+      {
+        "id": "236c6f79-9a33-8152-98fd-edce1ecaa227",
+        "name": "Kensington Capital Partners",
+        "website": "https://www.kcpl.ca/"
+      },
+      {
+        "id": "1f7c6f79-9a33-816a-b2f7-edc1e28485d6",
+        "name": "SAP Canada (Vancouver)",
+        "website": "**"
+      },
+      {
+        "id": "1f7c6f79-9a33-8150-aa24-cadf9a13db14",
+        "name": "Meta Vancouver",
+        "website": "https://www.metacareers.com/locations/vancouver"
+      },
+      {
+        "id": "1f1c6f79-9a33-81e1-a426-c859bc1e856b",
+        "name": "Vancouver Angel Network (VANTEC)",
+        "website": "https://www.vantec.ca/"
+      },
+      {
+        "id": "1f1c6f79-9a33-81fd-9a9d-ffd755e9c5dc",
+        "name": "Finn.ai",
+        "website": "https://www.finn.ai"
+      },
+      {
+        "id": "1f1c6f79-9a33-8109-b57f-ef1a32ba627e",
+        "name": "Pieoneers",
+        "website": "**"
+      },
+      {
+        "id": "1f1c6f79-9a33-81fe-b3a6-d225759c9a4b",
+        "name": "Inoxoft",
+        "website": "**"
+      },
+      {
+        "id": "1f1c6f79-9a33-817c-aad0-f1f298dc2dd2",
+        "name": "Dooly.ai",
+        "website": "https://dooly.ai"
+      },
+      {
+        "id": "1f1c6f79-9a33-81ec-8b8f-d9732ccaa47f",
+        "name": "MineSense",
+        "website": "https://www.minesense.com"
+      },
+      {
+        "id": "1f1c6f79-9a33-818a-8d2f-f6800062366a",
+        "name": "Terramera",
+        "website": "https://www.terramera.com"
+      },
+      {
+        "id": "1f0c6f79-9a33-81e0-8acd-d38e02381120",
+        "name": "Victoria Data Society",
+        "website": "**"
+      },
+      {
+        "id": "1f0c6f79-9a33-812c-9045-d15b0693c76f",
+        "name": "SFU's Digital Democracies Institute",
+        "website": "https://digitaldemocracies.org"
+      },
+      {
+        "id": "1f0c6f79-9a33-81f1-8537-f88511a6dccd",
+        "name": "221A Node Library",
+        "website": "https://221a.ca/research-initiatives/node"
+      },
+      {
+        "id": "1f0c6f79-9a33-819b-ba06-c229403fb1a4",
+        "name": "UBC Master of Data Science (MDS)",
+        "website": "https://masterdatascience.ubc.ca"
+      },
+      {
+        "id": "1f0c6f79-9a33-8117-805d-d816bdc7150d",
+        "name": "AltaML (Vancouver)",
+        "website": "**"
+      },
+      {
+        "id": "1f0c6f79-9a33-812a-919d-dc64fa9df827",
+        "name": "Vanedge Capital",
+        "website": "**"
+      },
+      {
+        "id": "1f0c6f79-9a33-8124-9f4d-fe642a3b116a",
+        "name": "Clir Renewables",
+        "website": "https://clir.eco"
+      },
+      {
+        "id": "1f0c6f79-9a33-8184-afee-e90530a1f68b",
+        "name": "First Nations Technology Council (FNTC)",
+        "website": "https://technologycouncil.ca"
+      },
+      {
+        "id": "1f0c6f79-9a33-81a1-91d2-ee02caeabfe2",
+        "name": "TELUS Data & AI Initiatives",
+        "website": "https://www.telus.com/en/digital"
+      }
+    ],
+    "fundingResearch": [
+      {
+        "id": "245c6f79-9a33-8136-8ace-f627cd070cfd",
+        "name": "Immersio Learning Inc.",
+        "website": "https://immersio.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23fc6f79-9a33-8136-b651-fed831c1c8a8",
+        "name": "BC Centre for Innovation and Clean Energy",
+        "website": "https://cice.ca/",
+        "category": "Innovation Centres & Hubs"
+      },
+      {
+        "id": "23fc6f79-9a33-81de-8010-f35a21a8f4e3",
+        "name": "Law Society of BC AI Ethics Program",
+        "website": "https://www.lawsociety.bc.ca/",
+        "category": "Community"
+      },
+      {
+        "id": "23fc6f79-9a33-811d-929a-f5ef3ad03969",
+        "name": "BCSC RegTech Sandbox",
+        "website": "https://www.bcsc.bc.ca/",
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-8178-a4f4-c8dd6581afb2",
+        "name": "MiningTech North America",
+        "website": "https://www.miningtechnorthamerica.com",
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-8118-a3db-c64044ece7c9",
+        "name": "Investment Agriculture Foundation of BC",
+        "website": "https://iafbc.ca/",
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-816c-a039-ff4cfaea5143",
+        "name": "BC On-Farm Technology Adoption Program",
+        "website": "https://www.innovatebc.ca/programs/bc-on-farm",
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-8114-9186-cd143a7d0bab",
+        "name": "West Vancouver Schools Cybersecurity AI Program",
+        "website": "https://westvancouverschools.ca/programs/cybersecurity-ai/",
+        "category": "Community"
+      },
+      {
+        "id": "23fc6f79-9a33-81a8-991d-fe1001776942",
+        "name": "SandboxAQ (Good Chemistry Acquisition)",
+        "website": "https://www.sandboxaq.com/",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-8160-97e5-d41c6d84badb",
+        "name": "Bell Canada AI Data Centre Kamloops",
+        "website": "https://business.bell.ca",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-81e2-b265-c16c8b8d3181",
+        "name": "AI Scout Solutions",
+        "website": "https://aiscout.framer.ai",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-8197-be38-d6a92ea4412b",
+        "name": "MoogleLabs",
+        "website": "https://www.mooglelabs.com",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-8171-97ad-fcff2baf0a58",
+        "name": "Kanooq Industries Inc.",
+        "website": "https://www.kanooq.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81a9-bb63-e9e24158ed69",
+        "name": "AIEX",
+        "website": "https://aiex.ai",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-81af-bf3e-d640e16fd8f7",
+        "name": "Nexera Robotics",
+        "website": "https://www.nexerarobotics.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81dd-b188-c19af7e02abc",
+        "name": "Verdi Technologies",
+        "website": "https://www.verdi.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-813a-87ca-db616da00740",
+        "name": "BC + AI Ecosystem Association",
+        "website": "https://vancouver.bc-ai.net",
+        "category": "Industry Association"
+      },
+      {
+        "id": "23dc6f79-9a33-81a7-a907-daaca0f08b42",
+        "name": "Anodyne Chemistries",
+        "website": "https://www.anodynechemistries.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81f9-ad4c-f530031c9f51",
+        "name": "Arrowsmith Genetics",
+        "website": "https://www.arrowsmithgenetics.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8157-9dc5-ee78f5fd0321",
+        "name": "Amphoraxe Life Sciences Inc",
+        "website": "https://www.amphoraxe.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-819b-895c-d661b62a0131",
+        "name": "7Gen",
+        "website": "https://7gen.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-815e-9c0f-ffd40ad3f266",
+        "name": "Photonic Inc",
+        "website": "https://photonic.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-811a-83e1-c0c82b9e849d",
+        "name": "Ekohe",
+        "website": "https://www.ekohe.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8194-9345-db96aab72b1d",
+        "name": "Wizard Labs",
+        "website": "https://wizardlabs.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8137-8cb4-e08a336edbef",
+        "name": "deltAlyz Corp",
+        "website": "https://www.deltalyz.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8117-bcb4-c3df7786beac",
+        "name": "Improving",
+        "website": "**",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-811d-81a8-f434f2b07cd7",
+        "name": "Digitalist North America",
+        "website": "https://digitalist.global",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8121-92f5-c9c7d6ead3d1",
+        "name": "IT Kapital",
+        "website": "https://www.itkapital.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81bf-bb08-e6e85b32bac1",
+        "name": "Epsilon Venture Group",
+        "website": "**",
+        "category": "Consulting & Services"
+      },
+      {
+        "id": "23dc6f79-9a33-8107-9e94-eb0d7bad78a5",
+        "name": "ValueLabs",
+        "website": "**",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-8155-ae3a-d66f1dc1962f",
+        "name": "Insight Global",
+        "website": "**",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-8161-8abf-c8832818bd4b",
+        "name": "Venovis",
+        "website": "https://www.venovis.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-810b-8529-ea4777c521dc",
+        "name": "Steamclock Software",
+        "website": "https://www.steamclock.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8172-89b6-ddc4875d7755",
+        "name": "INTERSOG",
+        "website": "https://www.intersog.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81de-9b78-e0f32293ced2",
+        "name": "WillowTree®",
+        "website": "**",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-8144-b577-f891fdc60ff3",
+        "name": "Glance Technologies",
+        "website": "https://glancetech.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-811e-aabd-c0551d8c4da4",
+        "name": "Lambda Science",
+        "website": "https://www.lambdascience.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8190-86b1-c0f16fd86d82",
+        "name": "Eli Report",
+        "website": "https://www.elireport.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81b1-952e-fb96975ac056",
+        "name": "FYBR",
+        "website": "https://fybr.ca",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8157-8931-f46f8cf77e63",
+        "name": "Sentient",
+        "website": "https://www.sentient.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8180-946d-e027f77f5721",
+        "name": "TalentMarketplace",
+        "website": "https://www.talentmarketplace.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81d3-9a64-c608275ab2b5",
+        "name": "FIRMOGRAM",
+        "website": "https://www.firmogram.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-819e-b542-c86bd5875c22",
+        "name": "Motion Metrics",
+        "website": "https://motionmetrics.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81dc-8a04-ce37d64da482",
+        "name": "Caliber Data Labs",
+        "website": "https://www.caliber.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8145-aec1-ecc7c1545fec",
+        "name": "bots4impact",
+        "website": "**",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8126-8d45-e384a2dddef6",
+        "name": "Evolve Biologix",
+        "website": "https://www.evolvebiologix.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8140-9e00-eaddbb188205",
+        "name": "Diabits",
+        "website": "https://www.diabits.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8161-8ad6-fd2f7d4777ab",
+        "name": "CareCru",
+        "website": "https://www.carecru.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81b5-a6c5-f9881d713228",
+        "name": "Sports Iq Analytics",
+        "website": "https://www.sports.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8149-ba02-df39efae8ca8",
+        "name": "Juicey Turf",
+        "website": "**",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8187-a111-d4478a735ead",
+        "name": "Warranty Life",
+        "website": "https://www.warrantylife.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-813a-9711-dfb60aac7eee",
+        "name": "Thinkcx",
+        "website": "https://www.thinkcx.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8112-bed0-cea9251776cf",
+        "name": "Livnao Technologies",
+        "website": "**",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-816c-8552-eaaeebd3073a",
+        "name": "Mintent",
+        "website": "https://mintent.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81c4-ab6e-d5054a76ea73",
+        "name": "Strategybox",
+        "website": "https://www.strategybox.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81c6-a0f0-c9a851d29e42",
+        "name": "Disrupted Logic",
+        "website": "https://www.disruptedlogic.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-814a-85f1-e13a5ddb5a31",
+        "name": "Nextwave Software",
+        "website": "https://www.nextwave.ca",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8132-91d8-f224a75c315b",
+        "name": "Illusense",
+        "website": "https://www.illusense.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-811a-82c7-fbdde4cbfe8a",
+        "name": "Scanbo",
+        "website": "https://www.scanbo.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-812f-a992-d3d1a74f9772",
+        "name": "Scopemedia",
+        "website": "https://www.scopemedia.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81a8-9759-ebab8088ef2e",
+        "name": "Wavo",
+        "website": "https://app.wavo.health",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81da-85ba-da25185110a4",
+        "name": "Ehsai",
+        "website": "https://ehsai.ca",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-815f-8c87-cef013414d04",
+        "name": "Inp Capital",
+        "website": "https://inp-capital.com",
+        "category": "Investors & Funds"
+      },
+      {
+        "id": "23dc6f79-9a33-81db-af41-c09c08abf9d7",
+        "name": "Blockmint",
+        "website": "https://blockmint.co",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-811d-b460-d2c8f341a7f4",
+        "name": "Advize",
+        "website": "https://www.advize.ca",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8103-a5ed-f5fff8b87864",
+        "name": "Viewpoint Ai",
+        "website": "https://viewpoint.ai",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8157-b566-d30d584bf312",
+        "name": "Xtract Ai",
+        "website": "https://www.xtract.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8175-abc2-c27ff5b33e1c",
+        "name": "Olive",
+        "website": "https://olive.app",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8181-b5c1-fa5d120a9ced",
+        "name": "Onecup Ai",
+        "website": "https://www.onecup.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81a7-9330-fe6d0095bb50",
+        "name": "Intellabridge Technology Corporation",
+        "website": "https://www.intellabridge.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8190-a6eb-f0c5683c5548",
+        "name": "Telus Ventures",
+        "website": "**",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-81fa-b173-f06fc8eb85db",
+        "name": "Flento app (by Acrostrong)",
+        "website": "https://www.flento.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81eb-8293-f13d82a2d6d6",
+        "name": "Women Love Herbs",
+        "website": "https://womenloveherbs.com/en",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81e5-8eaf-c1fe8fbbad3d",
+        "name": "Leaders of Tomorrow Institute Inc.",
+        "website": "https://www.leaders.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-818a-aa9b-cb38dcd9e128",
+        "name": "Intuitive AI.",
+        "website": "https://www.intuitive.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81ad-8704-e633907fedc0",
+        "name": "sphereishere",
+        "website": "https://sphere.guide/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81ff-a275-e37861d38a9f",
+        "name": "Spheria",
+        "website": "https://www.spheria.ca/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-816b-9b43-cb5df605806d",
+        "name": "Spexi",
+        "website": "https://www.spexi.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8118-bbbc-c4c6845dd68f",
+        "name": "SquareKnot Analytics",
+        "website": "https://squareknotanalytics.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8129-9e9e-e173ae212c56",
+        "name": "BujiBui Inc.",
+        "website": "https://bujibui.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81ac-b2ae-e2ae16e533f7",
+        "name": "CamDo Solutions Inc.",
+        "website": "https://ca.linkedin.com/company/camdo-solutions-inc-",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-812a-8281-fc26880489c8",
+        "name": "Scoop Robotix",
+        "website": "https://www.scooprobotix.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8144-a550-fab0fd4a4546",
+        "name": "VodaSafe",
+        "website": "https://vodasafe.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8175-95e4-d47f67d82e1b",
+        "name": "Secur3D",
+        "website": "https://www.secur3d.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8142-a860-f4edc5058562",
+        "name": "Safety CLI Cybersecurity",
+        "website": "https://www.safety.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81b7-8f07-fb4132cff563",
+        "name": "AI Home Optimizer",
+        "website": "https://www.ai.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8148-8ad7-d0fe2a41e2ba",
+        "name": "Properti Edge Solutions",
+        "website": "https://www.propertiedge.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8179-8f60-e712928bccee",
+        "name": "Pilot - pilotplans.com",
+        "website": "https://www.pilotplans.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81e4-b8ae-d24935abb9b5",
+        "name": "Djobzy",
+        "website": "https://www.djobzy.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-814d-8e9f-ded8704cfdba",
+        "name": "Adopto",
+        "website": "https://adopto.org",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81e5-9701-ed735281d85a",
+        "name": "Swipe Right App",
+        "website": "https://www.swipe.com",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-8116-ba98-e112febed2b5",
+        "name": "Ringable AI",
+        "website": "https://ringable.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8176-ab6e-faa7b6117bab",
+        "name": "Prompt Genie",
+        "website": "https://www.promptgenie.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+        "name": "LōD Technologies Inc.",
+        "website": "https://www.ld.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8181-b9d9-cba6685bb81d",
+        "name": "EPIC Semiconductors",
+        "website": "https://www.epicsemiconductors.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8115-b11e-cf09506ea76e",
+        "name": "Thynkli",
+        "website": "https://thynkli.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-814c-9c60-faaeed5a4cc6",
+        "name": "Plasmatic Technologies Inc.",
+        "website": "https://www.alana.net/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81c8-aeeb-dd68a7b8cead",
+        "name": "FansNetwork",
+        "website": "https://fansnetwork.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-810f-a61f-d813454afa7b",
+        "name": "1SecondPainting",
+        "website": "https://www.1secondpainting.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8119-a2ce-e4c14ad40b5a",
+        "name": "XARIIA",
+        "website": "https://www.xariia.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81c4-b67b-c1db4ba889d3",
+        "name": "Flashee",
+        "website": "https://www.flashee.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8155-a137-e76ee0bdcf89",
+        "name": "Caseway",
+        "website": "https://www.caseway.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8148-b08c-ec1001d1a0ab",
+        "name": "VRFY Inc.",
+        "website": "https://www.vrfy.ca",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8137-a8fa-d3cc786002f4",
+        "name": "wewell ecosystem",
+        "website": "https://www.wewell.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81f1-96e2-cd554411b7c7",
+        "name": "Plantiga Technologies Inc",
+        "website": "https://www.plantiga.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8191-b310-c26f6ddda472",
+        "name": "Legible Media Inc.",
+        "website": "https://www.legible.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81eb-8091-e3ab8403d7f9",
+        "name": "Artemisdata",
+        "website": "https://artemisdata.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8133-847e-fbf0e5c3b6fe",
+        "name": "Picovoice",
+        "website": "https://www.picovoice.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-817e-8791-ca6b2c990bcc",
+        "name": "CodeMaker AI Inc.",
+        "website": "https://www.codemaker.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-810b-8ae4-eb150b5391de",
+        "name": "Automate.",
+        "website": "https://www.automate.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81f6-9901-e2e378af7d18",
+        "name": "OneTask",
+        "website": "https://www.onetask.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81b2-a73e-de88592542bb",
+        "name": "Swae",
+        "website": "https://www.swae.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81db-a5b5-fe657cf24a7e",
+        "name": "Topicflow",
+        "website": "https://www.topicflow.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8174-a45d-f6841d03a6c4",
+        "name": "Cifra",
+        "website": "https://www.cifra.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81c0-842f-cde8858275b8",
+        "name": "Optimate AI",
+        "website": "https://www.optimateai.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8155-81cf-ce961fc1296b",
+        "name": "Damon",
+        "website": "https://www.damon.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-819c-b87e-e98c56bd600e",
+        "name": "akche technologies inc",
+        "website": "https://www.akche.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81df-a80b-ef732d3252ae",
+        "name": "Binta Financial",
+        "website": "https://www.bintafinancial.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-816a-ba8e-f02e22bb6389",
+        "name": "Artenal",
+        "website": "https://www.artenal.ca",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81a7-950e-ee1fc858a13c",
+        "name": "Neupeak",
+        "website": "https://www.neupeak.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8131-a01d-fe2435ae7c98",
+        "name": "Implant Genius",
+        "website": "https://www.implantgenius.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-819e-b904-c87232c576ba",
+        "name": "GenerationsE",
+        "website": "https://www.generationse.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-818b-b5d1-c3cd6a9e14ce",
+        "name": "Inofuse",
+        "website": "https://www.inofuse.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81f6-9472-eeb83c737642",
+        "name": "Flutter Care",
+        "website": "https://www.fluttercare.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81a3-8c3a-c7bc6bec42af",
+        "name": "Scrubs Co-Pilot",
+        "website": "https://www.scrubscopilot.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81bd-b6be-e304d21bf50d",
+        "name": "Avicena AI",
+        "website": "https://www.avicenaai.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8132-b8a7-f0e92c00ba6e",
+        "name": "ConcussionRx",
+        "website": "https://www.concussionrx.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-811f-8d15-ef67d8ebc591",
+        "name": "Arca",
+        "website": "https://www.arca.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-814d-9f8b-cccfc1b2f434",
+        "name": "Animikii Indigenous Technology Inc",
+        "website": "https://www.animikii.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8111-83da-cc25b52cfc56",
+        "name": "Graphics, Artificial Intelligence, Design, and Games (GAIDG) Lab",
+        "website": "**",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23dc6f79-9a33-8106-811b-cffb2abd4499",
+        "name": "UVic Advanced Control and Intelligent Systems (ACIS) Lab",
+        "website": "https://uvic.ca/research/labs/acis",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23dc6f79-9a33-81c5-ba86-fbc5e2051f65",
+        "name": "AIM Lab (Artificial Intelligence in Medicine Lab)",
+        "website": "https://aimlab.ca",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23dc6f79-9a33-812a-b731-f12a47839f7c",
+        "name": "Persistent Systems",
+        "website": "**",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "23dc6f79-9a33-81fb-866a-d8a83fd5fed7",
+        "name": "Grammarly",
+        "website": "**",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-81f1-9e1c-ff4989b34112",
+        "name": "Wayve",
+        "website": "https://www.linkedin.com/company/wayve-technologies",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-81e6-a90d-e7db0c0a3874",
+        "name": "Bridge2AI",
+        "website": "https://www.bridge2ai.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-817b-a509-ebd8e18b3837",
+        "name": "Brainix",
+        "website": "https://www.brainix.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-812e-8bea-ef99c88d2ae5",
+        "name": "boilerroom.ai",
+        "website": "https://www.boilerroom.ai",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-815d-99bb-fd82c0625bad",
+        "name": "Bizzer AI",
+        "website": "https://www.bizzer.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81ec-bd1c-cf8c4ae8f48a",
+        "name": "Amass AI",
+        "website": "https://www.amass.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8120-be84-d8574c230327",
+        "name": "AIMA Inc",
+        "website": "https://www.aima.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8193-8fff-c7a57412c607",
+        "name": "AI Stock Watch",
+        "website": "https://www.aistockwatch.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-810b-9aee-d193262b9e46",
+        "name": "Advertising Intelligence (ADINT.AI)",
+        "website": "https://www.adint.ai/",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-81e0-af85-d21b4e1ce784",
+        "name": "3DentAI",
+        "website": "https://3dentai.ca",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-819f-94fa-c87091cb3fe0",
+        "name": "mCloud",
+        "website": "**",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8153-922b-df1d6b735b2f",
+        "name": "SkyHive",
+        "website": "https://www.skyhive.ai",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8109-b2f7-fc7550113a58",
+        "name": "SparkGeo",
+        "website": "https://www.sparkgeo.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81c7-bd3f-d41c5e477c8a",
+        "name": "Noratek Solutions",
+        "website": "**",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81e0-a48d-ea0cb432a376",
+        "name": "AI for Ecommerce Non-Profit Society",
+        "website": "https://aiforecommerce.org",
+        "category": "Non-Profit"
+      },
+      {
+        "id": "23dc6f79-9a33-8159-9e94-f79403c7f31e",
+        "name": "Genesis AI Corp",
+        "website": "https://genesisai.ca",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-818b-90b7-d20efdd7fac5",
+        "name": "Inverted AI",
+        "website": "https://inverted.ai",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23dc6f79-9a33-81d8-aca0-c368ef30cc2c",
+        "name": "UnlockLand (Meton.ai product)",
+        "website": "https://unlock.land",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-812e-bd98-e5c2f4527238",
+        "name": "TELUS Sovereign AI Factories",
+        "website": "**",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-8174-aae7-fe9f78dc3b68",
+        "name": "OnDeck Fisheries",
+        "website": "https://www.ondecksystems.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8151-ac13-f3f183794ab3",
+        "name": "Bonsai Micro",
+        "website": "https://bonsai-micro.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81c6-982a-c311a194070d",
+        "name": "Meton.ai (UnlockLand parent company)",
+        "website": "https://ca.linkedin.com/company/meton-ai",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81da-91c9-c89f305b9859",
+        "name": "ClearSpark AI",
+        "website": "https://ca.linkedin.com/company/clearspark-ai",
+        "category": "Company"
+      },
+      {
+        "id": "23dc6f79-9a33-81b3-88aa-df00b3f55dc0",
+        "name": "Machine Learning Group - SFU",
+        "website": "https://ml.cs.sfu.ca",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23dc6f79-9a33-8172-8f00-f4ac9b83fcb7",
+        "name": "Trustworthy AI Lab - SFU",
+        "website": "https://sfu-tai.github.io",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23dc6f79-9a33-81d2-ad04-d2f534f8b905",
+        "name": "PLAI (Pacific Laboratory for Artificial Intelligence) - UBC",
+        "website": "https://plai.cs.ubc.ca",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23dc6f79-9a33-8110-acf5-df1449e5c2e5",
+        "name": "CRWN.ai",
+        "website": "https://www.crwn.ai",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-81ef-9b77-ef23d973151b",
+        "name": "TerraSense Analytics",
+        "website": "https://terrasense.ca/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8173-931c-caf7c2258588",
+        "name": "Pani Energy",
+        "website": "https://www.pani.global/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8149-9c1a-e0d819986dc7",
+        "name": "Penny AI",
+        "website": "https://getpenny.com/",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8139-849f-d286c118c02c",
+        "name": "VRIFY Technology",
+        "website": "https://vrify.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-816c-a13b-cea35e8b96fe",
+        "name": "Charli AI",
+        "website": "**",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23dc6f79-9a33-8102-9b8b-f6f988aae39f",
+        "name": "Apera AI",
+        "website": "https://apera.ai",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-81d7-a90b-e8a9cf642aae",
+        "name": "EarthDaily Analytics",
+        "website": "**",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-81fd-8838-c21c1926cfc5",
+        "name": "Fobi AI",
+        "website": "https://www.fobiai.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-8112-9d5c-fad7739366f5",
+        "name": "Voronoi Health Analytics",
+        "website": "https://www.voronoihealthanalytics.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-8191-912f-f54d701a7494",
+        "name": "Zfort Group",
+        "website": "https://www.zfort.com",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "236c6f79-9a33-81b5-b8b2-fdc7c52f567f",
+        "name": "IntLabs",
+        "website": "https://www.intlabs.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-8112-a451-ee0f4b3548bb",
+        "name": "Axiom Zen",
+        "website": "**",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "236c6f79-9a33-810a-89d0-e201fb5a9f8a",
+        "name": "Adastra Corporation",
+        "website": "https://adastracorp.com/adastra-ai/",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "236c6f79-9a33-8130-9b64-f99f00788053",
+        "name": "Softmax Data Inc.",
+        "website": "https://www.softmaxdata.com/",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "236c6f79-9a33-81c0-8941-d7c6e2c500c6",
+        "name": "Responsive AI",
+        "website": "https://www.responsive.io",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-8180-b3b3-c6c03a8f9b27",
+        "name": "Kai Analytics International",
+        "website": "https://www.kaianalytics.com",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "236c6f79-9a33-8157-818e-c892b8d2b40e",
+        "name": "ASC Creative Ltd.",
+        "website": "**",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "236c6f79-9a33-8117-947d-e3633d8ab08a",
+        "name": "Altitude Business Intelligence",
+        "website": "https://altitudeintelligence.ca",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "236c6f79-9a33-8197-bad4-d67850271c06",
+        "name": "BetterTable",
+        "website": "https://www.bettertable.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-8195-88cd-cd49fcb892c3",
+        "name": "SenseNet",
+        "website": "https://www.sensenet.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-81b0-8c0c-fb94e425d88a",
+        "name": "ThinkLabs AI",
+        "website": "https://www.thinklabs.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-81f1-b28c-dc1cf9487e0d",
+        "name": "Jetson",
+        "website": "https://www.jetson.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-812c-8dda-f2a2c8da0035",
+        "name": "Amplitude Ventures",
+        "website": "https://amplitudevc.com/",
+        "category": "Investors & Funds"
+      },
+      {
+        "id": "236c6f79-9a33-8152-98fd-edce1ecaa227",
+        "name": "Kensington Capital Partners",
+        "website": "https://www.kcpl.ca/",
+        "category": "Investor"
+      },
+      {
+        "id": "236c6f79-9a33-813c-8fb6-c152bac10be0",
+        "name": "Brightspark Ventures",
+        "website": "https://brightspark.com/",
+        "category": "Investor"
+      },
+      {
+        "id": "227c6f79-9a33-8139-8c6b-d68951892879",
+        "name": "Microsoft Research Asia Vancouver",
+        "website": "https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f8c6f79-9a33-818a-808b-e65be1a09646",
+        "name": "VIATEC AI Meetups",
+        "website": "https://www.viatec.ca",
+        "category": "Grassroots Communities"
+      },
+      {
+        "id": "1f8c6f79-9a33-8124-8fc6-f0daabe7d0af",
+        "name": "University of Victoria (UVic) AI Research",
+        "website": "https://www.uvic.ca",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "1f8c6f79-9a33-81a9-9538-f2ef0484b2a0",
+        "name": "SFU Computing Science & Creative AI Labs",
+        "website": "https://www.sfu.ca/computing",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "1f8c6f79-9a33-81e8-a551-d1572b959831",
+        "name": "Planview (Vancouver)",
+        "website": "https://www.planview.com",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f7c6f79-9a33-81a7-a857-d822d2990e70",
+        "name": "Teck Resources & AltaML Applied AI Lab",
+        "website": "https://www.teck.com",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f7c6f79-9a33-8148-898f-c017d396b11f",
+        "name": "IBM Vancouver",
+        "website": "https://www.ibm.com/ca-en",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f7c6f79-9a33-8158-97ef-f79713a73b03",
+        "name": "Cisco Systems (Vancouver)",
+        "website": "https://www.cisco.com",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f7c6f79-9a33-816a-b2f7-edc1e28485d6",
+        "name": "SAP Canada (Vancouver)",
+        "website": "**",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f7c6f79-9a33-8150-aa24-cadf9a13db14",
+        "name": "Meta Vancouver",
+        "website": "https://www.metacareers.com/locations/vancouver",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f7c6f79-9a33-8129-b45e-d8ced630179c",
+        "name": "Google Vancouver",
+        "website": "https://careers.google.com/locations/vancouver/",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f1c6f79-9a33-81e1-a426-c859bc1e856b",
+        "name": "Vancouver Angel Network (VANTEC)",
+        "website": "https://www.vantec.ca/",
+        "category": "Investor"
+      },
+      {
+        "id": "1f1c6f79-9a33-8191-a508-f58e9e0454f1",
+        "name": "Pender Ventures",
+        "website": "https://www.penderventures.com/",
+        "category": "Investor"
+      },
+      {
+        "id": "1f1c6f79-9a33-81fd-9a9d-ffd755e9c5dc",
+        "name": "Finn.ai",
+        "website": "https://www.finn.ai",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "1f1c6f79-9a33-8109-b57f-ef1a32ba627e",
+        "name": "Pieoneers",
+        "website": "**",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "1f1c6f79-9a33-81fe-b3a6-d225759c9a4b",
+        "name": "Inoxoft",
+        "website": "**",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "1f1c6f79-9a33-8184-98d7-f4f1e583c8e3",
+        "name": "Two Hat Security",
+        "website": "https://www.two.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "1f1c6f79-9a33-81ec-8b8f-d9732ccaa47f",
+        "name": "MineSense",
+        "website": "https://www.minesense.com",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "1f0c6f79-9a33-81e0-8acd-d38e02381120",
+        "name": "Victoria Data Society",
+        "website": "**",
+        "category": "Grassroots Communities"
+      },
+      {
+        "id": "1f0c6f79-9a33-812c-9045-d15b0693c76f",
+        "name": "SFU's Digital Democracies Institute",
+        "website": "https://digitaldemocracies.org",
+        "category": "Advocacy & Policy Groups"
+      },
+      {
+        "id": "1f0c6f79-9a33-81f1-8537-f88511a6dccd",
+        "name": "221A Node Library",
+        "website": "https://221a.ca/research-initiatives/node",
+        "category": "Open-Source Projects"
+      },
+      {
+        "id": "1f0c6f79-9a33-819b-ba06-c229403fb1a4",
+        "name": "UBC Master of Data Science (MDS)",
+        "website": "https://masterdatascience.ubc.ca",
+        "category": "Education & Training Providers"
+      },
+      {
+        "id": "1f0c6f79-9a33-8117-805d-d816bdc7150d",
+        "name": "AltaML (Vancouver)",
+        "website": "**",
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "1f0c6f79-9a33-8124-9f4d-fe642a3b116a",
+        "name": "Clir Renewables",
+        "website": "https://clir.eco",
+        "category": "Social-Impact & Climate-Tech Hubs"
+      },
+      {
+        "id": "1f0c6f79-9a33-8184-afee-e90530a1f68b",
+        "name": "First Nations Technology Council (FNTC)",
+        "website": "https://technologycouncil.ca",
+        "category": "Indigenous Tech & Creative Orgs"
+      },
+      {
+        "id": "1f0c6f79-9a33-81a1-91d2-ee02caeabfe2",
+        "name": "TELUS Data & AI Initiatives",
+        "website": "https://www.telus.com/en/digital",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "240c6f79-9a33-81d4-bf20-cc38b1b3f705",
+        "name": "Narval Energy Inc.",
+        "website": null,
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "240c6f79-9a33-813f-b059-dd0b4fb7ad2e",
+        "name": "Ocean AID",
+        "website": null,
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "23fc6f79-9a33-8161-9022-db94c076be74",
+        "name": "BC Regional AI Initiative",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8153-8746-ee1da8fadb29",
+        "name": "DigiBC Creative Technology Association",
+        "website": null,
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-819b-ac0f-d316a92b8c07",
+        "name": "BC Regional AI Initiative Recipients",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2",
+        "name": "Artificial Muse Music AI Residency",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-a212-d090b77e7270",
+        "name": "ICCSMLAI Vancouver Sports Track",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8105-972a-f5291ba9504e",
+        "name": "FLAIR BC Initiative",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b",
+        "name": "Indigenous Protocol and AI Working Group",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8",
+        "name": "NEXT AI BC Companies",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81bb-99b4-e06406856531",
+        "name": "Scale AI BC Recipients",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8193-b79b-e19e18cc35c2",
+        "name": "DigiBC Creative AI Members",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8139-8c2d-e340278f023e",
+        "name": "DigiBC Signals AI Showcase",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81e8-bb83-d81f112e5580",
+        "name": "RAII Grant Recipients 2025",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-818e-b964-da7b9a50ada9",
+        "name": "BC Fast Pilot AI Projects",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-819f-96ac-e9784041a029",
+        "name": "Microsoft VCH AI Partnership",
+        "website": null,
+        "category": "Industry-Healthcare Partnership"
+      },
+      {
+        "id": "23fc6f79-9a33-81b5-ad09-c285d08d695c",
+        "name": "BCIT Applied Research Centre for Sustainability Energy and Resource Innovations",
+        "website": null,
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-81d7-8723-efbf5829fe6b",
+        "name": "Unity Muse Vancouver Community",
+        "website": null,
+        "category": "User Group"
+      },
+      {
+        "id": "23fc6f79-9a33-81aa-a1cf-d69182e824b9",
+        "name": "External Development Summit Vancouver",
+        "website": null,
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-8111-a043-df271f8e95a0",
+        "name": "BC Forest Innovation and Bioeconomy Manufacturing Program",
+        "website": null,
+        "category": "Government & Public Sector"
+      },
+      {
+        "id": "23fc6f79-9a33-817f-9b57-caa969f4554f",
+        "name": "CFS Mass Timber Innovation and Research Lab",
+        "website": null,
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-81bd-a9f6-eabdb1a08712",
+        "name": "MiningTech North America Conference",
+        "website": null,
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-812c-96c2-fbea33cb386a",
+        "name": "Southern Cross Gold BC",
+        "website": null,
+        "category": "Mining"
+      },
+      {
+        "id": "23fc6f79-9a33-8198-bad8-dabc55067107",
+        "name": "Farmonaut BC",
+        "website": null,
+        "category": "AgTech"
+      },
+      {
+        "id": "23fc6f79-9a33-8104-86a0-d0e1957e632c",
+        "name": "BC Industry Partners AI Consortium",
+        "website": null,
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-81f5-84f1-f3f6008f3c8e",
+        "name": "Vancouver PropTech Hub",
+        "website": null,
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-811c-90ea-fa87642b56ca",
+        "name": "Fraser Surrey Docks",
+        "website": null,
+        "category": "Port Terminal"
+      },
+      {
+        "id": "23fc6f79-9a33-81bb-92fd-e9408c52e19c",
+        "name": "VFPA Terminal 2 Project",
+        "website": null,
+        "category": "Port Development"
+      },
+      {
+        "id": "23fc6f79-9a33-8125-a0e7-f7c920e4b8e8",
+        "name": "Deltaport Container Terminal",
+        "website": null,
+        "category": "Port Terminal"
+      },
+      {
+        "id": "23fc6f79-9a33-81bf-9525-c79e16ff3a40",
+        "name": "Neptune Terminals",
+        "website": null,
+        "category": "Port Terminal"
+      },
+      {
+        "id": "23fc6f79-9a33-8171-b9e3-d5790556b24f",
+        "name": "TIABC AI Workshop Initiative",
+        "website": null,
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca",
+        "name": "Site C Hydroelectric Project AI Division",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-81e5-b4e9-f62e69011c60",
+        "name": "BC Hydro Electrification Initiative",
+        "website": null,
+        "category": "Company"
+      },
+      {
+        "id": "23fc6f79-9a33-81f0-b59f-ff4000a394e5",
+        "name": "BCIT Xanadu Quantum Computing Program",
+        "website": null,
+        "category": "Academic"
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-a951-fa3fb05d806f",
+        "name": "Vancouver International Privacy Security Summit",
+        "website": null,
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-81d4-88d4-f40dd6e5157f",
+        "name": "CICE AI Program",
+        "website": null,
+        "category": "Accelerators / Incubators"
+      },
+      {
+        "id": "23fc6f79-9a33-812d-be34-f3974cee4ab8",
+        "name": "SFU Artificial Intelligence Research Group",
+        "website": null,
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-8126-9330-f12d98fbfc33",
+        "name": "Thompson Rivers University Computer Science",
+        "website": null,
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-8180-b520-d7d06882bfcc",
+        "name": "University of Victoria AI and Machine Learning Lab",
+        "website": null,
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-81cb-ba45-fff149c337c7",
+        "name": "InBC Life Sciences Fund",
+        "website": null,
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-811b-ab60-d14ce505d900",
+        "name": "Microsoft Vancouver Coastal Health Partnership",
+        "website": null,
+        "category": "Corporate Partnership"
+      },
+      {
+        "id": "23fc6f79-9a33-81b0-acde-ee67f82cd45a",
+        "name": "BC AI in Education Initiative",
+        "website": null,
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-816d-8b8b-ccb2de125782",
+        "name": "UBC Biomedical Research Facility",
+        "website": null,
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-814c-9abe-dd34607880ce",
+        "name": "BC AI Gaming Innovation Fund",
+        "website": null,
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-819e-8b3f-d47a49dbbfd0",
+        "name": "Vancouver Game Development AI Collective",
+        "website": null,
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-8180-8bb2-f24d31f306ad",
+        "name": "3D AI Studio Vancouver",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8129-9bf2-f50c3fdadaed",
+        "name": "Unity Muse Vancouver Users",
+        "website": null,
+        "category": "Developer Community"
+      },
+      {
+        "id": "23fc6f79-9a33-8173-9383-eaf346b45cd7",
+        "name": "External Development Summit (XDS)",
+        "website": null,
+        "category": "Industry Conferences & Events"
+      },
+      {
+        "id": "23fc6f79-9a33-81f1-8ce8-f669be4346de",
+        "name": "Law Society of BC AI Ethics Initiative",
+        "website": null,
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-81ed-bc87-ce76c95fd03b",
+        "name": "BC Securities Commission RegTech Sandbox",
+        "website": null,
+        "category": "Industry Association"
+      },
+      {
+        "id": "23fc6f79-9a33-8114-971b-c7c3b76341ba",
+        "name": "Prince George AI Fire Detection Network",
+        "website": null,
+        "category": "Company"
+      },
+      {
+        "id": "23fc6f79-9a33-815e-8e98-f88e3e526304",
+        "name": "Forest Innovation and Bioeconomy Program",
+        "website": null,
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-8105-b4ff-de202f58cb7a",
+        "name": "Canadian Forest Service Mass Timber Lab",
+        "website": null,
+        "category": "Academic & Research Labs"
+      },
+      {
+        "id": "23fc6f79-9a33-81cd-95b5-e4424e1a4c4c",
+        "name": "qathet Regional District AI Fire System",
+        "website": null,
+        "category": "Government & Public Sector"
+      },
+      {
+        "id": "23fc6f79-9a33-8125-b009-ff24fe1152a4",
+        "name": "Pano AI BC Operations",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-819b-be47-cfbd077585dc",
+        "name": "Blue Economy Innovation Hub",
+        "website": null,
+        "category": "Innovation Centres & Hubs"
+      },
+      {
+        "id": "23fc6f79-9a33-81b8-a8be-c89cb321113a",
+        "name": "BC Agritech Training Initiative",
+        "website": null,
+        "category": "Training Program"
+      },
+      {
+        "id": "23fc6f79-9a33-81f3-847a-eacf249abde2",
+        "name": "BC Skills Training AI Initiative",
+        "website": null,
+        "category": "Education & Training Providers"
+      },
+      {
+        "id": "23fc6f79-9a33-8128-acc9-f9a5f682700d",
+        "name": "BC Construction Technology Initiative",
+        "website": null,
+        "category": "Government"
+      },
+      {
+        "id": "23fc6f79-9a33-8187-87a0-e2fc29fe2b80",
+        "name": "Fraser Surrey Docks AI Operations",
+        "website": null,
+        "category": "Deep-water Terminal"
+      },
+      {
+        "id": "23fc6f79-9a33-8176-bc16-dad5b67b0e95",
+        "name": "DP World Canada",
+        "website": null,
+        "category": "Smart Logistics Services"
+      },
+      {
+        "id": "23fc6f79-9a33-810d-940f-d96d005343b0",
+        "name": "BC Manufacturing Skills Initiative",
+        "website": null,
+        "category": "Government & Public Sector"
+      },
+      {
+        "id": "23fc6f79-9a33-8114-81cb-fb32f74070f6",
+        "name": "Neptune Terminals AI Operations",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7",
+        "name": "Site C Hydroelectric AI Integration",
+        "website": null,
+        "category": "Company"
+      },
+      {
+        "id": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+        "name": "Gaze AI",
+        "website": null,
+        "category": "AI Companies"
+      },
+      {
+        "id": "23dc6f79-9a33-8100-a933-dac23159a3b0",
+        "name": "Women in Machine Learning & Data Science (WiMLDS Vancouver)",
+        "website": null,
+        "category": "Non-Profit"
+      },
+      {
+        "id": "23dc6f79-9a33-81f6-bf0f-ea2117753b46",
+        "name": "RBC Borealis",
+        "website": null,
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "23dc6f79-9a33-8187-a016-d27418833bc7",
+        "name": "Drive Hockey Analytics",
+        "website": null,
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "id": "236c6f79-9a33-8103-86f2-ff0a75c70895",
+        "name": "Google for Startups Accelerator: AI for Nature",
+        "website": null,
+        "category": "Education & Training Providers"
+      },
+      {
+        "id": "1f8c6f79-9a33-8179-a60d-daa0d4738e2e",
+        "name": "RBC Borealis AI (Vancouver Lab)",
+        "website": null,
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f7c6f79-9a33-811c-bfde-c38f8b469ac3",
+        "name": "Unity Technologies (Vancouver)",
+        "website": null,
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "id": "1f1c6f79-9a33-81aa-ad1b-f8d94c3ff80a",
+        "name": "Deloitte Omnia AI",
+        "website": null,
+        "category": "Service Studios / Agencies"
+      },
+      {
+        "id": "1f1c6f79-9a33-810a-90d9-e27a8a97a2b0",
+        "name": "Animikii",
+        "website": null,
+        "category": "Indigenous Tech & Creative Orgs"
+      }
+    ],
+    "keyPeopleResearch": [
+      {
+        "id": "240c6f79-9a33-8165-a23a-c3f876a5eabf",
+        "name": "IAMGOLD Innovation",
+        "website": "https://www.iamgold.com"
+      },
+      {
+        "id": "240c6f79-9a33-811b-bdf0-c46ae8a64687",
+        "name": "Cohere Health Vancouver",
+        "website": "https://www.coherehealth.com"
+      },
+      {
+        "id": "240c6f79-9a33-8182-8bc9-f503f5381116",
+        "name": "Rigid Robotics",
+        "website": "https://www.rigidrobotics.com"
+      },
+      {
+        "id": "23fc6f79-9a33-81b1-acfe-f0c48073ddf1",
+        "name": "AI Community Conference - Vancouver",
+        "website": "https://www.communitydays.org/"
+      },
+      {
+        "id": "23fc6f79-9a33-819c-8e7b-f51b33bdbd16",
+        "name": "GreenMeter AI",
+        "website": "https://www.greenmetrics.ca"
+      },
+      {
+        "id": "23fc6f79-9a33-8178-a4f4-c8dd6581afb2",
+        "name": "MiningTech North America",
+        "website": "https://www.miningtechnorthamerica.com"
+      },
+      {
+        "id": "23fc6f79-9a33-8118-a3db-c64044ece7c9",
+        "name": "Investment Agriculture Foundation of BC",
+        "website": "https://iafbc.ca/"
+      },
+      {
+        "id": "23fc6f79-9a33-816c-a039-ff4cfaea5143",
+        "name": "BC On-Farm Technology Adoption Program",
+        "website": "https://www.innovatebc.ca/programs/bc-on-farm"
+      },
+      {
+        "id": "23fc6f79-9a33-8114-9186-cd143a7d0bab",
+        "name": "West Vancouver Schools Cybersecurity AI Program",
+        "website": "https://westvancouverschools.ca/programs/cybersecurity-ai/"
+      },
+      {
+        "id": "23dc6f79-9a33-81e2-b265-c16c8b8d3181",
+        "name": "AI Scout Solutions",
+        "website": "https://aiscout.framer.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-8197-be38-d6a92ea4412b",
+        "name": "MoogleLabs",
+        "website": "https://www.mooglelabs.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8171-97ad-fcff2baf0a58",
+        "name": "Kanooq Industries Inc.",
+        "website": "https://www.kanooq.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81a9-bb63-e9e24158ed69",
+        "name": "AIEX",
+        "website": "https://aiex.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-8181-ab90-c9bf9cec8e9c",
+        "name": "PacifiCan AI Initiative",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-818f-96f7-f943931eb7a8",
+        "name": "Lite-1",
+        "website": "https://lite1.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81a7-a907-daaca0f08b42",
+        "name": "Anodyne Chemistries",
+        "website": "https://www.anodynechemistries.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81f9-ad4c-f530031c9f51",
+        "name": "Arrowsmith Genetics",
+        "website": "https://www.arrowsmithgenetics.com"
+      },
+      {
+        "id": "23dc6f79-9a33-815b-9fdd-fe8347058ffa",
+        "name": "Canexia Health",
+        "website": "https://canexiahealth.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-81bf-8f0b-fe9c052a7df9",
+        "name": "Nytilus Inc",
+        "website": "https://www.nytilus.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81f8-af32-d4cd0226188a",
+        "name": "HomeCourt/NEX Team",
+        "website": "https://homecourt.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-819b-895c-d661b62a0131",
+        "name": "7Gen",
+        "website": "https://7gen.com"
+      },
+      {
+        "id": "23dc6f79-9a33-811a-83e1-c0c82b9e849d",
+        "name": "Ekohe",
+        "website": "https://www.ekohe.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8117-bcb4-c3df7786beac",
+        "name": "Improving",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-811d-81a8-f434f2b07cd7",
+        "name": "Digitalist North America",
+        "website": "https://digitalist.global"
+      },
+      {
+        "id": "23dc6f79-9a33-8121-92f5-c9c7d6ead3d1",
+        "name": "IT Kapital",
+        "website": "https://www.itkapital.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81bf-bb08-e6e85b32bac1",
+        "name": "Epsilon Venture Group",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8107-9e94-eb0d7bad78a5",
+        "name": "ValueLabs",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8155-ae3a-d66f1dc1962f",
+        "name": "Insight Global",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-810b-8529-ea4777c521dc",
+        "name": "Steamclock Software",
+        "website": "https://www.steamclock.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81b5-85bc-c1c7760e9cde",
+        "name": "Denologix",
+        "website": "https://www.denologix.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81de-9b78-e0f32293ced2",
+        "name": "WillowTree®",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8140-8403-e09bb69985d4",
+        "name": "FTSY",
+        "website": "https://www.ftsy.com"
+      },
+      {
+        "id": "23dc6f79-9a33-814c-8345-fef4b40a6697",
+        "name": "MashUp Machine",
+        "website": "https://www.mashup.io"
+      },
+      {
+        "id": "23dc6f79-9a33-81e3-83fe-f975f55614f8",
+        "name": "Compression.ai",
+        "website": "https://compression.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-8144-b577-f891fdc60ff3",
+        "name": "Glance Technologies",
+        "website": "https://glancetech.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81e2-a85d-e2a0d3f4b05a",
+        "name": "SHADE.ai",
+        "website": "https://www.shade.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-81a5-864b-fc8e055e7ae7",
+        "name": "AntEater",
+        "website": "https://www.anteater.io"
+      },
+      {
+        "id": "23dc6f79-9a33-811e-aabd-c0551d8c4da4",
+        "name": "Lambda Science",
+        "website": "https://www.lambdascience.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8190-86b1-c0f16fd86d82",
+        "name": "Eli Report",
+        "website": "https://www.elireport.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81b1-952e-fb96975ac056",
+        "name": "FYBR",
+        "website": "https://fybr.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-817d-b682-c17db865e7aa",
+        "name": "DeepND",
+        "website": "https://www.deepnd.io"
+      },
+      {
+        "id": "23dc6f79-9a33-8164-a83c-f0bc2d8071c7",
+        "name": "Talentful.ai",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8180-946d-e027f77f5721",
+        "name": "TalentMarketplace",
+        "website": "https://www.talentmarketplace.com"
+      },
+      {
+        "id": "23dc6f79-9a33-818d-be34-c0fde5433f6c",
+        "name": "Theory+Practice",
+        "website": "https://www.theorypractice.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-81d3-9a64-c608275ab2b5",
+        "name": "FIRMOGRAM",
+        "website": "https://www.firmogram.com"
+      },
+      {
+        "id": "23dc6f79-9a33-819e-b542-c86bd5875c22",
+        "name": "Motion Metrics",
+        "website": "https://motionmetrics.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81dc-8a04-ce37d64da482",
+        "name": "Caliber Data Labs",
+        "website": "https://www.caliber.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8145-aec1-ecc7c1545fec",
+        "name": "bots4impact",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8126-8d45-e384a2dddef6",
+        "name": "Evolve Biologix",
+        "website": "https://www.evolvebiologix.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8140-9e00-eaddbb188205",
+        "name": "Diabits",
+        "website": "https://www.diabits.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8161-8ad6-fd2f7d4777ab",
+        "name": "CareCru",
+        "website": "https://www.carecru.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81b5-a6c5-f9881d713228",
+        "name": "Sports Iq Analytics",
+        "website": "https://www.sports.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8149-ba02-df39efae8ca8",
+        "name": "Juicey Turf",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8187-a111-d4478a735ead",
+        "name": "Warranty Life",
+        "website": "https://www.warrantylife.com"
+      },
+      {
+        "id": "23dc6f79-9a33-813a-9711-dfb60aac7eee",
+        "name": "Thinkcx",
+        "website": "https://www.thinkcx.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8112-bed0-cea9251776cf",
+        "name": "Livnao Technologies",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-816c-8552-eaaeebd3073a",
+        "name": "Mintent",
+        "website": "https://mintent.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81c4-ab6e-d5054a76ea73",
+        "name": "Strategybox",
+        "website": "https://www.strategybox.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81c6-a0f0-c9a851d29e42",
+        "name": "Disrupted Logic",
+        "website": "https://www.disruptedlogic.com"
+      },
+      {
+        "id": "23dc6f79-9a33-814a-85f1-e13a5ddb5a31",
+        "name": "Nextwave Software",
+        "website": "https://www.nextwave.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-8132-91d8-f224a75c315b",
+        "name": "Illusense",
+        "website": "https://www.illusense.com"
+      },
+      {
+        "id": "23dc6f79-9a33-811a-82c7-fbdde4cbfe8a",
+        "name": "Scanbo",
+        "website": "https://www.scanbo.com"
+      },
+      {
+        "id": "23dc6f79-9a33-812f-a992-d3d1a74f9772",
+        "name": "Scopemedia",
+        "website": "https://www.scopemedia.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81a8-9759-ebab8088ef2e",
+        "name": "Wavo",
+        "website": "https://app.wavo.health"
+      },
+      {
+        "id": "23dc6f79-9a33-81da-85ba-da25185110a4",
+        "name": "Ehsai",
+        "website": "https://ehsai.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-815f-8c87-cef013414d04",
+        "name": "Inp Capital",
+        "website": "https://inp-capital.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81db-af41-c09c08abf9d7",
+        "name": "Blockmint",
+        "website": "https://blockmint.co"
+      },
+      {
+        "id": "23dc6f79-9a33-811d-b460-d2c8f341a7f4",
+        "name": "Advize",
+        "website": "https://www.advize.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-8103-a5ed-f5fff8b87864",
+        "name": "Viewpoint Ai",
+        "website": "https://viewpoint.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-8157-b566-d30d584bf312",
+        "name": "Xtract Ai",
+        "website": "https://www.xtract.io"
+      },
+      {
+        "id": "23dc6f79-9a33-8175-abc2-c27ff5b33e1c",
+        "name": "Olive",
+        "website": "https://olive.app"
+      },
+      {
+        "id": "23dc6f79-9a33-8172-8cd8-c57add383203",
+        "name": "Judi.ai",
+        "website": "https://judi.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-8181-b5c1-fa5d120a9ced",
+        "name": "Onecup Ai",
+        "website": "https://www.onecup.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81a7-9330-fe6d0095bb50",
+        "name": "Intellabridge Technology Corporation",
+        "website": "https://www.intellabridge.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8190-a6eb-f0c5683c5548",
+        "name": "Telus Ventures",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-814a-a50f-cc9e3d903770",
+        "name": "ARoster.com",
+        "website": "https://www.aroster.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81fa-b173-f06fc8eb85db",
+        "name": "Flento app (by Acrostrong)",
+        "website": "https://www.flento.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81eb-8293-f13d82a2d6d6",
+        "name": "Women Love Herbs",
+        "website": "https://womenloveherbs.com/en"
+      },
+      {
+        "id": "23dc6f79-9a33-81e5-8eaf-c1fe8fbbad3d",
+        "name": "Leaders of Tomorrow Institute Inc.",
+        "website": "https://www.leaders.com"
+      },
+      {
+        "id": "23dc6f79-9a33-818a-aa9b-cb38dcd9e128",
+        "name": "Intuitive AI.",
+        "website": "https://www.intuitive.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81ad-8704-e633907fedc0",
+        "name": "sphereishere",
+        "website": "https://sphere.guide/"
+      },
+      {
+        "id": "23dc6f79-9a33-81ff-a275-e37861d38a9f",
+        "name": "Spheria",
+        "website": "https://www.spheria.ca/"
+      },
+      {
+        "id": "23dc6f79-9a33-816b-9b43-cb5df605806d",
+        "name": "Spexi",
+        "website": "https://www.spexi.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-8118-bbbc-c4c6845dd68f",
+        "name": "SquareKnot Analytics",
+        "website": "https://squareknotanalytics.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-8129-9e9e-e173ae212c56",
+        "name": "BujiBui Inc.",
+        "website": "https://bujibui.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81ac-b2ae-e2ae16e533f7",
+        "name": "CamDo Solutions Inc.",
+        "website": "https://ca.linkedin.com/company/camdo-solutions-inc-"
+      },
+      {
+        "id": "23dc6f79-9a33-812a-8281-fc26880489c8",
+        "name": "Scoop Robotix",
+        "website": "https://www.scooprobotix.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8144-a550-fab0fd4a4546",
+        "name": "VodaSafe",
+        "website": "https://vodasafe.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-8175-95e4-d47f67d82e1b",
+        "name": "Secur3D",
+        "website": "https://www.secur3d.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8142-a860-f4edc5058562",
+        "name": "Safety CLI Cybersecurity",
+        "website": "https://www.safety.io"
+      },
+      {
+        "id": "23dc6f79-9a33-81b7-8f07-fb4132cff563",
+        "name": "AI Home Optimizer",
+        "website": "https://www.ai.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8148-8ad7-d0fe2a41e2ba",
+        "name": "Properti Edge Solutions",
+        "website": "https://www.propertiedge.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-8179-8f60-e712928bccee",
+        "name": "Pilot - pilotplans.com",
+        "website": "https://www.pilotplans.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81e4-b8ae-d24935abb9b5",
+        "name": "Djobzy",
+        "website": "https://www.djobzy.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-814d-8e9f-ded8704cfdba",
+        "name": "Adopto",
+        "website": "https://adopto.org"
+      },
+      {
+        "id": "23dc6f79-9a33-81e5-9701-ed735281d85a",
+        "name": "Swipe Right App",
+        "website": "https://www.swipe.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8116-ba98-e112febed2b5",
+        "name": "Ringable AI",
+        "website": "https://ringable.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8176-ab6e-faa7b6117bab",
+        "name": "Prompt Genie",
+        "website": "https://www.promptgenie.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81dc-8137-c5cefae032c8",
+        "name": "LōD Technologies Inc.",
+        "website": "https://www.ld.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-8181-b9d9-cba6685bb81d",
+        "name": "EPIC Semiconductors",
+        "website": "https://www.epicsemiconductors.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8115-b11e-cf09506ea76e",
+        "name": "Thynkli",
+        "website": "https://thynkli.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-814c-9c60-faaeed5a4cc6",
+        "name": "Plasmatic Technologies Inc.",
+        "website": "https://www.alana.net/"
+      },
+      {
+        "id": "23dc6f79-9a33-81c8-aeeb-dd68a7b8cead",
+        "name": "FansNetwork",
+        "website": "https://fansnetwork.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-814d-bcfe-c9226472778c",
+        "name": "Blackout Media",
+        "website": "https://www.blackoutmedia.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-810f-a61f-d813454afa7b",
+        "name": "1SecondPainting",
+        "website": "https://www.1secondpainting.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8119-a2ce-e4c14ad40b5a",
+        "name": "XARIIA",
+        "website": "https://www.xariia.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81c4-b67b-c1db4ba889d3",
+        "name": "Flashee",
+        "website": "https://www.flashee.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8155-a137-e76ee0bdcf89",
+        "name": "Caseway",
+        "website": "https://www.caseway.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8148-b08c-ec1001d1a0ab",
+        "name": "VRFY Inc.",
+        "website": "https://www.vrfy.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-8137-a8fa-d3cc786002f4",
+        "name": "wewell ecosystem",
+        "website": "https://www.wewell.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81f1-96e2-cd554411b7c7",
+        "name": "Plantiga Technologies Inc",
+        "website": "https://www.plantiga.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8191-b310-c26f6ddda472",
+        "name": "Legible Media Inc.",
+        "website": "https://www.legible.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81eb-8091-e3ab8403d7f9",
+        "name": "Artemisdata",
+        "website": "https://artemisdata.io"
+      },
+      {
+        "id": "23dc6f79-9a33-8133-847e-fbf0e5c3b6fe",
+        "name": "Picovoice",
+        "website": "https://www.picovoice.com"
+      },
+      {
+        "id": "23dc6f79-9a33-817e-8791-ca6b2c990bcc",
+        "name": "CodeMaker AI Inc.",
+        "website": "https://www.codemaker.com"
+      },
+      {
+        "id": "23dc6f79-9a33-810b-8ae4-eb150b5391de",
+        "name": "Automate.",
+        "website": "https://www.automate.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81f6-9901-e2e378af7d18",
+        "name": "OneTask",
+        "website": "https://www.onetask.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81b2-a73e-de88592542bb",
+        "name": "Swae",
+        "website": "https://www.swae.io"
+      },
+      {
+        "id": "23dc6f79-9a33-81db-a5b5-fe657cf24a7e",
+        "name": "Topicflow",
+        "website": "https://www.topicflow.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8174-a45d-f6841d03a6c4",
+        "name": "Cifra",
+        "website": "https://www.cifra.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81c0-842f-cde8858275b8",
+        "name": "Optimate AI",
+        "website": "https://www.optimateai.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8155-81cf-ce961fc1296b",
+        "name": "Damon",
+        "website": "https://www.damon.com"
+      },
+      {
+        "id": "23dc6f79-9a33-819c-b87e-e98c56bd600e",
+        "name": "akche technologies inc",
+        "website": "https://www.akche.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81df-a80b-ef732d3252ae",
+        "name": "Binta Financial",
+        "website": "https://www.bintafinancial.com"
+      },
+      {
+        "id": "23dc6f79-9a33-816a-ba8e-f02e22bb6389",
+        "name": "Artenal",
+        "website": "https://www.artenal.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-81a7-950e-ee1fc858a13c",
+        "name": "Neupeak",
+        "website": "https://www.neupeak.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8131-a01d-fe2435ae7c98",
+        "name": "Implant Genius",
+        "website": "https://www.implantgenius.com"
+      },
+      {
+        "id": "23dc6f79-9a33-819e-b904-c87232c576ba",
+        "name": "GenerationsE",
+        "website": "https://www.generationse.com"
+      },
+      {
+        "id": "23dc6f79-9a33-818b-b5d1-c3cd6a9e14ce",
+        "name": "Inofuse",
+        "website": "https://www.inofuse.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81f6-9472-eeb83c737642",
+        "name": "Flutter Care",
+        "website": "https://www.fluttercare.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81a3-8c3a-c7bc6bec42af",
+        "name": "Scrubs Co-Pilot",
+        "website": "https://www.scrubscopilot.com"
+      },
+      {
+        "id": "23dc6f79-9a33-81bd-b6be-e304d21bf50d",
+        "name": "Avicena AI",
+        "website": "https://www.avicenaai.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8132-b8a7-f0e92c00ba6e",
+        "name": "ConcussionRx",
+        "website": "https://www.concussionrx.com"
+      },
+      {
+        "id": "23dc6f79-9a33-811f-8d15-ef67d8ebc591",
+        "name": "Arca",
+        "website": "https://www.arca.com"
+      },
+      {
+        "id": "23dc6f79-9a33-814d-9f8b-cccfc1b2f434",
+        "name": "Animikii Indigenous Technology Inc",
+        "website": "https://www.animikii.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8111-83da-cc25b52cfc56",
+        "name": "Graphics, Artificial Intelligence, Design, and Games (GAIDG) Lab",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8106-811b-cffb2abd4499",
+        "name": "UVic Advanced Control and Intelligent Systems (ACIS) Lab",
+        "website": "https://uvic.ca/research/labs/acis"
+      },
+      {
+        "id": "23dc6f79-9a33-81c5-ba86-fbc5e2051f65",
+        "name": "AIM Lab (Artificial Intelligence in Medicine Lab)",
+        "website": "https://aimlab.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-812a-b731-f12a47839f7c",
+        "name": "Persistent Systems",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-81fb-866a-d8a83fd5fed7",
+        "name": "Grammarly",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-81f1-9e1c-ff4989b34112",
+        "name": "Wayve",
+        "website": "https://www.linkedin.com/company/wayve-technologies"
+      },
+      {
+        "id": "23dc6f79-9a33-81e6-a90d-e7db0c0a3874",
+        "name": "Bridge2AI",
+        "website": "https://www.bridge2ai.com"
+      },
+      {
+        "id": "23dc6f79-9a33-817b-a509-ebd8e18b3837",
+        "name": "Brainix",
+        "website": "https://www.brainix.io"
+      },
+      {
+        "id": "23dc6f79-9a33-812e-8bea-ef99c88d2ae5",
+        "name": "boilerroom.ai",
+        "website": "https://www.boilerroom.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-815d-99bb-fd82c0625bad",
+        "name": "Bizzer AI",
+        "website": "https://www.bizzer.io"
+      },
+      {
+        "id": "23dc6f79-9a33-81ec-bd1c-cf8c4ae8f48a",
+        "name": "Amass AI",
+        "website": "https://www.amass.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8120-be84-d8574c230327",
+        "name": "AIMA Inc",
+        "website": "https://www.aima.com"
+      },
+      {
+        "id": "23dc6f79-9a33-8193-8fff-c7a57412c607",
+        "name": "AI Stock Watch",
+        "website": "https://www.aistockwatch.com"
+      },
+      {
+        "id": "23dc6f79-9a33-810b-9aee-d193262b9e46",
+        "name": "Advertising Intelligence (ADINT.AI)",
+        "website": "https://www.adint.ai/"
+      },
+      {
+        "id": "23dc6f79-9a33-81e0-af85-d21b4e1ce784",
+        "name": "3DentAI",
+        "website": "https://3dentai.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-819f-94fa-c87091cb3fe0",
+        "name": "mCloud",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8109-b2f7-fc7550113a58",
+        "name": "SparkGeo",
+        "website": "https://www.sparkgeo.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81c7-bd3f-d41c5e477c8a",
+        "name": "Noratek Solutions",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-81e0-a48d-ea0cb432a376",
+        "name": "AI for Ecommerce Non-Profit Society",
+        "website": "https://aiforecommerce.org"
+      },
+      {
+        "id": "23dc6f79-9a33-8159-9e94-f79403c7f31e",
+        "name": "Genesis AI Corp",
+        "website": "https://genesisai.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-818b-90b7-d20efdd7fac5",
+        "name": "Inverted AI",
+        "website": "https://inverted.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-812e-bd98-e5c2f4527238",
+        "name": "TELUS Sovereign AI Factories",
+        "website": "**"
+      },
+      {
+        "id": "23dc6f79-9a33-8174-aae7-fe9f78dc3b68",
+        "name": "OnDeck Fisheries",
+        "website": "https://www.ondecksystems.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-81c6-982a-c311a194070d",
+        "name": "Meton.ai (UnlockLand parent company)",
+        "website": "https://ca.linkedin.com/company/meton-ai"
+      },
+      {
+        "id": "23dc6f79-9a33-81da-91c9-c89f305b9859",
+        "name": "ClearSpark AI",
+        "website": "https://ca.linkedin.com/company/clearspark-ai"
+      },
+      {
+        "id": "23dc6f79-9a33-81b3-88aa-df00b3f55dc0",
+        "name": "Machine Learning Group - SFU",
+        "website": "https://ml.cs.sfu.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-8172-8f00-f4ac9b83fcb7",
+        "name": "Trustworthy AI Lab - SFU",
+        "website": "https://sfu-tai.github.io"
+      },
+      {
+        "id": "23dc6f79-9a33-81d2-ad04-d2f534f8b905",
+        "name": "PLAI (Pacific Laboratory for Artificial Intelligence) - UBC",
+        "website": "https://plai.cs.ubc.ca"
+      },
+      {
+        "id": "23dc6f79-9a33-8110-acf5-df1449e5c2e5",
+        "name": "CRWN.ai",
+        "website": "https://www.crwn.ai"
+      },
+      {
+        "id": "23dc6f79-9a33-81ef-9b77-ef23d973151b",
+        "name": "TerraSense Analytics",
+        "website": "https://terrasense.ca/"
+      },
+      {
+        "id": "23dc6f79-9a33-8173-931c-caf7c2258588",
+        "name": "Pani Energy",
+        "website": "https://www.pani.global/"
+      },
+      {
+        "id": "23dc6f79-9a33-8119-acbe-eb4e9fe42ec4",
+        "name": "Niricson",
+        "website": "https://www.niricson.com/"
+      },
+      {
+        "id": "23dc6f79-9a33-813d-ab74-f97001c15892",
+        "name": "MarineLabs",
+        "website": "https://marinelabs.io/"
+      },
+      {
+        "id": "23dc6f79-9a33-81ba-83f3-c599ff16a137",
+        "name": "Levr.ai",
+        "website": "https://levr.ai/"
+      },
+      {
+        "id": "23dc6f79-9a33-8149-9c1a-e0d819986dc7",
+        "name": "Penny AI",
+        "website": "https://getpenny.com/"
+      },
+      {
+        "id": "236c6f79-9a33-81d7-a90b-e8a9cf642aae",
+        "name": "EarthDaily Analytics",
+        "website": "**"
+      },
+      {
+        "id": "236c6f79-9a33-81fd-8838-c21c1926cfc5",
+        "name": "Fobi AI",
+        "website": "https://www.fobiai.com"
+      },
+      {
+        "id": "236c6f79-9a33-8112-9d5c-fad7739366f5",
+        "name": "Voronoi Health Analytics",
+        "website": "https://www.voronoihealthanalytics.com"
+      },
+      {
+        "id": "236c6f79-9a33-8191-912f-f54d701a7494",
+        "name": "Zfort Group",
+        "website": "https://www.zfort.com"
+      },
+      {
+        "id": "236c6f79-9a33-81b5-b8b2-fdc7c52f567f",
+        "name": "IntLabs",
+        "website": "https://www.intlabs.io"
+      },
+      {
+        "id": "236c6f79-9a33-8112-a451-ee0f4b3548bb",
+        "name": "Axiom Zen",
+        "website": "**"
+      },
+      {
+        "id": "236c6f79-9a33-810a-89d0-e201fb5a9f8a",
+        "name": "Adastra Corporation",
+        "website": "https://adastracorp.com/adastra-ai/"
+      },
+      {
+        "id": "236c6f79-9a33-8130-9b64-f99f00788053",
+        "name": "Softmax Data Inc.",
+        "website": "https://www.softmaxdata.com/"
+      },
+      {
+        "id": "236c6f79-9a33-81c0-8941-d7c6e2c500c6",
+        "name": "Responsive AI",
+        "website": "https://www.responsive.io"
+      },
+      {
+        "id": "236c6f79-9a33-8180-b3b3-c6c03a8f9b27",
+        "name": "Kai Analytics International",
+        "website": "https://www.kaianalytics.com"
+      },
+      {
+        "id": "236c6f79-9a33-8157-818e-c892b8d2b40e",
+        "name": "ASC Creative Ltd.",
+        "website": "**"
+      },
+      {
+        "id": "236c6f79-9a33-8117-947d-e3633d8ab08a",
+        "name": "Altitude Business Intelligence",
+        "website": "https://altitudeintelligence.ca"
+      },
+      {
+        "id": "236c6f79-9a33-8197-bad4-d67850271c06",
+        "name": "BetterTable",
+        "website": "https://www.bettertable.com"
+      },
+      {
+        "id": "236c6f79-9a33-8195-88cd-cd49fcb892c3",
+        "name": "SenseNet",
+        "website": "https://www.sensenet.com"
+      },
+      {
+        "id": "236c6f79-9a33-81b0-8c0c-fb94e425d88a",
+        "name": "ThinkLabs AI",
+        "website": "https://www.thinklabs.com"
+      },
+      {
+        "id": "236c6f79-9a33-81f1-b28c-dc1cf9487e0d",
+        "name": "Jetson",
+        "website": "https://www.jetson.com"
+      },
+      {
+        "id": "236c6f79-9a33-812c-8dda-f2a2c8da0035",
+        "name": "Amplitude Ventures",
+        "website": "https://amplitudevc.com/"
+      },
+      {
+        "id": "236c6f79-9a33-8152-98fd-edce1ecaa227",
+        "name": "Kensington Capital Partners",
+        "website": "https://www.kcpl.ca/"
+      },
+      {
+        "id": "1f8c6f79-9a33-818a-808b-e65be1a09646",
+        "name": "VIATEC AI Meetups",
+        "website": "https://www.viatec.ca"
+      },
+      {
+        "id": "1f8c6f79-9a33-8124-8fc6-f0daabe7d0af",
+        "name": "University of Victoria (UVic) AI Research",
+        "website": "https://www.uvic.ca"
+      },
+      {
+        "id": "1f8c6f79-9a33-81a9-9538-f2ef0484b2a0",
+        "name": "SFU Computing Science & Creative AI Labs",
+        "website": "https://www.sfu.ca/computing"
+      },
+      {
+        "id": "1f8c6f79-9a33-81e8-a551-d1572b959831",
+        "name": "Planview (Vancouver)",
+        "website": "https://www.planview.com"
+      },
+      {
+        "id": "1f7c6f79-9a33-81a7-a857-d822d2990e70",
+        "name": "Teck Resources & AltaML Applied AI Lab",
+        "website": "https://www.teck.com"
+      },
+      {
+        "id": "1f7c6f79-9a33-8148-898f-c017d396b11f",
+        "name": "IBM Vancouver",
+        "website": "https://www.ibm.com/ca-en"
+      },
+      {
+        "id": "1f7c6f79-9a33-8158-97ef-f79713a73b03",
+        "name": "Cisco Systems (Vancouver)",
+        "website": "https://www.cisco.com"
+      },
+      {
+        "id": "1f7c6f79-9a33-816a-b2f7-edc1e28485d6",
+        "name": "SAP Canada (Vancouver)",
+        "website": "**"
+      },
+      {
+        "id": "1f7c6f79-9a33-8150-aa24-cadf9a13db14",
+        "name": "Meta Vancouver",
+        "website": "https://www.metacareers.com/locations/vancouver"
+      },
+      {
+        "id": "1f7c6f79-9a33-8129-b45e-d8ced630179c",
+        "name": "Google Vancouver",
+        "website": "https://careers.google.com/locations/vancouver/"
+      },
+      {
+        "id": "1f1c6f79-9a33-81e1-a426-c859bc1e856b",
+        "name": "Vancouver Angel Network (VANTEC)",
+        "website": "https://www.vantec.ca/"
+      },
+      {
+        "id": "1f1c6f79-9a33-8191-a508-f58e9e0454f1",
+        "name": "Pender Ventures",
+        "website": "https://www.penderventures.com/"
+      },
+      {
+        "id": "1f1c6f79-9a33-81fd-9a9d-ffd755e9c5dc",
+        "name": "Finn.ai",
+        "website": "https://www.finn.ai"
+      },
+      {
+        "id": "1f1c6f79-9a33-8109-b57f-ef1a32ba627e",
+        "name": "Pieoneers",
+        "website": "**"
+      },
+      {
+        "id": "1f1c6f79-9a33-81fe-b3a6-d225759c9a4b",
+        "name": "Inoxoft",
+        "website": "**"
+      },
+      {
+        "id": "1f1c6f79-9a33-817c-aad0-f1f298dc2dd2",
+        "name": "Dooly.ai",
+        "website": "https://dooly.ai"
+      },
+      {
+        "id": "1f1c6f79-9a33-81ec-8b8f-d9732ccaa47f",
+        "name": "MineSense",
+        "website": "https://www.minesense.com"
+      },
+      {
+        "id": "1f0c6f79-9a33-81e0-8acd-d38e02381120",
+        "name": "Victoria Data Society",
+        "website": "**"
+      },
+      {
+        "id": "1f0c6f79-9a33-81f1-8537-f88511a6dccd",
+        "name": "221A Node Library",
+        "website": "https://221a.ca/research-initiatives/node"
+      },
+      {
+        "id": "1f0c6f79-9a33-819b-ba06-c229403fb1a4",
+        "name": "UBC Master of Data Science (MDS)",
+        "website": "https://masterdatascience.ubc.ca"
+      },
+      {
+        "id": "1f0c6f79-9a33-8117-805d-d816bdc7150d",
+        "name": "AltaML (Vancouver)",
+        "website": "**"
+      },
+      {
+        "id": "1f0c6f79-9a33-81a1-91d2-ee02caeabfe2",
+        "name": "TELUS Data & AI Initiatives",
+        "website": "https://www.telus.com/en/digital"
+      },
+      {
+        "id": "246c6f79-9a33-8167-bb68-d0b1394fc239",
+        "name": "Daric Clouding Solutions",
+        "website": null
+      },
+      {
+        "id": "246c6f79-9a33-81d8-b343-d122c8182899",
+        "name": "Novatone Consulting Ltd.",
+        "website": null
+      },
+      {
+        "id": "246c6f79-9a33-81fd-bf5b-d17064f0edb6",
+        "name": "Quartech Systems Ltd.",
+        "website": null
+      },
+      {
+        "id": "240c6f79-9a33-81d4-bf20-cc38b1b3f705",
+        "name": "Narval Energy Inc.",
+        "website": null
+      },
+      {
+        "id": "240c6f79-9a33-813f-b059-dd0b4fb7ad2e",
+        "name": "Ocean AID",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8161-9022-db94c076be74",
+        "name": "BC Regional AI Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-819b-ac0f-d316a92b8c07",
+        "name": "BC Regional AI Initiative Recipients",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2",
+        "name": "Artificial Muse Music AI Residency",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-a212-d090b77e7270",
+        "name": "ICCSMLAI Vancouver Sports Track",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8105-972a-f5291ba9504e",
+        "name": "FLAIR BC Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b",
+        "name": "Indigenous Protocol and AI Working Group",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8",
+        "name": "NEXT AI BC Companies",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81bb-99b4-e06406856531",
+        "name": "Scale AI BC Recipients",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8193-b79b-e19e18cc35c2",
+        "name": "DigiBC Creative AI Members",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8139-8c2d-e340278f023e",
+        "name": "DigiBC Signals AI Showcase",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81e8-bb83-d81f112e5580",
+        "name": "RAII Grant Recipients 2025",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-818e-b964-da7b9a50ada9",
+        "name": "BC Fast Pilot AI Projects",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8102-8af8-d81b632dbd61",
+        "name": "Meton AI",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-819f-96ac-e9784041a029",
+        "name": "Microsoft VCH AI Partnership",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81b5-ad09-c285d08d695c",
+        "name": "BCIT Applied Research Centre for Sustainability Energy and Resource Innovations",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81d7-8723-efbf5829fe6b",
+        "name": "Unity Muse Vancouver Community",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81aa-a1cf-d69182e824b9",
+        "name": "External Development Summit Vancouver",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8111-a043-df271f8e95a0",
+        "name": "BC Forest Innovation and Bioeconomy Manufacturing Program",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-817f-9b57-caa969f4554f",
+        "name": "CFS Mass Timber Innovation and Research Lab",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81bd-a9f6-eabdb1a08712",
+        "name": "MiningTech North America Conference",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-812c-96c2-fbea33cb386a",
+        "name": "Southern Cross Gold BC",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8198-bad8-dabc55067107",
+        "name": "Farmonaut BC",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8104-86a0-d0e1957e632c",
+        "name": "BC Industry Partners AI Consortium",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81f5-84f1-f3f6008f3c8e",
+        "name": "Vancouver PropTech Hub",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-811c-90ea-fa87642b56ca",
+        "name": "Fraser Surrey Docks",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81bb-92fd-e9408c52e19c",
+        "name": "VFPA Terminal 2 Project",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8125-a0e7-f7c920e4b8e8",
+        "name": "Deltaport Container Terminal",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81bf-9525-c79e16ff3a40",
+        "name": "Neptune Terminals",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8171-b9e3-d5790556b24f",
+        "name": "TIABC AI Workshop Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca",
+        "name": "Site C Hydroelectric Project AI Division",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81e5-b4e9-f62e69011c60",
+        "name": "BC Hydro Electrification Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81f0-b59f-ff4000a394e5",
+        "name": "BCIT Xanadu Quantum Computing Program",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81ea-a951-fa3fb05d806f",
+        "name": "Vancouver International Privacy Security Summit",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81d4-88d4-f40dd6e5157f",
+        "name": "CICE AI Program",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-812d-be34-f3974cee4ab8",
+        "name": "SFU Artificial Intelligence Research Group",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8126-9330-f12d98fbfc33",
+        "name": "Thompson Rivers University Computer Science",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8180-b520-d7d06882bfcc",
+        "name": "University of Victoria AI and Machine Learning Lab",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81cb-ba45-fff149c337c7",
+        "name": "InBC Life Sciences Fund",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81c0-816e-d93782f79461",
+        "name": "Digital Technology Supercluster Healthtech Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-811b-ab60-d14ce505d900",
+        "name": "Microsoft Vancouver Coastal Health Partnership",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81b0-acde-ee67f82cd45a",
+        "name": "BC AI in Education Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-816d-8b8b-ccb2de125782",
+        "name": "UBC Biomedical Research Facility",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-814c-9abe-dd34607880ce",
+        "name": "BC AI Gaming Innovation Fund",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-819e-8b3f-d47a49dbbfd0",
+        "name": "Vancouver Game Development AI Collective",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8180-8bb2-f24d31f306ad",
+        "name": "3D AI Studio Vancouver",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8129-9bf2-f50c3fdadaed",
+        "name": "Unity Muse Vancouver Users",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8173-9383-eaf346b45cd7",
+        "name": "External Development Summit (XDS)",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81f1-8ce8-f669be4346de",
+        "name": "Law Society of BC AI Ethics Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81ed-bc87-ce76c95fd03b",
+        "name": "BC Securities Commission RegTech Sandbox",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8114-971b-c7c3b76341ba",
+        "name": "Prince George AI Fire Detection Network",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-815e-8e98-f88e3e526304",
+        "name": "Forest Innovation and Bioeconomy Program",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8105-b4ff-de202f58cb7a",
+        "name": "Canadian Forest Service Mass Timber Lab",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81cd-95b5-e4424e1a4c4c",
+        "name": "qathet Regional District AI Fire System",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8125-b009-ff24fe1152a4",
+        "name": "Pano AI BC Operations",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-819b-be47-cfbd077585dc",
+        "name": "Blue Economy Innovation Hub",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81b8-a8be-c89cb321113a",
+        "name": "BC Agritech Training Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81f3-847a-eacf249abde2",
+        "name": "BC Skills Training AI Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8128-acc9-f9a5f682700d",
+        "name": "BC Construction Technology Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8187-87a0-e2fc29fe2b80",
+        "name": "Fraser Surrey Docks AI Operations",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8176-bc16-dad5b67b0e95",
+        "name": "DP World Canada",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-810d-940f-d96d005343b0",
+        "name": "BC Manufacturing Skills Initiative",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8114-81cb-fb32f74070f6",
+        "name": "Neptune Terminals AI Operations",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb",
+        "name": "Artificial Intelligence Underwriting Company (AIUC)",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7",
+        "name": "Site C Hydroelectric AI Integration",
+        "website": null
+      },
+      {
+        "id": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+        "name": "Gaze AI",
+        "website": null
+      },
+      {
+        "id": "23dc6f79-9a33-8100-a933-dac23159a3b0",
+        "name": "Women in Machine Learning & Data Science (WiMLDS Vancouver)",
+        "website": null
+      },
+      {
+        "id": "23dc6f79-9a33-81f6-bf0f-ea2117753b46",
+        "name": "RBC Borealis",
+        "website": null
+      },
+      {
+        "id": "23dc6f79-9a33-8187-a016-d27418833bc7",
+        "name": "Drive Hockey Analytics",
+        "website": null
+      },
+      {
+        "id": "236c6f79-9a33-8103-86f2-ff0a75c70895",
+        "name": "Google for Startups Accelerator: AI for Nature",
+        "website": null
+      },
+      {
+        "id": "1f8c6f79-9a33-8179-a60d-daa0d4738e2e",
+        "name": "RBC Borealis AI (Vancouver Lab)",
+        "website": null
+      },
+      {
+        "id": "1f7c6f79-9a33-811c-bfde-c38f8b469ac3",
+        "name": "Unity Technologies (Vancouver)",
+        "website": null
+      }
+    ]
+  }
+}

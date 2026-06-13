@@ -1,0 +1,91 @@
+{
+  "updated": [
+    {
+      "name": "FreshGrade",
+      "pageId": "23fc6f79-9a33-81d3-ba7b-ec6d97c25599",
+      "funding": "$11.7M Series A (2014)",
+      "revenue": "$5M+ ARR",
+      "category": "EdTech"
+    },
+    {
+      "name": "Absolute Software",
+      "pageId": "1f8c6f79-9a33-8105-a6a6-e70376f2fb61",
+      "funding": "Public (TSX:ABST, NASDAQ:ABST)",
+      "revenue": "$167M USD (2023)",
+      "category": "Cybersecurity"
+    },
+    {
+      "name": "Spare",
+      "pageId": "23dc6f79-9a33-81ee-8b58-d03c352fda1d",
+      "funding": "$22M Series B (2021)",
+      "revenue": "$5-10M ARR",
+      "category": "Transportation Tech"
+    }
+  ],
+  "created": [
+    {
+      "name": "Showbie",
+      "pageId": "240c6f79-9a33-8127-894c-cf822cde3764",
+      "funding": "$10M Series A (2020)",
+      "category": "EdTech"
+    },
+    {
+      "name": "Rentberry",
+      "pageId": "240c6f79-9a33-814d-b89f-c5e0a63eb9ed",
+      "funding": "$4.5M ICO (2018)",
+      "category": "PropTech Startup"
+    },
+    {
+      "name": "Properly",
+      "pageId": "240c6f79-9a33-8166-ba45-d1a733b3a2c5",
+      "funding": "$44M Series B (2022)",
+      "category": "PropTech Startup"
+    },
+    {
+      "name": "1Password",
+      "pageId": "240c6f79-9a33-8169-b3bb-f0b289a1a81c",
+      "funding": "$620M Series C (January 2022)",
+      "category": "Cybersecurity"
+    },
+    {
+      "name": "Thunderbird Entertainment",
+      "pageId": "240c6f79-9a33-81ff-be3f-c7d7c97fc191",
+      "funding": "Public (TSXV:TBRD)",
+      "category": "Media Tech"
+    },
+    {
+      "name": "Bron Studios",
+      "pageId": "240c6f79-9a33-8143-b57b-ede5f466a398",
+      "funding": "$100M+ debt financing (2021)",
+      "category": "Media Tech"
+    },
+    {
+      "name": "Routific",
+      "pageId": "240c6f79-9a33-81e8-9fd0-f9e2c738c2e6",
+      "funding": "$5M Series A (2019)",
+      "category": "Logistics Tech"
+    },
+    {
+      "name": "Unbounce",
+      "pageId": "240c6f79-9a33-8150-9b32-ff02f59cf619",
+      "funding": "$52M growth equity (2021)",
+      "category": "Marketing Tech"
+    },
+    {
+      "name": "Kiind",
+      "pageId": "240c6f79-9a33-8115-a5e3-eb4165862ca4",
+      "funding": "$6M Series A (2019)",
+      "category": "Fintech"
+    }
+  ],
+  "errors": [
+    {
+      "name": "Bench",
+      "error": "Failed to create"
+    },
+    {
+      "name": "Sendwithus",
+      "error": "Failed to create"
+    }
+  ]
+}

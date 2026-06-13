@@ -1,0 +1,780 @@
+{
+  "timestamp": "2025-08-03T06:33:36.098Z",
+  "execution": "ALL_REMAINING_FILES_PROCESSING",
+  "summary": {
+    "filesProcessed": 39,
+    "companiesProcessed": 905,
+    "successful": 271,
+    "failed": 634,
+    "totalFieldsUpdated": 1077,
+    "successRate": "30%"
+  },
+  "fileResults": {
+    "2019-founded-bc-tech-companies.json": {
+      "totalCompanies": 11,
+      "successful": 11,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "2020-founded-bc-tech-companies.json": {
+      "totalCompanies": 10,
+      "successful": 10,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-10-gaming-media-creative.json": {
+      "totalCompanies": 25,
+      "successful": 7,
+      "failed": 18,
+      "successRate": "28%"
+    },
+    "batch-11-formatted.json": {
+      "totalCompanies": 8,
+      "successful": 1,
+      "failed": 7,
+      "successRate": "13%"
+    },
+    "batch-11-transportation-mobility.json": {
+      "totalCompanies": 25,
+      "successful": 1,
+      "failed": 24,
+      "successRate": "4%"
+    },
+    "batch-12-proptech-real-estate.json": {
+      "totalCompanies": 25,
+      "successful": 3,
+      "failed": 22,
+      "successRate": "12%"
+    },
+    "batch-14-government-public-tech.json": {
+      "totalCompanies": 25,
+      "successful": 0,
+      "failed": 25,
+      "successRate": "0%"
+    },
+    "batch-15-formatted.json": {
+      "totalCompanies": 20,
+      "successful": 20,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-16-major-exits-formatted.json": {
+      "totalCompanies": 5,
+      "successful": 5,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-17-emerging-ai-formatted.json": {
+      "totalCompanies": 5,
+      "successful": 5,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-18-public-scaleups-formatted.json": {
+      "totalCompanies": 3,
+      "successful": 3,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-19-healthcare-biotech-formatted.json": {
+      "totalCompanies": 4,
+      "successful": 4,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-2-complete-data.json": {
+      "totalCompanies": 8,
+      "successful": 8,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-2-deep-crunchbase-data.json": {
+      "totalCompanies": 4,
+      "successful": 4,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-20-2023-founded-formatted.json": {
+      "totalCompanies": 5,
+      "successful": 5,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-21-2022-founded-formatted.json": {
+      "totalCompanies": 4,
+      "successful": 4,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-22-2021-founded-formatted.json": {
+      "totalCompanies": 5,
+      "successful": 5,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-23-2020-founded-formatted.json": {
+      "totalCompanies": 9,
+      "successful": 9,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-24-2019-founded-formatted.json": {
+      "totalCompanies": 8,
+      "successful": 8,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-25-major-exits-formatted.json": {
+      "totalCompanies": 6,
+      "successful": 6,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-25-research-data.json": {
+      "totalCompanies": 19,
+      "successful": 19,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "batch-5-financial-research.json": {
+      "totalCompanies": 25,
+      "successful": 19,
+      "failed": 6,
+      "successRate": "76%"
+    },
+    "batch-5-formatted.json": {
+      "totalCompanies": 18,
+      "successful": 16,
+      "failed": 2,
+      "successRate": "89%"
+    },
+    "batch-6-ai-ml-research.json": {
+      "totalCompanies": 25,
+      "successful": 14,
+      "failed": 11,
+      "successRate": "56%"
+    },
+    "batch-6-formatted.json": {
+      "totalCompanies": 18,
+      "successful": 11,
+      "failed": 7,
+      "successRate": "61%"
+    },
+    "batch-7-formatted.json": {
+      "totalCompanies": 18,
+      "successful": 9,
+      "failed": 9,
+      "successRate": "50%"
+    },
+    "batch-7-healthcare-biotech.json": {
+      "totalCompanies": 25,
+      "successful": 10,
+      "failed": 15,
+      "successRate": "40%"
+    },
+    "batch-8-enterprise-saas.json": {
+      "totalCompanies": 25,
+      "successful": 7,
+      "failed": 18,
+      "successRate": "28%"
+    },
+    "batch-9-cleantech-industrial.json": {
+      "totalCompanies": 24,
+      "successful": 3,
+      "failed": 21,
+      "successRate": "13%"
+    },
+    "completeness-analysis.json": {
+      "totalCompanies": 418,
+      "successful": 0,
+      "failed": 418,
+      "successRate": "0%"
+    },
+    "dwave-trulioo-financial-research.json": {
+      "totalCompanies": 2,
+      "successful": 2,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "failed-keypeople-updates.json": {
+      "totalCompanies": 8,
+      "successful": 0,
+      "failed": 8,
+      "successRate": "0%"
+    },
+    "final-batch-financial-intelligence.json": {
+      "totalCompanies": 4,
+      "successful": 0,
+      "failed": 4,
+      "successRate": "0%"
+    },
+    "financial-metrics-batch-2.json": {
+      "totalCompanies": 8,
+      "successful": 8,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "financial-metrics-batch-3.json": {
+      "totalCompanies": 8,
+      "successful": 8,
+      "failed": 0,
+      "successRate": "100%"
+    },
+    "linkedin-research-batch-2025-07-29.json": {
+      "totalCompanies": 15,
+      "successful": 0,
+      "failed": 15,
+      "successRate": "0%"
+    },
+    "phase-1-priority-companies.json": {
+      "totalCompanies": 10,
+      "successful": 9,
+      "failed": 1,
+      "successRate": "90%"
+    },
+    "research-updates-2025-07-29.json": {
+      "totalCompanies": 9,
+      "successful": 6,
+      "failed": 3,
+      "successRate": "67%"
+    },
+    "website-research-batch-2025-07-29.json": {
+      "totalCompanies": 11,
+      "successful": 11,
+      "failed": 0,
+      "successRate": "100%"
+    }
+  },
+  "companiesUpdated": [
+    {
+      "name": "Digital Technology Supercluster",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Phaidra",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Aqua Intelligent",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Growlyn",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Hugo Inc",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Quantum Algorithms Institute",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "PacifiCan AI Initiative",
+      "fieldsUpdated": [
+        "Funding",
+        "Year Founded"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Mangrove Lithium",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Ekona Power",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Beatdapp Software",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Origen Air",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2019-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Traction on Demand",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Canurta",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Cooler Heads Care",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Spare Labs",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Enteligent",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "RapidCert",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "OVA (Open Virtual Assistant)",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Vaultie",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Neural Dynamics",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "GreenFlow Analytics",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Year Founded",
+        "Notable Projects"
+      ],
+      "source": "2020-founded-bc-tech-companies.json"
+    },
+    {
+      "name": "Relic Entertainment",
+      "fieldsUpdated": [
+        "Funding",
+        "Notable Projects"
+      ],
+      "source": "batch-10-gaming-media-creative.json"
+    },
+    {
+      "name": "Radical Entertainment",
+      "fieldsUpdated": [
+        "Funding",
+        "Notable Projects"
+      ],
+      "source": "batch-10-gaming-media-creative.json"
+    },
+    {
+      "name": "Phoenix Labs",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Revenue",
+        "Notable Projects"
+      ],
+      "source": "batch-10-gaming-media-creative.json"
+    },
+    {
+      "name": "Kabam",
+      "fieldsUpdated": [
+        "Funding",
+        "Revenue",
+        "Notable Projects"
+      ],
+      "source": "batch-10-gaming-media-creative.json"
+    },
+    {
+      "name": "Finger Food Advanced Technology Group",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Notable Projects"
+      ],
+      "source": "batch-10-gaming-media-creative.json"
+    },
+    {
+      "name": "MetaVRse",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Notable Projects"
+      ],
+      "source": "batch-10-gaming-media-creative.json"
+    },
+    {
+      "name": "Archiact",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Notable Projects"
+      ],
+      "source": "batch-10-gaming-media-creative.json"
+    },
+    {
+      "name": "Kater",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count"
+      ],
+      "source": "batch-11-formatted.json"
+    },
+    {
+      "name": "Mogo",
+      "fieldsUpdated": [
+        "Funding",
+        "Employee Count",
+        "Notable Projects"
+      ],
+      "source": "batch-11-transportation-mobility.json"
+    },
+    {
+      "name": "Pocketed",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Notable Projects"
+      ],
+      "source": "batch-12-proptech-real-estate.json"
+    },
+    {
+      "name": "Roomvu",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Notable Projects"
+      ],
+      "source": "batch-12-proptech-real-estate.json"
+    },
+    {
+      "name": "Properly",
+      "fieldsUpdated": [
+        "Funding",
+        "Revenue",
+        "Notable Projects"
+      ],
+      "source": "batch-12-proptech-real-estate.json"
+    },
+    {
+      "name": "Nexus AI Labs",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "Quantum Dynamics",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "BioSynth Technologies",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "CleanGrid Systems",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "Neural Therapeutics",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "PropFlow AI",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "CarbonFlow",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "Immersive Learning Labs",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "FinFlow Systems",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "Ocean Robotics Dynamics",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "HealthGraph AI",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "SpaceLink Communications",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "AgriTech Innovations",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "GameFlow Studios",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "SecureChain Labs",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "EnergyFlow Dynamics",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    },
+    {
+      "name": "DataMesh Analytics",
+      "fieldsUpdated": [
+        "Key People",
+        "Funding",
+        "Employee Count",
+        "Revenue",
+        "Valuation"
+      ],
+      "source": "batch-15-formatted.json"
+    }
+  ],
+  "totalCompaniesUpdated": 271,
+  "errors": []
+}

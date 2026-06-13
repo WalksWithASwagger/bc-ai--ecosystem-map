@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-07-30T05:20:17.119Z",
+  "summary": {
+    "totalOrganizations": 555,
+    "suspiciousUrls": 0,
+    "duplicateNames": 0,
+    "invalidEmails": 0,
+    "invalidPhones": 0
+  },
+  "issues": {
+    "suspiciousUrls": [],
+    "duplicateNames": {},
+    "invalidEmails": [],
+    "invalidPhones": [],
+    "dataInconsistencies": []
+  }
+}

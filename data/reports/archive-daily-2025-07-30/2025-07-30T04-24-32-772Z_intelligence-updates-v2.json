@@ -1,0 +1,37 @@
+[
+  {
+    "pageId": "23fc6f79-9a33-811b-b373-ec277010dbd9",
+    "organization": "SkyAcres",
+    "verifiedData": {},
+    "requiresManualVerification": [
+      "funding"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-816b-a9a9-c048f4282e69",
+    "organization": "Properti Edge",
+    "verifiedData": {},
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-8136-b651-fed831c1c8a8",
+    "organization": "BC Centre for Innovation and Clean Energy",
+    "verifiedData": {
+      "yearFounded": {
+        "value": 2018,
+        "source": "https://northx.ca/about/our-team",
+        "sourceType": "Company Website",
+        "confidence": "high",
+        "context": "tish Columbia’s inaugural Innovation Commissioner from 2018 to 2020, advancing BC’s innovation agenda and champi",
+        "extractedAt": "2025-07-30T04:24:32.757Z"
+      }
+    },
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  }
+]

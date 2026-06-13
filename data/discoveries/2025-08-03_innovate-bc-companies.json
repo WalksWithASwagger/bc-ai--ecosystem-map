@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-08-03T06:36:43.463Z",
+  "source": "Innovate BC",
+  "totalCompanies": 0,
+  "aiCompanies": 0,
+  "companies": {
+    "ai": [],
+    "other": []
+  },
+  "summary": {
+    "totalFundingRecords": 0,
+    "companiesWithWebsites": 0,
+    "companiesWithSector": 0
+  }
+}

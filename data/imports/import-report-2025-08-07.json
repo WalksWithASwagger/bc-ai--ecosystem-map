@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2025-08-07T16:12:09.235Z",
+  "sourceFile": "data/imports/bc-tech-ai-companies-2025.json",
+  "dryRun": true,
+  "summary": {
+    "total": 17,
+    "imported": 0,
+    "duplicates": 13,
+    "errors": 0,
+    "details": [
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "23dc6f79-9a33-8102-9b8b-f6f988aae39f",
+        "company": "Apera AI"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "23dc6f79-9a33-8139-a460-d403a9538e08",
+        "company": "Browse AI"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "23dc6f79-9a33-81c1-9745-c23026f9b5f0",
+        "company": "Sanctuary AI"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+        "company": "Klue"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "1f1c6f79-9a33-81ec-8b8f-d9732ccaa47f",
+        "company": "MineSense"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "227c6f79-9a33-8124-ba25-e73122d22c05",
+        "company": "Visier"
+      },
+      {
+        "success": true,
+        "dryRun": true,
+        "company": "ZE PowerGroup"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "240c6f79-9a33-8141-9a97-edc6de36d550",
+        "company": "Trulioo"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "23fc6f79-9a33-8192-9d2f-e1c3d5f4a2a9",
+        "company": "Dapper Labs"
+      },
+      {
+        "success": true,
+        "dryRun": true,
+        "company": "VoxCell BioInnovations"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "240c6f79-9a33-8162-b62f-cdf2fd4815eb",
+        "company": "General Fusion"
+      },
+      {
+        "success": true,
+        "dryRun": true,
+        "company": "DarkVision"
+      },
+      {
+        "success": true,
+        "dryRun": true,
+        "company": "Chrysalix Venture Capital"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "23dc6f79-9a33-8190-a6eb-f0c5683c5548",
+        "company": "TELUS Ventures"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "1f0c6f79-9a33-816f-b270-fd4ca2e34fe8",
+        "company": "AInBC (AI Network of BC)"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "23dc6f79-9a33-81b6-aa0d-cba176a7845a",
+        "company": "Digital Technology Supercluster"
+      },
+      {
+        "success": false,
+        "reason": "duplicate",
+        "existingId": "1f0c6f79-9a33-816e-b041-d6e6ac5cd621",
+        "company": "Launch Academy"
+      }
+    ]
+  },
+  "details": [
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "23dc6f79-9a33-8102-9b8b-f6f988aae39f",
+      "company": "Apera AI"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "23dc6f79-9a33-8139-a460-d403a9538e08",
+      "company": "Browse AI"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "23dc6f79-9a33-81c1-9745-c23026f9b5f0",
+      "company": "Sanctuary AI"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+      "company": "Klue"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "1f1c6f79-9a33-81ec-8b8f-d9732ccaa47f",
+      "company": "MineSense"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "227c6f79-9a33-8124-ba25-e73122d22c05",
+      "company": "Visier"
+    },
+    {
+      "success": true,
+      "dryRun": true,
+      "company": "ZE PowerGroup"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "240c6f79-9a33-8141-9a97-edc6de36d550",
+      "company": "Trulioo"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "23fc6f79-9a33-8192-9d2f-e1c3d5f4a2a9",
+      "company": "Dapper Labs"
+    },
+    {
+      "success": true,
+      "dryRun": true,
+      "company": "VoxCell BioInnovations"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "240c6f79-9a33-8162-b62f-cdf2fd4815eb",
+      "company": "General Fusion"
+    },
+    {
+      "success": true,
+      "dryRun": true,
+      "company": "DarkVision"
+    },
+    {
+      "success": true,
+      "dryRun": true,
+      "company": "Chrysalix Venture Capital"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "23dc6f79-9a33-8190-a6eb-f0c5683c5548",
+      "company": "TELUS Ventures"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "1f0c6f79-9a33-816f-b270-fd4ca2e34fe8",
+      "company": "AInBC (AI Network of BC)"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "23dc6f79-9a33-81b6-aa0d-cba176a7845a",
+      "company": "Digital Technology Supercluster"
+    },
+    {
+      "success": false,
+      "reason": "duplicate",
+      "existingId": "1f0c6f79-9a33-816e-b041-d6e6ac5cd621",
+      "company": "Launch Academy"
+    }
+  ]
+}

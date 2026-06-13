@@ -1,0 +1,2335 @@
+{
+  "totalCompanies": 991,
+  "matchedCompanies": 478,
+  "enrichmentsMade": 52,
+  "fieldsUpdated": {
+    "Website": 47,
+    "BC Region": 6,
+    "Funding": 2
+  },
+  "skippedUpdates": 0,
+  "conflicts": [],
+  "newCompanies": [
+    {
+      "name": "🚀 STARTUPS & SCALE-UPS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Reflection.ai",
+      "confidence": 0.9,
+      "extractedData": {
+        "funding": "$130M",
+        "founded": 2025,
+        "location": "BC"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Good Chemistry",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "PropTech & Real Estate AI",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "UnlockLand",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://unlock.land"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Service Studios & Agencies",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Indigenous Tech Organizations",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Caroline Running Wolf AI Language Project",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "🏛️ GOVERNMENT & PUBLIC SECTOR",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Federal Initiatives",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "NRC-IRAP AI Program",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Provincial Programs",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC Ministry of AI",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC AI Adoption for Education Initiative",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC Agricultural Technology Adoption Program",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC Wildfire AI Satellite Analysis Program",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC Business Registry AI Enhancement",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC Centre for Innovation and Clean Energy AI Program",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Municipal Initiatives",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "City of Vancouver AI Strategy",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Surrey AI Initiative",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "🎓 ACADEMIC & RESEARCH",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "University Programs & Labs",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "UBC AI for Climate Solutions Lab",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "British Columbia"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Research Consortiums",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "🏢 ENTERPRISE & CORPORATE",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Major Tech Companies",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "🏗️ INFRASTRUCTURE & DATA CENTERS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "💰 INVESTMENT & ACCELERATORS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Fort Tectoria",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Victoria"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "🤝 COMMUNITY & ASSOCIATIONS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "DevFest YVR AI Summit",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC AI for Refugees Initiative",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC AI Ethics Network",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "🔬 SPECIALIZED AI COMPANIES",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "HealthTech/BioTech",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "FinTech/InsurTech",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Ocean/Marine Tech",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Energy & CleanTech",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "BC Forestry Innovation Investment Program",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "📱 PLATFORMS & SAAS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "🏛️ HISTORICAL/ACQUIRED",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "📊 SUMMARY STATISTICS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Total Organizations to Add: 85",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "By Category:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Startups & Scale",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Government & Public Sector: 27",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Academic & Research: 11",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Enterprise & Corporate: 5",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Infrastructure: 5",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Investment & Accelerators: 9",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Community & Associations: 12",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Specialized AI Companies: 15",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Platforms & SaaS: 4",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Historical/Acquired: 3",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "By Region:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Lower Mainland (Vancouver/Burnaby): ~50",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Vancouver Island (Victoria): ~8",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Interior BC (Kelowna/Kamloops): ~10",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Northern BC (Prince George): ~5",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Province",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "🎯 RECOMMENDED IMPORT STRATEGY",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Phase 1",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Phase 2",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Phase 3",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Phase 4",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "📝 NOTES",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Last Updated: 2025",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Confidence: HIGH",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/organizations-to-add-2025-07-30.md"
+    },
+    {
+      "name": "Vendasta",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "CloudMD",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "InMed Pharmaceuticals",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "PHEMI Systems",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Nanozen",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Mazza Innovation",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Sernova",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Numinus Wellness",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Alpha-9 Theranostics",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Enterprise SaaS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Optigo Networks",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Giftbit",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "CleanTech/Industrial",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Cognitive3D",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Smarter Alloys",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Finning Digital",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Services & Consulting",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "FreshWorks Studio",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "🏢 Major Corporate Offices",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Tech Giants (Document BC presence)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Workday",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Microsoft",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Amazon",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Meta",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Apple",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "💀 Failed Companies (Important for ecosystem learning)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "High-Profile Failures",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Left Travel",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Struggling Public Companies",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "BBTV",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Nextech AR",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Virtro Entertainment",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "📈 Recent Exits to Document",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Completed Acquisitions",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Elastic Path",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Vision Critical",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Rally",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Rival IQ",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Phase 1 (High Impact)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Current unicorns: 1QB Information Technologies",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Phase 2 (Growth Companies)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "High",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Emerging AI: Phaidra, Moment Energy, Roomvu",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Phase 3 (Complete Coverage)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Smaller companies and corporate offices",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Failed companies for ecosystem learning",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "Complete exit documentation",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "📊 Expected Database Impact",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/COMPANIES_TO_ADD_MASTER_LIST.md"
+    },
+    {
+      "name": "New Organizations to Add",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "1. **Unblocked**",
+      "confidence": 0.8999999999999999,
+      "extractedData": {
+        "website": "https://ca.linkedin.com/company/getunblocked",
+        "funding": "$20M"
+      },
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "2. **Defang**",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://ca.linkedin.com/company/defanglabs"
+      },
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "3. **Fintel Connect**",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "https://ca.linkedin.com/company/fintelconnect",
+        "location": "Vancouver"
+      },
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "4. **SandboxAQ (Good Chemistry Acquisition)**",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "https://www.linkedin.com/company/sandboxaq",
+        "location": "Vancouver"
+      },
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "5. **Thales Canada**",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "https://www.linkedin.com/company/thales",
+        "location": "Vancouver"
+      },
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "6. **Advertising Intelligence (ADINT.AI)**",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://www.adint.ai/"
+      },
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "Notes to Add to Existing Organizations",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "Instructions for Manual Entry",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "For New Organizations",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "For Existing Organizations",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "Database ID",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/manual-research-updates-2025-07-29.md"
+    },
+    {
+      "name": "Organizations with Complete Contact Information",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "A",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Adastra / Adastra Corporation",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "**"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "AInBC (Artificial Intelligence network of BC)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Animikii / Animikii Indigenous Technology Inc",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Victoria"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Arca (formerly Carbin Minerals)",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Artemis / Artemisdata",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Atome Bakery",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Avivo Biomedical",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "B",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "BC + AI Ecosystem (BC AI Industry Association)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Beam AI",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Blanka",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "C",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "CAIDA (Centre for AI Decision-making and Action) - UBC",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "ChatMetric Technologies Ltd",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Convergence Concepts Inc",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Creative Destruction Lab (CDL) / CDL-Vancouver",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "D",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Defang / Defang Software Labs",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "deltAlyz Canada / deltAlyz Corp",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "E",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Effie Agentic AI",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "ESG Analytics",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "EXAMIND AI",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "F",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Facili.ai",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Finger Food Advanced Technology Group / Finger Food Studios",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Finn AI / Finn.ai",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "**"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Fujitsu / Fujitsu Intelligence Technology",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "FutureTwin",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "G",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Gaze / Gaze AI",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Generation R Consulting",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Genesis AI / Genesis AI Corp",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Good Chemistry (Acquired by SandboxAQ)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "H",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "HannahHR Technologies Inc",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Hugo / Hugo Inc",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "I",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "J",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "K",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Kindred / Kindred AI",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Toronto/San Francisco (formerly Vancouver)"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Krazimo",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "L",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "M",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "MetaOptima / MetaOptima (DermEngine)",
+      "confidence": 0.95,
+      "extractedData": {
+        "website": "https://www.linkedin.com/company/metaoptima-technology-inc-",
+        "location": "** Vancouver",
+        "funding": "$8.6M",
+        "founded": 2018
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Microsoft Research Asia Vancouver / Microsoft Vancouver",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Motion Metrics / Weir Motion Metrics",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "N",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "NINEBIT Computing",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "O",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Olive / Olive Technologies, Inc",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "OnDeck Fisheries / OnDeck Fisheries AI",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver Island"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "P",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Pacific Laboratory for Artificial Intelligence (PLAI)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** UBC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Q",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "R",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "RBC Borealis / RBC Borealis AI (Vancouver Lab)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Responsive AI / Responsive AI (Responsive Inc.)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "S",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "SandboxAQ",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "https://www.linkedin.com/company/sandboxaq",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Scope Carbon",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Spare / Spare Technologies",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "sphereishere / Spheria",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "** BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "T",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "TELUS / TELUS - Data & AI Initiatives / TELUS Digital Innovation Lab",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Thales / Thales Canada",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Trustworthy AI Lab / Trustworthy AI Lab - SFU",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** SFU"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "U",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "UBC CAIDA Center / UBC Centre for AI Decision-making and Action (CAIDA)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** UBC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "V",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Vancouver AI Community (VanAI) / Vancouver AI Meetup (VAM!)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "VIATEC (Fort Tectoria) / VIATEC AI Meetups",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Victoria"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "VRFY Inc. / VRIFY Technology",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "W",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Weir Motion Metrics",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "**",
+        "location": "** Vancouver"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "X",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Y",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Z",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Summary Statistics",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Total Organizations: 400+",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Organizations with Contact Information:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Geographic Distribution:",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Category Distribution:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Notable Findings:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "New Ventures BC 2025 Finalists:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "UBC Spin-offs:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Multinational Presence:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Indigenous Tech:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Recent Acquisitions:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Cross-Reference Notes for Notion Database",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Organizations Requiring URL Research (75+):",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Duplicate Entries to Consolidate:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Multiple entries for AInBC variations",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Creative Destruction Lab variations",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Finn AI / Finn.ai are the same",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Several TELUS divisions could be consolidated",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Organizations Needing Verification:",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "BC presence for some international companies",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Operational status of older startups",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "Current names after acquisitions/rebrandings",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/comprehensive-organization-contact-list.md"
+    },
+    {
+      "name": "📊 Executive Summary",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Key Findings",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "🌐 WEBSITE URLs READY FOR DATABASE IMPORT",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Major Tech Companies & Enterprise (15)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "https://www.grammarly.com/",
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "AI Startups & Scale-ups (40+)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "B2B Enterprise AI",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://www.produce8.com"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "FinTech & InsurTech",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://getpenny.com/"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Healthcare & BioTech",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://smartparent.health"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "AgTech & CleanTech",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://orcawater.com"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Marine & Ocean Tech",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://www.wildlifeai.org/"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Academic & Research (12)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "https://gaze.ai",
+        "location": "bc"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Investment & Accelerators (15)",
+      "confidence": 0.85,
+      "extractedData": {
+        "website": "https://www.spring.is/",
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Service Studios & Consulting (20+)",
+      "confidence": 0.7999999999999999,
+      "extractedData": {
+        "website": "https://www.zfort.com"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "📍 PHYSICAL ADDRESSES FOR DATABASE IMPORT",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Vancouver Downtown Core",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Vancouver Tech Hubs",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Vancouver West Side & UBC Area",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Vancouver Business Districts",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Greater Vancouver Area",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Vancouver Island",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Victoria"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Interior BC",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "👥 KEY PEOPLE INFORMATION FOR DATABASE IMPORT",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CEOs & Founders by Organization",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Major Tech Companies",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CEO: Tamer Mohamed (Co",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Team Size: 100+ people (50%+ women)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founded: 2008 by Ryan Holmes",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Company Size: 1,001",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founded: 2012",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Team Size: 51 employees across 4 continents",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Annual Revenue: $35M (2025)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Startups & Scale-ups",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founded: 2017 by Sean Hinton and Sergiy Osypchuk",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Headquarters: 2015 Main Street, Vancouver",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Team Growth: 75 full",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founded: 2010",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Headquarters: 199 W 6th Ave, Vancouver",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Patents: 185+ patents in IP portfolio",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founded: 2017",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Headquarters: 541 Howe St #2F, Vancouver",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Team Size: 34 employees",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founded: 2008",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "Vancouver"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Established Companies",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CEO: Kristoffer Vik Hansen (Co",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "COO: Josh Andrews (Co",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CTO: Alexey Indeev (Co",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "LinkedIn: 8,496 followers",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "President & CEO: Peter Cowan (since Feb 2024)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Board Chair: Andrew Petter",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Phone: 604.335.2495 or 1.800.573.0488",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Email: mgleboff@innovatebc.ca (Media inquiries",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CEO: Marin Tchakarov",
+      "confidence": 0.7,
+      "extractedData": {
+        "keyPeople": [
+          "James Bergstra",
+          "George Babu",
+          "Suzanne Gildert",
+          "James Bergstra",
+          "George Babu",
+          "Suzanne Gildert"
+        ]
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CEO: Taylor Lim Cooper",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Chief Revenue Officer: Dan Millar",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Revenue: $6 million (2025)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founder: Dr. Shahram Tafazoli (recently departed)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Leadership: Melanie Mackay, Ph.D.",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Research & Academic Leaders",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Primary Organizer: Kris Krüg",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Key People: Issam Laradji, Dylan Nihte",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Contact: kris@motleykrugmedia.com",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Phone: 778",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Executive Director: Kris Krüg",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Board includes: Kushal Shah, Victor Serbin",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Launch: 2025",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founder/CQO: Dr. Stephanie Simmons",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Team: Klaus Schuegraf, Alison Berg (CMO)",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Additional Key Executives",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Technical Founder: Rabi Belot",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Phone: 604",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founded: 2019",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CEO: Curtis Matlock",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "COO: Vanessa Babicz",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CTO: Dilan Ozkaynak",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Funding: $5.6M Series A",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Founded: 2008",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "CEO: Jon Damush",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Canadian Sales: Greg M. Davis",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Phone: 650",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Phone: 833",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "📧 EMAIL ADDRESSES & CONTACT INFORMATION",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Direct Business Contacts (36+)",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "📊 DATA QUALITY & IMPORT READINESS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Verification Status",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Import Categories",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Regional Distribution",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Organization Types Covered",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "🎯 NEXT STEPS FOR DATABASE ENHANCEMENT",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Immediate Actions",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Import Website URLs",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Import Physical Addresses",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Import Key People",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Import Contact Information",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Validation Recommendations",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Cross-reference existing data",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Verify postal codes",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Standardize addresses",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Update status flags",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Data Maintenance",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Quarterly URL verification",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Annual address validation",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Leadership updates",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Contact refresh",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "📋 SUMMARY STATISTICS",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Research Scope",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Data Discovery Results",
+      "confidence": 0.75,
+      "extractedData": {
+        "location": "BC"
+      },
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Data verified through: Official sources, cross",
+      "confidence": 0.7,
+      "extractedData": {},
+      "source": "data/research/website-address-research-2025-07-29.md"
+    },
+    {
+      "name": "Traction Guest",
+      "confidence": 0.9,
+      "extractedData": {},
+      "source": "data/discoveries/2025-08-03_year-revenue-updates.json"
+    }
+  ],
+  "errors": [
+    {
+      "company": "Cloudburst Research",
+      "error": "Founded is not a property that exists.",
+      "plannedUpdates": [
+        "Founded"
+      ]
+    },
+    {
+      "company": "Browse AI",
+      "error": "Founded is not a property that exists.",
+      "plannedUpdates": [
+        "Founded"
+      ]
+    },
+    {
+      "company": "Lila Sciences",
+      "error": "Founded is not a property that exists.",
+      "plannedUpdates": [
+        "Founded"
+      ]
+    },
+    {
+      "company": "MistyWest",
+      "error": "Founded is not a property that exists.",
+      "plannedUpdates": [
+        "Founded"
+      ]
+    },
+    {
+      "company": "Produce8",
+      "error": "Founded is not a property that exists.",
+      "plannedUpdates": [
+        "Founded"
+      ]
+    },
+    {
+      "company": "Vision Critical (Alida)",
+      "error": "Founded is not a property that exists.",
+      "plannedUpdates": [
+        "Website",
+        "Founded"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "updated": [
+    {
+      "name": "1QBit",
+      "pageId": "1f1c6f79-9a33-81c7-ae29-e2dcd342789b",
+      "funding": "$45M Series B (2021)",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Hootsuite",
+      "pageId": "1f7c6f79-9a33-8162-ad8e-dbc2864b7f80",
+      "funding": "Financial data updated"
+    },
+    {
+      "name": "Finger Food Studios",
+      "pageId": "240c6f79-9a33-819d-9e58-f7e640777abb",
+      "funding": "Acquired by Unity Technologies (2020)",
+      "category": "VR/AR"
+    },
+    {
+      "name": "Vanedge Capital",
+      "pageId": "1f0c6f79-9a33-812a-919d-dc64fa9df827",
+      "funding": "Fund III - $350M (2022)",
+      "category": "Investors & Funds"
+    }
+  ],
+  "created": [
+    {
+      "name": "Aurinia Pharmaceuticals",
+      "pageId": "240c6f79-9a33-818a-a526-ca1621f97465",
+      "funding": "Public (NASDAQ:AUPH, TSX:AUP)",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Eupraxia Pharmaceuticals",
+      "pageId": "240c6f79-9a33-8195-b80c-d3ac7a6f2825",
+      "funding": "$35M Series B (2023)",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "CRH Medical",
+      "pageId": "240c6f79-9a33-810a-b098-d331992876f3",
+      "funding": "Acquired by WELL Health (2021)",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Verge Agriculture",
+      "pageId": "240c6f79-9a33-8102-94d5-de10d96a8db4",
+      "funding": "$4M Seed (2022)",
+      "category": "AgTech"
+    },
+    {
+      "name": "Ayogo Health",
+      "pageId": "240c6f79-9a33-819d-8407-d62081146def",
+      "funding": "$5M Series A (2021)",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Lucent BioSciences",
+      "pageId": "240c6f79-9a33-8193-8664-e813026c04bf",
+      "funding": "$7M Series A (2023)",
+      "category": "AgTech"
+    },
+    {
+      "name": "Enterra Feed",
+      "pageId": "240c6f79-9a33-81df-8269-c0d2dbd6bd85",
+      "funding": "$30M growth funding (2022)",
+      "category": "AgTech"
+    },
+    {
+      "name": "MineSense Technologies",
+      "pageId": "240c6f79-9a33-8189-b76a-f2d9a11d3a9f",
+      "funding": "$42M Series C (2021)",
+      "category": "Mining"
+    },
+    {
+      "name": "IAMGOLD Innovation",
+      "pageId": "240c6f79-9a33-8165-a23a-c3f876a5eabf",
+      "funding": "Corporate R&D funding",
+      "category": "Mining"
+    },
+    {
+      "name": "MetaVRse",
+      "pageId": "240c6f79-9a33-81e9-8195-d7fcbe4a68c7",
+      "funding": "$5.2M Series A (2022)",
+      "category": "VR/AR"
+    },
+    {
+      "name": "BBTV Holdings",
+      "pageId": "240c6f79-9a33-81d4-9f4a-d3d6be9635b9",
+      "funding": "Public (TSX:BBTV)",
+      "category": "Media Tech"
+    }
+  ],
+  "errors": []
+}

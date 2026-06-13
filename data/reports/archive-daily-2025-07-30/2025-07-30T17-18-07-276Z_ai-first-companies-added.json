@@ -1,0 +1,87 @@
+{
+  "added": [
+    {
+      "name": "ModeMagic",
+      "pageId": "240c6f79-9a33-8144-beb7-ed68c238b2f6",
+      "category": "AI Companies",
+      "funding": "$5.5M Seed (2024) - BDC Capital, Tiny Capital, Golden Ventures",
+      "aiFocus": "Computer Vision, 3D Modeling, E-commerce"
+    },
+    {
+      "name": "Wysdom.AI",
+      "pageId": "240c6f79-9a33-81ca-982e-e5b804915194",
+      "category": "AI Companies",
+      "funding": "Acquired by Radiant Digital (2024) - Radiant Digital (acquirer), BDC Capital, Impression Ventures",
+      "valuation": "$50M+ (acquisition estimate)",
+      "aiFocus": "NLP, Conversational AI, Customer Service"
+    },
+    {
+      "name": "Canvass Analytics",
+      "pageId": "240c6f79-9a33-81f7-bad6-ee532f9be345",
+      "category": "AI Companies",
+      "funding": "$25M Series B (2019) - Google Assistant Investment Program, Yamaha Motor Ventures, Real Ventures",
+      "aiFocus": "Predictive Analytics, Industrial IoT, Manufacturing"
+    },
+    {
+      "name": "AlayaCare",
+      "pageId": "240c6f79-9a33-8143-8fcb-d0fa3a62bc52",
+      "category": "Healthcare & Biotech",
+      "funding": "$225M Series D (December 2021) - Caisse de dépôt et placement du Québec, Inovia Capital, Fidelity Management, Klass Capital",
+      "valuation": "$800M+ (Series D valuation)",
+      "aiFocus": "Healthcare AI, Predictive Analytics, Care Optimization"
+    },
+    {
+      "name": "Clarius Mobile Health",
+      "pageId": "240c6f79-9a33-8183-be06-ec5e56fab949",
+      "category": "Healthcare & Biotech",
+      "funding": "$10M (2022) - Strategic investors, Private investors",
+      "aiFocus": "Medical Imaging, Computer Vision, Healthcare AI"
+    },
+    {
+      "name": "A&K Robotics",
+      "pageId": "240c6f79-9a33-81b5-9754-d589e8a3ae18",
+      "category": "Robotics",
+      "funding": "$2M Seed (2022) - BDC Capital, NRC IRAP, Spring Activator",
+      "aiFocus": "Autonomous Navigation, Computer Vision, Robotics"
+    },
+    {
+      "name": "Symend",
+      "pageId": "240c6f79-9a33-818b-9b11-d5f5da660793",
+      "category": "Fintech",
+      "funding": "$52M Series B (2021) - Inovia Capital, Ignition Partners, BDC Capital, Impression Ventures",
+      "valuation": "$250M+ (Series B valuation)",
+      "aiFocus": "Behavioral AI, Predictive Analytics, Customer Engagement"
+    },
+    {
+      "name": "Copperleaf Technologies",
+      "pageId": "240c6f79-9a33-812a-811f-e3bfd542011c",
+      "category": "Enterprise / Corporate Divisions",
+      "funding": "Acquired by IFS (2022) - IFS (acquirer), JMI Equity, National Bank of Canada",
+      "valuation": "$1B+ (acquisition price)",
+      "aiFocus": "Predictive Analytics, Decision Analytics, Asset Management"
+    },
+    {
+      "name": "LlamaZOO",
+      "pageId": "240c6f79-9a33-8101-a70c-de9c3f1c87a8",
+      "category": "Mining",
+      "funding": "$4.1M Series A (2021) - BHP Ventures, Chrysalix Venture Capital",
+      "aiFocus": "3D Visualization, Computer Vision, Digital Twins"
+    },
+    {
+      "name": "Tenstorrent",
+      "pageId": "240c6f79-9a33-8145-a710-c943a5fee40f",
+      "category": "Technology Companies",
+      "funding": "$100M Series C (2023) - Hyundai Motor Group, Samsung Catalyst Fund, Fidelity, Eclipse Ventures",
+      "valuation": "$1B+ (Series C valuation)",
+      "aiFocus": "AI Hardware, Edge AI, AI Processors"
+    },
+    {
+      "name": "Manzil",
+      "pageId": "240c6f79-9a33-8126-81ca-f2733076e237",
+      "category": "Fintech",
+      "funding": "$2.5M Seed (2023) - Wahed Ventures, Angel investors",
+      "aiFocus": "Risk Assessment, Compliance AI, Islamic Finance"
+    }
+  ],
+  "errors": []
+}

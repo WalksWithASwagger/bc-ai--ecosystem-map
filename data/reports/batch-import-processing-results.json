@@ -1,0 +1,372 @@
+{
+  "timestamp": "2025-08-03T06:41:10.923Z",
+  "execution": "BATCH_IMPORT_ORGANIZATIONS_PROCESSING",
+  "summary": {
+    "processed": 85,
+    "successful": 4,
+    "failed": 81,
+    "totalFieldsUpdated": 9,
+    "successRate": "5%"
+  },
+  "companiesUpdated": [
+    {
+      "name": "Upper Nicola Band AI Data Centre",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Data Centre AI Initiative",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category"
+      ],
+      "source": "batch-import-2025-07-30"
+    },
+    {
+      "name": "Cloudburst Research",
+      "fieldsUpdated": [
+        "BC Region",
+        "Category",
+        "Short Blurb"
+      ],
+      "source": "batch-import-2025-07-30"
+    }
+  ],
+  "errors": [
+    {
+      "name": "Reflection.ai",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Good Chemistry",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Open Ocean Robotics",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Produce8",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Timezyx",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "UnlockLand",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "AI Scout Solutions",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "MoogleLabs",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Yeti Farm Creative",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Tkmlps Development Corporation",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "FNHA Digital Health Division",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Indigenous Digital Equity Strategy BC",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "Caroline Running Wolf AI Language Project",
+      "error": "Not found in database"
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "Canadian Artificial Intelligence Safety Institute",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "NRC-IRAP AI Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Ministry of AI",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC AI Adoption for Education Initiative",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Agricultural Technology Adoption Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Clean Energy Innovation Program",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "BC Financial AI Compliance Initiative",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "BC Wildfire AI Satellite Analysis Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Business Registry AI Enhancement",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Investment Agriculture Foundation of BC",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "BC Centre for Innovation and Clean Energy AI Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BCSC RegTech Sandbox",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "City of Vancouver AI Strategy",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Surrey AI Initiative",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "UBC AI for Climate Solutions Lab",
+      "error": "Not found in database"
+    },
+    {
+      "name": "SFU Quantum Fabrication Centre",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "BCIT Xanadu Quantum Computing Program",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "UVic AI and Machine Learning Lab",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "TRU Computer Science Department",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "UNBC Computer Science Department",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "BCIT Applied Artificial Intelligence Program",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "BCIT Centre of Excellence for Aerospace",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Quantum Matter Institute",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Consortium for Aerospace Research and Innovation in Canada",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "BC Actuarial AI Society",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Thales Canada",
+      "error": "Location is not a property that exists."
+    },
+    {
+      "name": "Stellantis LG Energy Solution BC",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "Bell Canada AI Data Centre Kamloops",
+      "error": "Location is not a property that exists."
+    },
+    {
+      "name": "Disney Interactive Studios Kelowna",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "QHR Technologies",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "BC Hydro Electrification Initiative",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "Raven Indigenous Capital Partners",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Kensington Capital Partners",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Brightspark Ventures",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Pender Ventures",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Vancouver Angel Network (VANTEC)",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "QueerTech QT Founders Catalyst Program",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "entrepreneurship@UBC Accelerate",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Coast Capital Savings Innovation Centre",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "Fort Tectoria",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Quantum BC",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "BC Aerospace Skills Gap Analysis Project",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "Vancouver International Privacy & Security Summit",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Government Cybersecurity Showcase BC",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "AQC 2025 Vancouver",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "DevFest YVR AI Summit",
+      "error": "Not found in database"
+    },
+    {
+      "name": "AI Community Conference Vancouver",
+      "error": "Not found in database"
+    },
+    {
+      "name": "West Vancouver Schools Cybersecurity AI Program",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Law Society of BC AI Ethics Program",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "BC AI for Refugees Initiative",
+      "error": "Not found in database"
+    },
+    {
+      "name": "DigiBC Signals Program",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "BC AI Ethics Network",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "RIVAL Technologies",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Vision Critical (Alida)",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "Fintel Connect",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "3DentAI",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Prince George AI Fire Detection Network",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "OnDeck Fisheries AI",
+      "error": "Not found in database"
+    },
+    {
+      "name": "BC Forestry Innovation Investment Program",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Advertising Intelligence (ADINT.AI)",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "AIEX",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "ClearSpark AI",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Swipe Right App",
+      "error": "AI Focus Areas is expected to be multi_select. Location is not a property that exists."
+    },
+    {
+      "name": "Canexia Health",
+      "error": "AI Focus Areas is expected to be multi_select."
+    },
+    {
+      "name": "Nytilus Inc",
+      "error": "AI Focus Areas is expected to be multi_select."
+    }
+  ]
+}

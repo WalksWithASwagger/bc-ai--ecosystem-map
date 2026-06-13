@@ -1,0 +1,83 @@
+{
+  "success": 7,
+  "failed": 0,
+  "details": [
+    {
+      "name": "AbCellera",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ],
+      "peopleAdded": 6
+    },
+    {
+      "name": "Aspect Biosystems",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ],
+      "peopleAdded": 4
+    },
+    {
+      "name": "Terramera",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ],
+      "peopleAdded": 4
+    },
+    {
+      "name": "Lumen5",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ],
+      "peopleAdded": 3
+    },
+    {
+      "name": "Dapper Labs",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ],
+      "peopleAdded": 3
+    },
+    {
+      "name": "Kardium",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ],
+      "peopleAdded": 2
+    },
+    {
+      "name": "MetaOptima (DermEngine)",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ],
+      "peopleAdded": 2
+    }
+  ]
+}

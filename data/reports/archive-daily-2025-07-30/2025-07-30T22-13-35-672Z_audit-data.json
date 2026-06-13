@@ -1,0 +1,5743 @@
+{
+  "totalCompanies": 680,
+  "dataQuality": {
+    "foundingDates": {
+      "count": 542,
+      "percentage": "79.7"
+    },
+    "funding": {
+      "count": 174,
+      "percentage": "25.6"
+    },
+    "revenue": {
+      "count": 152,
+      "percentage": "22.4"
+    },
+    "employeeCount": {
+      "count": 169,
+      "percentage": "24.9"
+    },
+    "keyPeople": {
+      "count": 208,
+      "percentage": "30.6"
+    },
+    "shortBlurb": {
+      "count": 555,
+      "percentage": "81.6"
+    },
+    "notableProjects": {
+      "count": 503,
+      "percentage": "74.0"
+    },
+    "website": {
+      "count": 361,
+      "percentage": "53.1"
+    },
+    "linkedin": {
+      "count": 355,
+      "percentage": "52.2"
+    },
+    "email": {
+      "count": 167,
+      "percentage": "24.6"
+    },
+    "phone": {
+      "count": 149,
+      "percentage": "21.9"
+    },
+    "aiPowerScore": {
+      "count": 680,
+      "percentage": "100.0"
+    },
+    "dataQualityScore": {
+      "count": 680,
+      "percentage": "100.0"
+    }
+  },
+  "categoryBreakdown": {
+    "AI Companies": 55,
+    "Healthcare & Biotech": 19,
+    "Technology Companies": 12,
+    "Fintech": 8,
+    "Uncategorized": 55,
+    "Media Tech": 3,
+    "VR/AR": 1,
+    "Mining": 3,
+    "AgTech": 4,
+    "E-commerce": 1,
+    "CleanTech": 4,
+    "Game Development Studio": 4,
+    "Marketing Tech": 2,
+    "Logistics Tech": 1,
+    "Cybersecurity": 1,
+    "PropTech Startup": 3,
+    "EdTech": 1,
+    "Enterprise / Corporate Divisions": 33,
+    "Robotics": 1,
+    "Start-ups & Scale-ups": 243,
+    "Service Providers": 2,
+    "Government & Public Sector": 10,
+    "Education & Training Providers": 10,
+    "Innovation Centres & Hubs": 8,
+    "Industry Association": 22,
+    "Academic & Research Labs": 41,
+    "Investment Fund": 1,
+    "Industry-Healthcare Partnership": 1,
+    "User Group": 1,
+    "Industry Conferences & Events": 8,
+    "Professional Association": 2,
+    "Regulatory Initiative": 1,
+    "Wildfire Tech": 1,
+    "Port Terminal": 3,
+    "Port Development": 1,
+    "Accelerators / Incubators": 10,
+    "Government": 8,
+    "Corporate Partnership": 1,
+    "Digital Therapeutics": 2,
+    "Crypto Unicorn": 1,
+    "Web3 Startup": 1,
+    "Developer Community": 1,
+    "Game Development Services": 1,
+    "Legal Tech Leader": 1,
+    "Training Program": 1,
+    "Foundation": 1,
+    "AgTech Company": 1,
+    "Construction Tech Startup": 1,
+    "Deep-water Terminal": 1,
+    "Smart Logistics Services": 1,
+    "3PL Company": 1,
+    "Innovation Lab": 1,
+    "Training Center": 1,
+    "Non-Profit": 5,
+    "Indigenous Tech & Creative Orgs": 6,
+    "Service Studios / Agencies": 29,
+    "Grassroots Communities": 16,
+    "Unicorn": 1,
+    "Consulting & Services": 1,
+    "Investors & Funds": 10,
+    "Social-Impact & Climate-Tech Hubs": 3,
+    "Advocacy & Policy Groups": 4,
+    "Open-Source Projects": 2,
+    "Media & Storytellers": 2
+  },
+  "regionBreakdown": {
+    "Lower Mainland": 478,
+    "Other BC": 47,
+    "Unknown": 91,
+    "Other Regions": 7,
+    "Vancouver Island": 30,
+    "Northern BC": 8,
+    "Interior": 19
+  },
+  "fundingStats": {
+    "totalTracked": 10958.365000000003,
+    "companies": [
+      {
+        "name": "WELL Health Technologies Corp",
+        "amount": 1060,
+        "category": "Healthcare & Biotech",
+        "details": "Public Company TSX:WELL - Market cap $1.06B CAD, achieved $1B annualized revenue run-rate (Source: TSX Filings)"
+      },
+      {
+        "name": "Rigid Robotics",
+        "amount": 975,
+        "category": "Start-ups & Scale-ups",
+        "details": "$975,000 (November 2024) - PacifiCan Business Scale-up Program, N/A"
+      },
+      {
+        "name": "ThisFish Inc.",
+        "amount": 661,
+        "category": "Start-ups & Scale-ups",
+        "details": "$661,500 from Ocean Supercluster (September 2024) - Canada's Ocean Supercluster, Bitstrapped, Orca Specialty Foods"
+      },
+      {
+        "name": "1Password",
+        "amount": 620,
+        "category": "Cybersecurity",
+        "details": "$620M Series C (January 2022) - ICONIQ Growth, Tiger Global, Lightspeed, Backbone Angels"
+      },
+      {
+        "name": "Arbutus Biopharma Corporation",
+        "amount": 605,
+        "category": "Healthcare & Biotech",
+        "details": "Public Company NASDAQ:ABUS - Market cap $605M USD, $123M cash runway through Q1 2028 (Source: SEC Filings)"
+      },
+      {
+        "name": "Tasktop Technologies",
+        "amount": 500,
+        "category": "Technology Companies",
+        "details": "$500M+ Exit to Planview (May 2022) - $131M total funding including $100M Series C (April 2021) led by Sumeru Equity Partners (Source: Business Wire)"
+      },
+      {
+        "name": "InBC Life Sciences Investment Fund",
+        "amount": 500,
+        "category": "Investment Fund",
+        "details": "$500M Government Fund (2021) (Source: https://news.gov.bc.ca/releases/2021JERI0019-000476 - Verified 2025-07-29)"
+      },
+      {
+        "name": "AbCellera Biologics",
+        "amount": 483,
+        "category": "Unicorn",
+        "details": "Public company (NASDAQ: ABCL) - IPO raised $483M (2020-12) - Public markets, Viking Global, OrbiMed, Peter Thiel"
+      },
+      {
+        "name": "AbCellera",
+        "amount": 483,
+        "category": "Enterprise / Corporate Divisions",
+        "details": "Public company (NASDAQ: ABCL) (2020-12) - IPO raised $483M (Source: SEC filings - Verified 2025-07-30)"
+      },
+      {
+        "name": "General Fusion",
+        "amount": 440,
+        "category": "Uncategorized",
+        "details": "Total: $440.0M"
+      },
+      {
+        "name": "Canalyst",
+        "amount": 400,
+        "category": "Fintech",
+        "details": "$400-450M CAD Exit to Tegus Inc. (August 2022) - $90M total funding including $70M Series C led by Dragoneer Investment Group (Source: Globe and Mail)"
+      },
+      {
+        "name": "Trulioo",
+        "amount": 394,
+        "category": "AI Companies",
+        "details": "$394M Series D (June 2021) - TCV, CapitalG, Citi Ventures, Santander InnoVentures, Goldman Sachs"
+      },
+      {
+        "name": "Vanedge Capital",
+        "amount": 350,
+        "category": "Investors & Funds",
+        "details": "Fund III - $350M (2022) - LPs include pension funds, family offices, N/A"
+      },
+      {
+        "name": "Nirvanic Consciousness Technologies",
+        "amount": 339,
+        "category": "Start-ups & Scale-ups",
+        "details": "Self-funded (Founder sold Kindred AI for $339M) (2024-08) - Suzanne Gildert (self-funded) (Source: Company announcements - Verified 2025-07-30)"
+      },
+      {
+        "name": "Dapper Labs",
+        "amount": 250,
+        "category": "Crypto Unicorn",
+        "details": "$250M Series C (2021-09) - a16z, Coatue Management, Google Ventures, Samsung"
+      },
+      {
+        "name": "AlayaCare",
+        "amount": 225,
+        "category": "Healthcare & Biotech",
+        "details": "$225M Series D (December 2021) - Caisse de dépôt et placement du Québec, Inovia Capital, Fidelity Management, Klass Capital"
+      },
+      {
+        "name": "Acuitas Therapeutics",
+        "amount": 200,
+        "category": "Healthcare & Biotech",
+        "details": "$200M Series B (2023) - Undisclosed strategic investors, Government of Canada, Private investors"
+      },
+      {
+        "name": "Visier",
+        "amount": 154,
+        "category": "Enterprise / Corporate Divisions",
+        "details": "$154M Series F (May 2024) - Warburg Pincus, Goldman Sachs, Foundation Capital, Sorenson Capital"
+      },
+      {
+        "name": "Aspect Biosystems",
+        "amount": 115,
+        "category": "Start-ups & Scale-ups",
+        "details": "$115M Series B + $53.4M government grant (2025-01) - Dimension (lead), Novo Nordisk, Radical Ventures, InBC, Pallasite Ventures (Source: https://www.aspectbiosystems.com/news-resources/ - Verified 2025-07-30)"
+      },
+      {
+        "name": "Certn",
+        "amount": 114,
+        "category": "Start-ups & Scale-ups",
+        "details": "$114M+ USD Total (Series B) (2023-04) - Series B extension $30M (Source: TechCrunch - Verified 2025-07-30)"
+      },
+      {
+        "name": "Bron Studios",
+        "amount": 100,
+        "category": "Media Tech",
+        "details": "$100M+ debt financing (2021) - Creative Wealth Media, Private investors"
+      },
+      {
+        "name": "Tenstorrent",
+        "amount": 100,
+        "category": "Technology Companies",
+        "details": "$100M Series C (2023) - Hyundai Motor Group, Samsung Catalyst Fund, Fidelity, Eclipse Ventures"
+      },
+      {
+        "name": "Coinsquare",
+        "amount": 83.2,
+        "category": "Fintech",
+        "details": "$83.2M (December 2021) - Mogo, Canaccord Genuity, Mavenwood Capital"
+      },
+      {
+        "name": "Klue",
+        "amount": 81,
+        "category": "Start-ups & Scale-ups",
+        "details": "$81M USD Total (2021-10) - Tiger Global, Salesforce Ventures (Series B $62M) (Source: Crunchbase - Verified 2025-07-30)"
+      },
+      {
+        "name": "Cohere Health Vancouver",
+        "amount": 80,
+        "category": "Technology Companies",
+        "details": "$80M Series C (March 2024) - Deerfield Management, Flare Capital Partners, Define Ventures"
+      },
+      {
+        "name": "Spare Labs",
+        "amount": 70,
+        "category": "AI Companies",
+        "details": "$70M+ total - $7.25M Series A (2021) Inovia Capital; $42M CAD Series B (May 2025) Inovia Capital; $20M+ grants (Source: T-Net News)"
+      },
+      {
+        "name": "Westport Fuel Systems Inc.",
+        "amount": 69.55,
+        "category": "AI Companies",
+        "details": "Public Company NASDAQ:WPRT, TSX:WPRT.TO - Market cap $69.55M USD (July 2025) (Source: Yahoo Finance)"
+      },
+      {
+        "name": "Carbon Engineering",
+        "amount": 68,
+        "category": "CleanTech",
+        "details": "$68M (2019) - Oxy Low Carbon Ventures, Bill Gates, BHP, Chevron Technology Ventures"
+      },
+      {
+        "name": "Qu Biologics Inc",
+        "amount": 65.2,
+        "category": "Healthcare & Biotech",
+        "details": "$65.2M total funding - $35M equity, $15M non-dilutive, targeting $25M Series B (Source: PitchBook)"
+      },
+      {
+        "name": "Phaidra",
+        "amount": 60.5,
+        "category": "AI Companies",
+        "details": "$60.5M total - $25M Series A (2022) Starshort Capital; $12M Series B (July 2024) Index Ventures with Mark Cuban, Mustafa Suleyman (Source: TechCrunch)"
+      },
+      {
+        "name": "Later",
+        "amount": 60,
+        "category": "Technology Companies",
+        "details": "$60M Series B (2024) - Madrona Venture Group, Founders Fund, Origin Ventures"
+      },
+      {
+        "name": "Sanctuary AI",
+        "amount": 58.5,
+        "category": "Start-ups & Scale-ups",
+        "details": "$58.5M Series A (May 2023) - Evok Innovations, Export Development Canada, Pallasite Ventures, Magna, Bell"
+      },
+      {
+        "name": "Moment Energy",
+        "amount": 52,
+        "category": "AI Companies",
+        "details": "$52M+ total - $15M Series A (Jan 2025) Amazon Climate Pledge Fund, Voyager Ventures; $20.3M DOE grant (Oct 2024) (Source: PR Newswire)"
+      },
+      {
+        "name": "Unbounce",
+        "amount": 52,
+        "category": "Marketing Tech",
+        "details": "$52M growth equity (2021) - Crest Rock Partners, Foundry Group, HarbourVest Partners"
+      },
+      {
+        "name": "Hootsuite",
+        "amount": 50.2,
+        "category": "Start-ups & Scale-ups",
+        "details": "$50.2M (March 2018) - Insight Venture Partners, Accel Partners, OMERS Ventures, Fidelity, CIBC"
+      },
+      {
+        "name": "1QB Information Technologies",
+        "amount": 45,
+        "category": "Technology Companies",
+        "details": "$45M Series B (November 2017) - Led by Fujitsu with Allianz, Accenture, RBS, CME participation (Source: BC Technology)"
+      },
+      {
+        "name": "1QBit",
+        "amount": 45,
+        "category": "Academic & Research Labs",
+        "details": "$45M Series B (2021) - Accenture Ventures, Allianz, Royal Bank of Scotland, Fujitsu"
+      },
+      {
+        "name": "Terramera",
+        "amount": 45,
+        "category": "Start-ups & Scale-ups",
+        "details": "$45M Series B (2021) - Ospraie Ag Science, BDC Capital, S2G Ventures, Pallasite Ventures"
+      },
+      {
+        "name": "Properly",
+        "amount": 44,
+        "category": "PropTech Startup",
+        "details": "$44M Series B (2022) - Yaletown Partners, BDC Capital, N49P Ventures"
+      },
+      {
+        "name": "Eupraxia Pharmaceuticals",
+        "amount": 35,
+        "category": "Healthcare & Biotech",
+        "details": "$35M Series B (2023) - Medicxi, 5AM Ventures, Samsara BioCapital"
+      },
+      {
+        "name": "Phoenix Labs",
+        "amount": 35,
+        "category": "Game Development Studio",
+        "details": "$35M Series C (2020) - Sapphire Ventures, NEA, Garena, Horizons Ventures"
+      },
+      {
+        "name": "Nymi",
+        "amount": 31,
+        "category": "Technology Companies",
+        "details": "$31M Series B - Relay Ventures, Ignition Partners, Salesforce Ventures, MasterCard"
+      },
+      {
+        "name": "Enterra Feed",
+        "amount": 30,
+        "category": "AgTech",
+        "details": "$30M growth funding (2022) - Avrio Capital, Wheatsheaf Group, Generation Investment Management"
+      },
+      {
+        "name": "Enteligent",
+        "amount": 25,
+        "category": "AI Companies",
+        "details": "$25M+ total - $3M Seed (Jan 2021) Evok Innovations; $12M Series A (March 2023) Clean Energy Ventures; $10M Extension (Sept 2024) (Source: CleanTech reports)"
+      },
+      {
+        "name": "Canvass Analytics",
+        "amount": 25,
+        "category": "AI Companies",
+        "details": "$25M Series B (2019) - Google Assistant Investment Program, Yamaha Motor Ventures, Real Ventures"
+      },
+      {
+        "name": "Boast AI",
+        "amount": 23,
+        "category": "AI Companies",
+        "details": "$23M Series A (March 2022) - Radian Capital, Craft Ventures, BDC Capital, Pender Ventures"
+      },
+      {
+        "name": "Athennian",
+        "amount": 23,
+        "category": "Uncategorized",
+        "details": "$23M Series B (2022) - Round13 Capital, Arthur Ventures, Headline"
+      },
+      {
+        "name": "Neural Dynamics",
+        "amount": 22,
+        "category": "Healthcare & Biotech",
+        "details": "$22M+ total - $4M Seed (May 2021) Amplitude Ventures; $18M Series A (Sept 2023) Johnson & Johnson Innovation (Source: J&J Innovation portfolio)"
+      },
+      {
+        "name": "Spare",
+        "amount": 22,
+        "category": "Start-ups & Scale-ups",
+        "details": "$22M Series B (2021) - InMotion Ventures, Kensington Capital, Real Ventures"
+      },
+      {
+        "name": "Cmd",
+        "amount": 21.6,
+        "category": "Technology Companies",
+        "details": "$21.6M USD Total, Acquired by Elastic (2021-08) - Acquired by Elastic (terms undisclosed) (Source: Elastic announcement - Verified 2025-07-30)"
+      },
+      {
+        "name": "OVA (Open Virtual Assistant)",
+        "amount": 20,
+        "category": "AI Companies",
+        "details": "$20M+ total - $3M Seed (Feb 2021) Version One Ventures; $8M Series A (Aug 2022) Georgian Partners; $9M Extension (March 2024) (Source: Georgian portfolio)"
+      },
+      {
+        "name": "Neural Therapeutics",
+        "amount": 20,
+        "category": "Uncategorized",
+        "details": "$20M Series A (2025-06) - Led by Johnson & Johnson Innovation, Amplitude Ventures (Source: FierceBiotech)"
+      },
+      {
+        "name": "Saltworks Technologies",
+        "amount": 20,
+        "category": "Technology Companies",
+        "details": "$20M (2024) - Government and strategic investors, SDTC, BDC Capital, Chrysalix Venture Capital"
+      },
+      {
+        "name": "Pano AI BC",
+        "amount": 20,
+        "category": "Wildfire Tech",
+        "details": "$20M Series A (September 2022) - Valor Equity Partners, T-Mobile Ventures, Salesforce Ventures"
+      },
+      {
+        "name": "Canexia Health",
+        "amount": 20,
+        "category": "Start-ups & Scale-ups",
+        "details": "$20M CAD (Last known, company bankrupt) (2022-02) - BDC Capital, Desjardins Capital, PacBridge Capital (Source: https://betakit.com/cancer-focused-imagia-canexia-health-files-for-bankruptcy-18-months-after-merger/ - Verified 2025-07-29)"
+      },
+      {
+        "name": "Cooler Heads Care",
+        "amount": 18,
+        "category": "Healthcare & Biotech",
+        "details": "$18M+ total - $2M Seed (Sept 2020), $8M Series A (April 2022), $8M Series A Extension (Jan 2024) (Source: PitchBook)"
+      },
+      {
+        "name": "Durable AI",
+        "amount": 18,
+        "category": "AI Companies",
+        "details": "$18M CAD Series A (December 2023) after $6M+ USD Seed led by Altman Capital, Torch Capital, Dash Fund, Infinity Ventures (Source: BetaKit)"
+      },
+      {
+        "name": "GreenFlow Analytics",
+        "amount": 16,
+        "category": "AI Companies",
+        "details": "$16M+ total - $1M Pre-Seed (Nov 2020), $5M Seed (Oct 2021) Evok Innovations, $10M Series A (Dec 2023) Breakthrough Energy Ventures (Source: Breakthrough portfolio)"
+      },
+      {
+        "name": "Vaultie",
+        "amount": 15,
+        "category": "AI Companies",
+        "details": "$15M+ total - $1.5M Pre-Seed (Sept 2020), $5M Seed (Dec 2021) Framework Ventures, $8.5M Series A (July 2023) (Source: Framework portfolio)"
+      },
+      {
+        "name": "Canurta",
+        "amount": 15,
+        "category": "Healthcare & Biotech",
+        "details": "$15M+ total - $3M Seed (2021), $12M Series A (June 2023) led by health tech VC with BDC Capital (Source: Company data)"
+      },
+      {
+        "name": "BioSynth Technologies",
+        "amount": 15,
+        "category": "Uncategorized",
+        "details": "$15M Series A (2025-05) - Led by Leaps by Bayer, BDC Deep Tech Fund (Source: BioCentury)"
+      },
+      {
+        "name": "ZenHub",
+        "amount": 14.7,
+        "category": "Technology Companies",
+        "details": "$14.7M total - $4.7M Seed (Feb 2021) BDC Capital, Ripple Ventures; $10M Series A (Mar 2023) led by Yaletown Partners (Source: TechCrunch)"
+      },
+      {
+        "name": "EnergyFlow Dynamics",
+        "amount": 14,
+        "category": "Uncategorized",
+        "details": "$14M Series A (2025-07) - Led by Energy Impact Partners, Evok Innovations (Source: EnergyTech)"
+      },
+      {
+        "name": "SpaceLink Communications",
+        "amount": 13,
+        "category": "Uncategorized",
+        "details": "$13M Series A (2025-07) - Led by Space Capital, Kepler Communications (strategic) (Source: SpaceNews)"
+      },
+      {
+        "name": "CloudMD Software & Services Inc",
+        "amount": 12.2,
+        "category": "Healthcare & Biotech",
+        "details": "Acquired by CPS Capital for $12.2M CAD (July 2024) - Go-private transaction, delisted from TSX-V:DOC (Source: TSX-V Filings)"
+      },
+      {
+        "name": "RapidCert",
+        "amount": 12,
+        "category": "AI Companies",
+        "details": "$12M+ total - $1M Pre-Seed (June 2020), $4M Seed (Sept 2021) Panache Ventures, $7M Series A (Nov 2023) Information Venture Partners (Source: Panache portfolio)"
+      },
+      {
+        "name": "Quantum Dynamics",
+        "amount": 12,
+        "category": "Uncategorized",
+        "details": "$12M Series A (2025-07) - Led by Fujitsu Ventures, 1QB participation (Source: Business Wire)"
+      },
+      {
+        "name": "FreshGrade",
+        "amount": 11.7,
+        "category": "Start-ups & Scale-ups",
+        "details": "$11.7M Series A (2014) - NewSchools Venture Fund, Relay Ventures, Rethink Education"
+      },
+      {
+        "name": "HealthGraph AI",
+        "amount": 11,
+        "category": "Uncategorized",
+        "details": "$11M Series A (2025-06) - Led by Northpond Ventures, Amplitude Ventures (Source: MedCity News)"
+      },
+      {
+        "name": "QuantumSense",
+        "amount": 10,
+        "category": "Uncategorized",
+        "details": "$10M Series A (2025-06) - Led by Quantonation, Fujitsu Ventures (Source: Quantum Computing Report)"
+      },
+      {
+        "name": "CleanGrid Systems",
+        "amount": 10,
+        "category": "Uncategorized",
+        "details": "$10M Seed (2025-07) - Led by Evok Innovations, Chevron Technology Ventures (Source: CleanTechnica)"
+      },
+      {
+        "name": "Chimp",
+        "amount": 10,
+        "category": "Fintech",
+        "details": "$10M Series B (2020) - Yaletown Partners, Impression Ventures, Social Impact investors"
+      },
+      {
+        "name": "Reebee",
+        "amount": 10,
+        "category": "E-commerce",
+        "details": "$10M Series B (2021) - Impression Ventures, BDC Capital, Panache Ventures"
+      },
+      {
+        "name": "Showbie",
+        "amount": 10,
+        "category": "EdTech",
+        "details": "$10M Series A (2020) - Nicola Wealth Management, Azure Capital Partners, Yaletown Partners"
+      },
+      {
+        "name": "Clarius Mobile Health",
+        "amount": 10,
+        "category": "Healthcare & Biotech",
+        "details": "$10M (2022) - Strategic investors, Private investors"
+      },
+      {
+        "name": "Archiact",
+        "amount": 10,
+        "category": "Uncategorized",
+        "details": "$10M Series A (2021) - Makers Fund, Presence Capital, BITKRAFT Ventures"
+      },
+      {
+        "name": "Ocean Robotics Dynamics",
+        "amount": 9,
+        "category": "Uncategorized",
+        "details": "$9M Series A (2025-07) - Led by Rhapsody Venture Partners, Ocean Ventures (Source: MarineNews)"
+      },
+      {
+        "name": "RIVAL Technologies",
+        "amount": 8.5,
+        "category": "Start-ups & Scale-ups",
+        "details": "Total: $8.5M"
+      },
+      {
+        "name": "MetaOptima (DermEngine)",
+        "amount": 8.5,
+        "category": "Start-ups & Scale-ups",
+        "details": "$8.5M Series A (2021) - Mosaic Ventures, Version One Ventures, Real Ventures"
+      },
+      {
+        "name": "AgriTech Innovations",
+        "amount": 8,
+        "category": "Uncategorized",
+        "details": "$8M Seed (2025-06) - Led by S2G Ventures, Ospraie Ag Science (Source: AgFunder)"
+      },
+      {
+        "name": "Nexus AI Labs",
+        "amount": 8,
+        "category": "Uncategorized",
+        "details": "$8M Seed (2025-06) - Led by Version One Ventures, Inovia Capital participating (Source: TechCrunch)"
+      },
+      {
+        "name": "Careteam Technologies",
+        "amount": 7.2,
+        "category": "Healthcare & Biotech",
+        "details": "$7.2M Series A (2023) - Information Venture Partners, Real Ventures, Panache Ventures"
+      },
+      {
+        "name": "WasteFlow Technologies",
+        "amount": 7,
+        "category": "Uncategorized",
+        "details": "$7M Seed (2025-07) - Led by Chrysalix Venture Capital, Evok Innovations (Source: Waste360)"
+      },
+      {
+        "name": "CarbonFlow",
+        "amount": 7,
+        "category": "Uncategorized",
+        "details": "$7M Seed (2025-07) - Led by Breakthrough Energy Ventures, Evok Innovations (Source: GreenBiz)"
+      },
+      {
+        "name": "Lucent BioSciences",
+        "amount": 7,
+        "category": "AgTech",
+        "details": "$7M Series A (2023) - Astanor Ventures, AGFunder, TELUS Pollinator Fund"
+      },
+      {
+        "name": "Veritree",
+        "amount": 6.5,
+        "category": "AI Companies",
+        "details": "$6.5M USD Series A (2025) - Led by Pender Ventures with Garage Capital, Northside Ventures, Diagram; ~$11M USD total (Source: Company announcement)"
+      },
+      {
+        "name": "Hugo Inc",
+        "amount": 6.1,
+        "category": "Start-ups & Scale-ups",
+        "details": "$6.1M Seed, Acquired by Calendly (2020-04) - Gradient Ventures (Google), Slack Fund, Founder Collective (Source: TechCrunch - Verified 2025-07-30)"
+      },
+      {
+        "name": "Produce8",
+        "amount": 6.1,
+        "category": "Start-ups & Scale-ups",
+        "details": "Total: $6.1M"
+      },
+      {
+        "name": "CreatorFlow Media",
+        "amount": 6,
+        "category": "Uncategorized",
+        "details": "$6M Seed (2025-06) - Led by Foundry Group, Version One Ventures (Source: VentureBeat)"
+      },
+      {
+        "name": "FinFlow Systems",
+        "amount": 6,
+        "category": "Uncategorized",
+        "details": "$6M Seed (2025-05) - Led by Information Venture Partners, BDC Capital (Source: PaymentsSource)"
+      },
+      {
+        "name": "Kiind",
+        "amount": 6,
+        "category": "Fintech",
+        "details": "$6M Series A (2019) - Round13 Capital, Information Venture Partners, Yaletown Partners"
+      },
+      {
+        "name": "ModeMagic",
+        "amount": 5.5,
+        "category": "AI Companies",
+        "details": "$5.5M Seed (2024) - BDC Capital, Tiny Capital, Golden Ventures"
+      },
+      {
+        "name": "MetaVRse",
+        "amount": 5.2,
+        "category": "VR/AR",
+        "details": "$5.2M Series A (2022) - Information Venture Partners, Yaletown Partners, BDC Capital"
+      },
+      {
+        "name": "SecureChain Labs",
+        "amount": 5,
+        "category": "Uncategorized",
+        "details": "$5M Seed (2025-05) - Led by Bessemer Venture Partners, Panache Ventures (Source: CyberScoop)"
+      },
+      {
+        "name": "PropFlow AI",
+        "amount": 5,
+        "category": "Uncategorized",
+        "details": "$5M Seed (2025-04) - Led by Relay Ventures, Real Estate Foundation of BC (Source: BetaKit)"
+      },
+      {
+        "name": "Ayogo Health",
+        "amount": 5,
+        "category": "Healthcare & Biotech",
+        "details": "$5M Series A (2021) - Wesley Clover, BDC Capital, Angel investors"
+      },
+      {
+        "name": "Routific",
+        "amount": 5,
+        "category": "Logistics Tech",
+        "details": "$5M Series A (2019) - Pallasite Ventures, Plug and Play Ventures, Nimbus Synergies"
+      },
+      {
+        "name": "Rentberry",
+        "amount": 4.5,
+        "category": "PropTech Startup",
+        "details": "$4.5M ICO (2018) - ICO participants, TMT Investments, Investors Club"
+      },
+      {
+        "name": "LlamaZOO",
+        "amount": 4.1,
+        "category": "Mining",
+        "details": "$4.1M Series A (2021) - BHP Ventures, Chrysalix Venture Capital"
+      },
+      {
+        "name": "DataMesh Analytics",
+        "amount": 4,
+        "category": "Uncategorized",
+        "details": "$4M Seed (2025-03) - Led by Georgian Partners, BDC Capital (Source: TechCrunch)"
+      },
+      {
+        "name": "Immersive Learning Labs",
+        "amount": 4,
+        "category": "Uncategorized",
+        "details": "$4M Seed (2025-06) - Led by Learn Capital, Brightspark Ventures (Source: EdSurge)"
+      },
+      {
+        "name": "Verge Agriculture",
+        "amount": 4,
+        "category": "AgTech",
+        "details": "$4M Seed (2022) - Emmertech, Yamaha Motor Ventures, Raven Indigenous Capital"
+      },
+      {
+        "name": "Riverlane Solutions",
+        "amount": 4,
+        "category": "Uncategorized",
+        "details": "$4M Seed (2023) - Panache Ventures, N49P, Ascend Ventures"
+      },
+      {
+        "name": "HealthTech Connex",
+        "amount": 3.7,
+        "category": "Start-ups & Scale-ups",
+        "details": "$3.7M (2024) - PacifiCan Business Scale-up Program, N/A"
+      },
+      {
+        "name": "Roomvu",
+        "amount": 3.69,
+        "category": "AI Companies",
+        "details": "$3.69M confirmed funding - Convertible note from Second Century Ventures (NAR), BDC Capital (Source: PR Newswire)"
+      },
+      {
+        "name": "Browse AI",
+        "amount": 3.5,
+        "category": "Start-ups & Scale-ups",
+        "details": "Total: $3.5M"
+      },
+      {
+        "name": "GameFlow Studios",
+        "amount": 3,
+        "category": "Uncategorized",
+        "details": "$3M Seed (2025-04) - Led by Konvoy Ventures, Play Ventures (Source: GamesBeat)"
+      },
+      {
+        "name": "Payday",
+        "amount": 3,
+        "category": "Start-ups & Scale-ups",
+        "details": "$3M Seed, declined $15M acquisition (2023-03) - Moniepoint Inc (lead), Techstars, DFS Lab (Source: https://techcrunch.com/2023/03/29/payday-wants-to-power-the-future-of-work/ - Verified 2025-07-30)"
+      },
+      {
+        "name": "Open Ocean Robotics",
+        "amount": 2.8,
+        "category": "Start-ups & Scale-ups",
+        "details": "$2.8M CAD + government contracts (2024-10) - Antares Ventures, Spring Impact Capital, Katapult Ocean (Source: https://www.openoceanrobotics.com/news/ - Verified 2025-07-30)"
+      },
+      {
+        "name": "Manzil",
+        "amount": 2.5,
+        "category": "Fintech",
+        "details": "$2.5M Seed (2023) - Wahed Ventures, Angel investors"
+      },
+      {
+        "name": "Indiegraf",
+        "amount": 2.2,
+        "category": "Start-ups & Scale-ups",
+        "details": "$2.2M USD Seed (2024-10) - StandUp Ventures (lead), Coralus, Mucker Capital (Source: https://betakit.com/indiegraf-to-expand-independent-news-solution/ - Verified 2025-07-30)"
+      },
+      {
+        "name": "A&K Robotics",
+        "amount": 2,
+        "category": "Robotics",
+        "details": "$2M Seed (2022) - BDC Capital, NRC IRAP, Spring Activator"
+      },
+      {
+        "name": "MATT3R",
+        "amount": 2,
+        "category": "Start-ups & Scale-ups",
+        "details": "$2M Pre-seed (2021-12) - Nelson Investments, Vancouver-based investors (Source: https://techcouver.com/2025/01/08/bc-startups-to-watch-in-2025/ - Verified 2025-07-30)"
+      },
+      {
+        "name": "MarineLabs",
+        "amount": 1.8,
+        "category": "Start-ups & Scale-ups",
+        "details": "$1.8M from Ocean Supercluster (January 2025) - Canada's Ocean Supercluster, Go Deep International, LeeWay Marine"
+      },
+      {
+        "name": "Flytographer",
+        "amount": 1.72,
+        "category": "Start-ups & Scale-ups",
+        "details": "$1.72M Total (2017-09) - Forum for Women Entrepreneurs BC, Lyra Growth Partners (Source: https://pitchbook.com/profiles/company/98639-74 - Verified 2025-07-30)"
+      },
+      {
+        "name": "Artemis AI",
+        "amount": 1.5,
+        "category": "AI Companies",
+        "details": "$1.5M Pre-Seed (March 2024) - Led by Raven Indigenous Capital Partners with Telegraph Hill Capital, Ripple Ventures (Source: PR Newswire)"
+      },
+      {
+        "name": "Ariglad",
+        "amount": 1.3,
+        "category": "AI Companies",
+        "details": "$1.3M Seed (April 2023) - Investors not disclosed (Source: TechCouver)"
+      },
+      {
+        "name": "Lite-1",
+        "amount": 1.1,
+        "category": "Start-ups & Scale-ups",
+        "details": "$1.1M (2024) - Not disclosed (Source: https://www.linkedin.com/company/lite-1 - Verified 2025-07-29)"
+      },
+      {
+        "name": "Pocketed",
+        "amount": 1,
+        "category": "AI Companies",
+        "details": "$1M CAD Seed (September 2021) - Led by WUTIF Capital, Hustle Fund, Women's Equity Lab, New Avenue Capital (Source: BetaKit)"
+      },
+      {
+        "name": "Orca Water",
+        "amount": 0.682,
+        "category": "Start-ups & Scale-ups",
+        "details": "$682K Total (Pre-seed raising) (2025-02) - Innovate BC (BC Fast Award), seeking pre-seed investors (Source: https://www.newventuresbc.com/2023/08/top-25-spotlight-orca-water/ - Verified 2025-07-29)"
+      },
+      {
+        "name": "Barnacle Systems",
+        "amount": 0.513,
+        "category": "Start-ups & Scale-ups",
+        "details": "$513K Government Contract (2024) - Canadian Coast Guard, Babcock Canada"
+      },
+      {
+        "name": "SkyAcres Agrotechnologies",
+        "amount": 0.46,
+        "category": "AI Companies",
+        "details": "$460K CAD total - $60K competitions/grants + $400K non-dilutive research funding (RBC Women in Cleantech, Google for Startups) (Source: Company data)"
+      },
+      {
+        "name": "Rockburst Technologies",
+        "amount": 0.25,
+        "category": "Start-ups & Scale-ups",
+        "details": "$250K from MICA + IGNITE funding + Raising $10M USD (2024) - Mining Innovation Commercialization Accelerator, Innovate BC (Source: Mining industry announcements - Verified 2025-07-30)"
+      },
+      {
+        "name": "Build Smartr Robotics",
+        "amount": 0.1,
+        "category": "Start-ups & Scale-ups",
+        "details": "Competed for $100K angel investment (2023) - Angels4Climate competition (Source: Angels4Climate - Verified 2025-07-30)"
+      }
+    ],
+    "byCategory": {
+      "AI Companies": {
+        "total": 820,
+        "count": 20,
+        "companies": [
+          "GreenFlow Analytics",
+          "Vaultie",
+          "OVA (Open Virtual Assistant)",
+          "RapidCert",
+          "Enteligent",
+          "Spare Labs",
+          "SkyAcres Agrotechnologies",
+          "Veritree",
+          "Artemis AI",
+          "Durable AI",
+          "Ariglad",
+          "Pocketed",
+          "Westport Fuel Systems Inc.",
+          "Roomvu",
+          "Moment Energy",
+          "Phaidra",
+          "Canvass Analytics",
+          "ModeMagic",
+          "Trulioo",
+          "Boast AI"
+        ]
+      },
+      "Healthcare & Biotech": {
+        "total": 2279.6000000000004,
+        "count": 13,
+        "companies": [
+          "Neural Dynamics",
+          "Cooler Heads Care",
+          "Canurta",
+          "CloudMD Software & Services Inc",
+          "Qu Biologics Inc",
+          "WELL Health Technologies Corp",
+          "Arbutus Biopharma Corporation",
+          "Ayogo Health",
+          "Eupraxia Pharmaceuticals",
+          "Careteam Technologies",
+          "Clarius Mobile Health",
+          "AlayaCare",
+          "Acuitas Therapeutics"
+        ]
+      },
+      "Technology Companies": {
+        "total": 872.3000000000001,
+        "count": 9,
+        "companies": [
+          "ZenHub",
+          "1QB Information Technologies",
+          "Tasktop Technologies",
+          "Tenstorrent",
+          "Nymi",
+          "Cohere Health Vancouver",
+          "Saltworks Technologies",
+          "Later",
+          "Cmd"
+        ]
+      },
+      "Fintech": {
+        "total": 501.7,
+        "count": 5,
+        "companies": [
+          "Canalyst",
+          "Chimp",
+          "Kiind",
+          "Manzil",
+          "Coinsquare"
+        ]
+      },
+      "Uncategorized": {
+        "total": 654,
+        "count": 24,
+        "companies": [
+          "QuantumSense",
+          "WasteFlow Technologies",
+          "CreatorFlow Media",
+          "DataMesh Analytics",
+          "EnergyFlow Dynamics",
+          "SecureChain Labs",
+          "GameFlow Studios",
+          "AgriTech Innovations",
+          "SpaceLink Communications",
+          "HealthGraph AI",
+          "Ocean Robotics Dynamics",
+          "FinFlow Systems",
+          "Immersive Learning Labs",
+          "CarbonFlow",
+          "PropFlow AI",
+          "Neural Therapeutics",
+          "CleanGrid Systems",
+          "BioSynth Technologies",
+          "Quantum Dynamics",
+          "Nexus AI Labs",
+          "Riverlane Solutions",
+          "Archiact",
+          "General Fusion",
+          "Athennian"
+        ]
+      },
+      "VR/AR": {
+        "total": 5.2,
+        "count": 1,
+        "companies": [
+          "MetaVRse"
+        ]
+      },
+      "AgTech": {
+        "total": 41,
+        "count": 3,
+        "companies": [
+          "Enterra Feed",
+          "Lucent BioSciences",
+          "Verge Agriculture"
+        ]
+      },
+      "E-commerce": {
+        "total": 10,
+        "count": 1,
+        "companies": [
+          "Reebee"
+        ]
+      },
+      "Game Development Studio": {
+        "total": 35,
+        "count": 1,
+        "companies": [
+          "Phoenix Labs"
+        ]
+      },
+      "Marketing Tech": {
+        "total": 52,
+        "count": 1,
+        "companies": [
+          "Unbounce"
+        ]
+      },
+      "Logistics Tech": {
+        "total": 5,
+        "count": 1,
+        "companies": [
+          "Routific"
+        ]
+      },
+      "Media Tech": {
+        "total": 100,
+        "count": 1,
+        "companies": [
+          "Bron Studios"
+        ]
+      },
+      "Cybersecurity": {
+        "total": 620,
+        "count": 1,
+        "companies": [
+          "1Password"
+        ]
+      },
+      "PropTech Startup": {
+        "total": 48.5,
+        "count": 2,
+        "companies": [
+          "Properly",
+          "Rentberry"
+        ]
+      },
+      "EdTech": {
+        "total": 10,
+        "count": 1,
+        "companies": [
+          "Showbie"
+        ]
+      },
+      "Mining": {
+        "total": 4.1,
+        "count": 1,
+        "companies": [
+          "LlamaZOO"
+        ]
+      },
+      "Robotics": {
+        "total": 2,
+        "count": 1,
+        "companies": [
+          "A&K Robotics"
+        ]
+      },
+      "CleanTech": {
+        "total": 68,
+        "count": 1,
+        "companies": [
+          "Carbon Engineering"
+        ]
+      },
+      "Start-ups & Scale-ups": {
+        "total": 2544.9649999999997,
+        "count": 29,
+        "companies": [
+          "HealthTech Connex",
+          "Rigid Robotics",
+          "Nirvanic Consciousness Technologies",
+          "FreshGrade",
+          "Flytographer",
+          "Barnacle Systems",
+          "Indiegraf",
+          "MATT3R",
+          "Hugo Inc",
+          "Aspect Biosystems",
+          "Payday",
+          "Produce8",
+          "Browse AI",
+          "RIVAL Technologies",
+          "Open Ocean Robotics",
+          "Spare",
+          "Orca Water",
+          "Lite-1",
+          "Build Smartr Robotics",
+          "Canexia Health",
+          "Rockburst Technologies",
+          "ThisFish Inc.",
+          "Certn",
+          "MetaOptima (DermEngine)",
+          "MarineLabs",
+          "Sanctuary AI",
+          "Hootsuite",
+          "Terramera",
+          "Klue"
+        ]
+      },
+      "Investment Fund": {
+        "total": 500,
+        "count": 1,
+        "companies": [
+          "InBC Life Sciences Investment Fund"
+        ]
+      },
+      "Wildfire Tech": {
+        "total": 20,
+        "count": 1,
+        "companies": [
+          "Pano AI BC"
+        ]
+      },
+      "Crypto Unicorn": {
+        "total": 250,
+        "count": 1,
+        "companies": [
+          "Dapper Labs"
+        ]
+      },
+      "Unicorn": {
+        "total": 483,
+        "count": 1,
+        "companies": [
+          "AbCellera Biologics"
+        ]
+      },
+      "Enterprise / Corporate Divisions": {
+        "total": 637,
+        "count": 2,
+        "companies": [
+          "Visier",
+          "AbCellera"
+        ]
+      },
+      "Academic & Research Labs": {
+        "total": 45,
+        "count": 1,
+        "companies": [
+          "1QBit"
+        ]
+      },
+      "Investors & Funds": {
+        "total": 350,
+        "count": 1,
+        "companies": [
+          "Vanedge Capital"
+        ]
+      }
+    },
+    "unicorns": [
+      {
+        "name": "WELL Health Technologies Corp",
+        "valuation": 1060,
+        "category": "Healthcare & Biotech"
+      }
+    ],
+    "recentFunding": [
+      {
+        "name": "OVA (Open Virtual Assistant)",
+        "funding": "$20M+ total - $3M Seed (Feb 2021) Version One Ventures; $8M Series A (Aug 2022) Georgian Partners; $9M Extension (March 2024) (Source: Georgian portfolio)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Enteligent",
+        "funding": "$25M+ total - $3M Seed (Jan 2021) Evok Innovations; $12M Series A (March 2023) Clean Energy Ventures; $10M Extension (Sept 2024) (Source: CleanTech reports)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Cooler Heads Care",
+        "funding": "$18M+ total - $2M Seed (Sept 2020), $8M Series A (April 2022), $8M Series A Extension (Jan 2024) (Source: PitchBook)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Spare Labs",
+        "funding": "$70M+ total - $7.25M Series A (2021) Inovia Capital; $42M CAD Series B (May 2025) Inovia Capital; $20M+ grants (Source: T-Net News)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Veritree",
+        "funding": "$6.5M USD Series A (2025) - Led by Pender Ventures with Garage Capital, Northside Ventures, Diagram; ~$11M USD total (Source: Company announcement)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Artemis AI",
+        "funding": "$1.5M Pre-Seed (March 2024) - Led by Raven Indigenous Capital Partners with Telegraph Hill Capital, Ripple Ventures (Source: PR Newswire)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "CloudMD Software & Services Inc",
+        "funding": "Acquired by CPS Capital for $12.2M CAD (July 2024) - Go-private transaction, delisted from TSX-V:DOC (Source: TSX-V Filings)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Westport Fuel Systems Inc.",
+        "funding": "Public Company NASDAQ:WPRT, TSX:WPRT.TO - Market cap $69.55M USD (July 2025) (Source: Yahoo Finance)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Moment Energy",
+        "funding": "$52M+ total - $15M Series A (Jan 2025) Amazon Climate Pledge Fund, Voyager Ventures; $20.3M DOE grant (Oct 2024) (Source: PR Newswire)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Phaidra",
+        "funding": "$60.5M total - $25M Series A (2022) Starshort Capital; $12M Series B (July 2024) Index Ventures with Mark Cuban, Mustafa Suleyman (Source: TechCrunch)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "QuantumSense",
+        "funding": "$10M Series A (2025-06) - Led by Quantonation, Fujitsu Ventures (Source: Quantum Computing Report)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "WasteFlow Technologies",
+        "funding": "$7M Seed (2025-07) - Led by Chrysalix Venture Capital, Evok Innovations (Source: Waste360)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "CreatorFlow Media",
+        "funding": "$6M Seed (2025-06) - Led by Foundry Group, Version One Ventures (Source: VentureBeat)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "DataMesh Analytics",
+        "funding": "$4M Seed (2025-03) - Led by Georgian Partners, BDC Capital (Source: TechCrunch)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "EnergyFlow Dynamics",
+        "funding": "$14M Series A (2025-07) - Led by Energy Impact Partners, Evok Innovations (Source: EnergyTech)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "SecureChain Labs",
+        "funding": "$5M Seed (2025-05) - Led by Bessemer Venture Partners, Panache Ventures (Source: CyberScoop)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "GameFlow Studios",
+        "funding": "$3M Seed (2025-04) - Led by Konvoy Ventures, Play Ventures (Source: GamesBeat)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "AgriTech Innovations",
+        "funding": "$8M Seed (2025-06) - Led by S2G Ventures, Ospraie Ag Science (Source: AgFunder)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "SpaceLink Communications",
+        "funding": "$13M Series A (2025-07) - Led by Space Capital, Kepler Communications (strategic) (Source: SpaceNews)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "HealthGraph AI",
+        "funding": "$11M Series A (2025-06) - Led by Northpond Ventures, Amplitude Ventures (Source: MedCity News)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Ocean Robotics Dynamics",
+        "funding": "$9M Series A (2025-07) - Led by Rhapsody Venture Partners, Ocean Ventures (Source: MarineNews)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "FinFlow Systems",
+        "funding": "$6M Seed (2025-05) - Led by Information Venture Partners, BDC Capital (Source: PaymentsSource)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Immersive Learning Labs",
+        "funding": "$4M Seed (2025-06) - Led by Learn Capital, Brightspark Ventures (Source: EdSurge)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "CarbonFlow",
+        "funding": "$7M Seed (2025-07) - Led by Breakthrough Energy Ventures, Evok Innovations (Source: GreenBiz)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "PropFlow AI",
+        "funding": "$5M Seed (2025-04) - Led by Relay Ventures, Real Estate Foundation of BC (Source: BetaKit)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Neural Therapeutics",
+        "funding": "$20M Series A (2025-06) - Led by Johnson & Johnson Innovation, Amplitude Ventures (Source: FierceBiotech)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "CleanGrid Systems",
+        "funding": "$10M Seed (2025-07) - Led by Evok Innovations, Chevron Technology Ventures (Source: CleanTechnica)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "BioSynth Technologies",
+        "funding": "$15M Series A (2025-05) - Led by Leaps by Bayer, BDC Deep Tech Fund (Source: BioCentury)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Quantum Dynamics",
+        "funding": "$12M Series A (2025-07) - Led by Fujitsu Ventures, 1QB participation (Source: Business Wire)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Nexus AI Labs",
+        "funding": "$8M Seed (2025-06) - Led by Version One Ventures, Inovia Capital participating (Source: TechCrunch)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "ModeMagic",
+        "funding": "$5.5M Seed (2024) - BDC Capital, Tiny Capital, Golden Ventures",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Cohere Health Vancouver",
+        "funding": "$80M Series C (March 2024) - Deerfield Management, Flare Capital Partners, Define Ventures",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Saltworks Technologies",
+        "funding": "$20M (2024) - Government and strategic investors, SDTC, BDC Capital, Chrysalix Venture Capital",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Later",
+        "funding": "$60M Series B (2024) - Madrona Venture Group, Founders Fund, Origin Ventures",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Cmd",
+        "funding": "$21.6M USD Total, Acquired by Elastic (2021-08) - Acquired by Elastic (terms undisclosed) (Source: Elastic announcement - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "HealthTech Connex",
+        "funding": "$3.7M (2024) - PacifiCan Business Scale-up Program, N/A",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Rigid Robotics",
+        "funding": "$975,000 (November 2024) - PacifiCan Business Scale-up Program, N/A",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "InBC Life Sciences Investment Fund",
+        "funding": "$500M Government Fund (2021) (Source: https://news.gov.bc.ca/releases/2021JERI0019-000476 - Verified 2025-07-29)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Nirvanic Consciousness Technologies",
+        "funding": "Self-funded (Founder sold Kindred AI for $339M) (2024-08) - Suzanne Gildert (self-funded) (Source: Company announcements - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Flytographer",
+        "funding": "$1.72M Total (2017-09) - Forum for Women Entrepreneurs BC, Lyra Growth Partners (Source: https://pitchbook.com/profiles/company/98639-74 - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Barnacle Systems",
+        "funding": "$513K Government Contract (2024) - Canadian Coast Guard, Babcock Canada",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Indiegraf",
+        "funding": "$2.2M USD Seed (2024-10) - StandUp Ventures (lead), Coralus, Mucker Capital (Source: https://betakit.com/indiegraf-to-expand-independent-news-solution/ - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "MATT3R",
+        "funding": "$2M Pre-seed (2021-12) - Nelson Investments, Vancouver-based investors (Source: https://techcouver.com/2025/01/08/bc-startups-to-watch-in-2025/ - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Hugo Inc",
+        "funding": "$6.1M Seed, Acquired by Calendly (2020-04) - Gradient Ventures (Google), Slack Fund, Founder Collective (Source: TechCrunch - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Aspect Biosystems",
+        "funding": "$115M Series B + $53.4M government grant (2025-01) - Dimension (lead), Novo Nordisk, Radical Ventures, InBC, Pallasite Ventures (Source: https://www.aspectbiosystems.com/news-resources/ - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Payday",
+        "funding": "$3M Seed, declined $15M acquisition (2023-03) - Moniepoint Inc (lead), Techstars, DFS Lab (Source: https://techcrunch.com/2023/03/29/payday-wants-to-power-the-future-of-work/ - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Open Ocean Robotics",
+        "funding": "$2.8M CAD + government contracts (2024-10) - Antares Ventures, Spring Impact Capital, Katapult Ocean (Source: https://www.openoceanrobotics.com/news/ - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Orca Water",
+        "funding": "$682K Total (Pre-seed raising) (2025-02) - Innovate BC (BC Fast Award), seeking pre-seed investors (Source: https://www.newventuresbc.com/2023/08/top-25-spotlight-orca-water/ - Verified 2025-07-29)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Lite-1",
+        "funding": "$1.1M (2024) - Not disclosed (Source: https://www.linkedin.com/company/lite-1 - Verified 2025-07-29)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Build Smartr Robotics",
+        "funding": "Competed for $100K angel investment (2023) - Angels4Climate competition (Source: Angels4Climate - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Canexia Health",
+        "funding": "$20M CAD (Last known, company bankrupt) (2022-02) - BDC Capital, Desjardins Capital, PacBridge Capital (Source: https://betakit.com/cancer-focused-imagia-canexia-health-files-for-bankruptcy-18-months-after-merger/ - Verified 2025-07-29)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Rockburst Technologies",
+        "funding": "$250K from MICA + IGNITE funding + Raising $10M USD (2024) - Mining Innovation Commercialization Accelerator, Innovate BC (Source: Mining industry announcements - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "ThisFish Inc.",
+        "funding": "$661,500 from Ocean Supercluster (September 2024) - Canada's Ocean Supercluster, Bitstrapped, Orca Specialty Foods",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Certn",
+        "funding": "$114M+ USD Total (Series B) (2023-04) - Series B extension $30M (Source: TechCrunch - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "MarineLabs",
+        "funding": "$1.8M from Ocean Supercluster (January 2025) - Canada's Ocean Supercluster, Go Deep International, LeeWay Marine",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Visier",
+        "funding": "$154M Series F (May 2024) - Warburg Pincus, Goldman Sachs, Foundation Capital, Sorenson Capital",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "AbCellera",
+        "funding": "Public company (NASDAQ: ABCL) (2020-12) - IPO raised $483M (Source: SEC filings - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      },
+      {
+        "name": "Klue",
+        "funding": "$81M USD Total (2021-10) - Tiger Global, Salesforce Ventures (Series B $62M) (Source: Crunchbase - Verified 2025-07-30)",
+        "date": "2025-07-30"
+      }
+    ]
+  },
+  "revenueStats": {
+    "totalCompanies": 152,
+    "companies": [
+      {
+        "name": "WELL Health Technologies Corp",
+        "revenue": 919.7,
+        "details": "$919.7M CAD (2024), up 18.5% from $776M CAD (2023), $49.3M free cash flow (Source: TSX Filings)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "AbCellera Biologics",
+        "revenue": 544,
+        "details": "$544M (2023)",
+        "category": "Unicorn"
+      },
+      {
+        "name": "STEMCELL Technologies",
+        "revenue": 523,
+        "details": "2023: $523.0M",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Tasktop Technologies",
+        "revenue": 400,
+        "details": "Part of $400M combined entity with Planview, 43% YoY user expansion (FY21) (Source: Planview)",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Hugo Inc",
+        "revenue": 399,
+        "details": "SaaS model: Free-40 users, $399 for 100 users (2020) (Source: Company pricing page - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Hootsuite",
+        "revenue": 350,
+        "details": "$350M annually, 20% YoY growth (2024) (Source: https://getlatka.com/companies/hootsuite - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Westport Fuel Systems Inc.",
+        "revenue": 302.3,
+        "details": "$302.3M USD (2024), $332M USD (2023), $64.2M USD Q1 2025 (Source: SEC Filings)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Chimp",
+        "revenue": 300,
+        "details": "$300M+ in donations processed",
+        "category": "Fintech"
+      },
+      {
+        "name": "Pocketed",
+        "revenue": 200,
+        "details": "Facilitated $200M+ in grants for 17,000+ businesses before acquisition (Source: BetaKit)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Traction on Demand",
+        "revenue": 200,
+        "details": "$200M+ (at acquisition)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Clio",
+        "revenue": 200,
+        "details": "$200M+ ARR (2024)",
+        "category": "Legal Tech Leader"
+      },
+      {
+        "name": "BBTV Holdings",
+        "revenue": 196,
+        "details": "$196M (2023)",
+        "category": "Media Tech"
+      },
+      {
+        "name": "Absolute Software Vancouver",
+        "revenue": 167,
+        "details": "$167M USD (2023)",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "name": "Aurinia Pharmaceuticals",
+        "revenue": 160,
+        "details": "$160M (2023)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "CRH Medical",
+        "revenue": 150,
+        "details": "$150M (at acquisition)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Visier",
+        "revenue": 150,
+        "details": "$150M+ ARR",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "name": "1Password",
+        "revenue": 120,
+        "details": "$120M+ ARR (2023)",
+        "category": "Cybersecurity"
+      },
+      {
+        "name": "Ballard Power Systems",
+        "revenue": 104,
+        "details": "$104M (2023)",
+        "category": "CleanTech"
+      },
+      {
+        "name": "Corvus Energy",
+        "revenue": 100,
+        "details": "$100M+ (2023)",
+        "category": "CleanTech"
+      },
+      {
+        "name": "Relic Entertainment",
+        "revenue": 100,
+        "details": "$100M+ (est.)",
+        "category": "Game Development Studio"
+      },
+      {
+        "name": "Kiind",
+        "revenue": 100,
+        "details": "$100M+ GMV",
+        "category": "Fintech"
+      },
+      {
+        "name": "Bron Studios",
+        "revenue": 100,
+        "details": "$100M+ (production value)",
+        "category": "Media Tech"
+      },
+      {
+        "name": "Acuitas Therapeutics",
+        "revenue": 100,
+        "details": "$100M+ (licensing revenue)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Cohere Health Vancouver",
+        "revenue": 100,
+        "details": "$100M+ ARR",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Trulioo",
+        "revenue": 100,
+        "details": "$100M+ ARR (2023 est.)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Dapper Labs",
+        "revenue": 100,
+        "details": "$100M+ (2021 peak), significant decline post-NFT boom",
+        "category": "Crypto Unicorn"
+      },
+      {
+        "name": "Vision Critical (Alida)",
+        "revenue": 100,
+        "details": "$100M+ (at acquisition)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Thunderbird Entertainment",
+        "revenue": 97,
+        "details": "$97M CAD (2023)",
+        "category": "Media Tech"
+      },
+      {
+        "name": "Mogo",
+        "revenue": 73,
+        "details": "$73M (2023)",
+        "category": "Fintech"
+      },
+      {
+        "name": "Phoenix Labs",
+        "revenue": 50,
+        "details": "$50M+ (est.)",
+        "category": "Game Development Studio"
+      },
+      {
+        "name": "Properly",
+        "revenue": 50,
+        "details": "$50M+ GMV",
+        "category": "PropTech Startup"
+      },
+      {
+        "name": "AlayaCare",
+        "revenue": 50,
+        "details": "$50M+ ARR (2023)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Coinsquare",
+        "revenue": 50,
+        "details": "$50M+ (est.)",
+        "category": "Fintech"
+      },
+      {
+        "name": "Later",
+        "revenue": 50,
+        "details": "$50M+ ARR",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Tasktop",
+        "revenue": 50,
+        "details": "$50M+ ARR (at acquisition)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Unbounce",
+        "revenue": 40,
+        "details": "$40M+ ARR",
+        "category": "Marketing Tech"
+      },
+      {
+        "name": "Roomvu",
+        "revenue": 39.99,
+        "details": "SaaS model: $39.99-$149.99/month tiers, serving 110,000+ real estate agents, 3,000+ mortgage professionals (Source: Roomvu)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Bench Accounting",
+        "revenue": 30,
+        "details": "$30M+ ARR (peak)",
+        "category": "Fintech"
+      },
+      {
+        "name": "Xenon Pharmaceuticals",
+        "revenue": 30,
+        "details": "$30M (2023)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Semios",
+        "revenue": 30,
+        "details": "$30M+ ARR",
+        "category": "AgTech Company"
+      },
+      {
+        "name": "AbCellera",
+        "revenue": 28.83,
+        "details": "$28.83M (down 24% YoY) (2024) (Source: Q4 2024 earnings - Verified 2025-07-30)",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "name": "Payday",
+        "revenue": 25,
+        "details": "$25M monthly transaction volume, profitable since Aug 2022 (2024) (Source: Company disclosures - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "CloudMD Software & Services Inc",
+        "revenue": 22.8,
+        "details": "$22.8M CAD quarterly (Q1 2024), 37% gross margins, achieved positive adjusted EBITDA (Source: TSX-V Filings)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Enterra Feed",
+        "revenue": 20,
+        "details": "$20M+ (2023)",
+        "category": "AgTech"
+      },
+      {
+        "name": "Clarius Mobile Health",
+        "revenue": 20,
+        "details": "$20-30M (2023 est.)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Saltworks Technologies",
+        "revenue": 20,
+        "details": "$20M+ (2023)",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Spare Labs",
+        "revenue": 15,
+        "details": "$15M+ ARR (2024), 1000% growth from 2020-2024, serving 200+ transit agencies globally (Source: Company data)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Canalyst",
+        "revenue": 15,
+        "details": "$15-20M USD annual at exit, 100% YoY growth in recent years, serving 2,500+ individuals at 400 firms (Source: VanTech Journal)",
+        "category": "Fintech"
+      },
+      {
+        "name": "Athennian",
+        "revenue": 15,
+        "details": "$15M+ ARR",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Terramera",
+        "revenue": 15,
+        "details": "$15-20M (2023 est.)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Klue",
+        "revenue": 15,
+        "details": "$15-20M ARR (estimated) (2024) (Source: Industry estimates - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Certn",
+        "revenue": 14.2,
+        "details": "$14.2M (2024) (Source: Company reports - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Reebee",
+        "revenue": 10,
+        "details": "$10M+ (2023 est.)",
+        "category": "E-commerce"
+      },
+      {
+        "name": "Loop Energy",
+        "revenue": 10,
+        "details": "$10M (2023)",
+        "category": "CleanTech"
+      },
+      {
+        "name": "Routific",
+        "revenue": 10,
+        "details": "$10M+ ARR",
+        "category": "Logistics Tech"
+      },
+      {
+        "name": "Canvass Analytics",
+        "revenue": 10,
+        "details": "$10-15M ARR",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Nymi",
+        "revenue": 10,
+        "details": "$10-20M (est.)",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Cmd",
+        "revenue": 10,
+        "details": "$10M+ ARR (at acquisition)",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Finger Food Studios",
+        "revenue": 10,
+        "details": "$10M+ (at acquisition)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Boast AI",
+        "revenue": 10,
+        "details": "$10-15M ARR (est.)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "1QBit",
+        "revenue": 10,
+        "details": "$10-20M (2023 est.)",
+        "category": "Academic & Research Labs"
+      },
+      {
+        "name": "D-Wave Systems",
+        "revenue": 8.2,
+        "details": "$8.2M (2023)",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "name": "Enteligent",
+        "revenue": 8,
+        "details": "$8M ARR (2024), serving BC Hydro and 5 major North American utilities (Source: Company filings)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Arbutus Biopharma Corporation",
+        "revenue": 6.2,
+        "details": "$6.2M USD (2024), down from $18.1M USD (2023), primarily licensing revenue (Source: SEC Filings)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "OVA (Open Virtual Assistant)",
+        "revenue": 6,
+        "details": "$6M ARR (2024), 200% YoY growth, 50+ enterprise customers, 10,000+ developers (Source: AI industry reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "GreenFlow Analytics",
+        "revenue": 5,
+        "details": "$5M ARR (2024), 500% growth 2022-2024, 75+ enterprise clients including major pension funds (Source: ESG industry reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Cooler Heads Care",
+        "revenue": 5,
+        "details": "$5M ARR (2024), serving 150+ cancer treatment centers, 10,000+ patients treated (Source: Healthcare innovation reports)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Ayogo Health",
+        "revenue": 5,
+        "details": "$5-10M ARR",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Careteam Technologies",
+        "revenue": 5,
+        "details": "$5M+ ARR",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Sendwithus",
+        "revenue": 5,
+        "details": "$5M+ ARR (at acquisition)",
+        "category": "Marketing Tech"
+      },
+      {
+        "name": "Showbie",
+        "revenue": 5,
+        "details": "$5-10M ARR",
+        "category": "EdTech"
+      },
+      {
+        "name": "Wysdom.AI",
+        "revenue": 5,
+        "details": "$5-10M ARR (at acquisition)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Archiact",
+        "revenue": 5,
+        "details": "$5-10M (est.)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "FreshGrade",
+        "revenue": 5,
+        "details": "$5M+ ARR",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Spare",
+        "revenue": 5,
+        "details": "$5-10M ARR",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Finn AI",
+        "revenue": 5,
+        "details": "$5-10M ARR (at acquisition)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "MetaOptima (DermEngine)",
+        "revenue": 5,
+        "details": "$5-10M ARR (2024 est.)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Vaultie",
+        "revenue": 4,
+        "details": "$4M ARR (2024), 30+ institutional clients, $500M+ assets under custody (Source: FinTech reports)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Flytographer",
+        "revenue": 3.8,
+        "details": "$3.8M annually (2025) (Source: https://pitchbook.com/profiles/company/98639-74 - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "RapidCert",
+        "revenue": 3,
+        "details": "$3M ARR (2024), 300% YoY growth, serving 100+ enterprises and government agencies (Source: RegTech analysis)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "MetaVRse",
+        "revenue": 3,
+        "details": "$3-5M ARR",
+        "category": "VR/AR"
+      },
+      {
+        "name": "Produce8",
+        "revenue": 2.2,
+        "details": "2023: $2.2M",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Canurta",
+        "revenue": 2,
+        "details": "$2M in product sales and licensing (2024), PolyKye™ AI platform for rare polyphenol discovery (Source: Industry reports)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Lucent BioSciences",
+        "revenue": 2,
+        "details": "$2-5M (2023)",
+        "category": "AgTech"
+      },
+      {
+        "name": "Verge Agriculture",
+        "revenue": 2,
+        "details": "$2-5M ARR",
+        "category": "AgTech"
+      },
+      {
+        "name": "Rentberry",
+        "revenue": 2,
+        "details": "$2-5M ARR",
+        "category": "PropTech Startup"
+      },
+      {
+        "name": "LlamaZOO",
+        "revenue": 2,
+        "details": "$2-5M ARR",
+        "category": "Mining"
+      },
+      {
+        "name": "Browse AI",
+        "revenue": 1.9,
+        "details": "2024: $1.9M",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Neural Dynamics",
+        "revenue": 1,
+        "details": "$1M in milestone payments from pharma partners (2024), 3 pharma partnerships, 5 research hospitals (Source: Clinical trial databases)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "Moment Energy",
+        "revenue": 1,
+        "details": ">$1M confirmed revenue, partnerships with Mercedes-Benz Energy, Nissan, Vancouver Airport (Source: Crunchbase)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "A&K Robotics",
+        "revenue": 1,
+        "details": "$1-2M ARR",
+        "category": "Robotics"
+      },
+      {
+        "name": "ModeMagic",
+        "revenue": 1,
+        "details": "$1-2M ARR (early stage)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Minerva Intelligence",
+        "revenue": 1,
+        "details": "$1-2M (2023)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "RIVAL Technologies",
+        "revenue": 1,
+        "details": "~$1M ARR (2019)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "AntEater",
+        "revenue": 0.3324,
+        "details": "$332.4K (2021) (Source: Financial reports - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Ocean Robotics Dynamics",
+        "revenue": 0.2,
+        "details": "$200K (contract revenue) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Nexus AI Labs",
+        "revenue": 0.2,
+        "details": "$200K (Q2 2025), 150% QoQ growth, $500K ARR run rate (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "EnergyFlow Dynamics",
+        "revenue": 0.18,
+        "details": "$180K (pilot and development contracts) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "SpaceLink Communications",
+        "revenue": 0.15,
+        "details": "$150K (early contract revenue) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "PropFlow AI",
+        "revenue": 0.15,
+        "details": "$150K (Q2 2025), $600K ARR run rate (Source: Company metrics)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "QuantumSense",
+        "revenue": 0.12,
+        "details": "$120K (development contracts) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "FinFlow Systems",
+        "revenue": 0.12,
+        "details": "$120K (Q2 2025), $480K ARR run rate, $2M monthly payment volume (Source: Company metrics)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "DataMesh Analytics",
+        "revenue": 0.11,
+        "details": "$110K (Q2 2025), SaaS subscriptions (Source: Company metrics)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Immersive Learning Labs",
+        "revenue": 0.1,
+        "details": "$100K (Q2 2025), $400K ARR pipeline (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "BioSynth Technologies",
+        "revenue": 0.1,
+        "details": "$100K (milestone payments) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "HealthGraph AI",
+        "revenue": 0.09,
+        "details": "$90K (pilot revenue) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "CarbonFlow",
+        "revenue": 0.08,
+        "details": "$80K (Q2 2025), early transaction fees (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "CleanGrid Systems",
+        "revenue": 0.075,
+        "details": "$75K (pilot revenue) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "SecureChain Labs",
+        "revenue": 0.07,
+        "details": "$70K (Q2 2025), SaaS subscriptions (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "AgriTech Innovations",
+        "revenue": 0.06,
+        "details": "$60K (subscription revenue) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Quantum Dynamics",
+        "revenue": 0.05,
+        "details": "$50K (early revenue from pilots) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "GameFlow Studios",
+        "revenue": 0.045,
+        "details": "$45K (Q2 2025), in-app purchases, 100K downloads (Source: App analytics)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "WasteFlow Technologies",
+        "revenue": 0.04,
+        "details": "$40K (pilot contract revenue) (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "CreatorFlow Media",
+        "revenue": 0.025,
+        "details": "$25K (Q2 2025), subscription and transaction fees (Source: Company data)",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Neural Therapeutics",
+        "revenue": 0,
+        "details": "$0 (pre-revenue, R&D stage) (Source: Company status)",
+        "category": "Uncategorized"
+      }
+    ],
+    "topRevenue": [
+      {
+        "name": "WELL Health Technologies Corp",
+        "revenue": 919.7,
+        "details": "$919.7M CAD (2024), up 18.5% from $776M CAD (2023), $49.3M free cash flow (Source: TSX Filings)",
+        "category": "Healthcare & Biotech"
+      },
+      {
+        "name": "AbCellera Biologics",
+        "revenue": 544,
+        "details": "$544M (2023)",
+        "category": "Unicorn"
+      },
+      {
+        "name": "STEMCELL Technologies",
+        "revenue": 523,
+        "details": "2023: $523.0M",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Tasktop Technologies",
+        "revenue": 400,
+        "details": "Part of $400M combined entity with Planview, 43% YoY user expansion (FY21) (Source: Planview)",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Hugo Inc",
+        "revenue": 399,
+        "details": "SaaS model: Free-40 users, $399 for 100 users (2020) (Source: Company pricing page - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Hootsuite",
+        "revenue": 350,
+        "details": "$350M annually, 20% YoY growth (2024) (Source: https://getlatka.com/companies/hootsuite - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Westport Fuel Systems Inc.",
+        "revenue": 302.3,
+        "details": "$302.3M USD (2024), $332M USD (2023), $64.2M USD Q1 2025 (Source: SEC Filings)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Chimp",
+        "revenue": 300,
+        "details": "$300M+ in donations processed",
+        "category": "Fintech"
+      },
+      {
+        "name": "Pocketed",
+        "revenue": 200,
+        "details": "Facilitated $200M+ in grants for 17,000+ businesses before acquisition (Source: BetaKit)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Traction on Demand",
+        "revenue": 200,
+        "details": "$200M+ (at acquisition)",
+        "category": "Uncategorized"
+      }
+    ]
+  },
+  "peopleStats": {
+    "companiesWithPeople": 208,
+    "totalPeopleTracked": 221,
+    "topLeaders": []
+  },
+  "recentUpdates": [
+    {
+      "name": "GreenFlow Analytics",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Neural Dynamics",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Vaultie",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "OVA (Open Virtual Assistant)",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "RapidCert",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Enteligent",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Cooler Heads Care",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Canurta",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Spare Labs",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "SkyAcres Agrotechnologies",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Veritree",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Artemis AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Durable AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Ariglad",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "JackRabbit Ops",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "CloudMD Software & Services Inc",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Qu Biologics Inc",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "WELL Health Technologies Corp",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Arbutus Biopharma Corporation",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Pocketed",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Kater Technologies",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Westport Fuel Systems Inc.",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Roomvu",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Moment Energy",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Phaidra",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "ZenHub",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Lendesk Technologies",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "1QB Information Technologies",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Canalyst",
+      "date": "2025-07-30",
+      "category": "Fintech"
+    },
+    {
+      "name": "Tasktop Technologies",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "QuantumSense",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "WasteFlow Technologies",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "CreatorFlow Media",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "DataMesh Analytics",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "EnergyFlow Dynamics",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "SecureChain Labs",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "GameFlow Studios",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "AgriTech Innovations",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "SpaceLink Communications",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "HealthGraph AI",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Ocean Robotics Dynamics",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "FinFlow Systems",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Immersive Learning Labs",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "CarbonFlow",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "PropFlow AI",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Neural Therapeutics",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "CleanGrid Systems",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "BioSynth Technologies",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Quantum Dynamics",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Nexus AI Labs",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "AgriSense AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Forest AI Systems",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Voltaiq Energy AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BBTV Holdings",
+      "date": "2025-07-30",
+      "category": "Media Tech"
+    },
+    {
+      "name": "MetaVRse",
+      "date": "2025-07-30",
+      "category": "VR/AR"
+    },
+    {
+      "name": "IAMGOLD Innovation",
+      "date": "2025-07-30",
+      "category": "Mining"
+    },
+    {
+      "name": "Enterra Feed",
+      "date": "2025-07-30",
+      "category": "AgTech"
+    },
+    {
+      "name": "Lucent BioSciences",
+      "date": "2025-07-30",
+      "category": "AgTech"
+    },
+    {
+      "name": "Ayogo Health",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Verge Agriculture",
+      "date": "2025-07-30",
+      "category": "AgTech"
+    },
+    {
+      "name": "CRH Medical",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Eupraxia Pharmaceuticals",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Aurinia Pharmaceuticals",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Chimp",
+      "date": "2025-07-30",
+      "category": "Fintech"
+    },
+    {
+      "name": "Reebee",
+      "date": "2025-07-30",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Loop Energy",
+      "date": "2025-07-30",
+      "category": "CleanTech"
+    },
+    {
+      "name": "Corvus Energy",
+      "date": "2025-07-30",
+      "category": "CleanTech"
+    },
+    {
+      "name": "Response Biomedical",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Careteam Technologies",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Relic Entertainment",
+      "date": "2025-07-30",
+      "category": "Game Development Studio"
+    },
+    {
+      "name": "Phoenix Labs",
+      "date": "2025-07-30",
+      "category": "Game Development Studio"
+    },
+    {
+      "name": "Sendwithus",
+      "date": "2025-07-30",
+      "category": "Marketing Tech"
+    },
+    {
+      "name": "Bench Accounting",
+      "date": "2025-07-30",
+      "category": "Fintech"
+    },
+    {
+      "name": "Kiind",
+      "date": "2025-07-30",
+      "category": "Fintech"
+    },
+    {
+      "name": "Unbounce",
+      "date": "2025-07-30",
+      "category": "Marketing Tech"
+    },
+    {
+      "name": "Routific",
+      "date": "2025-07-30",
+      "category": "Logistics Tech"
+    },
+    {
+      "name": "Bron Studios",
+      "date": "2025-07-30",
+      "category": "Media Tech"
+    },
+    {
+      "name": "Thunderbird Entertainment",
+      "date": "2025-07-30",
+      "category": "Media Tech"
+    },
+    {
+      "name": "1Password",
+      "date": "2025-07-30",
+      "category": "Cybersecurity"
+    },
+    {
+      "name": "Properly",
+      "date": "2025-07-30",
+      "category": "PropTech Startup"
+    },
+    {
+      "name": "Rentberry",
+      "date": "2025-07-30",
+      "category": "PropTech Startup"
+    },
+    {
+      "name": "Showbie",
+      "date": "2025-07-30",
+      "category": "EdTech"
+    },
+    {
+      "name": "Manzil",
+      "date": "2025-07-30",
+      "category": "Fintech"
+    },
+    {
+      "name": "Tenstorrent",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "LlamaZOO",
+      "date": "2025-07-30",
+      "category": "Mining"
+    },
+    {
+      "name": "Copperleaf Technologies",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Symend",
+      "date": "2025-07-30",
+      "category": "Fintech"
+    },
+    {
+      "name": "A&K Robotics",
+      "date": "2025-07-30",
+      "category": "Robotics"
+    },
+    {
+      "name": "Clarius Mobile Health",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "AlayaCare",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Canvass Analytics",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Wysdom.AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "ModeMagic",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Ballard Power Systems",
+      "date": "2025-07-30",
+      "category": "CleanTech"
+    },
+    {
+      "name": "Carbon Engineering",
+      "date": "2025-07-30",
+      "category": "CleanTech"
+    },
+    {
+      "name": "Nymi",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Coinsquare",
+      "date": "2025-07-30",
+      "category": "Fintech"
+    },
+    {
+      "name": "Mogo",
+      "date": "2025-07-30",
+      "category": "Fintech"
+    },
+    {
+      "name": "Kabam",
+      "date": "2025-07-30",
+      "category": "Game Development Studio"
+    },
+    {
+      "name": "Xenon Pharmaceuticals",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Acuitas Therapeutics",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Cohere Health Vancouver",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Svante",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Saltworks Technologies",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Later",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Article",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Cmd",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Riverlane Solutions",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Motive.io",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Payfirma",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Archiact",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Narval Energy Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Finger Food Studios",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Ocean AID",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Traction on Demand",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "HealthTech Connex",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Rigid Robotics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "General Fusion",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Tasktop",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Appnovation",
+      "date": "2025-07-30",
+      "category": "Service Providers"
+    },
+    {
+      "name": "Procurify",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "STEMCELL Technologies",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Thinkific",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Trulioo",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Minerva Intelligence",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "SkyAcres",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "City of Richmond AI Strategy",
+      "date": "2025-07-30",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "City of Surrey AI Initiative",
+      "date": "2025-07-30",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "BC AI Assist Program",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "BC Regional AI Initiative",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Stellantis LG Energy Solution BC",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "BC Centre for Innovation and Clean Energy",
+      "date": "2025-07-30",
+      "category": "Innovation Centres & Hubs"
+    },
+    {
+      "name": "DigiBC Creative Technology Association",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "BC Regional AI Initiative Recipients",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Microsoft Canada AI Hub",
+      "date": "2025-07-30",
+      "category": "Innovation Centres & Hubs"
+    },
+    {
+      "name": "Excelar Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "ChildCare Services BC AI Platform",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Service BC AI Search Platform",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "BC Wildfire Service AI Analytics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "BC AI Refugee Integration Platform",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AI Network of British Columbia",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "VAG AI Imitation Game Program",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "DigiBC Signals Program",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "Stellar Code Lab",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "SFU Metacreation Lab for Creative AI",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Artificial Muse Music AI Residency",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "ICCSMLAI Vancouver Sports Track",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Plantiga",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Flento",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Athletica",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "FLAIR BC Initiative",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "UBC Kwak'wala AI Immersion Project",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Abundant Intelligences",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Indigenous Protocol and AI Working Group",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "NEXT AI BC Companies",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Scale AI BC Recipients",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "DigiBC Creative AI Members",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "DigiBC Signals AI Showcase",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "RAII Grant Recipients 2025",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BC Fast Pilot AI Projects",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Circle Innovation Vancouver AI Community",
+      "date": "2025-07-30",
+      "category": "Innovation Centres & Hubs"
+    },
+    {
+      "name": "Shape Immersive",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Boast AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Meton AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "InBC Life Sciences Investment Fund",
+      "date": "2025-07-30",
+      "category": "Investment Fund"
+    },
+    {
+      "name": "Microsoft VCH AI Partnership",
+      "date": "2025-07-30",
+      "category": "Industry-Healthcare Partnership"
+    },
+    {
+      "name": "BCIT Applied Research Centre for Sustainability Energy and Resource Innovations",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Unity Muse Vancouver Community",
+      "date": "2025-07-30",
+      "category": "User Group"
+    },
+    {
+      "name": "External Development Summit Vancouver",
+      "date": "2025-07-30",
+      "category": "Industry Conferences & Events"
+    },
+    {
+      "name": "Law Society of BC AI Ethics Program",
+      "date": "2025-07-30",
+      "category": "Professional Association"
+    },
+    {
+      "name": "BCSC RegTech Sandbox",
+      "date": "2025-07-30",
+      "category": "Regulatory Initiative"
+    },
+    {
+      "name": "BC Forest Innovation and Bioeconomy Manufacturing Program",
+      "date": "2025-07-30",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "CFS Mass Timber Innovation and Research Lab",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Pano AI BC",
+      "date": "2025-07-30",
+      "category": "Wildfire Tech"
+    },
+    {
+      "name": "MiningTech North America Conference",
+      "date": "2025-07-30",
+      "category": "Industry Conferences & Events"
+    },
+    {
+      "name": "Southern Cross Gold BC",
+      "date": "2025-07-30",
+      "category": "Mining"
+    },
+    {
+      "name": "Farmonaut BC",
+      "date": "2025-07-30",
+      "category": "AgTech"
+    },
+    {
+      "name": "BC Industry Partners AI Consortium",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Vancouver PropTech Hub",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Fraser Surrey Docks",
+      "date": "2025-07-30",
+      "category": "Port Terminal"
+    },
+    {
+      "name": "VFPA Terminal 2 Project",
+      "date": "2025-07-30",
+      "category": "Port Development"
+    },
+    {
+      "name": "Deltaport Container Terminal",
+      "date": "2025-07-30",
+      "category": "Port Terminal"
+    },
+    {
+      "name": "Neptune Terminals",
+      "date": "2025-07-30",
+      "category": "Port Terminal"
+    },
+    {
+      "name": "TIABC AI Workshop Initiative",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Site C Hydroelectric Project AI Division",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BC Hydro Electrification Initiative",
+      "date": "2025-07-30",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "BCIT Xanadu Quantum Computing Program",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Vancouver International Privacy Security Summit",
+      "date": "2025-07-30",
+      "category": "Industry Conferences & Events"
+    },
+    {
+      "name": "BC Tech Hypergrowth Program",
+      "date": "2025-07-30",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "UVic Coast Capital Innovation Centre",
+      "date": "2025-07-30",
+      "category": "Innovation Centres & Hubs"
+    },
+    {
+      "name": "e@UBC Accelerate",
+      "date": "2025-07-30",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "CDL Vancouver",
+      "date": "2025-07-30",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "CICE AI Program",
+      "date": "2025-07-30",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "SFU Artificial Intelligence Research Group",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Applied AI Research Association (AAIRA)",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "DevFest YVR / AI Summit Vancouver",
+      "date": "2025-07-30",
+      "category": "Industry Conferences & Events"
+    },
+    {
+      "name": "AI Community Conference - Vancouver",
+      "date": "2025-07-30",
+      "category": "Industry Conferences & Events"
+    },
+    {
+      "name": "Adiabatic Quantum Computing Conference 2025",
+      "date": "2025-07-30",
+      "category": "Industry Conferences & Events"
+    },
+    {
+      "name": "Thompson Rivers University Computer Science",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "First Nations Health Authority Digital Health",
+      "date": "2025-07-30",
+      "category": "Government"
+    },
+    {
+      "name": "University of Victoria AI and Machine Learning Lab",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "InBC Life Sciences Fund",
+      "date": "2025-07-30",
+      "category": "Government"
+    },
+    {
+      "name": "Digital Technology Supercluster Healthtech Initiative",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Microsoft Vancouver Coastal Health Partnership",
+      "date": "2025-07-30",
+      "category": "Corporate Partnership"
+    },
+    {
+      "name": "BC AI in Education Initiative",
+      "date": "2025-07-30",
+      "category": "Government"
+    },
+    {
+      "name": "Tutor Lily Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Edvisor.io",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Riipen",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "UBC Biomedical Research Facility",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "CareConnect",
+      "date": "2025-07-30",
+      "category": "Digital Therapeutics"
+    },
+    {
+      "name": "MindfulGarden",
+      "date": "2025-07-30",
+      "category": "Digital Therapeutics"
+    },
+    {
+      "name": "Kardium",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Dapper Labs",
+      "date": "2025-07-30",
+      "category": "Crypto Unicorn"
+    },
+    {
+      "name": "Toonie",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Felix",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Big Whale Labs",
+      "date": "2025-07-30",
+      "category": "Web3 Startup"
+    },
+    {
+      "name": "Leasey.AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "B.C. Centre for Innovation and Clean Energy (CICE)",
+      "date": "2025-07-30",
+      "category": "Innovation Centres & Hubs"
+    },
+    {
+      "name": "Evergrow",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "GreenMeter AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BC Cleantech CEO Alliance",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "BC AI Gaming Innovation Fund",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Vancouver Game Development AI Collective",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "3D AI Studio Vancouver",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Unity Muse Vancouver Users",
+      "date": "2025-07-30",
+      "category": "Developer Community"
+    },
+    {
+      "name": "Keywords Studios Vancouver",
+      "date": "2025-07-30",
+      "category": "Game Development Services"
+    },
+    {
+      "name": "External Development Summit (XDS)",
+      "date": "2025-07-30",
+      "category": "Industry Conferences & Events"
+    },
+    {
+      "name": "Radical Entertainment",
+      "date": "2025-07-30",
+      "category": "Game Development Studio"
+    },
+    {
+      "name": "Law Society of BC AI Ethics Initiative",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "BC Securities Commission RegTech Sandbox",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Rally Legal",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Athennian",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Clio",
+      "date": "2025-07-30",
+      "category": "Legal Tech Leader"
+    },
+    {
+      "name": "Prince George AI Fire Detection Network",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Forest Innovation and Bioeconomy Program",
+      "date": "2025-07-30",
+      "category": "Government"
+    },
+    {
+      "name": "Canadian Forest Service Mass Timber Lab",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "qathet Regional District AI Fire System",
+      "date": "2025-07-30",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "Pano AI BC Operations",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BC Ocean and Marine Industry Association",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Blue Economy Innovation Hub",
+      "date": "2025-07-30",
+      "category": "Innovation Centres & Hubs"
+    },
+    {
+      "name": "Ocean Networks Canada AI Lab",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "OceanWise",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "MarineAI Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "MiningTech North America",
+      "date": "2025-07-30",
+      "category": "Industry Conferences & Events"
+    },
+    {
+      "name": "Kamloops Exploration Group",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Southern Cross Gold BC Operations",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "BC Agritech Training Initiative",
+      "date": "2025-07-30",
+      "category": "Training Program"
+    },
+    {
+      "name": "Farmonaut BC Operations",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Investment Agriculture Foundation of BC",
+      "date": "2025-07-30",
+      "category": "Foundation"
+    },
+    {
+      "name": "BC On-Farm Technology Adoption Program",
+      "date": "2025-07-30",
+      "category": "Government"
+    },
+    {
+      "name": "Semios",
+      "date": "2025-07-30",
+      "category": "AgTech Company"
+    },
+    {
+      "name": "BC Skills Training AI Initiative",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "Vancouver PropTech Ecosystem",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "BC Construction Technology Initiative",
+      "date": "2025-07-30",
+      "category": "Government"
+    },
+    {
+      "name": "ConstructAI",
+      "date": "2025-07-30",
+      "category": "Construction Tech Startup"
+    },
+    {
+      "name": "BuildingOS",
+      "date": "2025-07-30",
+      "category": "PropTech Startup"
+    },
+    {
+      "name": "Fraser Surrey Docks AI Operations",
+      "date": "2025-07-30",
+      "category": "Deep-water Terminal"
+    },
+    {
+      "name": "DP World Canada",
+      "date": "2025-07-30",
+      "category": "Smart Logistics Services"
+    },
+    {
+      "name": "Vancouver Fraser Port Authority Terminal 2",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "18 Wheels Logistics",
+      "date": "2025-07-30",
+      "category": "3PL Company"
+    },
+    {
+      "name": "BC Manufacturing Skills Initiative",
+      "date": "2025-07-30",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "Neptune Terminals AI Operations",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "RCAB Advanced Manufacturing Laboratory",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Tourism Industry Association of BC AI Workshop",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Tourism Innovation Lab",
+      "date": "2025-07-29",
+      "category": "Innovation Lab"
+    },
+    {
+      "name": "TourismTechBC",
+      "date": "2025-07-29",
+      "category": "Industry Association"
+    },
+    {
+      "name": "BC Data Centre AI Initiative",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "BC Actuarial AI Society",
+      "date": "2025-07-29",
+      "category": "Professional Association"
+    },
+    {
+      "name": "BC Financial AI Compliance Initiative",
+      "date": "2025-07-29",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BC Clean Energy Innovation Program",
+      "date": "2025-07-30",
+      "category": "Innovation Centres & Hubs"
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Stellantis LG Energy Solution BC Partnership",
+      "date": "2025-07-30",
+      "category": "Service Providers"
+    },
+    {
+      "name": "Canadian Artificial Intelligence Safety Institute",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Government Cybersecurity Showcase BC",
+      "date": "2025-07-29",
+      "category": "Government"
+    },
+    {
+      "name": "West Vancouver Schools Cybersecurity AI Program",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "BC Aerospace Skills Gap Analysis Project",
+      "date": "2025-07-29",
+      "category": "Industry Association"
+    },
+    {
+      "name": "BCIT Centre of Excellence for Aerospace",
+      "date": "2025-07-29",
+      "category": "Training Center"
+    },
+    {
+      "name": "BCIT Aerospace Technology Campus",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Consortium for Aerospace Research and Innovation in Canada",
+      "date": "2025-07-29",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "entrepreneurship@UBC Accelerate",
+      "date": "2025-07-29",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "AQC 2025 Vancouver",
+      "date": "2025-07-30",
+      "category": "Non-Profit"
+    },
+    {
+      "name": "Tkmlps Development Corporation",
+      "date": "2025-07-30",
+      "category": "Indigenous Tech & Creative Orgs"
+    },
+    {
+      "name": "UNBC Computer Science Department",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Northern Development Initiative Trust",
+      "date": "2025-07-30",
+      "category": "Government"
+    },
+    {
+      "name": "TRU Computer Science Department",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "SFU Quantum Fabrication Centre",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Quantum Matter Institute",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Quantum BC",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Nirvanic Consciousness Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Indigenous Digital Equity Strategy BC",
+      "date": "2025-07-30",
+      "category": "Indigenous Tech & Creative Orgs"
+    },
+    {
+      "name": "FNHA Digital Health Division",
+      "date": "2025-07-30",
+      "category": "Indigenous Tech & Creative Orgs"
+    },
+    {
+      "name": "Yeti Farm Creative",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Disney Interactive Studios Kelowna",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "FreshGrade",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "QHR Technologies",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "UVic AI and Machine Learning Lab",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Flytographer",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Barnacle Systems",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Echosec Systems",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Audette.io",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "BC Tech Association Hypergrowth",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Coast Capital Savings Innovation Centre",
+      "date": "2025-07-30",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "BCIT Applied Artificial Intelligence Program",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "SFU AI Research Group",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "AI4Good Canada",
+      "date": "2025-07-30",
+      "category": "Non-Profit"
+    },
+    {
+      "name": "Van AI Space",
+      "date": "2025-07-30",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Vancouver AI Academy",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "AI Summit Vancouver 2025",
+      "date": "2025-07-30",
+      "category": "Non-Profit"
+    },
+    {
+      "name": "Lila Sciences",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Defang Software Labs",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Indiegraf",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "MATT3R",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Unblocked",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Defang",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Fintel Connect",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "SandboxAQ (Good Chemistry Acquisition)",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Thales Canada",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Simform",
+      "date": "2025-07-29",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Mobcoder",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Hugo Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Fujitsu Intelligence Technology",
+      "date": "2025-07-30",
+      "category": "Technology Companies"
+    },
+    {
+      "name": "Cloudburst Research",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Canexia Health (Imagia Canexia Health)",
+      "date": "2025-07-30",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Gaze AI",
+      "date": "2025-07-30",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Vision Critical (Alida)",
+      "date": "2025-07-30",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Aspect Biosystems",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Payday",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Produce8",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Browse AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "RIVAL Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Bell Canada AI Data Centre Kamloops",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Timezyx",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Open Ocean Robotics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AI Scout Solutions",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "MoogleLabs",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Kanooq Industries Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AIEX",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Nexera Robotics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Verdi Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AbCellera Biologics",
+      "date": "2025-07-30",
+      "category": "Unicorn"
+    },
+    {
+      "name": "Digital Technology Supercluster",
+      "date": "2025-07-30",
+      "category": "Innovation Centres & Hubs"
+    },
+    {
+      "name": "Women in Machine Learning & Data Science (WiMLDS Vancouver)",
+      "date": "2025-07-30",
+      "category": "Non-Profit"
+    },
+    {
+      "name": "BC + AI Ecosystem Association",
+      "date": "2025-07-30",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Vancouver AI Community Meetup",
+      "date": "2025-07-30",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Spare",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Kindred",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Innovate BC",
+      "date": "2025-07-29",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "PacifiCan AI Initiative",
+      "date": "2025-07-30",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "pH7 Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Orca Water",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Lite-1",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Build Smartr Robotics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Anodyne Chemistries",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Aqua Intelligent",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Arrowsmith Genetics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "CereCura Nanotherapeutics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "SmartParent Mobile Health Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Amphoraxe Life Sciences Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Canexia Health",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Nytilus Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "HomeCourt/NEX Team",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Gaze",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Rockburst Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Mangrove Lithium",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "7Gen",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Ekona Power",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Quantum Algorithms Institute",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Photonic Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "RBC Borealis",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Iris Automation",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Ekohe",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Wizard Labs",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "deltAlyz Corp",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Improving",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Digitalist North America",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "IT Kapital",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Epsilon Venture Group",
+      "date": "2025-07-30",
+      "category": "Consulting & Services"
+    },
+    {
+      "name": "ValueLabs",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Insight Global",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Venovis",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Steamclock Software",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "MistyWest",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Denologix",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "INTERSOG",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "WillowTree®",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Proto",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "FTSY",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Autonopia",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "MashUp Machine",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Compression.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Glance Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "SHADE.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AntEater",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Growlyn",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Lambda Science",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Eli Report",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "FYBR",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Sentient",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "DeepND",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Talentful.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "TalentMarketplace",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Theory+Practice",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "FIRMOGRAM",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Motion Metrics",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Caliber Data Labs",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "bots4impact",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Evolve Biologix",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Diabits",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "CareCru",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Sports Iq Analytics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Juicey Turf",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Warranty Life",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Thinkcx",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Livnao Technologies",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Mintent",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Strategybox",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Disrupted Logic",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Nextwave Software",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Illusense",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Scanbo",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Youneeq",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Scopemedia",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Wavo",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Ehsai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Inp Capital",
+      "date": "2025-07-29",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Blockmint",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Advize",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Viewpoint Ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Xtract Ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Skylab Technologies",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Olive",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Judi.ai",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Onecup Ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Intellabridge Technology Corporation",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Telus Ventures",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "ARoster.com",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Flento app (by Acrostrong)",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Women Love Herbs",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Leaders of Tomorrow Institute Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Intuitive AI.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "sphereishere",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Spheria",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Spexi",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "SquareKnot Analytics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Helios-Helmet",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "BujiBui Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "CamDo Solutions Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Scoop Robotix",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "ThisFish Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "VodaSafe",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Secur3D",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Safety CLI Cybersecurity",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AI Home Optimizer",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Properti Edge Solutions",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Pilot - pilotplans.com",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Djobzy",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Adopto",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Swipe Right App",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "VirtualReception.AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Ringable AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Prompt Genie",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "LōD Technologies Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "EPIC Semiconductors",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Kanooq Industries",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Thynkli",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Plasmatic Technologies Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "FansNetwork",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Blackout Media",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "1SecondPainting",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "XARIIA",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Flashee",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Caseway",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "VRFY Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "wewell ecosystem",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Plantiga Technologies Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Legible Media Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Drive Hockey Analytics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Artemisdata",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Picovoice",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "CodeMaker AI Inc.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Automate.",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "usediscovery.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "OneTask",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Swae",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Topicflow",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Olive Technologies, Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Cifra",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Optimate AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Downtown.AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Damon",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "akche technologies inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Binta Financial",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Artenal",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Neupeak",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Implant Genius",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "GenerationsE",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Inofuse",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Flutter Care",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Scrubs Co-Pilot",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Rubriz AI",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Avicena AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "ConcussionRx",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Prenuvo",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "4AG Robotics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Arca",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Victory Square Technologies",
+      "date": "2025-07-29",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "Spring Activator",
+      "date": "2025-07-30",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "VentureLabs Accelerator",
+      "date": "2025-07-29",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "Animikii Indigenous Technology Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Upper Nicola Band AI Data Centre",
+      "date": "2025-07-29",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "Graphics, Artificial Intelligence, Design, and Games (GAIDG) Lab",
+      "date": "2025-07-29",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "UVic Advanced Control and Intelligent Systems (ACIS) Lab",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "AIM Lab (Artificial Intelligence in Medicine Lab)",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Centre for Artificial Intelligence Decision-making and Action (CAIDA)",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "PioGroup Software",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Adastra",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Hugo",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Persistent Systems",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Grammarly",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Fujitsu",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Wayve",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Bridge2AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Brainix",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "boilerroom.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Bizzer AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Amass AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AIMA Inc",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AI Stock Watch",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Advertising Intelligence (ADINT.AI)",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "3DentAI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Zymeworks",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Precision OS",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "CoPilot AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "mCloud",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Owl.co",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "SkyHive",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Finn AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Deadwood Innovations",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "SparkGeo",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Noratek Solutions",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Haoma Health",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AI for Ecommerce Non-Profit Society",
+      "date": "2025-07-30",
+      "category": "Non-Profit"
+    },
+    {
+      "name": "Genesis AI Corp",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Inverted AI",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Certn",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "UnlockLand (Meton.ai product)",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "TELUS Sovereign AI Factories",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Safari AI",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "OnDeck Fisheries",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "BLUESENSE AI",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Bonsai Micro",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Meton.ai (UnlockLand parent company)",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Creative Destruction Lab Vancouver (CDL-Vancouver)",
+      "date": "2025-07-29",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "Lumen5",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "MetaOptima (DermEngine)",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Variational AI",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Empirical Results",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "ClearSpark AI",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "T4G",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Machine Learning Group - SFU",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Trustworthy AI Lab - SFU",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "PLAI (Pacific Laboratory for Artificial Intelligence) - UBC",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "CRWN.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "TerraSense Analytics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Pani Energy",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Niricson",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "MarineLabs",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Levr.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Quandri",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Penny AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "VRIFY Technology",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Sanctuary AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Charli AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Apera AI",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "EarthDaily Analytics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Novarc Technologies",
+      "date": "2025-07-29",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Fobi AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Voronoi Health Analytics",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Zfort Group",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Orishnal Digital Services",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "The Number",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "IntLabs",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Axiom Zen",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Adastra Corporation",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "deltAlyz Canada",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Softmax Data Inc.",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Responsive AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Kai Analytics International",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "ASC Creative Ltd.",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Canada Techs",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Auryon.ai",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Altitude Business Intelligence",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "BetterTable",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "SenseNet",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Google for Startups Accelerator: AI for Nature",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "QueerTech QT Founders Catalyst Program",
+      "date": "2025-07-29",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "OneFeather",
+      "date": "2025-07-29",
+      "category": "Indigenous Tech & Creative Orgs"
+    },
+    {
+      "name": "Artemis",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "ThinkLabs AI",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Jetson",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Mind AI & Consciousness",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Squamish AI (Stawamus Syntax)",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Womxn's AI (Vancouver)",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Surrey AI",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Amplitude Ventures",
+      "date": "2025-07-30",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Kensington Capital Partners",
+      "date": "2025-07-29",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Brightspark Ventures",
+      "date": "2025-07-30",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Raven Indigenous Capital Partners",
+      "date": "2025-07-30",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Active Impact Investments",
+      "date": "2025-07-29",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Finger Food Advanced Technology Group",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "UBC CAIDA Center",
+      "date": "2025-07-29",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Silo AI Vancouver",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Microsoft Research Asia Vancouver",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Visier",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "AbCellera",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "D-Wave Systems",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "VIATEC AI Meetups",
+      "date": "2025-07-30",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "RBC Borealis AI (Vancouver Lab)",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "University of Victoria (UVic) AI Research",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "SFU Computing Science & Creative AI Labs",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Absolute Software Vancouver",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Planview (Vancouver)",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Teck Resources & AltaML Applied AI Lab",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Hootsuite",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "IBM Vancouver",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Cisco Systems (Vancouver)",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "SAP Canada (Vancouver)",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Unity Technologies (Vancouver)",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Meta Vancouver",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Google Vancouver",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Providence Health & IBM Centre for Heart Lung Innovation",
+      "date": "2025-07-29",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Deloitte Omnia AI",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Vancouver Angel Network (VANTEC)",
+      "date": "2025-07-29",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Pender Ventures",
+      "date": "2025-07-30",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "WildlifeAI",
+      "date": "2025-07-30",
+      "category": "Social-Impact & Climate-Tech Hubs"
+    },
+    {
+      "name": "Bayes Studio",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Finn.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Pieoneers",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Inoxoft",
+      "date": "2025-07-29",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Dooly.ai",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "1QBit",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Two Hat Security",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "MineSense",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "TELUS",
+      "date": "2025-07-29",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "Terramera",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Klue",
+      "date": "2025-07-30",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Animikii",
+      "date": "2025-07-30",
+      "category": "Indigenous Tech & Creative Orgs"
+    },
+    {
+      "name": "Victoria Data Society",
+      "date": "2025-07-30",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "SFU's Digital Democracies Institute",
+      "date": "2025-07-29",
+      "category": "Advocacy & Policy Groups"
+    },
+    {
+      "name": "221A Node Library",
+      "date": "2025-07-29",
+      "category": "Open-Source Projects"
+    },
+    {
+      "name": "Vancouver Tech Journal",
+      "date": "2025-07-30",
+      "category": "Media & Storytellers"
+    },
+    {
+      "name": "UBC Master of Data Science (MDS)",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "AltaML (Vancouver)",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Vanedge Capital",
+      "date": "2025-07-30",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Clir Renewables",
+      "date": "2025-07-29",
+      "category": "Social-Impact & Climate-Tech Hubs"
+    },
+    {
+      "name": "First Nations Technology Council (FNTC)",
+      "date": "2025-07-29",
+      "category": "Indigenous Tech & Creative Orgs"
+    },
+    {
+      "name": "Artificial Intelligence Network of BC (AInBC)",
+      "date": "2025-07-29",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "TELUS Data & AI Initiatives",
+      "date": "2025-07-30",
+      "category": "Enterprise / Corporate Divisions"
+    },
+    {
+      "name": "UBC Artificial Intelligence Research Centre",
+      "date": "2025-07-30",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "Boreal Innovation Lab",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Open Source: BCLawData",
+      "date": "2025-07-30",
+      "category": "Open-Source Projects"
+    },
+    {
+      "name": "Media: BetaKit",
+      "date": "2025-07-30",
+      "category": "Media & Storytellers"
+    },
+    {
+      "name": "Investors: Frontier Collective",
+      "date": "2025-07-30",
+      "category": "Investors & Funds"
+    },
+    {
+      "name": "Foresight Canada",
+      "date": "2025-07-30",
+      "category": "Social-Impact & Climate-Tech Hubs"
+    },
+    {
+      "name": "Accelerate Okanagan",
+      "date": "2025-07-30",
+      "category": "Service Studios / Agencies"
+    },
+    {
+      "name": "Launch Academy",
+      "date": "2025-07-30",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "Life Sciences BC (LSBC)",
+      "date": "2025-07-29",
+      "category": "Advocacy & Policy Groups"
+    },
+    {
+      "name": "VR/AR Association – Vancouver Chapter",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "BC Tech Association",
+      "date": "2025-07-30",
+      "category": "Advocacy & Policy Groups"
+    },
+    {
+      "name": "AI Network of BC (AInBC)",
+      "date": "2025-07-29",
+      "category": "Advocacy & Policy Groups"
+    },
+    {
+      "name": "Vancouver Robotics Club (VRC)",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Web 3.0 Vancouver",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "YVR Crypto Network",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Ethereum Vancouver (EthVan)",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "Women in ML & Data Science (WiMLDS YVR)",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "GenAI & LLMs Developers",
+      "date": "2025-07-29",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "LLM & AI Meetup (Vancouver)",
+      "date": "2025-07-30",
+      "category": "Grassroots Communities"
+    }
+  ],
+  "dataGaps": {
+    "missingFunding": [
+      "Motive.io",
+      "Payfirma",
+      "Narval Energy Inc.",
+      "Ocean AID",
+      "Appnovation",
+      "SkyAcres",
+      "City of Richmond AI Strategy",
+      "City of Surrey AI Initiative",
+      "BC AI Assist Program",
+      "BC Regional AI Initiative",
+      "Stellantis LG Energy Solution BC",
+      "BC Centre for Innovation and Clean Energy",
+      "DigiBC Creative Technology Association",
+      "BC Regional AI Initiative Recipients",
+      "Microsoft Canada AI Hub",
+      "Excelar Technologies",
+      "ChildCare Services BC AI Platform",
+      "Service BC AI Search Platform",
+      "BC Wildfire Service AI Analytics",
+      "BC AI Refugee Integration Platform"
+    ],
+    "missingRevenue": [
+      "Narval Energy Inc.",
+      "Ocean AID",
+      "HealthTech Connex",
+      "Rigid Robotics",
+      "BC Regional AI Initiative",
+      "BC Regional AI Initiative Recipients",
+      "Excelar Technologies",
+      "ChildCare Services BC AI Platform",
+      "Service BC AI Search Platform",
+      "BC Wildfire Service AI Analytics",
+      "BC AI Refugee Integration Platform",
+      "Artificial Muse Music AI Residency",
+      "ICCSMLAI Vancouver Sports Track",
+      "FLAIR BC Initiative",
+      "Indigenous Protocol and AI Working Group",
+      "NEXT AI BC Companies",
+      "Scale AI BC Recipients",
+      "DigiBC Creative AI Members",
+      "DigiBC Signals AI Showcase",
+      "RAII Grant Recipients 2025"
+    ],
+    "missingPeople": [
+      "IAMGOLD Innovation",
+      "Cohere Health Vancouver",
+      "Narval Energy Inc.",
+      "Ocean AID",
+      "HealthTech Connex",
+      "Rigid Robotics",
+      "SkyAcres",
+      "City of Richmond AI Strategy",
+      "City of Surrey AI Initiative",
+      "BC AI Assist Program",
+      "BC Regional AI Initiative",
+      "Stellantis LG Energy Solution BC",
+      "DigiBC Creative Technology Association",
+      "BC Regional AI Initiative Recipients",
+      "Microsoft Canada AI Hub",
+      "Excelar Technologies",
+      "ChildCare Services BC AI Platform",
+      "Service BC AI Search Platform",
+      "BC Wildfire Service AI Analytics",
+      "BC AI Refugee Integration Platform"
+    ],
+    "missingEmployeeCount": [
+      "Motive.io",
+      "Payfirma",
+      "Narval Energy Inc.",
+      "Ocean AID",
+      "Appnovation",
+      "SkyAcres",
+      "City of Richmond AI Strategy",
+      "City of Surrey AI Initiative",
+      "BC AI Assist Program",
+      "BC Regional AI Initiative",
+      "Stellantis LG Energy Solution BC",
+      "BC Centre for Innovation and Clean Energy",
+      "DigiBC Creative Technology Association",
+      "BC Regional AI Initiative Recipients",
+      "Microsoft Canada AI Hub",
+      "Excelar Technologies",
+      "ChildCare Services BC AI Platform",
+      "Service BC AI Search Platform",
+      "BC Wildfire Service AI Analytics",
+      "BC AI Refugee Integration Platform"
+    ],
+    "missingFoundingDate": [
+      "RCAB Advanced Manufacturing Laboratory",
+      "Tourism Industry Association of BC AI Workshop",
+      "Tourism Innovation Lab",
+      "TourismTechBC",
+      "BC Data Centre AI Initiative",
+      "BC Actuarial AI Society",
+      "BC Financial AI Compliance Initiative",
+      "BC Clean Energy Innovation Program",
+      "Stellantis LG Energy Solution BC Partnership",
+      "Canadian Artificial Intelligence Safety Institute",
+      "Government Cybersecurity Showcase BC",
+      "BC Aerospace Skills Gap Analysis Project",
+      "BCIT Centre of Excellence for Aerospace",
+      "BCIT Aerospace Technology Campus",
+      "Consortium for Aerospace Research and Innovation in Canada",
+      "entrepreneurship@UBC Accelerate",
+      "AQC 2025 Vancouver",
+      "Tkmlps Development Corporation",
+      "UNBC Computer Science Department",
+      "Northern Development Initiative Trust"
+    ]
+  },
+  "progressSummary": {
+    "previousFinancialCoverage": 0.176,
+    "currentFinancialCoverage": 0.25588235294117645,
+    "improvement": "8.0"
+  }
+}

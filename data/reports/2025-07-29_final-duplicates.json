@@ -1,0 +1,76 @@
+{
+  "duplicatePairs": [
+    {
+      "keeper": {
+        "id": "23fc6f799a33816097c7e88be6c2cc38",
+        "name": "SFU Metacreation Lab for Creative AI"
+      },
+      "duplicate": {
+        "id": "23fc6f799a3381679e03da3b0e33fa9e",
+        "name": "SFU Metacreation Lab Creative AI"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "23fc6f799a338136a529e1fac7d2ffdb",
+        "name": "Artificial Intelligence Underwriting Company (AIUC)"
+      },
+      "duplicate": {
+        "id": "23fc6f799a338149952cccba95955b66",
+        "name": "Artificial Intelligence Underwriting Company"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "23fc6f799a3381149186cd143a7d0bab",
+        "name": "West Vancouver Schools Cybersecurity AI Program"
+      },
+      "duplicate": {
+        "id": "23fc6f799a3381bbb02ecd84b4dbb29e",
+        "name": "West Vancouver Schools Cybersecurity AI"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "1f1c6f799a3381b2af6befcaa151b1eb",
+        "name": "Creative Destruction Lab Vancouver (CDL)"
+      },
+      "duplicate": {
+        "id": "23fc6f799a338125bd81cc8b7174db35",
+        "name": "Creative Destruction Lab Vancouver"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "23fc6f799a3381c9b5b0e5ac31729562",
+        "name": "Centre for Artificial Intelligence Decision-making and Action (CAIDA)"
+      },
+      "duplicate": {
+        "id": "23fc6f799a3381fba32bc9ada0c8db6c",
+        "name": "UBC Centre for Artificial Intelligence Decision-making and Action"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    },
+    {
+      "keeper": {
+        "id": "23fc6f799a3381b1acfef0c48073ddf1",
+        "name": "AI Community Conference - Vancouver"
+      },
+      "duplicate": {
+        "id": "23fc6f799a338103a874e40642487025",
+        "name": "AI Community Conference Vancouver"
+      },
+      "fieldsToMerge": [],
+      "confirmed": true
+    }
+  ]
+} 

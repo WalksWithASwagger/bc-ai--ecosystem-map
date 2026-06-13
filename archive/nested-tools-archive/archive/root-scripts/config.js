@@ -1,0 +1,4 @@
+module.exports = {
+  NOTION_TOKEN: process.env.NOTION_TOKEN,
+  NOTION_DATABASE_ID: '1f0c6f799a3381bd8332ca0235c24655'
+};

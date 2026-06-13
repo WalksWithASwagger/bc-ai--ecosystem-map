@@ -1,0 +1,56 @@
+{
+  "summary": {
+    "totalFunders": 1,
+    "activeVCs": 1,
+    "focusAreaBreakdown": {
+      "SaaS": 1,
+      "AI/ML": 1,
+      "B2B": 1
+    },
+    "locationBreakdown": {
+      "Silicon Valley": 1
+    }
+  },
+  "topFunders": [
+    {
+      "id": "sample-001",
+      "name": "Example Ventures",
+      "type": "VC",
+      "location": "Silicon Valley",
+      "focusAreas": [
+        "SaaS",
+        "AI/ML",
+        "B2B"
+      ],
+      "ticketSize": "$1M-$10M",
+      "stage": "Series A-B",
+      "website": "https://example-ventures.com",
+      "contact": "team@example-ventures.com",
+      "foundedYear": 2015,
+      "status": "active",
+      "portfolio": [],
+      "source": "notion_import",
+      "importedAt": "2025-08-04T22:20:22.808Z",
+      "enriched": {
+        "recentInvestments": [],
+        "keyPersonnel": [],
+        "investmentThesis": "",
+        "avgCheckSize": "",
+        "portfolioSize": 0,
+        "exitHistory": []
+      }
+    }
+  ],
+  "recommendations": [
+    "Focus outreach on VCs with SaaS/B2B focus areas",
+    "Prioritize Series A stage funders for current company stage",
+    "Research warm introductions through portfolio companies",
+    "Track funding announcement timing for optimal outreach"
+  ],
+  "nextSteps": [
+    "Connect Notion API for real-time data sync",
+    "Set up automated enrichment pipelines",
+    "Configure funding opportunity alerts",
+    "Build relationship tracking system"
+  ]
+}

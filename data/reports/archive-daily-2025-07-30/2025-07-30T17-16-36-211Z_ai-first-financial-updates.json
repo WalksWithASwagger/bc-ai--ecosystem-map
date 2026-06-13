@@ -1,0 +1,99 @@
+{
+  "updated": [
+    {
+      "name": "MetaOptima",
+      "pageId": "23dc6f79-9a33-810b-8702-cb15089b5edc",
+      "funding": "$8.5M Series A (2021)",
+      "revenue": "$5-10M ARR (2024 est.)",
+      "category": "Healthcare AI",
+      "aiFocus": "Computer Vision, Medical Imaging"
+    },
+    {
+      "name": "Sanctuary AI",
+      "pageId": "23dc6f79-9a33-81c1-9745-c23026f9b5f0",
+      "funding": "$58.5M Series A (May 2023)",
+      "revenue": "Pre-revenue (R&D stage)",
+      "category": "Robotics AI",
+      "aiFocus": "Computer Vision, Robotics, General AI"
+    },
+    {
+      "name": "Finn AI",
+      "pageId": "23dc6f79-9a33-81fe-aaa9-fefd1df86fd8",
+      "funding": "Acquired by Glia (2021)",
+      "revenue": "$5-10M ARR (at acquisition)",
+      "valuation": "$75M+ (acquisition estimate)",
+      "category": "Fintech AI"
+    },
+    {
+      "name": "Terramera",
+      "pageId": "1f1c6f79-9a33-818a-8d2f-f6800062366a",
+      "funding": "$45M Series B (2021)",
+      "revenue": "$15-20M (2023 est.)",
+      "category": "AgTech AI",
+      "aiFocus": "Predictive Analytics, Computer Vision"
+    }
+  ],
+  "notFound": [
+    {
+      "name": "ModeMagic",
+      "category": "E-commerce AI",
+      "funding": "$5.5M Seed (2024)"
+    },
+    {
+      "name": "Wysdom.AI",
+      "category": "Conversational AI",
+      "funding": "Acquired by Radiant Digital (2024)"
+    },
+    {
+      "name": "Canvass Analytics",
+      "category": "Industrial AI",
+      "funding": "$25M Series B (2019)"
+    },
+    {
+      "name": "AlayaCare",
+      "category": "Healthcare AI",
+      "funding": "$225M Series D (December 2021)"
+    },
+    {
+      "name": "Clarius Mobile Health",
+      "category": "Medical Device AI",
+      "funding": "$10M (2022)"
+    },
+    {
+      "name": "Codeplay Technologies",
+      "category": "Autonomous Systems",
+      "funding": "$5M grant (2023)"
+    },
+    {
+      "name": "A&K Robotics",
+      "category": "Robotics AI",
+      "funding": "$2M Seed (2022)"
+    },
+    {
+      "name": "Manzil",
+      "category": "Fintech AI",
+      "funding": "$2.5M Seed (2023)"
+    },
+    {
+      "name": "Symend",
+      "category": "Fintech AI",
+      "funding": "$52M Series B (2021)"
+    },
+    {
+      "name": "Copperleaf Technologies",
+      "category": "Enterprise AI",
+      "funding": "Acquired by IFS (2022)"
+    },
+    {
+      "name": "LlamaZOO",
+      "category": "Mining Tech AI",
+      "funding": "$4.1M Series A (2021)"
+    },
+    {
+      "name": "Tenstorrent",
+      "category": "AI Hardware",
+      "funding": "$100M Series C (2023)"
+    }
+  ],
+  "errors": []
+}

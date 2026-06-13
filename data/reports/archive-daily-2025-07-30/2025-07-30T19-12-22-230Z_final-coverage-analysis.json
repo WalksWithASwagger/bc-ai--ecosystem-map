@@ -1,0 +1,501 @@
+{
+  "totalCompanies": 658,
+  "companiesWithDates": 520,
+  "coveragePercentage": "79.0",
+  "missingDates": 138,
+  "missingPercentage": "21.0",
+  "companiesByYear": {
+    "1879": 1,
+    "1884": 1,
+    "1886": 1,
+    "1908": 1,
+    "1940": 1,
+    "1950": 26,
+    "1960": 2,
+    "1962": 1,
+    "1964": 1,
+    "1965": 1,
+    "1979": 1,
+    "1980": 5,
+    "1985": 7,
+    "1986": 1,
+    "1988": 1,
+    "1989": 1,
+    "1990": 2,
+    "1993": 3,
+    "1996": 1,
+    "1997": 1,
+    "1998": 2,
+    "1999": 2,
+    "2000": 6,
+    "2001": 4,
+    "2002": 2,
+    "2003": 3,
+    "2004": 1,
+    "2005": 5,
+    "2006": 5,
+    "2007": 7,
+    "2008": 23,
+    "2009": 6,
+    "2010": 62,
+    "2011": 5,
+    "2012": 17,
+    "2013": 10,
+    "2014": 11,
+    "2015": 29,
+    "2016": 17,
+    "2017": 64,
+    "2018": 109,
+    "2019": 13,
+    "2020": 11,
+    "2021": 9,
+    "2022": 8,
+    "2023": 6,
+    "2024": 9,
+    "2025": 15
+  },
+  "recentGrowth": 58,
+  "recentGrowthPercentage": "11.2",
+  "estimatedAICompanies": 81,
+  "aiGrowthByYear": {
+    "2015": 8,
+    "2016": 5,
+    "2017": 19,
+    "2018": 32,
+    "2019": 3,
+    "2020": 3,
+    "2021": 2,
+    "2022": 2,
+    "2023": 1,
+    "2024": 2,
+    "2025": 4
+  },
+  "categoryBreakdown": [
+    {
+      "category": "Start-ups & Scale-ups",
+      "total": 243,
+      "withDates": 232,
+      "coverage": "95.5"
+    },
+    {
+      "category": "Uncategorized",
+      "total": 55,
+      "withDates": 49,
+      "coverage": "89.1"
+    },
+    {
+      "category": "Academic & Research Labs",
+      "total": 41,
+      "withDates": 24,
+      "coverage": "58.5"
+    },
+    {
+      "category": "AI Companies",
+      "total": 40,
+      "withDates": 40,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Enterprise / Corporate Divisions",
+      "total": 33,
+      "withDates": 14,
+      "coverage": "42.4"
+    },
+    {
+      "category": "Service Studios / Agencies",
+      "total": 29,
+      "withDates": 7,
+      "coverage": "24.1"
+    },
+    {
+      "category": "Industry Association",
+      "total": 22,
+      "withDates": 16,
+      "coverage": "72.7"
+    },
+    {
+      "category": "Grassroots Communities",
+      "total": 16,
+      "withDates": 2,
+      "coverage": "12.5"
+    },
+    {
+      "category": "Technology Companies",
+      "total": 12,
+      "withDates": 11,
+      "coverage": "91.7"
+    },
+    {
+      "category": "Healthcare & Biotech",
+      "total": 12,
+      "withDates": 12,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Government & Public Sector",
+      "total": 10,
+      "withDates": 8,
+      "coverage": "80.0"
+    },
+    {
+      "category": "Education & Training Providers",
+      "total": 10,
+      "withDates": 6,
+      "coverage": "60.0"
+    },
+    {
+      "category": "Accelerators / Incubators",
+      "total": 10,
+      "withDates": 6,
+      "coverage": "60.0"
+    },
+    {
+      "category": "Investors & Funds",
+      "total": 10,
+      "withDates": 3,
+      "coverage": "30.0"
+    },
+    {
+      "category": "Fintech",
+      "total": 8,
+      "withDates": 8,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Innovation Centres & Hubs",
+      "total": 8,
+      "withDates": 7,
+      "coverage": "87.5"
+    },
+    {
+      "category": "Industry Conferences & Events",
+      "total": 8,
+      "withDates": 8,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Government",
+      "total": 8,
+      "withDates": 6,
+      "coverage": "75.0"
+    },
+    {
+      "category": "Indigenous Tech & Creative Orgs",
+      "total": 6,
+      "withDates": 1,
+      "coverage": "16.7"
+    },
+    {
+      "category": "Non-Profit",
+      "total": 5,
+      "withDates": 2,
+      "coverage": "40.0"
+    },
+    {
+      "category": "AgTech",
+      "total": 4,
+      "withDates": 4,
+      "coverage": "100.0"
+    },
+    {
+      "category": "CleanTech",
+      "total": 4,
+      "withDates": 4,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Game Development Studio",
+      "total": 4,
+      "withDates": 4,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Advocacy & Policy Groups",
+      "total": 4,
+      "withDates": 1,
+      "coverage": "25.0"
+    },
+    {
+      "category": "Media Tech",
+      "total": 3,
+      "withDates": 3,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Mining",
+      "total": 3,
+      "withDates": 3,
+      "coverage": "100.0"
+    },
+    {
+      "category": "PropTech Startup",
+      "total": 3,
+      "withDates": 3,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Port Terminal",
+      "total": 3,
+      "withDates": 3,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Social-Impact & Climate-Tech Hubs",
+      "total": 3,
+      "withDates": 1,
+      "coverage": "33.3"
+    },
+    {
+      "category": "Marketing Tech",
+      "total": 2,
+      "withDates": 2,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Service Providers",
+      "total": 2,
+      "withDates": 1,
+      "coverage": "50.0"
+    },
+    {
+      "category": "Professional Association",
+      "total": 2,
+      "withDates": 1,
+      "coverage": "50.0"
+    },
+    {
+      "category": "Digital Therapeutics",
+      "total": 2,
+      "withDates": 2,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Open-Source Projects",
+      "total": 2,
+      "withDates": 0,
+      "coverage": "0.0"
+    },
+    {
+      "category": "Media & Storytellers",
+      "total": 2,
+      "withDates": 0,
+      "coverage": "0.0"
+    },
+    {
+      "category": "VR/AR",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "E-commerce",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Logistics Tech",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Cybersecurity",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "EdTech",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Robotics",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Investment Fund",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Industry-Healthcare Partnership",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "User Group",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Regulatory Initiative",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Wildfire Tech",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Port Development",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Corporate Partnership",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Crypto Unicorn",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Web3 Startup",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Developer Community",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Game Development Services",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Legal Tech Leader",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Training Program",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Foundation",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "AgTech Company",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Construction Tech Startup",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Deep-water Terminal",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Smart Logistics Services",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "3PL Company",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Innovation Lab",
+      "total": 1,
+      "withDates": 0,
+      "coverage": "0.0"
+    },
+    {
+      "category": "Training Center",
+      "total": 1,
+      "withDates": 0,
+      "coverage": "0.0"
+    },
+    {
+      "category": "Unicorn",
+      "total": 1,
+      "withDates": 1,
+      "coverage": "100.0"
+    },
+    {
+      "category": "Consulting & Services",
+      "total": 1,
+      "withDates": 0,
+      "coverage": "0.0"
+    }
+  ],
+  "topGrowthYears": [
+    {
+      "year": 2018,
+      "count": 109
+    },
+    {
+      "year": 2017,
+      "count": 64
+    },
+    {
+      "year": 2010,
+      "count": 62
+    },
+    {
+      "year": 2015,
+      "count": 29
+    },
+    {
+      "year": 1950,
+      "count": 26
+    },
+    {
+      "year": 2008,
+      "count": 23
+    },
+    {
+      "year": 2012,
+      "count": 17
+    },
+    {
+      "year": 2016,
+      "count": 17
+    },
+    {
+      "year": 2025,
+      "count": 15
+    },
+    {
+      "year": 2019,
+      "count": 13
+    }
+  ]
+}

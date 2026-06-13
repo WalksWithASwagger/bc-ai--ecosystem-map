@@ -1,0 +1,68 @@
+{
+  "newCompaniesAdded": [
+    {
+      "name": "Voltaiq Energy AI",
+      "yearFounded": 2025,
+      "category": "AI Companies",
+      "funding": "Seed stage raising (2025)",
+      "pageId": "240c6f79-9a33-8160-9418-cff10e3c999e",
+      "verified": false
+    },
+    {
+      "name": "Forest AI Systems",
+      "yearFounded": 2025,
+      "category": "AI Companies",
+      "funding": "Pre-seed raising (2025)",
+      "pageId": "240c6f79-9a33-81b4-bd74-f9abc62860cb",
+      "verified": false
+    },
+    {
+      "name": "AgriSense AI",
+      "yearFounded": 2025,
+      "category": "AI Companies",
+      "funding": "Pre-seed stage (2025)",
+      "pageId": "240c6f79-9a33-8179-b664-d704cc4233b9",
+      "verified": false
+    }
+  ],
+  "foundingDatesUpdated": [
+    {
+      "name": "Nirvanic Consciousness Technologies",
+      "yearFounded": 2024,
+      "pageId": "23fc6f79-9a33-8186-a592-f00d7e53f283"
+    },
+    {
+      "name": "Orca Water",
+      "yearFounded": 2023,
+      "pageId": "23dc6f79-9a33-815d-9b3e-d97573a14b75"
+    },
+    {
+      "name": "Rockburst Technologies",
+      "yearFounded": 2024,
+      "pageId": "23dc6f79-9a33-8126-8541-d58095fcc84a"
+    },
+    {
+      "name": "Hugo Inc",
+      "yearFounded": 2019,
+      "pageId": "23fc6f79-9a33-81df-94fd-cb462dd55bdf"
+    },
+    {
+      "name": "Canexia Health",
+      "yearFounded": 2017,
+      "pageId": "23fc6f79-9a33-8131-b80c-e9c8e945e5b1"
+    },
+    {
+      "name": "Build Smartr Robotics",
+      "yearFounded": 2022,
+      "pageId": "23dc6f79-9a33-81ca-a561-ead9a2668429"
+    },
+    {
+      "name": "Lite-1",
+      "yearFounded": 2023,
+      "pageId": "23dc6f79-9a33-818f-96f7-f943931eb7a8"
+    }
+  ],
+  "errors": [],
+  "totalNew2025Companies": 3,
+  "totalFoundingDatesAdded": 4
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-08-09T23:42:57.911Z",
+  "stats": {
+    "totalProcessed": 260,
+    "fakeEmailsRemoved": 0,
+    "mockDataRemoved": 4,
+    "genericDescriptionsCleared": 0,
+    "arbitraryScoresRemoved": 19
+  }
+}

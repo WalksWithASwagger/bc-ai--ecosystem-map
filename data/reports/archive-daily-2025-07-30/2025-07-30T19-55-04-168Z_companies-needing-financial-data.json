@@ -1,0 +1,564 @@
+{
+  "noFunding": [
+    {
+      "name": "BC Regional AI Initiative",
+      "pageId": "23fc6f79-9a33-8161-9022-db94c076be74"
+    },
+    {
+      "name": "BC Regional AI Initiative Recipients",
+      "pageId": "23fc6f79-9a33-819b-ac0f-d316a92b8c07"
+    },
+    {
+      "name": "Artificial Muse Music AI Residency",
+      "pageId": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2"
+    },
+    {
+      "name": "ICCSMLAI Vancouver Sports Track",
+      "pageId": "23fc6f79-9a33-81ea-a212-d090b77e7270"
+    },
+    {
+      "name": "FLAIR BC Initiative",
+      "pageId": "23fc6f79-9a33-8105-972a-f5291ba9504e"
+    },
+    {
+      "name": "Indigenous Protocol and AI Working Group",
+      "pageId": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b"
+    },
+    {
+      "name": "NEXT AI BC Companies",
+      "pageId": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8"
+    },
+    {
+      "name": "Scale AI BC Recipients",
+      "pageId": "23fc6f79-9a33-81bb-99b4-e06406856531"
+    },
+    {
+      "name": "DigiBC Creative AI Members",
+      "pageId": "23fc6f79-9a33-8193-b79b-e19e18cc35c2"
+    },
+    {
+      "name": "DigiBC Signals AI Showcase",
+      "pageId": "23fc6f79-9a33-8139-8c2d-e340278f023e"
+    },
+    {
+      "name": "RAII Grant Recipients 2025",
+      "pageId": "23fc6f79-9a33-81e8-bb83-d81f112e5580"
+    },
+    {
+      "name": "BC Fast Pilot AI Projects",
+      "pageId": "23fc6f79-9a33-818e-b964-da7b9a50ada9"
+    },
+    {
+      "name": "Site C Hydroelectric Project AI Division",
+      "pageId": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca"
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "pageId": "23fc6f79-9a33-8159-8654-caf7c9e5006e"
+    },
+    {
+      "name": "3D AI Studio Vancouver",
+      "pageId": "23fc6f79-9a33-8180-8bb2-f24d31f306ad"
+    },
+    {
+      "name": "Pano AI BC Operations",
+      "pageId": "23fc6f79-9a33-8125-b009-ff24fe1152a4"
+    },
+    {
+      "name": "Neptune Terminals AI Operations",
+      "pageId": "23fc6f79-9a33-8114-81cb-fb32f74070f6"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "pageId": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb"
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "pageId": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7"
+    },
+    {
+      "name": "Fujitsu Intelligence Technology",
+      "pageId": "23fc6f79-9a33-813e-bae0-e6aaa88cdace"
+    },
+    {
+      "name": "Gaze AI",
+      "pageId": "23fc6f79-9a33-81a0-8292-f5bfad343bfd"
+    }
+  ],
+  "noRevenue": [
+    {
+      "name": "BC Regional AI Initiative",
+      "pageId": "23fc6f79-9a33-8161-9022-db94c076be74"
+    },
+    {
+      "name": "BC Regional AI Initiative Recipients",
+      "pageId": "23fc6f79-9a33-819b-ac0f-d316a92b8c07"
+    },
+    {
+      "name": "Artificial Muse Music AI Residency",
+      "pageId": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2"
+    },
+    {
+      "name": "ICCSMLAI Vancouver Sports Track",
+      "pageId": "23fc6f79-9a33-81ea-a212-d090b77e7270"
+    },
+    {
+      "name": "FLAIR BC Initiative",
+      "pageId": "23fc6f79-9a33-8105-972a-f5291ba9504e"
+    },
+    {
+      "name": "Indigenous Protocol and AI Working Group",
+      "pageId": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b"
+    },
+    {
+      "name": "NEXT AI BC Companies",
+      "pageId": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8"
+    },
+    {
+      "name": "Scale AI BC Recipients",
+      "pageId": "23fc6f79-9a33-81bb-99b4-e06406856531"
+    },
+    {
+      "name": "DigiBC Creative AI Members",
+      "pageId": "23fc6f79-9a33-8193-b79b-e19e18cc35c2"
+    },
+    {
+      "name": "DigiBC Signals AI Showcase",
+      "pageId": "23fc6f79-9a33-8139-8c2d-e340278f023e"
+    },
+    {
+      "name": "RAII Grant Recipients 2025",
+      "pageId": "23fc6f79-9a33-81e8-bb83-d81f112e5580"
+    },
+    {
+      "name": "BC Fast Pilot AI Projects",
+      "pageId": "23fc6f79-9a33-818e-b964-da7b9a50ada9"
+    },
+    {
+      "name": "Site C Hydroelectric Project AI Division",
+      "pageId": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca"
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "pageId": "23fc6f79-9a33-8159-8654-caf7c9e5006e"
+    },
+    {
+      "name": "3D AI Studio Vancouver",
+      "pageId": "23fc6f79-9a33-8180-8bb2-f24d31f306ad"
+    },
+    {
+      "name": "Pano AI BC Operations",
+      "pageId": "23fc6f79-9a33-8125-b009-ff24fe1152a4"
+    },
+    {
+      "name": "Neptune Terminals AI Operations",
+      "pageId": "23fc6f79-9a33-8114-81cb-fb32f74070f6"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "pageId": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb"
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "pageId": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7"
+    },
+    {
+      "name": "Fujitsu Intelligence Technology",
+      "pageId": "23fc6f79-9a33-813e-bae0-e6aaa88cdace"
+    },
+    {
+      "name": "Gaze AI",
+      "pageId": "23fc6f79-9a33-81a0-8292-f5bfad343bfd"
+    }
+  ],
+  "noEmployeeCount": [
+    {
+      "name": "BC Regional AI Initiative",
+      "pageId": "23fc6f79-9a33-8161-9022-db94c076be74"
+    },
+    {
+      "name": "BC Regional AI Initiative Recipients",
+      "pageId": "23fc6f79-9a33-819b-ac0f-d316a92b8c07"
+    },
+    {
+      "name": "Artificial Muse Music AI Residency",
+      "pageId": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2"
+    },
+    {
+      "name": "ICCSMLAI Vancouver Sports Track",
+      "pageId": "23fc6f79-9a33-81ea-a212-d090b77e7270"
+    },
+    {
+      "name": "FLAIR BC Initiative",
+      "pageId": "23fc6f79-9a33-8105-972a-f5291ba9504e"
+    },
+    {
+      "name": "Indigenous Protocol and AI Working Group",
+      "pageId": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b"
+    },
+    {
+      "name": "NEXT AI BC Companies",
+      "pageId": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8"
+    },
+    {
+      "name": "Scale AI BC Recipients",
+      "pageId": "23fc6f79-9a33-81bb-99b4-e06406856531"
+    },
+    {
+      "name": "DigiBC Creative AI Members",
+      "pageId": "23fc6f79-9a33-8193-b79b-e19e18cc35c2"
+    },
+    {
+      "name": "DigiBC Signals AI Showcase",
+      "pageId": "23fc6f79-9a33-8139-8c2d-e340278f023e"
+    },
+    {
+      "name": "RAII Grant Recipients 2025",
+      "pageId": "23fc6f79-9a33-81e8-bb83-d81f112e5580"
+    },
+    {
+      "name": "BC Fast Pilot AI Projects",
+      "pageId": "23fc6f79-9a33-818e-b964-da7b9a50ada9"
+    },
+    {
+      "name": "Site C Hydroelectric Project AI Division",
+      "pageId": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca"
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "pageId": "23fc6f79-9a33-8159-8654-caf7c9e5006e"
+    },
+    {
+      "name": "3D AI Studio Vancouver",
+      "pageId": "23fc6f79-9a33-8180-8bb2-f24d31f306ad"
+    },
+    {
+      "name": "Pano AI BC Operations",
+      "pageId": "23fc6f79-9a33-8125-b009-ff24fe1152a4"
+    },
+    {
+      "name": "Neptune Terminals AI Operations",
+      "pageId": "23fc6f79-9a33-8114-81cb-fb32f74070f6"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "pageId": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb"
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "pageId": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7"
+    },
+    {
+      "name": "Fujitsu Intelligence Technology",
+      "pageId": "23fc6f79-9a33-813e-bae0-e6aaa88cdace"
+    },
+    {
+      "name": "Gaze AI",
+      "pageId": "23fc6f79-9a33-81a0-8292-f5bfad343bfd"
+    }
+  ],
+  "noKeyPeople": [
+    {
+      "name": "Cohere Health Vancouver",
+      "pageId": "240c6f79-9a33-811b-bdf0-c46ae8a64687"
+    },
+    {
+      "name": "BC Regional AI Initiative",
+      "pageId": "23fc6f79-9a33-8161-9022-db94c076be74"
+    },
+    {
+      "name": "BC Regional AI Initiative Recipients",
+      "pageId": "23fc6f79-9a33-819b-ac0f-d316a92b8c07"
+    },
+    {
+      "name": "Artificial Muse Music AI Residency",
+      "pageId": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2"
+    },
+    {
+      "name": "ICCSMLAI Vancouver Sports Track",
+      "pageId": "23fc6f79-9a33-81ea-a212-d090b77e7270"
+    },
+    {
+      "name": "FLAIR BC Initiative",
+      "pageId": "23fc6f79-9a33-8105-972a-f5291ba9504e"
+    },
+    {
+      "name": "Indigenous Protocol and AI Working Group",
+      "pageId": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b"
+    },
+    {
+      "name": "NEXT AI BC Companies",
+      "pageId": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8"
+    },
+    {
+      "name": "Scale AI BC Recipients",
+      "pageId": "23fc6f79-9a33-81bb-99b4-e06406856531"
+    },
+    {
+      "name": "DigiBC Creative AI Members",
+      "pageId": "23fc6f79-9a33-8193-b79b-e19e18cc35c2"
+    },
+    {
+      "name": "DigiBC Signals AI Showcase",
+      "pageId": "23fc6f79-9a33-8139-8c2d-e340278f023e"
+    },
+    {
+      "name": "RAII Grant Recipients 2025",
+      "pageId": "23fc6f79-9a33-81e8-bb83-d81f112e5580"
+    },
+    {
+      "name": "BC Fast Pilot AI Projects",
+      "pageId": "23fc6f79-9a33-818e-b964-da7b9a50ada9"
+    },
+    {
+      "name": "Meton AI",
+      "pageId": "23fc6f79-9a33-8102-8af8-d81b632dbd61"
+    },
+    {
+      "name": "Site C Hydroelectric Project AI Division",
+      "pageId": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca"
+    },
+    {
+      "name": "Leasey.AI",
+      "pageId": "23fc6f79-9a33-81b5-9314-fe3df8ab6f2c"
+    },
+    {
+      "name": "GreenMeter AI",
+      "pageId": "23fc6f79-9a33-819c-8e7b-f51b33bdbd16"
+    },
+    {
+      "name": "3D AI Studio Vancouver",
+      "pageId": "23fc6f79-9a33-8180-8bb2-f24d31f306ad"
+    },
+    {
+      "name": "Pano AI BC Operations",
+      "pageId": "23fc6f79-9a33-8125-b009-ff24fe1152a4"
+    },
+    {
+      "name": "Neptune Terminals AI Operations",
+      "pageId": "23fc6f79-9a33-8114-81cb-fb32f74070f6"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "pageId": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb"
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "pageId": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7"
+    },
+    {
+      "name": "Fujitsu Intelligence Technology",
+      "pageId": "23fc6f79-9a33-813e-bae0-e6aaa88cdace"
+    },
+    {
+      "name": "Gaze AI",
+      "pageId": "23fc6f79-9a33-81a0-8292-f5bfad343bfd"
+    }
+  ],
+  "noYearFounded": [
+    {
+      "name": "Fujitsu Intelligence Technology",
+      "pageId": "23fc6f79-9a33-813e-bae0-e6aaa88cdace"
+    }
+  ],
+  "aiMlCompanies": [
+    {
+      "name": "3D AI Studio Vancouver",
+      "pageId": "23fc6f79-9a33-8180-8bb2-f24d31f306ad",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "pageId": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb",
+      "category": "AI Companies",
+      "aiFocusAreas": [
+        "AI agent liability insurance"
+      ],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Artificial Muse Music AI Residency",
+      "pageId": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "BC Fast Pilot AI Projects",
+      "pageId": "23fc6f79-9a33-818e-b964-da7b9a50ada9",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "BC Regional AI Initiative",
+      "pageId": "23fc6f79-9a33-8161-9022-db94c076be74",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "BC Regional AI Initiative Recipients",
+      "pageId": "23fc6f79-9a33-819b-ac0f-d316a92b8c07",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "DigiBC Creative AI Members",
+      "pageId": "23fc6f79-9a33-8193-b79b-e19e18cc35c2",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "DigiBC Signals AI Showcase",
+      "pageId": "23fc6f79-9a33-8139-8c2d-e340278f023e",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "FLAIR BC Initiative",
+      "pageId": "23fc6f79-9a33-8105-972a-f5291ba9504e",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Fujitsu Intelligence Technology",
+      "pageId": "23fc6f79-9a33-813e-bae0-e6aaa88cdace",
+      "category": "Technology Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Gaze AI",
+      "pageId": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "ICCSMLAI Vancouver Sports Track",
+      "pageId": "23fc6f79-9a33-81ea-a212-d090b77e7270",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Indigenous Protocol and AI Working Group",
+      "pageId": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Neptune Terminals AI Operations",
+      "pageId": "23fc6f79-9a33-8114-81cb-fb32f74070f6",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "NEXT AI BC Companies",
+      "pageId": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "pageId": "23fc6f79-9a33-8159-8654-caf7c9e5006e",
+      "category": "AI Companies",
+      "aiFocusAreas": [
+        "AI innovation and adoption in energy sector"
+      ],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Pano AI BC Operations",
+      "pageId": "23fc6f79-9a33-8125-b009-ff24fe1152a4",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "RAII Grant Recipients 2025",
+      "pageId": "23fc6f79-9a33-81e8-bb83-d81f112e5580",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Scale AI BC Recipients",
+      "pageId": "23fc6f79-9a33-81bb-99b4-e06406856531",
+      "category": "AI Companies",
+      "aiFocusAreas": [],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "pageId": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7",
+      "category": "AI Companies",
+      "aiFocusAreas": [
+        "AI-optimized hydroelectric operations"
+      ],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    },
+    {
+      "name": "Site C Hydroelectric Project AI Division",
+      "pageId": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca",
+      "category": "AI Companies",
+      "aiFocusAreas": [
+        "AI-optimized hydroelectric operations"
+      ],
+      "hasFunding": false,
+      "hasRevenue": false,
+      "hasEmployeeCount": false
+    }
+  ],
+  "recentlyAdded": []
+}

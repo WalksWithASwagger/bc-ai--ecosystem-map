@@ -1,0 +1,407 @@
+{
+  "partnershipMapping": {
+    "researchId": "2025-01-30-partnership-analysis",
+    "date": "2025-01-30",
+    "focus": "Strategic partnerships, collaborations, and ecosystem connections",
+    "methodology": "Analysis of documented partnerships from 23+ researched organizations",
+    "partnershipCategories": {
+      "bigTechPartnerships": {
+        "description": "Partnerships with major technology companies",
+        "totalDeals": 15,
+        "estimatedValue": "$2B+",
+        "partnerships": [
+          {
+            "bcCompany": "Photonic",
+            "partner": "Microsoft",
+            "type": "Strategic Investment + Partnership",
+            "value": "$100M investment",
+            "description": "Quantum computing development and Azure Quantum integration",
+            "status": "Active"
+          },
+          {
+            "bcCompany": "Lumen5",
+            "partner": "Salesforce",
+            "type": "Strategic Investment + Integration",
+            "value": "Series B participation",
+            "description": "AI video generation integrated into Salesforce platform",
+            "status": "Active"
+          },
+          {
+            "bcCompany": "Traction on Demand",
+            "partner": "Salesforce",
+            "type": "Premier Partner",
+            "value": "$350M+ revenue partnership",
+            "description": "Largest dedicated Salesforce partner globally",
+            "achievement": "Multiple Partner of the Year awards"
+          },
+          {
+            "bcCompany": "Dapper Labs",
+            "partner": "Google Ventures",
+            "type": "Strategic Investment",
+            "value": "Part of $725M total raise",
+            "description": "Blockchain and NFT platform development"
+          },
+          {
+            "bcCompany": "Finger Food Studios",
+            "partner": "Unity Technologies",
+            "type": "Acquisition",
+            "value": "Undisclosed",
+            "description": "AR/VR technology integration",
+            "status": "Completed (2020)"
+          },
+          {
+            "bcCompany": "Appnovation",
+            "partner": "Google",
+            "type": "Client + Technology Partnership",
+            "description": "Digital transformation and cloud services"
+          },
+          {
+            "bcCompany": "1QBit",
+            "partner": "Accenture",
+            "type": "Strategic Investment + Partnership",
+            "description": "Quantum computing consulting and enterprise solutions"
+          },
+          {
+            "bcCompany": "Sanctuary AI",
+            "partner": "Microsoft",
+            "type": "Technology Partnership",
+            "description": "AI and robotics development collaboration"
+          }
+        ]
+      },
+      "pharmaPartnerships": {
+        "description": "Partnerships with pharmaceutical and biotech companies",
+        "totalDeals": 8,
+        "estimatedValue": "$3B+",
+        "partnerships": [
+          {
+            "bcCompany": "AbCellera",
+            "partner": "Eli Lilly",
+            "type": "Strategic Partnership",
+            "value": "$1.6B deal value",
+            "description": "Antibody discovery and development collaboration",
+            "achievement": "COVID-19 antibody bamlanivimab"
+          },
+          {
+            "bcCompany": "Aspect Biosystems",
+            "partner": "Novo Nordisk",
+            "type": "Strategic Partnership",
+            "description": "Bioprinted tissue development for diabetes treatment"
+          },
+          {
+            "bcCompany": "Aspect Biosystems",
+            "partner": "GSK",
+            "type": "Research Collaboration",
+            "description": "Bioprinting applications for drug development"
+          },
+          {
+            "bcCompany": "Zymeworks",
+            "partner": "BeiGene",
+            "type": "Strategic Partnership",
+            "description": "Multifunctional therapeutics development"
+          },
+          {
+            "bcCompany": "Zymeworks",
+            "partner": "Jazz Pharmaceuticals",
+            "type": "Licensing Agreement",
+            "description": "Protein engineering platform licensing"
+          },
+          {
+            "bcCompany": "Zymeworks",
+            "partner": "Merck",
+            "type": "Research Collaboration",
+            "description": "Antibody-drug conjugate development"
+          },
+          {
+            "bcCompany": "1QBit",
+            "partner": "Roche",
+            "type": "Research Partnership",
+            "description": "Quantum computing for drug discovery"
+          },
+          {
+            "bcCompany": "STEMCELL Technologies",
+            "partner": "Multiple Pharma Companies",
+            "type": "Supplier Partnerships",
+            "description": "Cell culture media and research tools supply to 100+ countries"
+          }
+        ]
+      },
+      "governmentPartnerships": {
+        "description": "Government contracts and public sector collaborations",
+        "totalDeals": 12,
+        "partnerships": [
+          {
+            "bcCompany": "General Fusion",
+            "partner": "Government of Canada",
+            "type": "Grant + Strategic Support",
+            "value": "$50M+ government funding",
+            "description": "Fusion energy development support"
+          },
+          {
+            "bcCompany": "D-Wave",
+            "partner": "NASA",
+            "type": "Research Partnership",
+            "description": "Quantum computing applications for space research"
+          },
+          {
+            "bcCompany": "Microsoft + Vancouver Coastal Health",
+            "partner": "BC Government",
+            "type": "Public-Private Partnership",
+            "description": "AI-powered healthcare solutions for BC health system"
+          },
+          {
+            "bcCompany": "Sanctuary AI",
+            "partner": "Export Development Canada",
+            "type": "Financial Partnership",
+            "description": "Support for international expansion"
+          },
+          {
+            "bcCompany": "Multiple Companies",
+            "partner": "NRC-IRAP",
+            "type": "Innovation Support",
+            "description": "R&D funding and technical assistance"
+          },
+          {
+            "bcCompany": "Innovate BC",
+            "partner": "BC Government",
+            "type": "Ecosystem Support",
+            "description": "Startup funding and acceleration programs"
+          }
+        ]
+      },
+      "universityPartnerships": {
+        "description": "Academic collaborations and research partnerships",
+        "partnerships": [
+          {
+            "bcCompany": "AbCellera",
+            "university": "University of British Columbia",
+            "type": "Spin-out + Ongoing Collaboration",
+            "description": "Founded by UBC professor, continued research collaboration"
+          },
+          {
+            "bcCompany": "Aspect Biosystems",
+            "university": "University of British Columbia",
+            "type": "Faculty Partnership",
+            "description": "Co-founded by UBC professor Konrad Walus"
+          },
+          {
+            "bcCompany": "MetaOptima",
+            "university": "Simon Fraser University",
+            "type": "Spin-out",
+            "description": "Founded by SFU PhD graduate"
+          },
+          {
+            "bcCompany": "D-Wave",
+            "university": "Multiple Universities",
+            "type": "Research Partnerships",
+            "description": "Quantum computing research collaborations globally"
+          },
+          {
+            "bcCompany": "General Fusion",
+            "university": "Multiple Universities",
+            "type": "Research Collaboration",
+            "description": "Plasma physics and fusion energy research"
+          }
+        ]
+      },
+      "enterpriseClients": {
+        "description": "Major enterprise client partnerships",
+        "partnerships": [
+          {
+            "bcCompany": "Lumen5",
+            "clients": ["Salesforce", "SAP", "Cisco"],
+            "type": "Enterprise SaaS",
+            "description": "AI video generation for enterprise marketing"
+          },
+          {
+            "bcCompany": "Clio",
+            "clients": ["150,000+ legal professionals"],
+            "type": "Legal Tech Platform",
+            "description": "Cloud-based legal practice management"
+          },
+          {
+            "bcCompany": "Trulioo",
+            "clients": ["Major financial institutions globally"],
+            "type": "RegTech Platform",
+            "description": "Identity verification for KYC/AML compliance"
+          },
+          {
+            "bcCompany": "Procurify",
+            "clients": ["1000+ companies"],
+            "type": "Spend Management Platform",
+            "description": "Procurement and financial automation"
+          },
+          {
+            "bcCompany": "Appnovation",
+            "clients": ["Google", "Samsung", "HSBC"],
+            "type": "Digital Transformation",
+            "description": "Enterprise AI and cloud consulting"
+          }
+        ]
+      }
+    },
+    "ecosystemConnections": {
+      "investorNetworks": {
+        "tier1Investors": [
+          {
+            "investor": "Accenture Ventures",
+            "bcCompanies": ["Sanctuary AI", "1QBit"],
+            "focus": "Enterprise AI and quantum computing"
+          },
+          {
+            "investor": "Google Ventures",
+            "bcCompanies": ["Dapper Labs"],
+            "focus": "Blockchain and consumer platforms"
+          },
+          {
+            "investor": "Salesforce Ventures",
+            "bcCompanies": ["Lumen5"],
+            "focus": "Enterprise SaaS and AI"
+          },
+          {
+            "investor": "TCV",
+            "bcCompanies": ["Trulioo"],
+            "focus": "High-growth SaaS"
+          },
+          {
+            "investor": "Goldman Sachs",
+            "bcCompanies": ["Trulioo"],
+            "focus": "FinTech and RegTech"
+          }
+        ],
+        "localInvestors": [
+          {
+            "investor": "BDC Capital",
+            "bcCompanies": ["Archiact", "Procurify", "Kardium"],
+            "focus": "Canadian tech companies"
+          },
+          {
+            "investor": "Rhino Ventures",
+            "bcCompanies": ["Archiact"],
+            "focus": "BC startups"
+          }
+        ]
+      },
+      "founderConnections": {
+        "serialEntrepreneurs": [
+          {
+            "founder": "Roham Gharegozlou",
+            "companies": ["Axiom Zen", "Dapper Labs"],
+            "connection": "Spun Dapper Labs out of Axiom Zen"
+          },
+          {
+            "founder": "Chris Bowal",
+            "companies": ["Picatic", "Lumen5"],
+            "connection": "Founded Lumen5 after Picatic exit to Eventbrite"
+          },
+          {
+            "founder": "Tamer Mohamed",
+            "companies": ["Precision NanoSystems", "Aspect Biosystems"],
+            "connection": "CEO experience in biotech"
+          }
+        ],
+        "academicConnections": [
+          {
+            "institution": "UBC",
+            "founders": ["Carl Hansen (AbCellera)", "Konrad Walus (Aspect Bio)", "Karn Manhas (Terramera)"],
+            "description": "Strong pipeline of academic entrepreneurs"
+          },
+          {
+            "institution": "SFU",
+            "founders": ["Maryam Sadeghi (MetaOptima)"],
+            "description": "Growing SFU entrepreneurship"
+          }
+        ]
+      },
+      "advisorNetworks": [
+        {
+          "advisor": "Peter Thiel",
+          "role": "Board Member",
+          "company": "AbCellera",
+          "influence": "High-profile Silicon Valley connection"
+        },
+        {
+          "advisors": "Former Monsanto Executives",
+          "company": "Terramera",
+          "influence": "AgTech industry expertise"
+        }
+      ]
+    },
+    "clusterSynergies": {
+      "quantumEcosystem": {
+        "companies": ["D-Wave", "1QBit", "Photonic"],
+        "synergies": [
+          "Hardware-software-networking integration",
+          "Shared quantum talent pool",
+          "Complementary quantum approaches",
+          "Joint enterprise customers"
+        ]
+      },
+      "biotechHub": {
+        "companies": ["AbCellera", "Aspect Biosystems", "Zymeworks", "STEMCELL"],
+        "synergies": [
+          "Shared scientific talent from UBC",
+          "Common pharma partners",
+          "Complementary technologies (discovery, manufacturing, tools)",
+          "Research collaboration opportunities"
+        ]
+      },
+      "legalTechCluster": {
+        "companies": ["Clio", "Trulioo", "Certn"],
+        "synergies": [
+          "Complementary identity and verification services",
+          "Shared compliance expertise",
+          "Potential integration opportunities",
+          "Common enterprise legal clients"
+        ]
+      }
+    },
+    "internationalConnections": {
+      "usPartnerships": [
+        {
+          "bcCompany": "General Fusion",
+          "usPartner": "Jeff Bezos",
+          "type": "Strategic Investment",
+          "impact": "Access to US capital and networks"
+        },
+        {
+          "bcCompany": "Multiple Companies",
+          "usPartners": ["Bessemer Venture Partners", "Framework Venture Partners"],
+          "type": "VC Investment",
+          "impact": "US market expansion support"
+        }
+      ],
+      "globalPartnerships": [
+        {
+          "bcCompany": "General Fusion",
+          "region": "United Kingdom",
+          "partnership": "Demonstration plant construction",
+          "impact": "International fusion energy leadership"
+        },
+        {
+          "bcCompany": "STEMCELL Technologies",
+          "region": "Global",
+          "partnership": "100+ countries served",
+          "impact": "Global life sciences supply chain"
+        }
+      ]
+    },
+    "emergingPartnerships": {
+      "aiInfrastructure": [
+        "Cloud partnerships for AI training and deployment",
+        "Data sharing agreements for AI model development",
+        "Joint AI research initiatives"
+      ],
+      "sustainability": [
+        "Climate tech partnerships",
+        "Clean energy collaborations",
+        "ESG-focused investment partnerships"
+      ],
+      "healthTech": [
+        "Digital health platform integrations",
+        "Healthcare AI validation partnerships",
+        "Medical device distribution agreements"
+      ]
+    }
+  }
+}

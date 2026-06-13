@@ -1,0 +1,3 @@
+Organization Name,Notion ID,LinkedIn URL,Employees,Founded Year,CEO Name,CEO LinkedIn,Latest Funding,Total Raised,Twitter,GitHub,Confidence,Notes,Sources,Research Date
+"Example Org","123-456","https://linkedin.com/company/example","51-200",2018,"Jane Smith","https://linkedin.com/in/janesmith","Series A - $10M (2023)","$15M","@exampleai","example-ai","High","Fast growing AI company","LinkedIn; Crunchbase; Company website","2025-01-30"
+"Template Row","[Get ID]","[LinkedIn company URL]","[Range or number]","[Year]","[Full name]","[LinkedIn profile]","[Round - Amount (Date)]","[Total amount]","[Handle]","[Org name]","[High/Medium/Low]","[Any important notes]","[List sources separated by ;]","[YYYY-MM-DD]"

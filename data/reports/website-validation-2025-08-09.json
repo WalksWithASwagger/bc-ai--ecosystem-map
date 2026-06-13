@@ -1,0 +1,184 @@
+{
+  "timestamp": "2025-08-09T23:53:19.114Z",
+  "stats": {
+    "total": 10,
+    "active": 2,
+    "dead": 2,
+    "redirect": 0,
+    "socialFound": 5,
+    "contactFound": 4
+  },
+  "results": [
+    {
+      "id": "246c6f79-9a33-8168-82bb-d7acefe8f7e5",
+      "name": "; ca.pwc.com/en/about",
+      "url": "https://pwc.com",
+      "status": "redirect",
+      "socialLinks": {
+        "facebook": "https://www.facebook.com/PwC"
+      },
+      "importantPages": {
+        "about": "/gx/en/about/office-locations.html",
+        "contact": "/gx/en/content/pwc/global/forms/contactUs.en_gx.html"
+      },
+      "feeds": {
+        "blog": "/gx/en/news-room.html"
+      },
+      "emails": [],
+      "lastChecked": "2025-08-09T23:52:55.464Z",
+      "redirectTo": "https://www.pwc.com/gx/en.html"
+    },
+    {
+      "id": "246c6f79-9a33-8177-881d-d970cfd60642",
+      "name": "; webforms.cisco.com/c/en/us/about/accessibility/contact",
+      "url": "https://cisco.com",
+      "status": "redirect",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/cisco",
+        "twitter": "https://twitter.com/Cisco/",
+        "facebook": "https://www.facebook.com/Cisco/",
+        "youtube": "https://www.youtube.com/user/cisco",
+        "instagram": "https://www.instagram.com/cisco/"
+      },
+      "importantPages": {
+        "about": "/site/us/en/about/sitemap.html",
+        "contact": "/site/us/en/about/contact-cisco/index.html"
+      },
+      "feeds": {
+        "blog": "/c/r/newsroom/en/us/index.html"
+      },
+      "emails": [],
+      "lastChecked": "2025-08-09T23:52:59.394Z",
+      "redirectTo": "https://www.cisco.com/"
+    },
+    {
+      "id": "246c6f79-9a33-814c-b92f-eaf413381feb",
+      "name": "A16Z AI Fund",
+      "url": "https://a16z.com/ai",
+      "status": "redirect",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/a16z",
+        "twitter": "https://twitter.com/a16z",
+        "facebook": "https://www.facebook.com/andreessenhorowitz",
+        "github": "https://github.com/tigrisdata-community/multi-modal-starter-kit",
+        "instagram": "https://www.instagram.com/a16z/"
+      },
+      "importantPages": {
+        "portfolio": "/american-dynamism-50-2025/",
+        "team": "/clf/",
+        "about": "/about/"
+      },
+      "feeds": {
+        "blog": "/newsletter/enterprise-ai-rewrites-benchmarks/"
+      },
+      "emails": [],
+      "lastChecked": "2025-08-09T23:53:01.365Z",
+      "redirectTo": "https://a16z.com/ai/"
+    },
+    {
+      "id": "246c6f79-9a33-818f-a873-dfa0594552a5",
+      "name": "Accenture: https://www.accenture.com/ca",
+      "url": "https://www.accenture.com/ca-en",
+      "status": "active",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/accenture",
+        "facebook": "https://www.facebook.com/accenture",
+        "instagram": "https://www.instagram.com/accenture/"
+      },
+      "importantPages": {
+        "about": "/ca-en/about/location",
+        "contact": "/ca-en/about/contact-us"
+      },
+      "feeds": {
+        "blog": "/ca-en/blogs/blogs-careers"
+      },
+      "emails": [],
+      "lastChecked": "2025-08-09T23:53:03.882Z"
+    },
+    {
+      "id": "246c6f79-9a33-814d-bb51-d61069322e22",
+      "name": "Adobe",
+      "url": "https://www.adobe.com",
+      "status": "redirect",
+      "socialLinks": {},
+      "importantPages": {},
+      "feeds": {
+        "blog": "/homepage/fragments/loggedout/pods/news/news-pod-10-25-23-104498"
+      },
+      "emails": [],
+      "lastChecked": "2025-08-09T23:53:06.749Z",
+      "redirectTo": "https://www.adobe.com/"
+    },
+    {
+      "id": "246c6f79-9a33-810c-b1fe-e685b0f22f6a",
+      "name": "Adobe",
+      "url": "https://www.adobe.com",
+      "status": "redirect",
+      "socialLinks": {},
+      "importantPages": {},
+      "feeds": {
+        "blog": "/homepage/fragments/loggedout/pods/news/news-pod-10-25-23-104498"
+      },
+      "emails": [],
+      "lastChecked": "2025-08-09T23:53:08.696Z",
+      "redirectTo": "https://www.adobe.com/"
+    },
+    {
+      "id": "246c6f79-9a33-8164-8f16-cfa96546cf0b",
+      "name": "Amazon Journalism Fund",
+      "url": "https://journalism.amazon.com/",
+      "status": "dead",
+      "socialLinks": {},
+      "importantPages": {},
+      "feeds": {},
+      "emails": [],
+      "lastChecked": "2025-08-09T23:53:11.240Z"
+    },
+    {
+      "id": "246c6f79-9a33-81e1-ab32-c8c49b8ab039",
+      "name": "Amazon Web Services: https://aws.amazon.com/",
+      "url": "https://aws.amazon.com/",
+      "status": "active",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/amazon-web-services/",
+        "twitter": "https://twitter.com/awscloud",
+        "facebook": "https://www.facebook.com/amazonwebservices",
+        "youtube": "https://www.youtube.com/user/AmazonWebServices/Cloud/",
+        "instagram": "https://www.instagram.com/amazonwebservices/"
+      },
+      "importantPages": {
+        "contact": "/contact-us/",
+        "apply": "/products/compute/",
+        "about": "/training/learn-about/generative-ai/"
+      },
+      "feeds": {
+        "blog": "/blogs/"
+      },
+      "emails": [],
+      "lastChecked": "2025-08-09T23:53:13.367Z"
+    },
+    {
+      "id": "246c6f79-9a33-81a4-ad3d-d2f136220aba",
+      "name": "Amdocfest",
+      "url": "https://www.amdocfest.com/",
+      "status": "dead",
+      "socialLinks": {},
+      "importantPages": {},
+      "feeds": {},
+      "emails": [],
+      "lastChecked": "2025-08-09T23:53:16.128Z"
+    },
+    {
+      "id": "24ac6f79-9a33-81ea-adc6-d8fd248932d5",
+      "name": "Amplitude Ventures",
+      "url": "https://www.amplitude.vc",
+      "status": "redirect",
+      "socialLinks": {},
+      "importantPages": {},
+      "feeds": {},
+      "emails": [],
+      "lastChecked": "2025-08-09T23:53:17.606Z",
+      "redirectTo": "https://www.amplitude.vc/"
+    }
+  ]
+}

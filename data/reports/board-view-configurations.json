@@ -1,0 +1,50 @@
+[
+  {
+    "name": "🏆 Champions Gallery",
+    "purpose": "High-value companies with logos for presentations",
+    "groupBy": "Category",
+    "filter": "Logo 'Is not empty' AND (Funding contains '$100M' OR Size equals 'Large')",
+    "sort": "Funding (descending)",
+    "description": "Showcase tier 1 champions like Clio, D-Wave Systems, Sanctuary AI"
+  },
+  {
+    "name": "🗺️ BC Regional Ecosystem",
+    "purpose": "Geographic view with brand identity",
+    "groupBy": "Location or BC Region",
+    "filter": "Logo 'Is not empty'",
+    "sort": "Year Founded (descending)",
+    "description": "Regional clusters showing Vancouver, Burnaby with company logos"
+  },
+  {
+    "name": "🚀 Innovation Timeline",
+    "purpose": "Growth story of BC AI innovations",
+    "groupBy": "Year Founded",
+    "filter": "Logo 'Is not empty' AND Year Founded >= 2015",
+    "sort": "Year Founded (descending)",
+    "description": "Timeline showing company evolution with visual branding"
+  },
+  {
+    "name": "💰 Funding Powerhouse",
+    "purpose": "Investment landscape with branding",
+    "groupBy": "Funding Stage or Size",
+    "filter": "Logo 'Is not empty' AND Funding 'Is not empty'",
+    "sort": "Funding (descending)",
+    "description": "Investment tiers showing funding levels with logos"
+  },
+  {
+    "name": "🎯 AI Focus Discovery",
+    "purpose": "Technical specialization showcase",
+    "groupBy": "Category or AI Focus Areas",
+    "filter": "Logo 'Is not empty'",
+    "sort": "Name (ascending)",
+    "description": "Technical categories with branded companies"
+  },
+  {
+    "name": "🏢 Size & Scale",
+    "purpose": "Company maturity visualization",
+    "groupBy": "Size",
+    "filter": "Logo 'Is not empty'",
+    "sort": "Employee Count or Funding (descending)",
+    "description": "Company size tiers with visual branding"
+  }
+]

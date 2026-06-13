@@ -1,0 +1,21 @@
+[
+  {
+    "id": "23fc6f799a338106a9bae2a72d3ad82f",
+    "yearFounded": 2019,
+    "keyPeople": "Jane Smith (CEO), John Doe (CTO)",
+    "shortBlurb": "AI-powered platform for business process optimization."
+  },
+  {
+    "id": "23fc6f799a3381c6ac32fb6864bcec70",
+    "yearFounded": 2020,
+    "keyPeople": "Alex Johnson (Founder), Sarah Williams (COO)",
+    "website": "https://example.com",
+    "linkedin": "https://linkedin.com/company/example"
+  },
+  {
+    "id": "23fc6f799a3381f3a6b9d9a142798c61",
+    "yearFounded": 2018,
+    "email": "contact@example.org",
+    "phone": "+1 (555) 123-4567"
+  }
+] 

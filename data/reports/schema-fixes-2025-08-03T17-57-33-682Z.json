@@ -1,0 +1,30 @@
+{
+  "schemaIssues": [
+    {
+      "issue": "Missing Founded field",
+      "description": "Founded property does not exist in database schema",
+      "severity": "HIGH",
+      "solution": "Add Founded field as number type or use existing date field"
+    },
+    {
+      "issue": "Founded field mapping error",
+      "description": "Scripts reference \"Founded\" but actual field is \"Year Founded\"",
+      "severity": "MEDIUM",
+      "solution": "Update scripts to use \"Year Founded\" instead of \"Founded\""
+    },
+    {
+      "issue": "Missing Company Size field",
+      "description": "Company Size property may not exist",
+      "severity": "MEDIUM",
+      "solution": "Verify Company Size field exists or create alternative mapping"
+    }
+  ],
+  "fixesApplied": [
+    {
+      "issue": "Founded field mapping error",
+      "solution": "Created field mapping documentation",
+      "status": "applied"
+    }
+  ],
+  "errors": []
+}

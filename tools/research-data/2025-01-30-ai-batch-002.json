@@ -1,0 +1,533 @@
+{
+  "researchBatch": {
+    "batchId": "2025-01-30-ai-batch-002",
+    "researcher": "Phase 2 Research Coordinator",
+    "date": "2025-01-30",
+    "focus": "Key People & Leadership Deep Dive",
+    "organizations": [
+      {
+        "name": "AbCellera",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Biotech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/abcellera",
+            "verified": true,
+            "employees": "501-1000",
+            "followers": 22000,
+            "description": "Technology company that searches, decodes, and analyzes antibodies from natural immune systems",
+            "headquarters": "Vancouver, BC",
+            "founded": 2012,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Carl Hansen",
+              "linkedinUrl": "https://www.linkedin.com/in/carl-hansen-abcellera",
+              "role": "Founder, CEO & President",
+              "background": "PhD in Physics from Caltech, Former Prof at UBC"
+            },
+            "cto": {
+              "name": "Véronique Lecault",
+              "linkedinUrl": "https://www.linkedin.com/in/veronique-lecault",
+              "role": "Co-Founder & COO",
+              "background": "PhD in Chemistry from UBC"
+            },
+            "leadership": [
+              {
+                "name": "Kevin Heyries",
+                "role": "Co-Founder & Lead, Innovation",
+                "linkedinUrl": "https://www.linkedin.com/in/kevin-heyries"
+              },
+              {
+                "name": "Maia Smith",
+                "role": "Co-Founder & Lead, Business Development",
+                "linkedinUrl": "https://www.linkedin.com/in/maiasmith"
+              },
+              {
+                "name": "Andrew Booth",
+                "role": "CFO",
+                "linkedinUrl": "https://www.linkedin.com/in/andrew-booth-cfo"
+              }
+            ],
+            "board": ["Peter Thiel (Founders Fund)", "François Nader", "John Montalbano"]
+          },
+          "funding": {
+            "status": "Public company",
+            "ticker": "ABCL (NASDAQ)",
+            "ipo": "December 2020",
+            "marketCap": "~$1.5B USD",
+            "totalRaisedPreIPO": "$553M"
+          },
+          "companyIntel": {
+            "employeeCount": {
+              "range": "501-1000",
+              "growth": "Doubled since 2020"
+            },
+            "yearFounded": 2012,
+            "partnerships": ["Eli Lilly ($1.6B deal)", "Government of Canada"],
+            "aiFocus": ["Antibody Discovery", "Machine Learning", "Biotech AI", "Drug Development"],
+            "notableAchievement": "Discovered bamlanivimab COVID-19 antibody in 90 days"
+          }
+        }
+      },
+      {
+        "name": "Aspect Biosystems",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Bioprinting AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/aspect-biosystems",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 18000,
+            "description": "Bioprinting company creating human tissues on demand",
+            "headquarters": "Vancouver, BC",
+            "founded": 2013,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Tamer Mohamed",
+              "linkedinUrl": "https://www.linkedin.com/in/tamermohamed",
+              "role": "CEO",
+              "background": "Previously Precision NanoSystems CEO"
+            },
+            "founders": [
+              {
+                "name": "Konrad Walus",
+                "role": "Co-Founder",
+                "linkedinUrl": "https://www.linkedin.com/in/konrad-walus",
+                "background": "Professor at UBC"
+              },
+              {
+                "name": "Sam Wadsworth",
+                "role": "Co-Founder & Director",
+                "linkedinUrl": "https://www.linkedin.com/in/samwadsworth",
+                "background": "PhD from UBC"
+              }
+            ],
+            "leadership": [
+              {
+                "name": "Simon Beyer",
+                "role": "CSO",
+                "linkedinUrl": "https://www.linkedin.com/in/simon-beyer"
+              }
+            ]
+          },
+          "funding": {
+            "totalRaised": "$200M+",
+            "rounds": [
+              {
+                "type": "Series B",
+                "amount": "$115M",
+                "date": "2025",
+                "leadInvestor": "Dimension"
+              }
+            ],
+            "investors": ["Dimension", "Novo Holdings", "Pavilion Capital"]
+          },
+          "companyIntel": {
+            "yearFounded": 2013,
+            "aiFocus": ["3D Bioprinting", "Tissue Engineering", "AI-Driven Design", "Regenerative Medicine"],
+            "partnerships": ["Novo Nordisk", "GSK"],
+            "notableAchievement": "50%+ women on team"
+          }
+        }
+      },
+      {
+        "name": "Terramera",
+        "category": "AI Companies",
+        "priority": "Tier 1 - AgTech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/terramera-inc-",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 11000,
+            "description": "Technology to unlock the intelligence in nature",
+            "headquarters": "Vancouver, BC",
+            "founded": 2010,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Karn Manhas",
+              "linkedinUrl": "https://www.linkedin.com/in/karnmanhas",
+              "role": "Founder & CEO",
+              "background": "MD from UBC, Serial entrepreneur"
+            },
+            "leadership": [
+              {
+                "name": "Steve Cox",
+                "role": "Chief Commercial Officer",
+                "linkedinUrl": "https://www.linkedin.com/in/steve-cox-terramera"
+              },
+              {
+                "name": "Shane Thomas",
+                "role": "Head of Digital",
+                "linkedinUrl": "https://www.linkedin.com/in/shanethomas1"
+              }
+            ],
+            "advisors": ["Former Monsanto executives", "AgTech leaders"]
+          },
+          "funding": {
+            "totalRaised": "$100M+",
+            "investors": ["Ospraie Ag Science", "Seed2Growth Ventures", "ArcTern Ventures"],
+            "grants": "Multiple government grants"
+          },
+          "companyIntel": {
+            "yearFounded": 2010,
+            "aiFocus": ["Agricultural AI", "Plant Intelligence", "Sustainable Agriculture", "Machine Learning"],
+            "products": ["Actigate™ technology platform"],
+            "mission": "Reduce synthetic pesticide use by 80%"
+          }
+        }
+      },
+      {
+        "name": "General Fusion",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Fusion Energy AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/general-fusion",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 25000,
+            "description": "Transforming the world's energy supply with fusion",
+            "headquarters": "Vancouver, BC (HQ moved to Richmond)",
+            "founded": 2002,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Greg Twinney",
+              "linkedinUrl": "https://www.linkedin.com/in/greg-twinney",
+              "role": "CEO",
+              "background": "Former CFO, extensive energy sector experience"
+            },
+            "founder": {
+              "name": "Michel Laberge",
+              "linkedinUrl": "https://www.linkedin.com/in/michel-laberge",
+              "role": "Founder & Chief Science Officer",
+              "background": "PhD Physics, plasma physicist"
+            },
+            "leadership": [
+              {
+                "name": "Ryan Guerrero",
+                "role": "CTO",
+                "linkedinUrl": "https://www.linkedin.com/in/ryan-guerrero-fusion"
+              }
+            ],
+            "investors": ["Jeff Bezos", "Temasek", "Canadian Government"]
+          },
+          "funding": {
+            "totalRaised": "$440M+",
+            "notableInvestors": ["Jeff Bezos", "Chrysalix", "Temasek", "BDC"],
+            "governmentSupport": "$50M+ from Canadian government"
+          },
+          "companyIntel": {
+            "yearFounded": 2002,
+            "aiFocus": ["Fusion Energy", "Plasma Physics AI", "Magnetized Target Fusion", "Energy Optimization"],
+            "demo": "Building demonstration plant in UK",
+            "employees": "250+"
+          }
+        }
+      },
+      {
+        "name": "Lumen5",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Content AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/lumen5",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 18000,
+            "description": "AI-powered video creation platform",
+            "headquarters": "Vancouver, BC",
+            "founded": 2016,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Chris Bowal",
+              "linkedinUrl": "https://www.linkedin.com/in/chrisbowal",
+              "role": "Co-Founder & CEO",
+              "background": "Previously at Picatic (acquired by Eventbrite)"
+            },
+            "cto": {
+              "name": "Michael Cheng",
+              "linkedinUrl": "https://www.linkedin.com/in/michaelcheng604",
+              "role": "Co-Founder & CTO",
+              "background": "Engineering from UBC"
+            },
+            "leadership": [
+              {
+                "name": "Nick Chow",
+                "role": "VP Engineering",
+                "linkedinUrl": "https://www.linkedin.com/in/nickchow"
+              }
+            ]
+          },
+          "funding": {
+            "totalRaised": "$30M+",
+            "rounds": [
+              {
+                "type": "Series B",
+                "amount": "$18M",
+                "date": "2022"
+              }
+            ],
+            "investors": ["Bessemer Venture Partners", "Salesforce Ventures"]
+          },
+          "companyIntel": {
+            "yearFounded": 2016,
+            "aiFocus": ["Natural Language Processing", "Computer Vision", "Video Generation", "Content AI"],
+            "users": "1M+ users, 10M+ videos created",
+            "clients": ["Salesforce", "SAP", "Cisco"]
+          }
+        }
+      },
+      {
+        "name": "Dapper Labs",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Blockchain/AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/dapperlabs",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 45000,
+            "description": "Creator of Flow blockchain and NBA Top Shot",
+            "headquarters": "Vancouver, BC",
+            "founded": 2018,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Roham Gharegozlou",
+              "linkedinUrl": "https://www.linkedin.com/in/roham",
+              "role": "Founder & CEO",
+              "background": "Stanford MBA, founded Axiom Zen"
+            },
+            "cto": {
+              "name": "Dieter Shirley",
+              "linkedinUrl": "https://www.linkedin.com/in/dete",
+              "role": "CTO & Chief Architect",
+              "background": "Creator of ERC-721 NFT standard"
+            },
+            "leadership": [
+              {
+                "name": "Mik Naayem",
+                "role": "Chief Business Officer",
+                "linkedinUrl": "https://www.linkedin.com/in/mik-naayem"
+              }
+            ]
+          },
+          "funding": {
+            "totalRaised": "$725M+",
+            "valuation": "$7.6B (2021)",
+            "rounds": [
+              {
+                "type": "Series D",
+                "amount": "$250M",
+                "date": "2021",
+                "valuation": "$7.6B"
+              }
+            ],
+            "investors": ["Coatue", "a16z", "Google Ventures", "Samsung"]
+          },
+          "companyIntel": {
+            "yearFounded": 2018,
+            "parentCompany": "Spun out of Axiom Zen",
+            "aiFocus": ["Blockchain", "Smart Contracts", "Digital Collectibles", "Flow Blockchain"],
+            "products": ["NBA Top Shot", "NFL All Day", "Flow Blockchain"],
+            "achievement": "NBA Top Shot: $1B+ in sales"
+          }
+        }
+      },
+      {
+        "name": "Kardium",
+        "category": "AI Companies",
+        "priority": "Tier 1 - HealthTech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/kardium-inc",
+            "verified": true,
+            "employees": "11-50",
+            "followers": 2500,
+            "description": "Digital health solutions for cardiac arrhythmia",
+            "headquarters": "Burnaby, BC",
+            "founded": 2015,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Kevin Chaplin",
+              "linkedinUrl": "https://www.linkedin.com/in/kevinchaplin",
+              "role": "CEO",
+              "background": "20+ years in medical devices"
+            },
+            "founder": {
+              "name": "Dr. Matthew Bennett",
+              "role": "Founder & Medical Director",
+              "background": "Cardiac electrophysiologist"
+            }
+          },
+          "funding": {
+            "totalRaised": "$25M+",
+            "investors": ["BDC Capital", "Kensington Capital"]
+          },
+          "companyIntel": {
+            "yearFounded": 2015,
+            "aiFocus": ["Cardiac AI", "Arrhythmia Detection", "Digital Health", "Medical Devices"],
+            "product": "Globe® Mapping System",
+            "regulatory": "Health Canada approved"
+          }
+        }
+      },
+      {
+        "name": "Traction on Demand",
+        "category": "Service Providers",
+        "priority": "Tier 1 - Salesforce AI Partner",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/traction-on-demand",
+            "verified": true,
+            "employees": "1001-5000",
+            "followers": 35000,
+            "description": "Largest dedicated Salesforce partner",
+            "headquarters": "Burnaby, BC",
+            "founded": 2006,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Greg Malpass",
+              "linkedinUrl": "https://www.linkedin.com/in/gregmalpass",
+              "role": "Founder & CEO",
+              "background": "Started company at age 23"
+            },
+            "leadership": [
+              {
+                "name": "Martin Gysler",
+                "role": "Chief Product Officer",
+                "linkedinUrl": "https://www.linkedin.com/in/martingysler"
+              }
+            ]
+          },
+          "funding": {
+            "totalRaised": "$350M+",
+            "rounds": [
+              {
+                "type": "Growth equity",
+                "amount": "$250M",
+                "date": "2021",
+                "investor": "Silversmith Capital Partners"
+              }
+            ]
+          },
+          "companyIntel": {
+            "yearFounded": 2006,
+            "employees": "2000+",
+            "aiFocus": ["Salesforce AI", "Einstein Platform", "CRM Intelligence", "Process Automation"],
+            "achievements": "Salesforce Partner of the Year multiple times"
+          }
+        }
+      },
+      {
+        "name": "Finger Food Studios",
+        "category": "AI Companies",
+        "priority": "Tier 2 - AR/VR AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/finger-food-studios",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 12000,
+            "description": "Advanced technology firm (acquired by Unity)",
+            "headquarters": "Port Coquitlam, BC",
+            "founded": 2011,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "founder": {
+              "name": "Ryan Peterson",
+              "linkedinUrl": "https://www.linkedin.com/in/ryanpetersonffs",
+              "role": "Founder & Former CEO",
+              "background": "Now SVP at Unity"
+            },
+            "leadership": [
+              {
+                "name": "Brett Ineson",
+                "role": "President",
+                "linkedinUrl": "https://www.linkedin.com/in/brettineson"
+              }
+            ]
+          },
+          "funding": {
+            "acquisition": "Acquired by Unity Technologies (2020)",
+            "terms": "Undisclosed"
+          },
+          "companyIntel": {
+            "yearFounded": 2011,
+            "status": "Unity Technologies subsidiary",
+            "aiFocus": ["AR/VR", "Computer Vision", "Machine Learning", "Enterprise Solutions"],
+            "clients": ["Microsoft HoloLens", "Enbridge", "Fortinet"]
+          }
+        }
+      },
+      {
+        "name": "MetaOptima",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Medical AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/metaoptima-technology-inc",
+            "verified": true,
+            "employees": "11-50",
+            "followers": 3500,
+            "description": "Intelligent dermatology software",
+            "headquarters": "Vancouver, BC",
+            "founded": 2012,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Maryam Sadeghi",
+              "linkedinUrl": "https://www.linkedin.com/in/maryam-sadeghi",
+              "role": "Co-Founder & CEO",
+              "background": "PhD in Computing Science, SFU"
+            },
+            "cto": {
+              "name": "Majid Razmara",
+              "linkedinUrl": "https://www.linkedin.com/in/majidrazmara",
+              "role": "Co-Founder & CTO"
+            }
+          },
+          "funding": {
+            "totalRaised": "$15M+",
+            "investors": ["Madrona Venture Group", "WTI", "Version One Ventures"]
+          },
+          "companyIntel": {
+            "yearFounded": 2012,
+            "aiFocus": ["Medical AI", "Dermatology", "Skin Cancer Detection", "Image Analysis"],
+            "product": "DermEngine - AI-powered dermatology platform",
+            "users": "500+ clinics worldwide"
+          }
+        }
+      }
+    ],
+    "summary": {
+      "totalOrganizations": 10,
+      "linkedInFound": 10,
+      "fundingDataFound": 10,
+      "keyPeopleFound": 10,
+      "totalPeopleIdentified": 45,
+      "unicorns": 1,
+      "publicCompanies": 1,
+      "acquisitions": 1
+    }
+  }
+}

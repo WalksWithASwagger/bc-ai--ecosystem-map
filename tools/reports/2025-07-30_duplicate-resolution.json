@@ -1,0 +1,667 @@
+{
+  "duplicatePairs": [
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-813a-87ca-db616da00740",
+        "name": "BC + AI Ecosystem Association"
+      },
+      "duplicate": {
+        "id": "23dc6f79-9a33-818a-a5ac-d3051d4a70f1",
+        "name": "BC + AI Ecosystem (BC AI Industry Association)"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "Website",
+          "value": "https://vancouver.bc-ai.net",
+          "action": "replace"
+        },
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "AI Ethics",
+            "Community",
+            "Policy",
+            "Human-first AI",
+            "Data Science",
+            "Other AI Applications"
+          ],
+          "action": "merge"
+        },
+        {
+          "field": "Size",
+          "value": "Non-profit/Public",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-81fd-8d7f-ffa0e0e80d73",
+        "name": "Vancouver AI Community Meetup"
+      },
+      "duplicate": {
+        "id": "1f0c6f79-9a33-8179-a8d6-df6022f65418",
+        "name": "Vancouver AI Community (VanAI)"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "Community Building",
+            "AI Ethics",
+            "Creative AI",
+            "NLP/LLMs",
+            "Computer Vision",
+            "GenAI",
+            "Data Science"
+          ],
+          "action": "merge"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "1f0c6f79-9a33-8179-a8d6-df6022f65418",
+        "name": "Vancouver AI Community (VanAI)"
+      },
+      "duplicate": {
+        "id": "1f0c6f79-9a33-81ec-850b-f1c2939f5a3b",
+        "name": "Vancouver AI Meetup (VAM!)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-81fd-8d7f-ffa0e0e80d73",
+        "name": "Vancouver AI Community Meetup"
+      },
+      "duplicate": {
+        "id": "1f0c6f79-9a33-81ec-850b-f1c2939f5a3b",
+        "name": "Vancouver AI Meetup (VAM!)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "227c6f79-9a33-8139-8c6b-d68951892879",
+        "name": "Microsoft Research Asia Vancouver"
+      },
+      "duplicate": {
+        "id": "1f7c6f79-9a33-81bb-99ea-e361e51d651e",
+        "name": "Microsoft Vancouver"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "NLP/LLMs",
+            "Computer Vision",
+            "Data Science",
+            "GenAI"
+          ],
+          "action": "merge"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "1f0c6f79-9a33-81a1-91d2-ee02caeabfe2",
+        "name": "TELUS Data & AI Initiatives"
+      },
+      "duplicate": {
+        "id": "1f0c6f79-9a33-816f-979f-c3ff5b8d6f24",
+        "name": "TELUS Digital Innovation Lab"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "Website",
+          "value": "https://www.telus.com/en/digital",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-8107-9a58-e45e1089f75f",
+        "name": "Creative Destruction Lab Vancouver (CDL-Vancouver)"
+      },
+      "duplicate": {
+        "id": "1f1c6f79-9a33-81b2-af6b-efcaa151b1eb",
+        "name": "Creative Destruction Lab Vancouver (CDL)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-81f8-8d57-f71c93932cd8",
+        "name": "Centre for Artificial Intelligence Decision-making and Action (CAIDA)"
+      },
+      "duplicate": {
+        "id": "1f7c6f79-9a33-8197-b70b-d9ace803fd84",
+        "name": "UBC Centre for AI Decision-making and Action (CAIDA)"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "City/Region",
+          "value": "UBC Vancouver Campus",
+          "action": "replace"
+        },
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "Data Science",
+            "Other AI Applications",
+            "NLP/LLMs",
+            "MLOps",
+            "Healthcare AI"
+          ],
+          "action": "merge"
+        },
+        {
+          "field": "Year Founded",
+          "value": 2019,
+          "action": "replace"
+        },
+        {
+          "field": "Short Blurb",
+          "value": "UBC's flagship AI research center, uniting over 100 professors across 27 departments. Focused on core machine learning, computer vision, NLP, and robotics research as well as applied AI for decision-support. CAIDA is part of UBC's ICICS institute and a member of the global CLAIRE AI network.",
+          "action": "replace"
+        },
+        {
+          "field": "Key People",
+          "value": "Dr. Kevin Leyton-Brown (Director)",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-819e-8b3f-d47a49dbbfd0",
+        "name": "Vancouver Game Development AI Collective"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8126-accf-f280e5446edf",
+        "name": "Vancouver Game Dev AI Collective"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "1f7c6f79-9a33-8197-b70b-d9ace803fd84",
+        "name": "UBC Centre for AI Decision-making and Action (CAIDA)"
+      },
+      "duplicate": {
+        "id": "227c6f79-9a33-8110-a348-c4dcb4deba71",
+        "name": "UBC CAIDA Center"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "Email",
+          "value": "caida@ubc.ca",
+          "action": "replace"
+        },
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "NLP/LLMs",
+            "Data Science",
+            "MLOps",
+            "Healthcare AI",
+            "AI Ethics",
+            "Computer Vision",
+            "Principled and reliable AI agents",
+            "ML theory",
+            "GenAI"
+          ],
+          "action": "merge"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-81b6-aa0d-cba176a7845a",
+        "name": "Digital Technology Supercluster"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-816e-a523-ee91747b774d",
+        "name": "Digital Technology Supercluster Healthtech AI"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "Category",
+          "value": "Innovation Centres & Hubs",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "1f1c6f79-9a33-81b2-af6b-efcaa151b1eb",
+        "name": "Creative Destruction Lab Vancouver (CDL)"
+      },
+      "duplicate": {
+        "id": "23dc6f79-9a33-81c6-9304-d7bcde290654",
+        "name": "Creative Destruction Lab (CDL)"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "Data Science",
+            "Other AI Applications"
+          ],
+          "action": "merge"
+        },
+        {
+          "field": "Size",
+          "value": "Non-profit/Public",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-81b1-acfe-f0c48073ddf1",
+        "name": "AI Community Conference - Vancouver"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-81a9-a85f-ef6f540f38d6",
+        "name": "AI Community Conference Vancouver"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "1f8c6f79-9a33-818a-808b-e65be1a09646",
+        "name": "VIATEC AI Meetups"
+      },
+      "duplicate": {
+        "id": "1f0c6f79-9a33-814c-b4e0-c03054683b84",
+        "name": "VIATEC (Fort Tectoria)"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "Phone",
+          "value": "250-483-3214",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-81e5-b4e9-f62e69011c60",
+        "name": "BC Hydro Electrification Initiative"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8179-a1f4-e1a4f953a491",
+        "name": "BC Hydro Electrification Plan"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "1f0c6f79-9a33-8128-9488-d439ceb836fd",
+        "name": "LLM & AI Meetup (Vancouver)"
+      },
+      "duplicate": {
+        "id": "1f0c6f79-9a33-81ec-850b-f1c2939f5a3b",
+        "name": "Vancouver AI Meetup (VAM!)"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "LinkedIn",
+          "value": "https://www.linkedin.com/in/issam-laradji-67ba1a99/",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-81f0-b59f-ff4000a394e5",
+        "name": "BCIT Xanadu Quantum Computing Program"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8193-94c2-c3ca3e33f382",
+        "name": "BCIT Xanadu Quantum Computing Certificate"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-8114-971b-c7c3b76341ba",
+        "name": "Prince George AI Fire Detection Network"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8142-b200-c9cc19ed2a87",
+        "name": "Prince George Wildfire AI Network"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "AI wildfire detection and response"
+          ],
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-81a4-a2a1-fb6bda9e8bda",
+        "name": "BC Aerospace Skills Gap Analysis Project"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-810d-9bec-d80a4eb94511",
+        "name": "BC Aerospace Skills Gap Analysis"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-8192-9ecc-d2311757a9c0",
+        "name": "Applied AI Research Association (AAIRA)"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-81bc-8b42-fac3bfec6c00",
+        "name": "Applied AI Research Association"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-8136-b651-fed831c1c8a8",
+        "name": "BC Centre for Innovation and Clean Energy"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-81c3-a6e2-fc202c999be2",
+        "name": "BC Centre for Innovation and Clean Energy AI Program"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "LinkedIn",
+          "value": "https://www.linkedin.com/company/bccentreforinnovationandcleanenergyaiprogram",
+          "action": "replace"
+        },
+        {
+          "field": "City/Region",
+          "value": "Vancouver",
+          "action": "replace"
+        },
+        {
+          "field": "BC Region",
+          "value": "Lower Mainland",
+          "action": "replace"
+        },
+        {
+          "field": "Category",
+          "value": "Innovation Centres & Hubs",
+          "action": "replace"
+        },
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "CleanTech AI"
+          ],
+          "action": "replace"
+        },
+        {
+          "field": "Latitude",
+          "value": 49.2608724,
+          "action": "replace"
+        },
+        {
+          "field": "Longitude",
+          "value": -123.113952,
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-8148-8ad7-d0fe2a41e2ba",
+        "name": "Properti Edge Solutions"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-816b-a9a9-c048f4282e69",
+        "name": "Properti Edge"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "LinkedIn",
+          "value": "https://www.linkedin.com/company/properti-edge/",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-8138-bbc5-e89ce17ed21c",
+        "name": "DevFest YVR / AI Summit Vancouver"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8181-96f2-f1ab1f42aed4",
+        "name": "DevFest YVR AI Summit"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "LinkedIn",
+          "value": "https://www.linkedin.com/company/devfestyvraisummit",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-81fd-8d7f-ffa0e0e80d73",
+        "name": "Vancouver AI Community Meetup"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-814f-acae-dd235bec0a8d",
+        "name": "Vancouver AI Community"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-81cd-95b5-e4424e1a4c4c",
+        "name": "qathet Regional District AI Fire System"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-810c-9d7a-c62535a83232",
+        "name": "qathet Regional District Fire AI"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "BC Region",
+          "value": "Vancouver Island",
+          "action": "replace"
+        },
+        {
+          "field": "Category",
+          "value": "Government & Public Sector",
+          "action": "replace"
+        },
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "AI-powered wildfire management"
+          ],
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-81f8-af32-d4cd0226188a",
+        "name": "HomeCourt/NEX Team"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-819b-abdf-d630a159d256",
+        "name": "HomeCourt (NEX Team)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "1f0c6f79-9a33-8179-a8d6-df6022f65418",
+        "name": "Vancouver AI Community (VanAI)"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-814f-acae-dd235bec0a8d",
+        "name": "Vancouver AI Community"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-8107-9a58-e45e1089f75f",
+        "name": "Creative Destruction Lab Vancouver (CDL-Vancouver)"
+      },
+      "duplicate": {
+        "id": "23dc6f79-9a33-81c6-9304-d7bcde290654",
+        "name": "Creative Destruction Lab (CDL)"
+      },
+      "fieldsToMerge": [],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "1f8c6f79-9a33-81a9-9538-f2ef0484b2a0",
+        "name": "SFU Computing Science & Creative AI Labs"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-814a-a218-ceba9ac28392",
+        "name": "SFU Digital Health Innovation Lab"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "Phone",
+          "value": "+1 778 782 3111",
+          "action": "replace"
+        },
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "Computer Vision",
+            "Robotics",
+            "NLP/LLMs",
+            "GenAI",
+            "Healthcare AI"
+          ],
+          "action": "merge"
+        },
+        {
+          "field": "Short Blurb",
+          "value": "Simon Fraser University's research lab focused on digital health innovations, developing AI-powered healthcare solutions and conducting cutting-edge research in medical technology.",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-8131-87e9-d4863fddaf3a",
+        "name": "BCIT Applied Artificial Intelligence Program"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-811c-8a60-dc06b9c8ae7a",
+        "name": "BCIT Applied AI Certificate Program"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "City/Region",
+          "value": "BCIT, Burnaby",
+          "action": "replace"
+        },
+        {
+          "field": "Short Blurb",
+          "value": "Certificate focusing on practical AI applications in business",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23fc6f79-9a33-81b1-acfe-f0c48073ddf1",
+        "name": "AI Community Conference - Vancouver"
+      },
+      "duplicate": {
+        "id": "1f0c6f79-9a33-8179-a8d6-df6022f65418",
+        "name": "Vancouver AI Community (VanAI)"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "LinkedIn",
+          "value": "https://www.linkedin.com/in/issam-laradji-67ba1a99/",
+          "action": "replace"
+        },
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "NLP/LLMs",
+            "Computer Vision",
+            "GenAI",
+            "Data Science"
+          ],
+          "action": "replace"
+        },
+        {
+          "field": "Short Blurb",
+          "value": "A grassroots, cross-disciplinary meetup series drawing hundreds of enthusiasts, developers, and researchers each month.",
+          "action": "replace"
+        }
+      ],
+      "confirmed": false
+    },
+    {
+      "keeper": {
+        "id": "23dc6f79-9a33-8181-ab90-c9bf9cec8e9c",
+        "name": "PacifiCan AI Initiative"
+      },
+      "duplicate": {
+        "id": "23fc6f79-9a33-8132-829c-e30a2a5dc16c",
+        "name": "PacifiCan Regional AI Initiative"
+      },
+      "fieldsToMerge": [
+        {
+          "field": "AI Focus Areas",
+          "value": [
+            "Data Science",
+            "Other AI Applications",
+            "AI innovation and adoption in energy sector"
+          ],
+          "action": "merge"
+        }
+      ],
+      "confirmed": false
+    }
+  ]
+}
