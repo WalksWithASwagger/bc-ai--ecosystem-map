@@ -1,0 +1,41 @@
+{
+  "name": "ecosystem-map-bc-ai",
+  "version": "1.0.0",
+  "description": "*The definitive map of British Columbia's artificial intelligence landscape*",
+  "main": "duplicate-detection-system.js",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest --coverage",
+    "test:run": "vitest run",
+    "mcp": "node tools/mcp-manager.js",
+    "analyze": "node tools/mcp-manager.js analyze",
+    "enrich": "node tools/mcp-manager.js enrich"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalksWithASwagger/bc-ai--ecosystem-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WalksWithASwagger/bc-ai--ecosystem-map/issues"
+  },
+  "homepage": "https://github.com/WalksWithASwagger/bc-ai--ecosystem-map#readme",
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@notionhq/client": "^4.0.1",
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
+    "dotenv": "^17.2.3",
+    "email-validator": "^2.0.4",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^3.2.4",
+    "@vitest/ui": "^3.2.4",
+    "vitest": "^3.2.4"
+  }
+}

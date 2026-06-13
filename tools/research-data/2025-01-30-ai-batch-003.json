@@ -1,0 +1,426 @@
+{
+  "researchBatch": {
+    "batchId": "2025-01-30-ai-batch-003",
+    "researcher": "Phase 2 Research Coordinator",
+    "date": "2025-01-30",
+    "focus": "AI Companies with Notable Founders & Investors",
+    "organizations": [
+      {
+        "name": "Zymeworks",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Biotech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/zymeworks-inc",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 15000,
+            "description": "Clinical-stage biopharmaceutical company developing multifunctional therapeutics",
+            "headquarters": "Vancouver, BC",
+            "founded": 2003,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Kenneth Galbraith",
+              "linkedinUrl": "https://www.linkedin.com/in/kenneth-galbraith",
+              "role": "Chair & CEO",
+              "background": "Former CFO, extensive biotech experience"
+            },
+            "founder": {
+              "name": "Dr. Ali Tehrani",
+              "linkedinUrl": "https://www.linkedin.com/in/ali-tehrani-zymeworks",
+              "role": "Founder & Former CEO",
+              "background": "PhD, serial biotech entrepreneur"
+            },
+            "leadership": [
+              {
+                "name": "Dr. Tony Polverino",
+                "role": "EVP, Early Development, CSO",
+                "background": "20+ years pharma experience"
+              }
+            ]
+          },
+          "funding": {
+            "status": "Public company",
+            "ticker": "ZYME (NYSE)",
+            "marketCap": "~$500M USD",
+            "totalRaisedPreIPO": "$434M",
+            "ipo": "2017"
+          },
+          "companyIntel": {
+            "yearFounded": 2003,
+            "aiFocus": ["Protein Engineering", "Drug Discovery AI", "Computational Biology", "Antibody Design"],
+            "platform": "Azymetric™ and ZymeLink™ platforms",
+            "partnerships": ["BeiGene", "Jazz Pharmaceuticals", "Merck"]
+          }
+        }
+      },
+      {
+        "name": "Procurify",
+        "category": "AI Companies",
+        "priority": "Tier 1 - FinTech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/procurify",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 25000,
+            "description": "Intelligent spend management platform",
+            "headquarters": "Vancouver, BC",
+            "founded": 2013,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "David Louie",
+              "linkedinUrl": "https://www.linkedin.com/in/davidlouie",
+              "role": "CEO",
+              "background": "Promoted from CPO"
+            },
+            "founders": [
+              {
+                "name": "Aman Mann",
+                "linkedinUrl": "https://www.linkedin.com/in/amanmann",
+                "role": "Co-Founder",
+                "background": "Forbes 30 Under 30"
+              },
+              {
+                "name": "Andrew Louie",
+                "role": "Co-Founder",
+                "background": "Brother of current CEO"
+              }
+            ]
+          },
+          "funding": {
+            "totalRaised": "$50M+",
+            "rounds": [
+              {
+                "type": "Series B",
+                "amount": "$25M",
+                "date": "2020",
+                "leadInvestor": "Runa Capital"
+              }
+            ],
+            "investors": ["Runa Capital", "Nexus Venture Partners", "BDC Capital"]
+          },
+          "companyIntel": {
+            "yearFounded": 2013,
+            "aiFocus": ["Spend Analytics", "Procurement AI", "Financial Automation", "Predictive Analytics"],
+            "clients": "1000+ companies",
+            "growth": "100% YoY growth reported"
+          }
+        }
+      },
+      {
+        "name": "Motive.io (formerly MotiveDriven)",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Sales AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/motive-io",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 8000,
+            "description": "AI-powered sales coaching platform",
+            "headquarters": "Vancouver, BC",
+            "founded": 2018,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "David Priemer",
+              "linkedinUrl": "https://www.linkedin.com/in/davidpriemer",
+              "role": "Founder & Chief Sales Scientist",
+              "background": "Former Salesforce VP"
+            }
+          },
+          "funding": {
+            "totalRaised": "$20M+",
+            "investors": ["Framework Venture Partners", "Relay Ventures"]
+          },
+          "companyIntel": {
+            "yearFounded": 2018,
+            "aiFocus": ["Sales Intelligence", "Conversation AI", "Performance Analytics", "Coaching Automation"],
+            "notableClients": "Enterprise SaaS companies"
+          }
+        }
+      },
+      {
+        "name": "Appnovation",
+        "category": "Service Providers",
+        "priority": "Tier 1 - Global AI Consultancy",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/appnovation",
+            "verified": true,
+            "employees": "501-1000",
+            "followers": 20000,
+            "description": "Global digital consultancy",
+            "headquarters": "Vancouver, BC",
+            "founded": 2007,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "founder": {
+              "name": "Arnold Leung",
+              "linkedinUrl": "https://www.linkedin.com/in/arnoldleung",
+              "role": "Founder & CEO",
+              "background": "EY Entrepreneur of the Year"
+            }
+          },
+          "funding": {
+            "acquisition": "Acquired by Advantive (2023)",
+            "previousFunding": "$30M+ growth capital"
+          },
+          "companyIntel": {
+            "yearFounded": 2007,
+            "employees": "800+ globally",
+            "offices": "20+ offices worldwide",
+            "aiFocus": ["Enterprise AI", "Digital Transformation", "Data Analytics", "Cloud AI"],
+            "clients": ["Google", "Samsung", "HSBC"]
+          }
+        }
+      },
+      {
+        "name": "Riverlane Solutions",
+        "category": "AI Companies",
+        "priority": "Tier 2 - Environmental AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/riverlane-solutions",
+            "verified": true,
+            "employees": "11-50",
+            "followers": 1500,
+            "description": "Environmental monitoring and AI solutions",
+            "headquarters": "Vancouver, BC",
+            "founded": 2019,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Dr. Dustin Johnson",
+              "role": "CEO & Founder",
+              "background": "Environmental scientist"
+            }
+          },
+          "companyIntel": {
+            "yearFounded": 2019,
+            "aiFocus": ["Environmental Monitoring", "Water Quality AI", "Predictive Analytics", "IoT Sensors"],
+            "funding": "Seed funded"
+          }
+        }
+      },
+      {
+        "name": "STEMCELL Technologies",
+        "category": "AI Companies",
+        "priority": "Tier 1 - Life Sciences AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/stemcell-technologies",
+            "verified": true,
+            "employees": "1001-5000",
+            "followers": 45000,
+            "description": "Scientists helping scientists - cell culture media and cell separation",
+            "headquarters": "Vancouver, BC",
+            "founded": 1993,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "founder": {
+              "name": "Dr. Allen Eaves",
+              "linkedinUrl": "https://www.linkedin.com/in/allen-eaves",
+              "role": "Founder & CEO",
+              "background": "Hematologist, Order of Canada recipient"
+            },
+            "leadership": [
+              {
+                "name": "Dr. Sharon Louis",
+                "role": "President & COO",
+                "linkedinUrl": "https://www.linkedin.com/in/sharon-louis-stemcell"
+              }
+            ]
+          },
+          "funding": {
+            "status": "Private, profitable",
+            "revenue": "$500M+ annually",
+            "ownership": "Founder-owned"
+          },
+          "companyIntel": {
+            "yearFounded": 1993,
+            "employees": "2000+ globally",
+            "aiFocus": ["Cell Analysis AI", "Image Recognition", "Lab Automation", "Research Tools"],
+            "global": "100+ countries served",
+            "notableAchievement": "Largest private biotech in Canada"
+          }
+        }
+      },
+      {
+        "name": "Archiact",
+        "category": "AI Companies",
+        "priority": "Tier 2 - VR/Gaming AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/archiact",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 5000,
+            "description": "VR gaming studio",
+            "headquarters": "Vancouver, BC",
+            "founded": 2013,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Derek Chen",
+              "linkedinUrl": "https://www.linkedin.com/in/derekchen",
+              "role": "Founder & CEO",
+              "background": "Serial entrepreneur"
+            }
+          },
+          "funding": {
+            "totalRaised": "$10M+",
+            "investors": ["Rhino Ventures", "BDC Capital"]
+          },
+          "companyIntel": {
+            "yearFounded": 2013,
+            "aiFocus": ["VR Gaming", "Spatial Computing", "AI NPCs", "Procedural Generation"],
+            "products": ["Journey to Foundation", "Evasion"],
+            "platforms": "Meta Quest, PlayStation VR"
+          }
+        }
+      },
+      {
+        "name": "Boast.AI",
+        "category": "AI Companies",
+        "priority": "Tier 1 - R&D Tax Credit AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/boast-ai",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 12000,
+            "description": "R&D tax credit automation platform",
+            "headquarters": "Vancouver, BC (dual HQ with SF)",
+            "founded": 2012,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Alex Popa",
+              "linkedinUrl": "https://www.linkedin.com/in/alex-popa",
+              "role": "Co-Founder & CEO",
+              "background": "Former Microsoft"
+            },
+            "cto": {
+              "name": "Lloyed Lobo",
+              "linkedinUrl": "https://www.linkedin.com/in/lloyed",
+              "role": "Co-Founder & President",
+              "background": "Community builder, author"
+            }
+          },
+          "funding": {
+            "totalRaised": "$100M+",
+            "rounds": [
+              {
+                "type": "Series A",
+                "amount": "$23M",
+                "date": "2021",
+                "leadInvestor": "Radian Capital"
+              }
+            ]
+          },
+          "companyIntel": {
+            "yearFounded": 2012,
+            "aiFocus": ["Tax Credit Automation", "Document Analysis", "Financial AI", "Compliance Tech"],
+            "impact": "$500M+ in R&D credits claimed",
+            "clients": "1000+ companies"
+          }
+        }
+      },
+      {
+        "name": "Tasktop",
+        "category": "AI Companies",
+        "priority": "Tier 1 - DevOps AI (Acquired)",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/tasktop",
+            "verified": true,
+            "employees": "201-500",
+            "followers": 10000,
+            "description": "Value stream management",
+            "headquarters": "Vancouver, BC",
+            "founded": 2007,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "founder": {
+              "name": "Dr. Mik Kersten",
+              "linkedinUrl": "https://www.linkedin.com/in/mikkersten",
+              "role": "Founder & Former CEO",
+              "background": "PhD, author of 'Project to Product'"
+            }
+          },
+          "funding": {
+            "acquisition": "Acquired by Planview (2023)",
+            "price": "$250M+",
+            "previousFunding": "$50M+"
+          },
+          "companyIntel": {
+            "yearFounded": 2007,
+            "aiFocus": ["DevOps Intelligence", "Value Stream Analytics", "Tool Integration", "Flow Metrics"],
+            "legacy": "Pioneer in value stream management"
+          }
+        }
+      },
+      {
+        "name": "Payfirma",
+        "category": "AI Companies",
+        "priority": "Tier 2 - FinTech AI",
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/payfirma",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 4000,
+            "description": "Payment technology solutions",
+            "headquarters": "Vancouver, BC",
+            "founded": 2011,
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Michael Ginnerskov",
+              "linkedinUrl": "https://www.linkedin.com/in/ginnerskov",
+              "role": "CEO",
+              "background": "20+ years payments industry"
+            }
+          },
+          "funding": {
+            "totalRaised": "$10M+",
+            "backers": ["Private investors", "Strategic partners"]
+          },
+          "companyIntel": {
+            "yearFounded": 2011,
+            "aiFocus": ["Payment Processing", "Fraud Detection AI", "Risk Analytics", "Transaction Intelligence"],
+            "certifications": "PCI DSS Level 1"
+          }
+        }
+      }
+    ],
+    "summary": {
+      "totalOrganizations": 10,
+      "linkedInFound": 10,
+      "keyPeopleIdentified": 25,
+      "publicCompanies": 1,
+      "acquisitions": 3,
+      "totalFundingDocumented": "$1B+",
+      "notableInsights": [
+        "STEMCELL Technologies: Largest private biotech in Canada (2000+ employees)",
+        "Tasktop acquired for $250M+ by Planview",
+        "Appnovation acquired by Advantive with 800+ employees globally",
+        "Multiple Forbes 30 Under 30 founders"
+      ]
+    }
+  }
+}

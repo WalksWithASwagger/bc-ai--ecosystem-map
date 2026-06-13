@@ -1,0 +1,422 @@
+{
+  "timestamp": "2025-08-03T06:48:44.294Z",
+  "analysis": "DATABASE_GAPS_ASSESSMENT",
+  "summary": {
+    "totalCompanies": 687,
+    "overallCompleteness": 84,
+    "highestGaps": [
+      {
+        "field": "Phone",
+        "completionRate": 0,
+        "emptyCount": 687
+      },
+      {
+        "field": "Email",
+        "completionRate": 0,
+        "emptyCount": 687
+      },
+      {
+        "field": "Data Sources",
+        "completionRate": 7,
+        "emptyCount": 637
+      }
+    ],
+    "priorityTargetCount": 19
+  },
+  "fieldCompleteness": {
+    "Name": {
+      "count": 687,
+      "percentage": 100,
+      "empty": 0
+    },
+    "Category": {
+      "count": 638,
+      "percentage": 93,
+      "empty": 49
+    },
+    "BC Region": {
+      "count": 606,
+      "percentage": 88,
+      "empty": 81
+    },
+    "AI Focus Areas": {
+      "count": 461,
+      "percentage": 67,
+      "empty": 226
+    },
+    "Year Founded": {
+      "count": 550,
+      "percentage": 80,
+      "empty": 137
+    },
+    "Website": {
+      "count": 369,
+      "percentage": 54,
+      "empty": 318
+    },
+    "LinkedIn": {
+      "count": 357,
+      "percentage": 52,
+      "empty": 330
+    },
+    "Phone": {
+      "count": 0,
+      "percentage": 0,
+      "empty": 687
+    },
+    "Email": {
+      "count": 0,
+      "percentage": 0,
+      "empty": 687
+    },
+    "Primary Contact": {
+      "count": 112,
+      "percentage": 16,
+      "empty": 575
+    },
+    "Key People": {
+      "count": 230,
+      "percentage": 33,
+      "empty": 457
+    },
+    "Funding": {
+      "count": 214,
+      "percentage": 31,
+      "empty": 473
+    },
+    "Revenue": {
+      "count": 173,
+      "percentage": 25,
+      "empty": 514
+    },
+    "Employee Count": {
+      "count": 210,
+      "percentage": 31,
+      "empty": 477
+    },
+    "Valuation": {
+      "count": 110,
+      "percentage": 16,
+      "empty": 577
+    },
+    "Short Blurb": {
+      "count": 679,
+      "percentage": 99,
+      "empty": 8
+    },
+    "Notable Projects": {
+      "count": 530,
+      "percentage": 77,
+      "empty": 157
+    },
+    "Data Sources": {
+      "count": 50,
+      "percentage": 7,
+      "empty": 637
+    },
+    "Last Verified": {
+      "count": 109,
+      "percentage": 16,
+      "empty": 578
+    }
+  },
+  "dataOpportunities": [
+    {
+      "field": "Funding",
+      "emptyCount": 473,
+      "completionRate": 31,
+      "priority": "High",
+      "strategy": "Crunchbase + BetaKit + press releases + company announcements",
+      "verifiable": true
+    },
+    {
+      "field": "Key People",
+      "emptyCount": 457,
+      "completionRate": 33,
+      "priority": "High",
+      "strategy": "LinkedIn company pages + About Us sections of websites",
+      "verifiable": true
+    },
+    {
+      "field": "Email",
+      "emptyCount": 687,
+      "completionRate": 0,
+      "priority": "Medium",
+      "strategy": "Contact pages + press contact info",
+      "verifiable": false
+    },
+    {
+      "field": "Employee Count",
+      "emptyCount": 477,
+      "completionRate": 31,
+      "priority": "Medium",
+      "strategy": "LinkedIn employee count + Crunchbase data",
+      "verifiable": false
+    },
+    {
+      "field": "Phone",
+      "emptyCount": 687,
+      "completionRate": 0,
+      "priority": "Low",
+      "strategy": "Company contact pages + directory listings",
+      "verifiable": false
+    },
+    {
+      "field": "Revenue",
+      "emptyCount": 514,
+      "completionRate": 25,
+      "priority": "Low",
+      "strategy": "Public financial statements (for public companies only)",
+      "verifiable": false
+    }
+  ],
+  "priorityTargets": [
+    {
+      "name": "Stellantis LG Energy Solution BC",
+      "id": "23fc6f79-9a33-815a-9713-def1a495e575",
+      "dataScore": 0,
+      "missingFields": {
+        "website": true,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "BC Hydro Electrification Initiative",
+      "id": "23fc6f79-9a33-81e5-b4e9-f62e69011c60",
+      "dataScore": 0,
+      "missingFields": {
+        "website": true,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "BC Data Centre AI Initiative",
+      "id": "23fc6f79-9a33-8103-936f-feef0b0ba529",
+      "dataScore": 0,
+      "missingFields": {
+        "website": true,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "id": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7",
+      "dataScore": 0,
+      "missingFields": {
+        "website": true,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "id": "23fc6f79-9a33-810f-8e31-e291376efa32",
+      "dataScore": 0,
+      "missingFields": {
+        "website": true,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Upper Nicola Band AI Data Centre",
+      "id": "23dc6f79-9a33-8122-acc6-e0760907de40",
+      "dataScore": 0,
+      "missingFields": {
+        "website": true,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Prince George AI Fire Detection Network",
+      "id": "23fc6f79-9a33-8114-971b-c7c3b76341ba",
+      "dataScore": 1,
+      "missingFields": {
+        "website": true,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "id": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb",
+      "dataScore": 1,
+      "missingFields": {
+        "website": true,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": false,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Yeti Farm Creative",
+      "id": "23fc6f79-9a33-81d5-9093-ffd0ebd3d9ea",
+      "dataScore": 1,
+      "missingFields": {
+        "website": true,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Disney Interactive Studios Kelowna",
+      "id": "23fc6f79-9a33-811e-b968-f79df3179a71",
+      "dataScore": 1,
+      "missingFields": {
+        "website": true,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "QHR Technologies",
+      "id": "23fc6f79-9a33-8131-85a3-ff4fd10b4d94",
+      "dataScore": 1,
+      "missingFields": {
+        "website": true,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Cloudburst Research",
+      "id": "23fc6f79-9a33-81c4-94df-c4c7dab42d20",
+      "dataScore": 1,
+      "missingFields": {
+        "website": true,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Swipe Right App",
+      "id": "23dc6f79-9a33-81e5-9701-ed735281d85a",
+      "dataScore": 1,
+      "missingFields": {
+        "website": false,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "Advertising Intelligence (ADINT.AI)",
+      "id": "23dc6f79-9a33-810b-9aee-d193262b9e46",
+      "dataScore": 1,
+      "missingFields": {
+        "website": false,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "3DentAI",
+      "id": "23dc6f79-9a33-81e0-af85-d21b4e1ce784",
+      "dataScore": 1,
+      "missingFields": {
+        "website": false,
+        "linkedin": true,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "ClearSpark AI",
+      "id": "23dc6f79-9a33-81da-91c9-c89f305b9859",
+      "dataScore": 1,
+      "missingFields": {
+        "website": true,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "AI Scout Solutions",
+      "id": "23dc6f79-9a33-81e2-b265-c16c8b8d3181",
+      "dataScore": 2,
+      "missingFields": {
+        "website": false,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "MoogleLabs",
+      "id": "23dc6f79-9a33-8197-be38-d6a92ea4412b",
+      "dataScore": 2,
+      "missingFields": {
+        "website": false,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    },
+    {
+      "name": "AIEX",
+      "id": "23dc6f79-9a33-81a9-bb63-e9e24158ed69",
+      "dataScore": 2,
+      "missingFields": {
+        "website": false,
+        "linkedin": false,
+        "keyPeople": true,
+        "funding": true,
+        "revenue": true,
+        "employeeCount": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "overview": {
+    "totalCompanies": 580,
+    "companiesWithFunding": 47,
+    "companiesWithRevenue": 31,
+    "companiesWithValuation": 11,
+    "fundingCoverage": "8.1%",
+    "revenueCoverage": "5.3%"
+  },
+  "valuationTiers": {
+    "unicorns": [
+      {
+        "name": "Trulioo",
+        "valuation": "$1.75B (unicorn)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Clio",
+        "valuation": "$3B (centaur status)",
+        "category": "Legal Tech Leader"
+      },
+      {
+        "name": "Aspect Biosystems",
+        "valuation": "Approaching unicorn status (~$800M-1B estimated) (2025-01) (Source: Industry estimates based on Series B terms - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "AbCellera Biologics",
+        "valuation": "$2B+ market cap",
+        "category": "Unicorn"
+      },
+      {
+        "name": "Visier",
+        "valuation": "$1B+ (unicorn)",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "name": "Hootsuite",
+        "valuation": "$1B (Unicorn status achieved 2014) (2014-09) (Source: https://www.crunchbase.com/organization/hootsuite - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      }
+    ],
+    "centaurs": [
+      {
+        "name": "Cmd",
+        "valuation": "$320M (acquisition price)",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Thinkific",
+        "valuation": "$150M CAD market cap (as of 2025)",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Aspect Biosystems",
+        "valuation": "Approaching unicorn status (~$800M-1B estimated) (2025-01) (Source: Industry estimates based on Series B terms - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      }
+    ],
+    "publicCompanies": [
+      {
+        "name": "Thinkific",
+        "details": "IPO (TSX:THNC) - April 2021 - Public markets, Rhino Ventures, BCF Ventures"
+      },
+      {
+        "name": "Minerva Intelligence",
+        "details": "Public (TSXV:MVAI) - Public markets, N/A"
+      },
+      {
+        "name": "AbCellera Biologics",
+        "details": "Public (NASDAQ:ABCL) - Public markets, Viking Global, OrbiMed, Peter Thiel"
+      }
+    ]
+  },
+  "topCompanies": {
+    "topFunded": [
+      {
+        "name": "Clio",
+        "amount": 900,
+        "funding": "$900M Series F (June 2024) - NEA, TCV, JMI Equity, T. Rowe Price, OMERS Growth Equity",
+        "category": "Legal Tech Leader"
+      },
+      {
+        "name": "InBC Life Sciences Investment Fund",
+        "amount": 500,
+        "funding": "$500M Government Fund (2021) (Source: https://news.gov.bc.ca/releases/2021JERI0019-000476 - Verified 2025-07-29)",
+        "category": "Investment Fund"
+      },
+      {
+        "name": "Trulioo",
+        "amount": 394,
+        "funding": "$394M Series D (June 2021) - TCV, CapitalG, Citi Ventures, Santander InnoVentures, Goldman Sachs",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Svante",
+        "amount": 318,
+        "funding": "$318M Series E (December 2022) - Chevron Technology Ventures, United Airlines, Temasek, Samsung Ventures",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Dapper Labs",
+        "amount": 250,
+        "funding": "$250M (November 2021) - Coatue, a16z, Google Ventures, Michael Jordan, Kevin Durant",
+        "category": "Crypto Unicorn"
+      },
+      {
+        "name": "Visier",
+        "amount": 154,
+        "funding": "$154M Series F (May 2024) - Warburg Pincus, Goldman Sachs, Foundation Capital, Sorenson Capital",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "name": "Certn",
+        "amount": 131,
+        "funding": "$131M Series C (July 2024) - Meritech Capital, Bain Capital Ventures, Inovia Capital",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "General Fusion",
+        "amount": 130,
+        "funding": "$130M (November 2021) - Temasek, Jeff Bezos, Shopify, BDC Capital, Chrysalix",
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Aspect Biosystems",
+        "amount": 115,
+        "funding": "$115M Series B + $53.4M government grant (2025-01) - Dimension (lead), Novo Nordisk, Radical Ventures, InBC, Pallasite Ventures (Source: https://www.aspectbiosystems.com/news-resources/ - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Semios",
+        "amount": 100,
+        "funding": "$100M Series C (September 2024) - Morningside Group, Google Ventures, Canaccord Genuity",
+        "category": "AgTech Company"
+      },
+      {
+        "name": "Cohere Health Vancouver",
+        "amount": 80,
+        "funding": "$80M Series C (March 2024) - Deerfield Management, Flare Capital Partners, Define Ventures",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Article",
+        "amount": 66,
+        "funding": "$66M Series D (February 2024) - Tritium Partners, Mouro Capital, Link Ventures, Altos Ventures",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Klue",
+        "amount": 62,
+        "funding": "$62M Series B (October 2024) - Tiger Global, HubSpot Ventures, Salesforce Ventures, Rhino Ventures",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Later",
+        "amount": 60,
+        "funding": "$60M Series B (2024) - Madrona Venture Group, Founders Fund, Origin Ventures",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Hootsuite",
+        "amount": 50.2,
+        "funding": "$50.2M (March 2018) - Insight Venture Partners, Accel Partners, OMERS Ventures, Fidelity, CIBC",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Procurify",
+        "amount": 26,
+        "funding": "$26M Series C (September 2021) - Stripes, Runa Capital, BDC Capital, StandUp Ventures",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Boast AI",
+        "amount": 23,
+        "funding": "$23M Series A (March 2022) - Radian Capital, Craft Ventures, BDC Capital, Pender Ventures",
+        "category": "AI Companies"
+      },
+      {
+        "name": "Saltworks Technologies",
+        "amount": 20,
+        "funding": "$20M (2024) - Government and strategic investors, SDTC, BDC Capital, Chrysalix Venture Capital",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Pano AI BC",
+        "amount": 20,
+        "funding": "$20M Series A (September 2022) - Valor Equity Partners, T-Mobile Ventures, Salesforce Ventures",
+        "category": "Wildfire Tech"
+      },
+      {
+        "name": "Canexia Health",
+        "amount": 20,
+        "funding": "$20M CAD (Last known, company bankrupt) (2022-02) - BDC Capital, Desjardins Capital, PacBridge Capital (Source: https://betakit.com/cancer-focused-imagia-canexia-health-files-for-bankruptcy-18-months-after-merger/ - Verified 2025-07-29)",
+        "category": "Start-ups & Scale-ups"
+      }
+    ],
+    "highRevenue": [
+      {
+        "name": "STEMCELL Technologies",
+        "revenue": "$700M+ (2023 est.)",
+        "amount": 700,
+        "category": "AI Companies"
+      },
+      {
+        "name": "AbCellera Biologics",
+        "revenue": "$544M (2023)",
+        "amount": 544,
+        "category": "Unicorn"
+      },
+      {
+        "name": "Hootsuite",
+        "revenue": "$350M annually, 20% YoY growth (2024) (Source: https://getlatka.com/companies/hootsuite - Verified 2025-07-30)",
+        "amount": 350,
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Article",
+        "revenue": "$300M+ (2023)",
+        "amount": 300,
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Traction on Demand",
+        "revenue": "$200M+ (at acquisition)",
+        "amount": 200,
+        "category": "Uncategorized"
+      },
+      {
+        "name": "Clio",
+        "revenue": "$200M+ ARR (2024)",
+        "amount": 200,
+        "category": "Legal Tech Leader"
+      },
+      {
+        "name": "Visier",
+        "revenue": "$150M+ ARR",
+        "amount": 150,
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "name": "Cohere Health Vancouver",
+        "revenue": "$100M+ ARR",
+        "amount": 100,
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Trulioo",
+        "revenue": "$100M+ ARR (2023 est.)",
+        "amount": 100,
+        "category": "AI Companies"
+      },
+      {
+        "name": "Dapper Labs",
+        "revenue": "$100M+ (2021 peak)",
+        "amount": 100,
+        "category": "Crypto Unicorn"
+      },
+      {
+        "name": "Thinkific",
+        "revenue": "$57.8M CAD (2023)",
+        "amount": 57.8,
+        "category": "AI Companies"
+      },
+      {
+        "name": "Later",
+        "revenue": "$50M+ ARR",
+        "amount": 50,
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Tasktop",
+        "revenue": "$50M+ ARR (at acquisition)",
+        "amount": 50,
+        "category": "AI Companies"
+      },
+      {
+        "name": "Certn",
+        "revenue": "$50M+ ARR",
+        "amount": 50,
+        "category": "Start-ups & Scale-ups"
+      }
+    ]
+  },
+  "recentActivity": {
+    "recentFundings": [
+      {
+        "name": "Cohere Health Vancouver",
+        "funding": "$80M Series C (March 2024) - Deerfield Management, Flare Capital Partners, Define Ventures",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Saltworks Technologies",
+        "funding": "$20M (2024) - Government and strategic investors, SDTC, BDC Capital, Chrysalix Venture Capital",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Later",
+        "funding": "$60M Series B (2024) - Madrona Venture Group, Founders Fund, Origin Ventures",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "Article",
+        "funding": "$66M Series D (February 2024) - Tritium Partners, Mouro Capital, Link Ventures, Altos Ventures",
+        "category": "Technology Companies"
+      },
+      {
+        "name": "HealthTech Connex",
+        "funding": "$3.7M (2024) - PacifiCan Business Scale-up Program, N/A",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "InBC Life Sciences Investment Fund",
+        "funding": "$500M Government Fund (2021) (Source: https://news.gov.bc.ca/releases/2021JERI0019-000476 - Verified 2025-07-29)",
+        "category": "Investment Fund"
+      },
+      {
+        "name": "Clio",
+        "funding": "$900M Series F (June 2024) - NEA, TCV, JMI Equity, T. Rowe Price, OMERS Growth Equity",
+        "category": "Legal Tech Leader"
+      },
+      {
+        "name": "Semios",
+        "funding": "$100M Series C (September 2024) - Morningside Group, Google Ventures, Canaccord Genuity",
+        "category": "AgTech Company"
+      },
+      {
+        "name": "Flytographer",
+        "funding": "$1.72M Total (2017-09) - Forum for Women Entrepreneurs BC, Lyra Growth Partners (Source: https://pitchbook.com/profiles/company/98639-74 - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Indiegraf",
+        "funding": "$2.2M USD Seed (2024-10) - StandUp Ventures (lead), Coralus, Mucker Capital (Source: https://betakit.com/indiegraf-to-expand-independent-news-solution/ - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "MATT3R",
+        "funding": "$2M Pre-seed (2021-12) - Nelson Investments, Vancouver-based investors (Source: https://techcouver.com/2025/01/08/bc-startups-to-watch-in-2025/ - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Aspect Biosystems",
+        "funding": "$115M Series B + $53.4M government grant (2025-01) - Dimension (lead), Novo Nordisk, Radical Ventures, InBC, Pallasite Ventures (Source: https://www.aspectbiosystems.com/news-resources/ - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Payday",
+        "funding": "$3M Seed, declined $15M acquisition (2023-03) - Moniepoint Inc (lead), Techstars, DFS Lab (Source: https://techcrunch.com/2023/03/29/payday-wants-to-power-the-future-of-work/ - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Produce8",
+        "funding": "$6M CAD Seed (2022-11) - Top Down Ventures (lead) (Source: https://betakit.com/produce8-lands-6-million-in-seed-funding/ - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Browse AI",
+        "funding": "$2.8M Seed (2023-07) - Co-founders of Dropbox, DoorDash, Blinkist (Source: https://www.browse.ai/b/raising-seed-round - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "RIVAL Technologies",
+        "funding": "$8.5M CAD Series A (2019-08) - Adventure Capital, The51 Ventures, Reach3 Insights (Source: https://betakit.com/rival-technologies-raises-first-financing-round/ - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Open Ocean Robotics",
+        "funding": "$2.8M CAD + government contracts (2024-10) - Antares Ventures, Spring Impact Capital, Katapult Ocean (Source: https://www.openoceanrobotics.com/news/ - Verified 2025-07-30)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Lite-1",
+        "funding": "$1.1M (2024) - Not disclosed (Source: https://www.linkedin.com/company/lite-1 - Verified 2025-07-29)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Canexia Health",
+        "funding": "$20M CAD (Last known, company bankrupt) (2022-02) - BDC Capital, Desjardins Capital, PacBridge Capital (Source: https://betakit.com/cancer-focused-imagia-canexia-health-files-for-bankruptcy-18-months-after-merger/ - Verified 2025-07-29)",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Certn",
+        "funding": "$131M Series C (July 2024) - Meritech Capital, Bain Capital Ventures, Inovia Capital",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "MarineLabs",
+        "funding": "$1.8M from Ocean Supercluster (January 2025) - Canada's Ocean Supercluster, Go Deep International, LeeWay Marine",
+        "category": "Start-ups & Scale-ups"
+      },
+      {
+        "name": "Visier",
+        "funding": "$154M Series F (May 2024) - Warburg Pincus, Goldman Sachs, Foundation Capital, Sorenson Capital",
+        "category": "Enterprise / Corporate Divisions"
+      },
+      {
+        "name": "Klue",
+        "funding": "$62M Series B (October 2024) - Tiger Global, HubSpot Ventures, Salesforce Ventures, Rhino Ventures",
+        "category": "Start-ups & Scale-ups"
+      }
+    ],
+    "acquisitions": []
+  },
+  "breakdown": {
+    "byCategory": {
+      "Technology Companies": {
+        "count": 7,
+        "funded": 6,
+        "hasRevenue": 6
+      },
+      "Uncategorized": {
+        "count": 35,
+        "funded": 2,
+        "hasRevenue": 2
+      },
+      "Start-ups & Scale-ups": {
+        "count": 244,
+        "funded": 22,
+        "hasRevenue": 8
+      },
+      "AI Companies": {
+        "count": 30,
+        "funded": 10,
+        "hasRevenue": 10
+      },
+      "Service Providers": {
+        "count": 2,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Government & Public Sector": {
+        "count": 10,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Education & Training Providers": {
+        "count": 10,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Innovation Centres & Hubs": {
+        "count": 8,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Industry Association": {
+        "count": 22,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Academic & Research Labs": {
+        "count": 41,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Investment Fund": {
+        "count": 1,
+        "funded": 1,
+        "hasRevenue": 0
+      },
+      "Industry-Healthcare Partnership": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "User Group": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Industry Conferences & Events": {
+        "count": 8,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Professional Association": {
+        "count": 2,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Regulatory Initiative": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Wildfire Tech": {
+        "count": 1,
+        "funded": 1,
+        "hasRevenue": 0
+      },
+      "Mining": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "AgTech": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Port Terminal": {
+        "count": 3,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Port Development": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Accelerators / Incubators": {
+        "count": 10,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Government": {
+        "count": 8,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Healthcare & Biotech": {
+        "count": 2,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Corporate Partnership": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Digital Therapeutics": {
+        "count": 2,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Crypto Unicorn": {
+        "count": 1,
+        "funded": 1,
+        "hasRevenue": 1
+      },
+      "Web3 Startup": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Developer Community": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Game Development Services": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Game Development Studio": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Legal Tech Leader": {
+        "count": 1,
+        "funded": 1,
+        "hasRevenue": 1
+      },
+      "Training Program": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Foundation": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "AgTech Company": {
+        "count": 1,
+        "funded": 1,
+        "hasRevenue": 1
+      },
+      "Construction Tech Startup": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "PropTech Startup": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Deep-water Terminal": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Smart Logistics Services": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "3PL Company": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Innovation Lab": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Training Center": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Non-Profit": {
+        "count": 5,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Indigenous Tech & Creative Orgs": {
+        "count": 6,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Service Studios / Agencies": {
+        "count": 29,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Enterprise / Corporate Divisions": {
+        "count": 32,
+        "funded": 1,
+        "hasRevenue": 1
+      },
+      "Grassroots Communities": {
+        "count": 16,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Unicorn": {
+        "count": 1,
+        "funded": 1,
+        "hasRevenue": 1
+      },
+      "Consulting & Services": {
+        "count": 1,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Investors & Funds": {
+        "count": 10,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Social-Impact & Climate-Tech Hubs": {
+        "count": 3,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Advocacy & Policy Groups": {
+        "count": 4,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Open-Source Projects": {
+        "count": 2,
+        "funded": 0,
+        "hasRevenue": 0
+      },
+      "Media & Storytellers": {
+        "count": 2,
+        "funded": 0,
+        "hasRevenue": 0
+      }
+    },
+    "byRegion": {
+      "Lower Mainland": {
+        "count": 411,
+        "funded": 35
+      },
+      "Unknown": {
+        "count": 71,
+        "funded": 4
+      },
+      "Vancouver Island": {
+        "count": 27,
+        "funded": 5
+      },
+      "Other BC": {
+        "count": 42,
+        "funded": 2
+      },
+      "Northern BC": {
+        "count": 8,
+        "funded": 0
+      },
+      "Interior": {
+        "count": 19,
+        "funded": 1
+      },
+      "Other Regions": {
+        "count": 2,
+        "funded": 0
+      }
+    }
+  }
+}

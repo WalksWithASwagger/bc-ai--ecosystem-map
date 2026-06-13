@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Klue",
+    "category": "AI Startup",
+    "website": "https://klue.com",
+    "location": "British Columbia",
+    "shortBlurb": "Competitive intelligence platform using AI",
+    "source": "BC Tech Directory",
+    "yearFounded": null
+  },
+  {
+    "name": "Cmd",
+    "category": "AI Startup",
+    "website": "https://cmd.com",
+    "location": "British Columbia",
+    "shortBlurb": "Cloud-first security platform",
+    "source": "BC Tech Directory",
+    "yearFounded": null
+  },
+  {
+    "name": "Certn",
+    "category": "AI Startup",
+    "website": "https://certn.co",
+    "location": "British Columbia",
+    "shortBlurb": "AI-powered background screening",
+    "source": "BC Tech Directory",
+    "yearFounded": null
+  },
+  {
+    "name": "Motive.io",
+    "category": "AI Startup",
+    "website": "https://motive.io",
+    "location": "British Columbia",
+    "shortBlurb": "AI coaching platform",
+    "source": "BC Tech Directory",
+    "yearFounded": null
+  },
+  {
+    "name": "Pharity AI",
+    "category": "Healthcare AI",
+    "location": "Vancouver",
+    "shortBlurb": "Pharity AI is a BC-based AI company",
+    "source": "Innovate BC",
+    "yearFounded": null
+  },
+  {
+    "name": "WaitWell",
+    "category": "Healthcare AI",
+    "location": "Victoria",
+    "shortBlurb": "WaitWell is a BC-based AI company",
+    "source": "Innovate BC",
+    "yearFounded": null
+  },
+  {
+    "name": "Clarius Mobile Health",
+    "category": "Healthcare AI",
+    "location": "Burnaby",
+    "shortBlurb": "Clarius Mobile Health is a BC-based AI company",
+    "source": "Innovate BC",
+    "yearFounded": null
+  },
+  {
+    "name": "Aspect Biosystems",
+    "category": "Bioprinting AI",
+    "location": "British Columbia",
+    "shortBlurb": "Aspect Biosystems is a BC-based AI company",
+    "source": "University Spin-offs",
+    "yearFounded": null
+  },
+  {
+    "name": "Boreal Genomics",
+    "category": "Healthcare AI",
+    "location": "British Columbia",
+    "shortBlurb": "Boreal Genomics is a BC-based AI company",
+    "source": "University Spin-offs",
+    "yearFounded": null
+  },
+  {
+    "name": "Kardium",
+    "category": "Healthcare AI",
+    "location": "British Columbia",
+    "shortBlurb": "Kardium is a BC-based AI company",
+    "source": "University Spin-offs",
+    "yearFounded": null
+  },
+  {
+    "name": "Defang",
+    "category": "Developer Tools AI",
+    "location": "British Columbia",
+    "shortBlurb": "Defang is a BC-based AI company",
+    "source": "Accelerators",
+    "yearFounded": null
+  },
+  {
+    "name": "Nytilus",
+    "category": "EdTech AI",
+    "location": "British Columbia",
+    "shortBlurb": "Nytilus is a BC-based AI company",
+    "source": "Accelerators",
+    "yearFounded": null
+  },
+  {
+    "name": "Audette",
+    "category": "HealthTech AI",
+    "location": "British Columbia",
+    "shortBlurb": "Audette is a BC-based AI company",
+    "source": "Accelerators",
+    "yearFounded": null
+  },
+  {
+    "name": "Mashup Machine",
+    "category": "AI Startup",
+    "location": "British Columbia",
+    "shortBlurb": "Mashup Machine is a BC-based AI company",
+    "source": "Funding News",
+    "yearFounded": 2024,
+    "funding": "$2M seed"
+  },
+  {
+    "name": "Shade AI",
+    "category": "AI Startup",
+    "location": "British Columbia",
+    "shortBlurb": "Shade AI is a BC-based AI company",
+    "source": "Funding News",
+    "yearFounded": 2024,
+    "funding": "$5M Series A"
+  },
+  {
+    "name": "This Fish",
+    "category": "AI Startup",
+    "location": "British Columbia",
+    "shortBlurb": "This Fish is a BC-based AI company",
+    "source": "Funding News",
+    "yearFounded": 2024,
+    "funding": "$3M"
+  }
+]

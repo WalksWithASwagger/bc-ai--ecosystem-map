@@ -1,0 +1,190 @@
+{
+  "timestamp": "2025-08-04T16:15:15.644Z",
+  "summary": {
+    "totalOrganizations": 20,
+    "successfulUpdates": 20,
+    "errors": 0,
+    "noEmailFound": 0,
+    "successRate": "100.0%"
+  },
+  "databaseInfo": {
+    "databaseId": "1f0c6f799a3381bd8332ca0235c24655",
+    "totalOrgsInDatabase": 649,
+    "orgsWithWebsites": 475,
+    "orgsWithEmails": 263,
+    "emailCoverageImprovement": "+20 emails added"
+  },
+  "emailResearchResults": [
+    {
+      "organization": "MetaVRse",
+      "website": "https://metavrse.com",
+      "email": "info@metavrse.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Found on contact page - official business inquiry email"
+    },
+    {
+      "organization": "Chimp",
+      "website": "https://chimp.net",
+      "email": "hello@chimp.net",
+      "source": "website_footer",
+      "status": "success",
+      "notes": "Found in website footer - primary contact email"
+    },
+    {
+      "organization": "Response Biomedical",
+      "website": "https://responsebio.com",
+      "email": "info@responsebio.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Found on contact/investor relations page"
+    },
+    {
+      "organization": "Bench Accounting",
+      "website": "https://bench.co",
+      "email": "support@bench.co",
+      "source": "support_page",
+      "status": "success",
+      "notes": "Company shut down but support email still active for existing customers"
+    },
+    {
+      "organization": "Unbounce",
+      "website": "https://unbounce.com",
+      "email": "hello@unbounce.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Primary contact email found on contact page"
+    },
+    {
+      "organization": "Bron Studios",
+      "website": "https://bronstudios.com",
+      "email": "info@bronstudios.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "General inquiry email from contact page"
+    },
+    {
+      "organization": "Clarius Mobile Health",
+      "website": "https://clarius.com",
+      "email": "info@clarius.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Primary business contact email"
+    },
+    {
+      "organization": "Kardium",
+      "website": "https://kardium.com/",
+      "email": "info@kardium.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Corporate contact email from contact page"
+    },
+    {
+      "organization": "Audette.io",
+      "website": "https://audette.io",
+      "email": "hello@audette.io",
+      "source": "website_header",
+      "status": "success",
+      "notes": "Primary contact email found in website header"
+    },
+    {
+      "organization": "Proto",
+      "website": "https://proto.cx/",
+      "email": "hello@proto.cx",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Main contact email from contact page"
+    },
+    {
+      "organization": "DeepND",
+      "website": "https://www.deepnd.io",
+      "email": "info@deepnd.io",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Contact email (acquired by Deloitte Canada in 2025)"
+    },
+    {
+      "organization": "Judi.ai",
+      "website": "https://judi.ai",
+      "email": "hello@judi.ai",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Primary contact email (company acquired in 2024)"
+    },
+    {
+      "organization": "MetaOptima (DermEngine)",
+      "website": "https://www.metaoptima.com",
+      "email": "info@metaoptima.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Business inquiry email from contact page"
+    },
+    {
+      "organization": "Hootsuite",
+      "website": "https://www.hootsuite.com",
+      "email": "help@hootsuite.com",
+      "source": "support_page",
+      "status": "success",
+      "notes": "Primary support and business contact email"
+    },
+    {
+      "organization": "Launch Academy",
+      "website": "https://launchacademy.ca",
+      "email": "hello@launchacademy.ca",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Main contact email for inquiries and applications"
+    },
+    {
+      "organization": "Life Sciences BC (LSBC)",
+      "website": "https://lifesciencesbc.ca",
+      "email": "info@lifesciencesbc.ca",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Primary organizational contact email"
+    },
+    {
+      "organization": "Enterra Feed",
+      "website": "https://www.enterrafeed.com",
+      "email": "info@enterrafeed.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Business inquiry email from contact page"
+    },
+    {
+      "organization": "Lucent BioSciences",
+      "website": "https://www.lucentbiosciences.com",
+      "email": "info@lucentbiosciences.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Primary contact email for business inquiries"
+    },
+    {
+      "organization": "Ayogo Health",
+      "website": "https://ayogo.com",
+      "email": "hello@ayogo.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Main contact email from website contact page"
+    },
+    {
+      "organization": "Verge Agriculture",
+      "website": "https://www.vergeag.com",
+      "email": "info@vergeag.com",
+      "source": "contact_page",
+      "status": "success",
+      "notes": "Business contact email from contact page"
+    }
+  ],
+  "researchMethodology": {
+    "approach": "Manual website investigation",
+    "emailTypes": [
+      "info@",
+      "hello@",
+      "contact@",
+      "support@"
+    ],
+    "prioritization": "Organizations with funding, founding year, and other complete data",
+    "verificationStandard": "Official business emails only, found on contact pages or website footers"
+  }
+}

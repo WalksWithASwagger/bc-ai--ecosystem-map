@@ -1,0 +1,81 @@
+{
+  "organizationsProcessed": 5,
+  "organizationsFound": 4,
+  "organizationsEnhanced": 4,
+  "organizationsCreated": 1,
+  "errors": [],
+  "enhancements": [
+    {
+      "organization": "Quantum Algorithms Institute",
+      "action": "enhanced",
+      "fields": [
+        "Website",
+        "Focus & Notes",
+        "Key People",
+        "Year Founded",
+        "BC Region",
+        "Category",
+        "City/Region",
+        "Funding",
+        "Data Source",
+        "Last Verified"
+      ],
+      "id": "244c6f79-9a33-81cb-9919-ec4b2f5c5ecd"
+    },
+    {
+      "organization": "New Media BC",
+      "action": "created",
+      "fields": [
+        "Name",
+        "Website",
+        "Focus & Notes",
+        "Key People",
+        "Year Founded",
+        "BC Region",
+        "Category",
+        "City/Region",
+        "Data Source",
+        "Date Added",
+        "Last Verified"
+      ],
+      "id": "245c6f79-9a33-81b7-99e9-fa2281d5ce72"
+    },
+    {
+      "organization": "Launch Academy",
+      "action": "enhanced",
+      "fields": [
+        "Focus & Notes",
+        "Key People",
+        "Funding",
+        "Data Source",
+        "Last Verified"
+      ],
+      "id": "1f0c6f79-9a33-816e-b041-d6e6ac5cd621"
+    },
+    {
+      "organization": "Spring Activator",
+      "action": "enhanced",
+      "fields": [
+        "Focus & Notes",
+        "Key People",
+        "Funding",
+        "Data Source",
+        "Last Verified"
+      ],
+      "id": "23dc6f79-9a33-8194-bf5d-cbfce4c5e41b"
+    },
+    {
+      "organization": "Frontier Collective",
+      "action": "enhanced",
+      "fields": [
+        "Website",
+        "Focus & Notes",
+        "Key People",
+        "Year Founded",
+        "Data Source",
+        "Last Verified"
+      ],
+      "id": "1f0c6f79-9a33-812f-84b5-dc405db01701"
+    }
+  ]
+}

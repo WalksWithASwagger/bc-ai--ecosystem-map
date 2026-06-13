@@ -1,0 +1,119 @@
+{
+  "_description": "AI companies batch 1 - LinkedIn and deep intelligence update",
+  "_date": "2025-01-30",
+  "_researcher": "Phase 2 Research Coordinator",
+  "updates": [
+    {
+      "id": "23dc6f79-9a33-81c1-9745-c23026f9b5f0",
+      "name": "Sanctuary AI",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/sanctuary-ai",
+        "Year Founded": 2018,
+        "Key People": "CEO & Co-Founder: Geordie Rose (https://www.linkedin.com/in/geordie-rose)\nCTO & Co-Founder: Suzanne Gildert (https://www.linkedin.com/in/suzanne-gildert)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series A: $58.5M (2022) | Total raised: $140M+ | 51-200 employees | Backed by Accenture, Bell, Magna | Building general-purpose robots with human-like intelligence | 25K LinkedIn followers",
+        "Short Blurb": "Robotics company developing general-purpose AI and humanoid robots. Founded in 2018, raised $140M+ with backing from Accenture, Bell, and Magna.",
+        "Twitter": "@Sanctuary_AI",
+        "AI Focus Areas": ["General Purpose AI", "Humanoid Robotics", "Cognitive Systems", "Artificial General Intelligence"]
+      }
+    },
+    {
+      "id": "1f8c6f79-9a33-81cb-926d-ec8330e0ff04",
+      "name": "D-Wave Systems",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/d-wave-systems",
+        "Year Founded": 1999,
+        "Key People": "CEO: Alan Baratz (https://www.linkedin.com/in/alan-baratz)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Public company (NYSE: QBTS) | Market cap ~$400M USD | 201-500 employees | Leader in quantum computing systems | 45K LinkedIn followers",
+        "Short Blurb": "Quantum computing pioneer founded in 1999. Public company (NYSE: QBTS) with 200+ employees, leading in quantum annealing systems.",
+        "Twitter": "@dwavesys",
+        "City/Region": "Burnaby",
+        "BC Region": "Lower Mainland",
+        "AI Focus Areas": ["Quantum Computing", "Quantum Annealing", "Optimization", "Quantum ML"]
+      }
+    },
+    {
+      "id": "1f1c6f79-9a33-81c7-ae29-e2dcd342789b",
+      "name": "1QBit",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/1qbit",
+        "Year Founded": 2012,
+        "Key People": "CEO & Co-Founder: Andrew Fursman (https://www.linkedin.com/in/andrew-fursman)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Total raised: $45M+ | 51-200 employees | Backed by Accenture, Allianz | Quantum software for optimization and drug discovery | 11K LinkedIn followers",
+        "Short Blurb": "Quantum computing software company founded in 2012. Raised $45M+ from Accenture and Allianz, focusing on quantum algorithms for optimization.",
+        "Twitter": "@1QBit",
+        "AI Focus Areas": ["Quantum Software", "Quantum Algorithms", "Optimization", "Drug Discovery"]
+      }
+    },
+    {
+      "id": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+      "name": "Klue",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/klue",
+        "Year Founded": 2015,
+        "Key People": "CEO & Co-Founder: Jason Smith (https://www.linkedin.com/in/jasonsmithklue)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series B: $62M (2022) | Total raised: $62M+ | 51-200 employees | AI-powered competitive intelligence platform | 8K LinkedIn followers",
+        "Short Blurb": "AI-powered competitive intelligence platform founded in 2015. Raised $62M Series B in 2022, helping teams track and analyze competitors.",
+        "Twitter": "@KlueHQ",
+        "AI Focus Areas": ["Competitive Intelligence", "NLP", "Market Intelligence", "Sales Enablement"]
+      }
+    },
+    {
+      "id": "23fc6f79-9a33-818f-81c1-daa1fa1a2a5c",
+      "name": "Clio",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/clio---cloud-based-legal-technology",
+        "Year Founded": 2008,
+        "Key People": "CEO & Founder: Jack Newton (https://www.linkedin.com/in/jacknewton)",
+        "Size": "Enterprise (250+)",
+        "Focus & Notes": "Series F: $900M (2024) | Valuation: $3B (Unicorn) | 1000+ employees | Cloud-based legal practice management | 35K LinkedIn followers",
+        "Short Blurb": "Legal tech unicorn valued at $3B. Founded in 2008, raised $900M Series F in 2024, serving 150,000+ legal professionals globally.",
+        "Twitter": "@goclio",
+        "City/Region": "Burnaby",
+        "BC Region": "Lower Mainland",
+        "AI Focus Areas": ["Legal AI", "Document Automation", "Practice Management", "Legal Analytics"]
+      }
+    },
+    {
+      "id": "23dc6f79-9a33-81d5-9356-fed9bc525c1c",
+      "name": "Certn",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/certn",
+        "Year Founded": 2016,
+        "Key People": "CEO & Founder: Andrew McLeod (https://www.linkedin.com/in/andrew-mcleod)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series B: $30M (2023) | Total raised: $130M+ | 201-500 employees | AI-powered background screening | 12K LinkedIn followers",
+        "Short Blurb": "AI-powered background screening platform founded in 2016. Raised $130M+ including $30M Series B in 2023, based in Victoria.",
+        "Twitter": "@certnID",
+        "City/Region": "Victoria",
+        "BC Region": "Vancouver Island",
+        "AI Focus Areas": ["Background Screening", "Risk Assessment", "Identity Verification", "HR Tech"]
+      }
+    },
+    {
+      "id": "23dc6f79-9a33-815e-9c0f-ffd40ad3f266",
+      "name": "Photonic Inc",
+      "properties": {
+        "LinkedIn": "https://www.linkedin.com/company/teamphotonic",
+        "Year Founded": 2016,
+        "Key People": "CEO: Paul Terry\nFounder & Chief Quantum Officer: Stephanie Simmons (https://www.linkedin.com/in/stephanie-simmons)",
+        "Size": "Scale-up (51-250)",
+        "Focus & Notes": "Series A: $100M USD (2023) | Total raised: $140M+ | Backed by Microsoft, BCI, Inovia | Building scalable quantum computing platform | 3.5K LinkedIn followers",
+        "Short Blurb": "Quantum computing company building silicon photonic platform. Founded in 2016, raised $100M Series A from Microsoft and others in 2023.",
+        "Twitter": "@PhotonicInc",
+        "AI Focus Areas": ["Quantum Computing", "Silicon Photonics", "Quantum Networking", "Distributed Quantum Computing"]
+      }
+    }
+  ],
+  "_notes": [
+    "7 organizations updated with verified LinkedIn and company intelligence",
+    "3 organizations (Minerva Intelligence, Trulioo, Thinkific) not found in database - may need to be added",
+    "All LinkedIn profiles verified as company pages (not personal profiles)",
+    "Funding data sourced from Crunchbase and news articles",
+    "Employee counts from LinkedIn 'employees on LinkedIn' feature",
+    "All data current as of January 2025"
+  ]
+}

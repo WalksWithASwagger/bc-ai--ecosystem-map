@@ -1,0 +1,98 @@
+[
+  {
+    "pageId": "23fc6f79-9a33-8177-9069-d3d249dfff5b",
+    "organization": "Pano AI BC",
+    "updates": {
+      "funding": {
+        "value": "$20M Series A (September 2022)",
+        "source": "https://www.crunchbase.com/organization/pano-ai",
+        "lastVerified": "2025-07-30"
+      },
+      "yearFounded": {
+        "value": 2020,
+        "source": "https://www.crunchbase.com/organization/pano-ai",
+        "lastVerified": "2025-07-30"
+      },
+      "employeeCount": {
+        "value": "47 employees (as of July 2025)",
+        "source": "https://www.linkedin.com/company/pano-ai",
+        "lastVerified": "2025-07-30"
+      }
+    }
+  },
+  {
+    "pageId": "23fc6f79-9a33-8177-8fb1-fbfa25cbea69",
+    "organization": "Edvisor.io",
+    "updates": {
+      "yearFounded": {
+        "value": 2016,
+        "source": "https://www.edvisor.io/",
+        "lastVerified": "2025-07-30"
+      },
+      "employeeCount": {
+        "value": "23 employees (as of July 2025)",
+        "source": "https://www.linkedin.com/company/edvisor-io",
+        "lastVerified": "2025-07-30"
+      }
+    }
+  },
+  {
+    "pageId": "23fc6f79-9a33-812e-85df-d82e9c1b44c1",
+    "organization": "InBC Life Sciences Investment Fund",
+    "updates": {
+      "funding": {
+        "value": "$500M Government Fund (2021)",
+        "source": "https://news.gov.bc.ca/releases/2021JERI0019-000476",
+        "lastVerified": "2025-07-30"
+      },
+      "yearFounded": {
+        "value": 2021,
+        "source": "https://www.inbcinvestment.ca/about",
+        "lastVerified": "2025-07-30"
+      }
+    }
+  },
+  {
+    "pageId": "23fc6f79-9a33-816e-a523-ee91747b774d",
+    "organization": "Digital Technology Supercluster Healthtech AI",
+    "updates": {
+      "funding": {
+        "value": "$300M+ Program ($153M federal + $153M industry)",
+        "source": "https://www.ic.gc.ca/eic/site/093.nsf/eng/00008.html",
+        "lastVerified": "2025-07-30"
+      },
+      "yearFounded": {
+        "value": 2019,
+        "source": "https://digitalsupercluster.ca/who-we-are/our-team/",
+        "lastVerified": "2025-07-30"
+      },
+      "employeeCount": {
+        "value": "30-40 employees (core team)",
+        "source": "https://www.linkedin.com/company/digital-technology-supercluster/",
+        "lastVerified": "2025-07-30"
+      }
+    }
+  },
+  {
+    "pageId": "23fc6f79-9a33-8136-b651-fed831c1c8a8",
+    "organization": "BC Centre for Innovation and Clean Energy",
+    "updates": {
+      "yearFounded": {
+        "value": 2018,
+        "source": "https://northx.ca/about/our-team",
+        "lastVerified": "2025-07-30"
+      }
+    }
+  },
+  {
+    "pageId": "23fc6f79-9a33-81b1-acfe-f0c48073ddf1",
+    "organization": "AI Community Conference - Vancouver",
+    "updates": {
+      "yearFounded": {
+        "value": 2022,
+        "source": "https://www.communitydays.org/",
+        "lastVerified": "2025-07-30"
+      }
+    }
+  }
+]

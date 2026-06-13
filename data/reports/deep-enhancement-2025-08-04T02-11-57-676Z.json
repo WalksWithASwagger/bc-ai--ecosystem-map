@@ -1,0 +1,27 @@
+{
+  "processed": 5,
+  "enhanced": 0,
+  "fieldsUpdated": 0,
+  "errors": [
+    {
+      "org": "Digital Technology Supercluster",
+      "error": "Government Tier is not a property that exists. AI Applications is not a property that exists."
+    },
+    {
+      "org": "Quantum Algorithms Institute",
+      "error": "Government Tier is not a property that exists. AI Applications is not a property that exists."
+    },
+    {
+      "org": "Frontier Collective",
+      "error": "AI Applications is not a property that exists."
+    },
+    {
+      "org": "Launch Academy",
+      "error": "Government Tier is not a property that exists. AI Applications is not a property that exists."
+    },
+    {
+      "org": "Spring Activator",
+      "error": "Government Tier is not a property that exists. AI Applications is not a property that exists."
+    }
+  ]
+}

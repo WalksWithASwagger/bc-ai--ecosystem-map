@@ -1,0 +1,49 @@
+{
+  "funders": [
+    {
+      "id": "sample-001",
+      "name": "Example Ventures",
+      "type": "VC",
+      "location": "Silicon Valley",
+      "focusAreas": [
+        "SaaS",
+        "AI/ML",
+        "B2B"
+      ],
+      "ticketSize": "$1M-$10M",
+      "stage": "Series A-B",
+      "website": "https://example-ventures.com",
+      "contact": "team@example-ventures.com",
+      "foundedYear": 2015,
+      "status": "active",
+      "portfolio": [],
+      "source": "notion_import",
+      "importedAt": "2025-08-04T22:20:22.808Z",
+      "enriched": {
+        "recentInvestments": [],
+        "keyPersonnel": [],
+        "investmentThesis": "",
+        "avgCheckSize": "",
+        "portfolioSize": 0,
+        "exitHistory": []
+      }
+    }
+  ],
+  "funds": [],
+  "investments": [],
+  "processingLog": [
+    "[2025-08-04T22:20:22.808Z] 🎯 Funding Intelligence Processor initialized",
+    "[2025-08-04T22:20:22.808Z] 📊 Processing Notion funding data...",
+    "[2025-08-04T22:20:22.808Z] ⚠️ Using sample data structure - ready for real Notion API integration",
+    "[2025-08-04T22:20:22.808Z] 🔍 Enriching funding data with research...",
+    "[2025-08-04T22:20:22.808Z]    ✅ Enriched: Example Ventures",
+    "[2025-08-04T22:20:22.808Z] 📊 Generating funding intelligence reports...",
+    "[2025-08-04T22:20:22.809Z] 📋 Report saved: /Users/kk/ecosystem-map-bc-ai/data/projects/funding-intelligence/reports/funding-intelligence-report-1754346022808.json"
+  ],
+  "stats": {
+    "totalFunders": 1,
+    "totalFunds": 0,
+    "processedAt": "2025-08-04T22:20:22.803Z",
+    "source": "https://kriskrug.notion.site/Long-List-of-Awesome-Funders-9212662f2cd3451bbde3470b9018ea12"
+  }
+}

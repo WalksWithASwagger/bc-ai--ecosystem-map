@@ -1,0 +1,787 @@
+{
+  "metadata": {
+    "date": "2025-07-30",
+    "total_organizations": 85,
+    "source": "Comprehensive BC AI Ecosystem Discovery",
+    "categories": {
+      "startups_scaleups": 13,
+      "government_public": 27,
+      "academic_research": 11,
+      "enterprise_corporate": 5,
+      "infrastructure": 5,
+      "investment_accelerators": 9,
+      "community_associations": 12,
+      "specialized_ai": 15,
+      "platforms_saas": 4,
+      "historical_acquired": 3
+    }
+  },
+  "organizations": [
+    {
+      "name": "Reflection.ai",
+      "category": "Start-ups & Scale-ups",
+      "bc_region": "To be verified",
+      "focus": "AI technology (specific focus TBD)",
+      "funding": "$130M Series A (2025)",
+      "location": "Brooklyn-based with potential BC presence",
+      "status": "Needs BC presence verification",
+      "priority": "high"
+    },
+    {
+      "name": "Good Chemistry",
+      "category": "Start-ups & Scale-ups",
+      "bc_region": "Lower Mainland",
+      "focus": "Quantum computing for drug discovery",
+      "status": "Acquired by SandboxAQ",
+      "location": "Vancouver, BC",
+      "description": "Quantum-AI drug discovery platform"
+    },
+    {
+      "name": "Open Ocean Robotics",
+      "category": "Start-ups & Scale-ups",
+      "bc_region": "Vancouver Island",
+      "focus": "Autonomous marine vessels",
+      "location": "Victoria, BC",
+      "description": "Ocean monitoring and data collection"
+    },
+    {
+      "name": "Produce8",
+      "category": "Start-ups & Scale-ups",
+      "bc_region": "Lower Mainland",
+      "focus": "Workplace analytics AI",
+      "location": "Vancouver, BC",
+      "mentioned_in": "Priority organizations list"
+    },
+    {
+      "name": "Timezyx",
+      "category": "Start-ups & Scale-ups",
+      "bc_region": "Lower Mainland",
+      "focus": "Time management AI",
+      "location": "Vancouver, BC",
+      "source": "Priority organizations CSV"
+    },
+    {
+      "name": "UnlockLand",
+      "category": "Start-ups & Scale-ups",
+      "bc_region": "Lower Mainland",
+      "parent": "Meton.ai",
+      "focus": "AI-powered property technology",
+      "website": "https://unlock.land",
+      "email": "info@meton.ai",
+      "description": "Property search and analysis platform"
+    },
+    {
+      "name": "AI Scout Solutions",
+      "category": "Service Studios / Agencies",
+      "bc_region": "Lower Mainland",
+      "focus": "AI consulting and implementation",
+      "location": "Vancouver, BC",
+      "source": "Gap analysis documents"
+    },
+    {
+      "name": "MoogleLabs",
+      "category": "Service Studios / Agencies",
+      "bc_region": "Lower Mainland",
+      "focus": "AI development services",
+      "email": "info@mooglelabs.com",
+      "phone": "+1-415-992-6066",
+      "location": "Vancouver office"
+    },
+    {
+      "name": "Yeti Farm Creative",
+      "category": "Service Studios / Agencies",
+      "bc_region": "Interior",
+      "focus": "Creative technology and AI",
+      "location": "Kelowna, BC",
+      "type": "Service Studio/Agency",
+      "source": "Regional discovery"
+    },
+    {
+      "name": "Tkmlps Development Corporation",
+      "category": "Community & Associations",
+      "bc_region": "Interior",
+      "focus": "Indigenous technology development",
+      "location": "Kamloops, BC",
+      "type": "Indigenous Tech Organization",
+      "source": "Regional discovery report"
+    },
+    {
+      "name": "FNHA Digital Health Division",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "focus": "First Nations Health Authority digital initiatives",
+      "location": "Vancouver, BC",
+      "type": "Indigenous Tech & Health",
+      "source": "Regional discovery"
+    },
+    {
+      "name": "Indigenous Digital Equity Strategy BC",
+      "category": "Community & Associations",
+      "bc_region": "Province-wide",
+      "focus": "Digital equity for Indigenous communities",
+      "location": "Province-wide",
+      "type": "Indigenous Tech Initiative",
+      "source": "Discovery files"
+    },
+    {
+      "name": "Caroline Running Wolf AI Language Project",
+      "category": "Academic & Research",
+      "bc_region": "Province-wide",
+      "lead": "Caroline Running Wolf (PhD student)",
+      "focus": "AI for Indigenous language preservation",
+      "funding": "MITACS government support",
+      "type": "Research Project",
+      "source": "Extreme frontiers discovery"
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "agency": "Pacific Economic Development Canada",
+      "funding": "$32.2M over 5 years",
+      "focus": "AI innovation and adoption support",
+      "website": "[Government portal]",
+      "description": "Federal AI funding program for BC"
+    },
+    {
+      "name": "Canadian Artificial Intelligence Safety Institute",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "launched": "November 2024",
+      "minister": "François-Philippe Champagne",
+      "focus": "AI safety and cybersecurity",
+      "location": "National with BC operations"
+    },
+    {
+      "name": "NRC-IRAP AI Program",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "agency": "National Research Council",
+      "focus": "Industrial Research Assistance for AI",
+      "location": "BC operations",
+      "description": "Federal innovation support"
+    },
+    {
+      "name": "BC Ministry of AI",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "created": "2025",
+      "focus": "Provincial AI strategy and governance",
+      "type": "Government Department",
+      "description": "New ministry for AI coordination"
+    },
+    {
+      "name": "BC AI Adoption for Education Initiative",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "agency": "BC Government/Ministry of Education",
+      "focus": "K-12 AI integration",
+      "type": "Government Program",
+      "description": "Provincial education AI program"
+    },
+    {
+      "name": "BC Agricultural Technology Adoption Program",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "funding": "Up to $100K per farm",
+      "timeline": "March-April 2025 applications",
+      "focus": "Farm tech and AI adoption",
+      "type": "Government Grant Program"
+    },
+    {
+      "name": "BC Clean Energy Innovation Program",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "launched": "2025",
+      "focus": "AI for energy efficiency",
+      "target": "Buildings and homes",
+      "type": "Provincial Initiative"
+    },
+    {
+      "name": "BC Financial AI Compliance Initiative",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "focus": "CPPA compliance for AI",
+      "type": "Regulatory Framework",
+      "sector": "Financial services",
+      "description": "Provincial compliance program"
+    },
+    {
+      "name": "BC Wildfire AI Satellite Analysis Program",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "technology": "ML satellite imagery analysis",
+      "focus": "Wildfire classification",
+      "agency": "BC government operations",
+      "description": "AI for wildfire management"
+    },
+    {
+      "name": "BC Business Registry AI Enhancement",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "technology": "ML search optimization",
+      "focus": "Business information access",
+      "agency": "BC digital services",
+      "description": "Government service AI"
+    },
+    {
+      "name": "Investment Agriculture Foundation of BC",
+      "category": "Government & Public Sector",
+      "bc_region": "Province-wide",
+      "focus": "Agricultural innovation funding",
+      "type": "Crown Corporation",
+      "sector": "AgTech and AI",
+      "description": "Agriculture innovation support"
+    },
+    {
+      "name": "BC Centre for Innovation and Clean Energy AI Program",
+      "category": "Government & Public Sector",
+      "bc_region": "Lower Mainland",
+      "focus": "Clean energy AI applications",
+      "type": "Government Initiative",
+      "location": "Vancouver, BC",
+      "source": "Discovery files"
+    },
+    {
+      "name": "BCSC RegTech Sandbox",
+      "category": "Government & Public Sector",
+      "bc_region": "Lower Mainland",
+      "agency": "BC Securities Commission",
+      "focus": "Financial technology regulation",
+      "type": "Regulatory Innovation",
+      "description": "FinTech/RegTech testing environment"
+    },
+    {
+      "name": "City of Vancouver AI Strategy",
+      "category": "Government & Public Sector",
+      "bc_region": "Lower Mainland",
+      "type": "Municipal Program",
+      "focus": "Smart city AI applications",
+      "status": "In development",
+      "description": "City-level AI governance"
+    },
+    {
+      "name": "Surrey AI Initiative",
+      "category": "Government & Public Sector",
+      "bc_region": "Lower Mainland",
+      "location": "Surrey, BC",
+      "type": "Municipal Program",
+      "focus": "City services AI",
+      "source": "Discovery files"
+    },
+    {
+      "name": "UBC AI for Climate Solutions Lab",
+      "category": "Academic & Research",
+      "bc_region": "Lower Mainland",
+      "institution": "University of British Columbia",
+      "focus": "Climate change AI applications",
+      "type": "Research Lab",
+      "description": "Environmental AI research"
+    },
+    {
+      "name": "SFU Quantum Fabrication Centre",
+      "category": "Academic & Research",
+      "bc_region": "Lower Mainland",
+      "institution": "Simon Fraser University",
+      "location": "Burnaby, BC",
+      "focus": "Quantum computing hardware",
+      "type": "Research Facility"
+    },
+    {
+      "name": "BCIT Xanadu Quantum Computing Program",
+      "category": "Academic & Research",
+      "bc_region": "Lower Mainland",
+      "partnership": "BCIT and Xanadu",
+      "achievement": "Canada's first quantum certificate",
+      "focus": "Quantum computing education",
+      "type": "Educational Program"
+    },
+    {
+      "name": "UVic AI and Machine Learning Lab",
+      "category": "Academic & Research",
+      "bc_region": "Vancouver Island",
+      "institution": "University of Victoria",
+      "location": "Victoria, BC",
+      "focus": "AI/ML research",
+      "type": "Academic Research Lab"
+    },
+    {
+      "name": "TRU Computer Science Department",
+      "category": "Academic & Research",
+      "bc_region": "Interior",
+      "institution": "Thompson Rivers University",
+      "location": "Kamloops, BC",
+      "focus": "AI education and research",
+      "type": "Academic Department"
+    },
+    {
+      "name": "UNBC Computer Science Department",
+      "category": "Academic & Research",
+      "bc_region": "Northern BC",
+      "institution": "University of Northern BC",
+      "location": "Prince George, BC",
+      "focus": "Northern BC AI research",
+      "type": "Academic Department"
+    },
+    {
+      "name": "BCIT Applied Artificial Intelligence Program",
+      "category": "Academic & Research",
+      "bc_region": "Lower Mainland",
+      "institution": "BCIT",
+      "type": "Education & Training",
+      "focus": "Applied AI education",
+      "location": "Burnaby, BC"
+    },
+    {
+      "name": "BCIT Centre of Excellence for Aerospace",
+      "category": "Academic & Research",
+      "bc_region": "Lower Mainland",
+      "investment": "Part of $136M campus",
+      "location": "Richmond, BC",
+      "focus": "Aerospace AI training",
+      "type": "Training Center"
+    },
+    {
+      "name": "Quantum Matter Institute",
+      "category": "Academic & Research",
+      "bc_region": "Lower Mainland",
+      "institution": "UBC",
+      "focus": "Quantum materials research",
+      "type": "Research Institute",
+      "location": "Vancouver, BC"
+    },
+    {
+      "name": "Consortium for Aerospace Research and Innovation in Canada",
+      "category": "Academic & Research",
+      "bc_region": "Province-wide",
+      "type": "Research Consortium",
+      "partners": "BC and Quebec companies",
+      "focus": "Aviation safety and sustainability",
+      "description": "Aerospace AI collaboration"
+    },
+    {
+      "name": "BC Actuarial AI Society",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "type": "Professional Association",
+      "focus": "AI in actuarial science",
+      "location": "Vancouver, BC",
+      "mission": "AI ethics in insurance"
+    },
+    {
+      "name": "Thales Canada",
+      "category": "Enterprise & Corporate",
+      "bc_region": "Lower Mainland",
+      "sector": "Defense and aerospace",
+      "ai_focus": "Defense systems AI",
+      "location": "Vancouver office",
+      "type": "Enterprise Division"
+    },
+    {
+      "name": "Stellantis LG Energy Solution BC",
+      "category": "Enterprise & Corporate",
+      "bc_region": "Province-wide",
+      "investment": "CAD $900M federal/provincial",
+      "focus": "EV battery manufacturing with AI",
+      "type": "Manufacturing Partnership",
+      "description": "Major automotive investment"
+    },
+    {
+      "name": "Bell Canada AI Data Centre Kamloops",
+      "category": "Infrastructure & Data Centers",
+      "bc_region": "Interior",
+      "investment": "Part of $500M project",
+      "location": "Kamloops, BC",
+      "partners": "Upper Nicola Band",
+      "type": "Infrastructure Project"
+    },
+    {
+      "name": "Disney Interactive Studios Kelowna",
+      "category": "Enterprise & Corporate",
+      "bc_region": "Interior",
+      "location": "Kelowna, BC",
+      "type": "Enterprise Division",
+      "focus": "Gaming and interactive AI",
+      "status": "Historical presence"
+    },
+    {
+      "name": "QHR Technologies",
+      "category": "Enterprise & Corporate",
+      "bc_region": "Interior",
+      "location": "Kelowna, BC",
+      "focus": "Healthcare IT and AI",
+      "type": "Enterprise/Corporate",
+      "sector": "HealthTech"
+    },
+    {
+      "name": "Upper Nicola Band AI Data Centre",
+      "category": "Infrastructure & Data Centers",
+      "bc_region": "Interior",
+      "investment": "$500M",
+      "partners": "Bell Canada, iTel Networks",
+      "jobs": "200 permanent, 2,000 construction",
+      "type": "Indigenous-led infrastructure"
+    },
+    {
+      "name": "BC Data Centre AI Initiative",
+      "category": "Infrastructure & Data Centers",
+      "bc_region": "Province-wide",
+      "capacity": "15 GW new applications",
+      "growth": "20-fold increase planned",
+      "type": "Provincial Infrastructure",
+      "challenge": "Electricity capacity"
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "category": "Infrastructure & Data Centers",
+      "bc_region": "Northern BC",
+      "investment": "$16B project",
+      "location": "Northern BC",
+      "focus": "AI-optimized operations",
+      "type": "Energy Infrastructure"
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "category": "Infrastructure & Data Centers",
+      "bc_region": "Province-wide",
+      "investment": "$36B capital plan",
+      "energy_call": "3,000 GWh clean energy",
+      "response": "9,000 GWh proposals",
+      "ai_integration": "Smart grid optimization"
+    },
+    {
+      "name": "BC Hydro Electrification Initiative",
+      "category": "Infrastructure & Data Centers",
+      "bc_region": "Province-wide",
+      "timeline": "Through 2040",
+      "focus": "EV infrastructure for AI vehicles",
+      "type": "Provincial Infrastructure",
+      "description": "EV charging network"
+    },
+    {
+      "name": "Raven Indigenous Capital Partners",
+      "category": "Investment & Accelerators",
+      "bc_region": "Province-wide",
+      "focus": "Indigenous-led ventures",
+      "type": "Investment Fund",
+      "sector": "Indigenous tech and AI",
+      "location": "BC operations"
+    },
+    {
+      "name": "Kensington Capital Partners",
+      "category": "Investment & Accelerators",
+      "bc_region": "Lower Mainland",
+      "type": "Private Equity",
+      "focus": "Tech investments",
+      "location": "Vancouver, BC",
+      "source": "Master list"
+    },
+    {
+      "name": "Brightspark Ventures",
+      "category": "Investment & Accelerators",
+      "bc_region": "Lower Mainland",
+      "type": "Early-stage VC",
+      "focus": "Tech startups",
+      "location": "Vancouver operations",
+      "source": "Enhancement files"
+    },
+    {
+      "name": "Pender Ventures",
+      "category": "Investment & Accelerators",
+      "bc_region": "Lower Mainland",
+      "type": "B2B software VC",
+      "focus": "Enterprise AI",
+      "location": "Vancouver, BC",
+      "source": "Investment landscape"
+    },
+    {
+      "name": "Vancouver Angel Network (VANTEC)",
+      "category": "Investment & Accelerators",
+      "bc_region": "Lower Mainland",
+      "type": "Angel Investment Network",
+      "focus": "Early-stage funding",
+      "location": "Vancouver, BC"
+    },
+    {
+      "name": "QueerTech QT Founders Catalyst Program",
+      "category": "Investment & Accelerators",
+      "bc_region": "Lower Mainland",
+      "type": "Accelerator Program",
+      "focus": "LGBTQ+ founders in tech",
+      "location": "Vancouver, BC",
+      "source": "Master list"
+    },
+    {
+      "name": "entrepreneurship@UBC Accelerate",
+      "category": "Investment & Accelerators",
+      "bc_region": "Lower Mainland",
+      "type": "University Accelerator",
+      "institution": "UBC",
+      "focus": "Student/faculty startups",
+      "location": "Vancouver, BC"
+    },
+    {
+      "name": "Coast Capital Savings Innovation Centre",
+      "category": "Investment & Accelerators",
+      "bc_region": "Lower Mainland",
+      "type": "Innovation Hub",
+      "focus": "FinTech and AI",
+      "location": "Lower Mainland",
+      "sponsor": "Coast Capital Savings"
+    },
+    {
+      "name": "Fort Tectoria",
+      "category": "Investment & Accelerators",
+      "bc_region": "Vancouver Island",
+      "organization": "VIATEC",
+      "type": "Accelerator",
+      "location": "Victoria, BC",
+      "focus": "Tech startups"
+    },
+    {
+      "name": "Quantum BC",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "type": "Industry Association",
+      "focus": "Quantum computing ecosystem",
+      "location": "Vancouver, BC",
+      "mission": "Quantum industry development"
+    },
+    {
+      "name": "BC Aerospace Skills Gap Analysis Project",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "led_by": "BCIT",
+      "type": "Industry Initiative",
+      "focus": "Aerospace AI training",
+      "purpose": "Skills development"
+    },
+    {
+      "name": "Vancouver International Privacy & Security Summit",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "event": "26th Annual (March 2024)",
+      "type": "Annual Conference",
+      "focus": "Privacy, security, and AI",
+      "location": "Vancouver, BC"
+    },
+    {
+      "name": "Government Cybersecurity Showcase BC",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "location": "Vancouver Public Library",
+      "type": "Government Event",
+      "focus": "Cybersecurity innovations",
+      "year": "2024"
+    },
+    {
+      "name": "AQC 2025 Vancouver",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "event": "Adiabatic Quantum Computing",
+      "type": "Conference",
+      "focus": "Quantum computing",
+      "date": "2025"
+    },
+    {
+      "name": "DevFest YVR AI Summit",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "type": "Community Event",
+      "focus": "AI development",
+      "location": "Vancouver, BC",
+      "organizer": "Google Developer Groups"
+    },
+    {
+      "name": "AI Community Conference Vancouver",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "type": "Annual Conference",
+      "focus": "AI ecosystem gathering",
+      "location": "Vancouver, BC",
+      "source": "Discovery files"
+    },
+    {
+      "name": "West Vancouver Schools Cybersecurity AI Program",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "type": "Educational Program",
+      "focus": "K-12 cybersecurity and AI",
+      "location": "West Vancouver, BC",
+      "website": "https://westvancouverschools.ca/programs/cybersecurity-ai/"
+    },
+    {
+      "name": "Law Society of BC AI Ethics Program",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "type": "Professional Program",
+      "focus": "AI ethics in legal practice",
+      "sector": "Legal/Professional",
+      "description": "Legal AI governance"
+    },
+    {
+      "name": "BC AI for Refugees Initiative",
+      "category": "Community & Associations",
+      "bc_region": "Province-wide",
+      "type": "Social Impact Program",
+      "focus": "AI for refugee services",
+      "status": "In development",
+      "description": "Humanitarian AI application"
+    },
+    {
+      "name": "DigiBC Signals Program",
+      "category": "Community & Associations",
+      "bc_region": "Lower Mainland",
+      "organization": "DigiBC",
+      "funding": "$720K PacifiCan (Sept 2024)",
+      "duration": "3-year program",
+      "focus": "Creative technology development",
+      "members": "250+ companies"
+    },
+    {
+      "name": "BC AI Ethics Network",
+      "category": "Community & Associations",
+      "bc_region": "Province-wide",
+      "type": "Professional Network",
+      "focus": "AI ethics and governance",
+      "status": "Forming",
+      "description": "Ethics community organization"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "category": "Specialized AI Companies",
+      "bc_region": "To be verified",
+      "funding": "$15M seed (July 2025)",
+      "led_by": "Nat Friedman (NFDG)",
+      "focus": "AI agent liability insurance",
+      "description": "Insurance for AI systems"
+    },
+    {
+      "name": "RIVAL Technologies",
+      "category": "Specialized AI Companies",
+      "bc_region": "Lower Mainland",
+      "focus": "Research technology platform",
+      "location": "Vancouver, BC",
+      "type": "HealthTech/Research",
+      "source": "Priority organizations"
+    },
+    {
+      "name": "Vision Critical (Alida)",
+      "category": "Specialized AI Companies",
+      "bc_region": "Lower Mainland",
+      "status": "Rebranded to Alida",
+      "focus": "Consumer insights AI",
+      "funding": "$20M",
+      "employees": "109"
+    },
+    {
+      "name": "Fintel Connect",
+      "category": "Specialized AI Companies",
+      "bc_region": "Lower Mainland",
+      "website": "fintelconnect.com",
+      "phone": "+1 604-566-8020",
+      "focus": "Financial lead generation",
+      "funding": "$5.3M",
+      "clients": "Scotiabank, RBC"
+    },
+    {
+      "name": "3DentAI",
+      "category": "Specialized AI Companies",
+      "bc_region": "Lower Mainland",
+      "focus": "Dental AI solutions",
+      "location": "Vancouver, BC",
+      "type": "HealthTech AI",
+      "source": "Priority list"
+    },
+    {
+      "name": "Prince George AI Fire Detection Network",
+      "category": "Specialized AI Companies",
+      "bc_region": "Northern BC",
+      "investment": "$733,000 BC government",
+      "technology": "360-degree AI cameras",
+      "deployment": "Summer 2025",
+      "focus": "Wildfire detection"
+    },
+    {
+      "name": "OnDeck Fisheries AI",
+      "category": "Specialized AI Companies",
+      "bc_region": "Province-wide",
+      "focus": "Fisheries management AI",
+      "location": "BC coastal regions",
+      "type": "Ocean Tech",
+      "source": "Master list"
+    },
+    {
+      "name": "BC Forestry Innovation Investment Program",
+      "category": "Specialized AI Companies",
+      "bc_region": "Province-wide",
+      "investment": "Part of $1B over 3 years",
+      "focus": "Value-added wood with AI",
+      "type": "Government Program",
+      "description": "Forestry AI innovation"
+    },
+    {
+      "name": "Advertising Intelligence (ADINT.AI)",
+      "category": "Platforms & SaaS",
+      "bc_region": "Lower Mainland",
+      "focus": "Advertising optimization AI",
+      "type": "Marketing Tech",
+      "location": "Vancouver, BC",
+      "source": "Priority organizations"
+    },
+    {
+      "name": "AIEX",
+      "category": "Platforms & SaaS",
+      "bc_region": "Lower Mainland",
+      "website": "aiex.ai",
+      "location": "North Vancouver",
+      "focus": "AI exchange platform",
+      "status": "Needs contact research"
+    },
+    {
+      "name": "ClearSpark AI",
+      "category": "Platforms & SaaS",
+      "bc_region": "Lower Mainland",
+      "focus": "Energy management AI",
+      "type": "CleanTech SaaS",
+      "location": "Vancouver, BC",
+      "source": "Priority list"
+    },
+    {
+      "name": "Swipe Right App",
+      "category": "Platforms & SaaS",
+      "bc_region": "Lower Mainland",
+      "focus": "Dating app with AI",
+      "type": "Consumer AI",
+      "location": "Vancouver, BC",
+      "source": "Master list"
+    },
+    {
+      "name": "Cloudburst Research",
+      "category": "Historical/Acquired",
+      "bc_region": "Lower Mainland",
+      "status": "Acquired by Google (2015)",
+      "product": "AutoStitch technology",
+      "founder": "David Lowe (UBC Professor)",
+      "legacy": "Important BC AI exit"
+    },
+    {
+      "name": "Canexia Health",
+      "category": "Historical/Acquired",
+      "bc_region": "Lower Mainland",
+      "status": "Merged with Imagia",
+      "focus": "Oncology AI",
+      "funding": "$9.45M pre-merger",
+      "origin": "UBC CS spin-off"
+    },
+    {
+      "name": "Nytilus Inc",
+      "category": "Historical/Acquired",
+      "bc_region": "Lower Mainland",
+      "status": "Ceased operations",
+      "focus": "Industrial camera AI",
+      "funding": "$120K",
+      "founder": "Dr. Debanga Raj Neog (UBC PhD)"
+    }
+  ]
+}

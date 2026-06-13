@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Pharity AI",
+    "category": "Healthcare AI",
+    "location": "Vancouver",
+    "shortBlurb": "Pharity AI is a BC-based AI company",
+    "source": "Innovate BC",
+    "yearFounded": null
+  },
+  {
+    "name": "WaitWell",
+    "category": "Healthcare AI",
+    "location": "Victoria",
+    "shortBlurb": "WaitWell is a BC-based AI company",
+    "source": "Innovate BC",
+    "yearFounded": null
+  },
+  {
+    "name": "Boreal Genomics",
+    "category": "Healthcare AI",
+    "location": "British Columbia",
+    "shortBlurb": "Boreal Genomics is a BC-based AI company",
+    "source": "University Spin-offs",
+    "yearFounded": null
+  },
+  {
+    "name": "Shade AI",
+    "category": "AI Startup",
+    "location": "British Columbia",
+    "shortBlurb": "Shade AI is a BC-based AI company",
+    "source": "Funding News",
+    "yearFounded": 2024,
+    "funding": "$5M Series A"
+  },
+  {
+    "name": "This Fish",
+    "category": "AI Startup",
+    "location": "British Columbia",
+    "shortBlurb": "This Fish is a BC-based AI company",
+    "source": "Funding News",
+    "yearFounded": 2024,
+    "funding": "$3M"
+  }
+]

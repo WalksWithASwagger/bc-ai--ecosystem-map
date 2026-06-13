@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-08-03T06:47:37.158Z",
+  "execution": "BETAKIT_FUNDING_PROCESSING",
+  "dataQuality": "HIGH_QUALITY_VERIFIED",
+  "confidence": 0.95,
+  "source": "BetaKit",
+  "summary": {
+    "processed": 10,
+    "successful": 1,
+    "failed": 9,
+    "totalFieldsUpdated": 4,
+    "successRate": "10%"
+  },
+  "companiesUpdated": [
+    {
+      "name": "AlayaCare",
+      "originalName": "AlayaCare",
+      "fieldsUpdated": [
+        "Funding",
+        "Short Blurb",
+        "Data Sources",
+        "Last Verified"
+      ],
+      "confidence": 0.95,
+      "source": "BetaKit",
+      "fundingAmount": 81
+    }
+  ],
+  "errors": [
+    {
+      "name": "MacroHealth",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Vancouver cleantech company General Fusion",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Vancouver’s BuildDirect",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Vancouver cleantech Inventys",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Vancouver’s Clio",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Vancouver-based Klue",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Vancouver’s Appnovation",
+      "error": "Not found in database"
+    },
+    {
+      "name": "Vancouver-based Dooly",
+      "error": "Not found in database"
+    },
+    {
+      "name": "CareGuide",
+      "error": "Not found in database"
+    }
+  ]
+}

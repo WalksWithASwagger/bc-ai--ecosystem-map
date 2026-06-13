@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "source": "https://kriskrug.notion.site/Long-List-of-Awesome-Funders-9212662f2cd3451bbde3470b9018ea12",
+    "extractedAt": "2025-08-04T22:22:41.012Z",
+    "totalFunders": 3,
+    "extractionMethod": "database_query",
+    "enrichedAt": "2025-08-04T22:24:29.304Z",
+    "enrichmentVersion": "1.0"
+  },
+  "funders": [
+    {
+      "id": "sample-001",
+      "name": "Andreessen Horowitz (a16z)",
+      "type": "VC",
+      "location": "Silicon Valley, CA",
+      "website": "https://a16z.com",
+      "focusAreas": [
+        "SaaS",
+        "Crypto",
+        "AI/ML",
+        "Enterprise"
+      ],
+      "stage": "Seed to Series C",
+      "ticketSize": "$1M-$100M",
+      "description": "Leading venture capital firm focused on technology startups",
+      "status": "active",
+      "source": "sample_data",
+      "sourceUrl": "https://kriskrug.notion.site/Long-List-of-Awesome-Funders-9212662f2cd3451bbde3470b9018ea12",
+      "importedAt": "2025-08-04T22:22:41.012Z",
+      "enrichment": {
+        "riskScore": 95,
+        "investmentFocus": {
+          "primarySectors": [
+            "SaaS",
+            "Crypto",
+            "AI/ML"
+          ],
+          "diversification": "High",
+          "techFocus": true
+        },
+        "marketPresence": {
+          "tier": "Tier 1",
+          "geographic": "Silicon Valley, CA",
+          "digitalPresence": "Strong"
+        },
+        "recentActivity": {
+          "lastInvestment": "2024-Q3",
+          "averageDeals": 12,
+          "activePortfolio": 30,
+          "exitActivity": 4
+        },
+        "contactStrength": {
+          "score": 60,
+          "level": "Medium",
+          "recommendedAction": "Research contacts"
+        },
+        "strategicValue": {
+          "score": 100,
+          "reasoning": "Top priority target"
+        },
+        "enrichedAt": "2025-08-04T22:24:29.304Z"
+      }
+    },
+    {
+      "id": "sample-002",
+      "name": "Sequoia Capital",
+      "type": "VC",
+      "location": "Menlo Park, CA",
+      "website": "https://sequoiacap.com",
+      "focusAreas": [
+        "Enterprise",
+        "Consumer",
+        "Healthcare",
+        "Financial Services"
+      ],
+      "stage": "Seed to Growth",
+      "ticketSize": "$100K-$200M",
+      "description": "Premier venture capital firm with global presence",
+      "status": "active",
+      "source": "sample_data",
+      "sourceUrl": "https://kriskrug.notion.site/Long-List-of-Awesome-Funders-9212662f2cd3451bbde3470b9018ea12",
+      "importedAt": "2025-08-04T22:22:41.012Z",
+      "enrichment": {
+        "riskScore": 95,
+        "investmentFocus": {
+          "primarySectors": [
+            "Enterprise",
+            "Consumer",
+            "Healthcare"
+          ],
+          "diversification": "High",
+          "techFocus": false
+        },
+        "marketPresence": {
+          "tier": "Tier 1",
+          "geographic": "Menlo Park, CA",
+          "digitalPresence": "Strong"
+        },
+        "recentActivity": {
+          "lastInvestment": "2024-Q3",
+          "averageDeals": 7,
+          "activePortfolio": 52,
+          "exitActivity": 4
+        },
+        "contactStrength": {
+          "score": 60,
+          "level": "Medium",
+          "recommendedAction": "Research contacts"
+        },
+        "strategicValue": {
+          "score": 80,
+          "reasoning": "High value prospect"
+        },
+        "enrichedAt": "2025-08-04T22:24:29.304Z"
+      }
+    },
+    {
+      "id": "sample-003",
+      "name": "Y Combinator",
+      "type": "Accelerator",
+      "location": "Mountain View, CA",
+      "website": "https://ycombinator.com",
+      "focusAreas": [
+        "All Sectors"
+      ],
+      "stage": "Pre-Seed to Seed",
+      "ticketSize": "$500K-$2M",
+      "description": "The world's most successful startup accelerator",
+      "status": "active",
+      "source": "sample_data",
+      "sourceUrl": "https://kriskrug.notion.site/Long-List-of-Awesome-Funders-9212662f2cd3451bbde3470b9018ea12",
+      "importedAt": "2025-08-04T22:22:41.012Z",
+      "enrichment": {
+        "riskScore": 100,
+        "investmentFocus": {
+          "primarySectors": [
+            "All Sectors"
+          ],
+          "diversification": "Low",
+          "techFocus": false
+        },
+        "marketPresence": {
+          "tier": "Tier 1 Accelerator",
+          "geographic": "Mountain View, CA",
+          "digitalPresence": "Strong"
+        },
+        "recentActivity": {
+          "lastInvestment": "2024-Q3",
+          "averageDeals": 16,
+          "activePortfolio": 28,
+          "exitActivity": 2
+        },
+        "contactStrength": {
+          "score": 60,
+          "level": "Medium",
+          "recommendedAction": "Research contacts"
+        },
+        "strategicValue": {
+          "score": 65,
+          "reasoning": "High value prospect"
+        },
+        "enrichedAt": "2025-08-04T22:24:29.304Z"
+      }
+    }
+  ]
+}

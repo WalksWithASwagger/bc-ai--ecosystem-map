@@ -1,0 +1,47 @@
+#!/bin/bash
+# Git pre-commit hook to validate data files before commit
+
+echo "🔍 Running pre-commit validation..."
+
+# Check if any JSON files in data/ are being committed
+json_files=$(git diff --cached --name-only --diff-filter=ACM | grep -E "^data/.*\.json$")
+
+if [ -n "$json_files" ]; then
+  echo "📋 Found JSON data files to validate:"
+  echo "$json_files"
+  
+  # Validate each file
+  for file in $json_files; do
+    echo "Validating $file..."
+    
+    # Run validation
+    if node tools/00-core/validate-before-import.js "$file"; then
+      echo "✅ $file passed validation"
+    else
+      echo "❌ $file FAILED validation"
+      echo "🚫 Commit blocked. Fix validation errors and try again."
+      exit 1
+    fi
+  done
+fi
+
+# Check for hardcoded tokens
+echo "🔍 Checking for hardcoded tokens..."
+if git diff --cached --name-only | xargs grep -l "ntn_" 2>/dev/null; then
+  echo "❌ Found hardcoded Notion token!"
+  echo "🚫 Remove the token and use config.js instead"
+  exit 1
+fi
+
+# Check for large files
+echo "📏 Checking file sizes..."
+large_files=$(git diff --cached --name-only | xargs -I {} find {} -size +10M 2>/dev/null)
+if [ -n "$large_files" ]; then
+  echo "❌ Large files detected (>10MB):"
+  echo "$large_files"
+  echo "Consider using git-lfs or excluding these files"
+  exit 1
+fi
+
+echo "✅ All pre-commit checks passed!"
+exit 0

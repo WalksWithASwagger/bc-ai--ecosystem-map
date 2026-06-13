@@ -1,0 +1,222 @@
+{
+  "research_date": "2025-08-03",
+  "research_purpose": "Identify unique BC AI companies not in database",
+  "total_companies_found": 15,
+  "high_confidence_additions": 8,
+  "medium_confidence_additions": 7,
+  "categories": {
+    "medtech_ai": 1,
+    "industry_40": 1,
+    "computer_vision": 1,
+    "quantum_computing": 5,
+    "agritech": 5,
+    "indigenous_ai": 1,
+    "fintech": 1
+  },
+  "companies": [
+    {
+      "name": "Inofuse",
+      "confidence": "HIGH",
+      "category": "MedTech AI",
+      "founded": 2024,
+      "location": "Vancouver, BC",
+      "description": "AI-powered smart infusion wristband for IV medication",
+      "unique_value": "Revolutionary non-invasive IV delivery system",
+      "funding": "TBD",
+      "website": "TBD",
+      "sources": ["F6S Vancouver AI companies July 2025"],
+      "add_to_db": true
+    },
+    {
+      "name": "Kanooq Industries",
+      "confidence": "HIGH",
+      "category": "Industry 4.0 / IoT / Blockchain AI",
+      "founded": 2018,
+      "location": "Vancouver, BC",
+      "product": "Nervius - IoT sensing platform",
+      "description": "Blockchain + IoT + AI for infrastructure monitoring",
+      "leadership": {
+        "ceo": "Eyad Alnuweiri",
+        "cto": "Samuel Reid"
+      },
+      "applications": ["Pipeline monitoring", "Wildfire safety", "Aerospace supply chain"],
+      "funding": "TBD",
+      "sources": ["Yahoo Finance", "F6S"],
+      "add_to_db": true
+    },
+    {
+      "name": "Safari AI",
+      "confidence": "HIGH",
+      "category": "Computer Vision / Enterprise AI",
+      "founded": 2022,
+      "location": "Distributed team with Vancouver presence",
+      "funding": "$13M total (General Catalyst, Initialized Capital)",
+      "description": "Vision AI for measuring physical operations",
+      "clients": ["Taco Bell", "Legoland", "Amazon HQ2 landlord"],
+      "team": {
+        "ceo": "Ali Vahabzadeh",
+        "vancouver_lead": "Kaiwen (PhD UBC, ex-Serve Robotics)"
+      },
+      "website": "https://getsafari.ai/",
+      "sources": ["Crunchbase", "General Catalyst portfolio"],
+      "add_to_db": true
+    },
+    {
+      "name": "Nirvanic Consciousness Technologies",
+      "confidence": "HIGH",
+      "category": "Quantum AI / AGI Safety",
+      "founded": 2024,
+      "location": "Vancouver, BC",
+      "description": "Quantum-AI exploring computational consciousness for safer AI",
+      "leadership": "Suzanne Gildert (CEO, ex-D-Wave, co-founded Kindred AI)",
+      "status": "Emerged from stealth Nov 2024",
+      "funding": "TBD",
+      "sources": ["The Quantum Insider"],
+      "add_to_db": true
+    },
+    {
+      "name": "AbaQus",
+      "confidence": "HIGH",
+      "category": "Quantum Computing / FinTech",
+      "founded": 2021,
+      "location": "Vancouver, BC",
+      "founders": ["David Isaac", "Chris Coleman"],
+      "description": "Quantum computing platform for financial risk management",
+      "partnerships": ["Quantum Algorithms Institute", "InvestDEFY", "D-Wave"],
+      "funding": "TBD",
+      "sources": ["Industry reports"],
+      "add_to_db": true
+    },
+    {
+      "name": "Photonic Inc",
+      "confidence": "HIGH",
+      "category": "Quantum Computing Hardware",
+      "founded": 2019,
+      "location": "Burnaby, BC",
+      "founders": ["Paul Terry", "Stephanie Simmons"],
+      "description": "Silicon-based quantum technologies, electron spin qubits",
+      "funding": "$100M (Microsoft-led, BCI)",
+      "origin": "SFU Silicon Quantum Technology Lab spinoff",
+      "sources": ["Industry reports"],
+      "add_to_db": true
+    },
+    {
+      "name": "Terramera",
+      "confidence": "MEDIUM",
+      "category": "AgriTech AI",
+      "location": "Vancouver, BC",
+      "description": "Green chemistry + AI to reduce synthetic pesticides",
+      "ranking": "Top AgriTech company in Vancouver (Tracxn)",
+      "funding": "Check if in DB",
+      "sources": ["Tracxn", "F6S"],
+      "add_to_db": "verify_first"
+    },
+    {
+      "name": "QuantoTech Solutions",
+      "confidence": "HIGH",
+      "category": "AgriTech / Vertical Farming",
+      "location": "Vancouver, BC",
+      "description": "Vertically integrated vertical farming with AI optimization",
+      "unique_value": "Design, manufacture, and operate vertical farms",
+      "funding": "TBD",
+      "sources": ["Industry reports"],
+      "add_to_db": true
+    },
+    {
+      "name": "Insporos Technologies",
+      "confidence": "HIGH",
+      "category": "AgriTech AI",
+      "achievement": "Won Farmers Den Pitch Competition 2024",
+      "location": "BC",
+      "description": "Intelligent seed sorting to remove diseased/defective seeds",
+      "funding": "TBD",
+      "sources": ["Techcouver Jan 2024"],
+      "add_to_db": true
+    },
+    {
+      "name": "Musqueam Nation AI Initiative",
+      "confidence": "SPECIAL",
+      "category": "Indigenous AI / Cultural Tech",
+      "location": "Vancouver/Musqueam territory",
+      "type": "Research/Cultural Project",
+      "description": "First Indigenous AI based on traditional knowledge",
+      "project": "Almost Real - speculative fiction",
+      "author": "Quelemia Sparrow",
+      "date": "April 2024",
+      "sources": ["Doha Debates"],
+      "add_to_db": "as_initiative"
+    },
+    {
+      "name": "Apera AI",
+      "confidence": "MEDIUM",
+      "category": "Robotics / Computer Vision",
+      "location": "Vancouver",
+      "description": "4D Vision technologies for factory robots",
+      "funding": "TBD",
+      "sources": ["Ecosystem reports"],
+      "add_to_db": "verify_first"
+    },
+    {
+      "name": "Owl.co",
+      "confidence": "MEDIUM",
+      "category": "InsurTech AI",
+      "location": "Vancouver",
+      "description": "AI-powered claims intelligence for insurance",
+      "funding": "TBD",
+      "sources": ["Ecosystem reports"],
+      "add_to_db": "verify_first"
+    },
+    {
+      "name": "TrendiTech",
+      "confidence": "MEDIUM",
+      "category": "AgriTech / Food Waste",
+      "location": "Vancouver",
+      "description": "Robotics and tech to rescue misfit foods",
+      "funding": "TBD",
+      "sources": ["AgriTech reports"],
+      "add_to_db": "verify_first"
+    },
+    {
+      "name": "Aquanow",
+      "confidence": "MEDIUM",
+      "category": "FinTech / Blockchain",
+      "location": "Vancouver",
+      "description": "Digital asset infrastructure for institutions",
+      "funding": "$30M Series B (early 2024)",
+      "services": ["Trading", "Custody", "Payment solutions"],
+      "sources": ["FinTech reports"],
+      "add_to_db": "verify_first"
+    },
+    {
+      "name": "Mogo Inc",
+      "confidence": "MEDIUM",
+      "category": "FinTech AI",
+      "location": "Vancouver",
+      "description": "Digital payments with AI fraud detection",
+      "features": "AI-powered digital wallet and crypto trading",
+      "year_update": "2024 AI features launch",
+      "sources": ["FinTech reports"],
+      "add_to_db": "verify_first"
+    }
+  ],
+  "ecosystem_insights": {
+    "government_funding": {
+      "program": "Regional Artificial Intelligence Initiative (RAII)",
+      "amount": "$32.2M over 5 years",
+      "opened": "November 18, 2024",
+      "federal_package": "$2.4B for AI nationally"
+    },
+    "sector_trends": {
+      "quantum_computing": "BC emerging as quantum hub with D-Wave alternatives",
+      "agritech": "106 AgriTech startups in Vancouver, $8M raised in 2024",
+      "indigenous_ai": "First Nations exploring AI for cultural preservation",
+      "medtech": "New wearable AI devices disrupting traditional medical equipment"
+    }
+  },
+  "next_steps": [
+    "Verify medium-confidence companies against existing database",
+    "Research funding details for high-confidence additions",
+    "Find websites and contact info for new companies",
+    "Track RAII funding recipients as they're announced"
+  ]
+}

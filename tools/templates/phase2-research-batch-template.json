@@ -1,0 +1,132 @@
+{
+  "researchBatch": {
+    "batchId": "2025-01-30-batch-001",
+    "researcher": "[Researcher Name]",
+    "date": "2025-01-30",
+    "organizations": [
+      {
+        "name": "Example Organization",
+        "notionId": "[Get from existing database]",
+        "existingData": {
+          "website": "https://example.com",
+          "category": "AI Companies"
+        },
+        "researchFindings": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/example",
+            "verified": true,
+            "employees": "51-200",
+            "followers": 5432,
+            "description": "AI company focused on...",
+            "specialties": ["Machine Learning", "Computer Vision"],
+            "headquarters": "Vancouver, BC",
+            "founded": 2018,
+            "lastUpdated": "2025-01-30",
+            "source": "LinkedIn company page",
+            "confidence": "high"
+          },
+          "keyPeople": {
+            "ceo": {
+              "name": "Jane Smith",
+              "linkedinUrl": "https://www.linkedin.com/in/janesmith",
+              "verified": true,
+              "since": "2020"
+            },
+            "cto": {
+              "name": "John Doe",
+              "linkedinUrl": "https://www.linkedin.com/in/johndoe",
+              "verified": true
+            },
+            "founders": [
+              {
+                "name": "Jane Smith",
+                "linkedinUrl": "https://www.linkedin.com/in/janesmith",
+                "role": "Co-founder & CEO"
+              }
+            ]
+          },
+          "funding": {
+            "totalRaised": "$15M",
+            "rounds": [
+              {
+                "type": "Series A",
+                "amount": "$10M",
+                "date": "2023-06",
+                "leadInvestor": "XYZ Ventures",
+                "source": "https://techcrunch.com/...",
+                "verified": true
+              }
+            ],
+            "lastRound": "Series A",
+            "investors": ["XYZ Ventures", "ABC Capital"]
+          },
+          "companyIntel": {
+            "employeeCount": {
+              "range": "51-200",
+              "exact": 87,
+              "source": "LinkedIn",
+              "asOf": "2025-01-30"
+            },
+            "yearFounded": {
+              "year": 2018,
+              "source": "BC Registry",
+              "verified": true
+            },
+            "offices": [
+              {
+                "type": "HQ",
+                "address": "123 Main St, Vancouver, BC",
+                "city": "Vancouver",
+                "region": "Lower Mainland"
+              }
+            ],
+            "techStack": ["Python", "TensorFlow", "AWS", "React"],
+            "aiFocus": ["Computer Vision", "NLP", "Predictive Analytics"],
+            "industry": "Healthcare AI",
+            "customers": ["BC Health", "Providence Health"],
+            "partnerships": ["UBC", "Microsoft"]
+          },
+          "socialMedia": {
+            "twitter": "@exampleai",
+            "github": "example-ai",
+            "youtube": "ExampleAI",
+            "blog": "https://blog.example.com",
+            "medium": "@exampleai"
+          },
+          "additionalNotes": {
+            "recentNews": "Announced partnership with BC Health in Jan 2025",
+            "awards": ["2024 BC Tech Innovation Award"],
+            "patents": 3,
+            "publications": 5,
+            "flags": ["Fast growing", "Government contracts"]
+          }
+        },
+        "dataQuality": {
+          "completeness": 0.85,
+          "lastVerified": "2025-01-30",
+          "sources": [
+            {
+              "type": "LinkedIn",
+              "url": "https://www.linkedin.com/company/example",
+              "accessDate": "2025-01-30"
+            },
+            {
+              "type": "Crunchbase",
+              "url": "https://www.crunchbase.com/organization/example",
+              "accessDate": "2025-01-30"
+            }
+          ],
+          "verificationNotes": "All data cross-verified with multiple sources"
+        }
+      }
+    ],
+    "summary": {
+      "totalOrganizations": 1,
+      "linkedInFound": 1,
+      "fundingDataFound": 1,
+      "keyPeopleFound": 1,
+      "timeSpent": "45 minutes",
+      "dataPoints": 25
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "success": 2,
+  "failed": 0,
+  "details": [
+    {
+      "name": "Zymeworks",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    },
+    {
+      "name": "Boast AI",
+      "status": "success",
+      "fieldsUpdated": [
+        "LinkedIn",
+        "Year Founded",
+        "Key People",
+        "Short Blurb"
+      ]
+    }
+  ]
+}

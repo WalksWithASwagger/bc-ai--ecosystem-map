@@ -1,0 +1,517 @@
+{
+  "candidatesReviewed": 339,
+  "highQualityCandidates": 39,
+  "companiesAdded": 39,
+  "companiesSkipped": 0,
+  "errors": [],
+  "additions": [
+    {
+      "name": "MetaOptima / MetaOptima (DermEngine)",
+      "id": "244c6f79-9a33-8105-b9d0-f7fcd9f5ce32",
+      "confidence": 0.95,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "Funding",
+        "Year Founded",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Reflection.ai",
+      "id": "244c6f79-9a33-8120-8683-fd00954a61ef",
+      "confidence": 0.9,
+      "source": "data/research/organizations-to-add-2025-07-30.md",
+      "fieldsAdded": [
+        "Funding",
+        "Year Founded",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "1. **Unblocked**",
+      "id": "244c6f79-9a33-8161-afb5-fc9c3a727257",
+      "confidence": 0.8999999999999999,
+      "source": "data/research/manual-research-updates-2025-07-29.md",
+      "fieldsAdded": [
+        "Website",
+        "Funding",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "3. **Fintel Connect**",
+      "id": "244c6f79-9a33-81e0-a33c-eba29d5e5fcf",
+      "confidence": 0.85,
+      "source": "data/research/manual-research-updates-2025-07-29.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "4. **SandboxAQ (Good Chemistry Acquisition)**",
+      "id": "244c6f79-9a33-818d-8c6e-e10f35bf0bf5",
+      "confidence": 0.85,
+      "source": "data/research/manual-research-updates-2025-07-29.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "5. **Thales Canada**",
+      "id": "244c6f79-9a33-818a-91d3-d4cdd09cba73",
+      "confidence": 0.85,
+      "source": "data/research/manual-research-updates-2025-07-29.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "AInBC (Artificial Intelligence network of BC)",
+      "id": "244c6f79-9a33-8186-98c7-c7aa3c63b094",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Animikii / Animikii Indigenous Technology Inc",
+      "id": "244c6f79-9a33-8115-96dc-fa74e96a94af",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Artemis / Artemisdata",
+      "id": "244c6f79-9a33-8188-b8d7-cfbe12bd1132",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "BC + AI Ecosystem (BC AI Industry Association)",
+      "id": "244c6f79-9a33-81bc-bed8-d844f218bcfd",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "CAIDA (Centre for AI Decision-making and Action) - UBC",
+      "id": "244c6f79-9a33-8146-9543-e3887a88b190",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Creative Destruction Lab (CDL) / CDL-Vancouver",
+      "id": "244c6f79-9a33-8130-a6a6-e0017305a614",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Defang / Defang Software Labs",
+      "id": "244c6f79-9a33-819a-9eed-d02b5d039ecb",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "deltAlyz Canada / deltAlyz Corp",
+      "id": "244c6f79-9a33-8141-98d8-e3a3234e3f84",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Finger Food Advanced Technology Group / Finger Food Studios",
+      "id": "244c6f79-9a33-811c-8b40-c5f0dfd06af6",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Fujitsu / Fujitsu Intelligence Technology",
+      "id": "244c6f79-9a33-81c3-8fa4-f638c7b4187e",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Gaze / Gaze AI",
+      "id": "244c6f79-9a33-81b8-8314-df806d183fff",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Genesis AI / Genesis AI Corp",
+      "id": "244c6f79-9a33-81ec-8e92-e11b9ea7eef2",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Hugo / Hugo Inc",
+      "id": "244c6f79-9a33-818a-9c98-e7724a78fffb",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Kindred / Kindred AI",
+      "id": "244c6f79-9a33-8101-b5a9-d02ed3098620",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Microsoft Research Asia Vancouver / Microsoft Vancouver",
+      "id": "244c6f79-9a33-8138-8b2b-fae793475b11",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Motion Metrics / Weir Motion Metrics",
+      "id": "244c6f79-9a33-811e-995d-c7e4602b9646",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Olive / Olive Technologies, Inc",
+      "id": "244c6f79-9a33-81ae-9863-ca22999cfabe",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "OnDeck Fisheries / OnDeck Fisheries AI",
+      "id": "244c6f79-9a33-817b-bed0-ec5dcb88c237",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Pacific Laboratory for Artificial Intelligence (PLAI)",
+      "id": "244c6f79-9a33-81b2-b202-f3a7da2372ba",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "RBC Borealis / RBC Borealis AI (Vancouver Lab)",
+      "id": "244c6f79-9a33-81d1-a3af-dc5b73c6b00f",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Responsive AI / Responsive AI (Responsive Inc.)",
+      "id": "244c6f79-9a33-8160-afb1-de81a68415f0",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "SandboxAQ",
+      "id": "244c6f79-9a33-8165-bff6-d95756de0507",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Spare / Spare Technologies",
+      "id": "244c6f79-9a33-81d0-94cc-fa9be6b61830",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Thales / Thales Canada",
+      "id": "244c6f79-9a33-81ad-bb41-c31cd9280c98",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Trustworthy AI Lab / Trustworthy AI Lab - SFU",
+      "id": "244c6f79-9a33-8185-90ef-e4276fd5d208",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "UBC CAIDA Center / UBC Centre for AI Decision-making and Action (CAIDA)",
+      "id": "244c6f79-9a33-818e-8efe-ef6b9b21530d",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Vancouver AI Community (VanAI) / Vancouver AI Meetup (VAM!)",
+      "id": "244c6f79-9a33-81c1-b0f2-c825824f8485",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "VIATEC (Fort Tectoria) / VIATEC AI Meetups",
+      "id": "244c6f79-9a33-8161-86e0-ed017f44d292",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "VRFY Inc. / VRIFY Technology",
+      "id": "244c6f79-9a33-8142-8ba8-db3f7f416516",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Weir Motion Metrics",
+      "id": "244c6f79-9a33-81f6-8346-cbce4b6da132",
+      "confidence": 0.85,
+      "source": "data/research/comprehensive-organization-contact-list.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Major Tech Companies & Enterprise (15)",
+      "id": "244c6f79-9a33-8141-996d-dc9cb518c0c3",
+      "confidence": 0.85,
+      "source": "data/research/website-address-research-2025-07-29.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Academic & Research (12)",
+      "id": "244c6f79-9a33-8175-adc6-f820737971b3",
+      "confidence": 0.85,
+      "source": "data/research/website-address-research-2025-07-29.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    },
+    {
+      "name": "Investment & Accelerators (15)",
+      "id": "244c6f79-9a33-818d-96e8-e5138ea3add8",
+      "confidence": 0.85,
+      "source": "data/research/website-address-research-2025-07-29.md",
+      "fieldsAdded": [
+        "Website",
+        "BC Region",
+        "City/Region",
+        "Data Source",
+        "Date Added"
+      ]
+    }
+  ]
+}

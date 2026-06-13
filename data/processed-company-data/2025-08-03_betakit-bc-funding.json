@@ -1,0 +1,569 @@
+{
+  "timestamp": "2025-08-03T06:38:37.076Z",
+  "source": "BetaKit",
+  "totalCompanies": 10,
+  "aiCompanies": 9,
+  "totalFundingRecords": 10,
+  "companies": [
+    {
+      "companyName": "AlayaCare",
+      "discoveredAt": "2025-08-03T06:38:30.962Z",
+      "fundingRounds": [
+        {
+          "amount": 81,
+          "amountRaw": "$81 million",
+          "round": "Series C",
+          "date": "August 27, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+          "leadInvestor": null,
+          "investors": [],
+          "source": "https://betakit.com/alayacare-secures-15-million-debt-facility-from-cibc-innovation-banking/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 81,
+      "investors": [],
+      "description": "Montreal-based healthtech startup AlayaCare has secured $15 million CAD in growth capital financing from CIBC Innovation Banking.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/alayacare-secures-15-million-debt-facility-from-cibc-innovation-banking/",
+          "title": "AlayaCare secures $15 million debt facility from CIBC Innovation Banking",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": false
+    },
+    {
+      "companyName": "MacroHealth",
+      "discoveredAt": "2025-08-03T06:37:11.553Z",
+      "fundingRounds": [
+        {
+          "amount": 54,
+          "amountRaw": "$54 million",
+          "round": "Series A",
+          "date": "November 6, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+          "leadInvestor": null,
+          "investors": [],
+          "source": "https://betakit.com/macrohealth-raises-54-million-cad-series-a-to-hire-new-talent-in-vancouver/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 54,
+      "investors": [],
+      "description": "Healthtech startup MacroHealth, which offers a platform that optimizes the buying and selling of health services, has raised a $54 million CAD ($41 million USD) Series A round of financing.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/macrohealth-raises-54-million-cad-series-a-to-hire-new-talent-in-vancouver/",
+          "title": "MacroHealth raises $54 million CAD Series A to hire new talent in Vancouver",
+          "type": "BetaKit Article"
+        },
+        {
+          "url": "https://betakit.com/macrohealth-raises-54-million-cad-series-a-to-hire-new-talent-in-vancouver/",
+          "title": "MacroHealth raises $54 million CAD Series A to hire new talent in Vancouver",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    },
+    {
+      "companyName": "Vancouver cleantech company General Fusion",
+      "discoveredAt": "2025-08-03T06:37:14.750Z",
+      "fundingRounds": [
+        {
+          "amount": 49.3,
+          "amountRaw": "$49.3 million",
+          "round": "Series E",
+          "date": "December 17, 2019\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+          "leadInvestor": "Singapore-based investment firm Temasek Holdings Private Limited",
+          "investors": [
+            "Singapore-based investment firm Temasek Holdings Private Limited",
+            "the DLF Group",
+            "Gimv",
+            "I2BF Global Ventures",
+            "Disruptive Technology Advisers",
+            "Hatch",
+            "several individual impact investors"
+          ],
+          "source": "https://betakit.com/vancouver-cleantech-company-general-fusion-raises-85-million-cad-series-e/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 49.3,
+      "investors": [
+        "Singapore-based investment firm Temasek Holdings Private Limited",
+        "the DLF Group",
+        "Gimv",
+        "I2BF Global Ventures",
+        "Disruptive Technology Advisers",
+        "Hatch",
+        "several individual impact investors"
+      ],
+      "description": "Vancouver-based General Fusion, which is developing what it calls a limitless, clean, emission-free, and cost-competitive alternative for power generation, has announced the close of an $85 million CAD ($65 million USD) Series E round.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/vancouver-cleantech-company-general-fusion-raises-85-million-cad-series-e/",
+          "title": "Vancouver cleantech company General Fusion raises $85 million CAD Series E",
+          "type": "BetaKit Article"
+        },
+        {
+          "url": "https://betakit.com/vancouver-cleantech-company-general-fusion-raises-85-million-cad-series-e/",
+          "title": "Vancouver cleantech company General Fusion raises $85 million CAD Series E",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    },
+    {
+      "companyName": "Vancouver’s BuildDirect",
+      "discoveredAt": "2025-08-03T06:37:21.462Z",
+      "fundingRounds": [
+        {
+          "amount": 30,
+          "amountRaw": "$30 million",
+          "round": "series B",
+          "date": "January 22, 2014\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025",
+          "leadInvestor": "Mohr Davidow Ventures",
+          "investors": [
+            "Mohr Davidow Ventures",
+            "supported BDC Venture Capital",
+            "among others"
+          ],
+          "source": "https://betakit.com/vancouvers-builddirect-raises-30-million-series-b-round/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 30,
+      "investors": [
+        "Mohr Davidow Ventures",
+        "supported BDC Venture Capital",
+        "among others"
+      ],
+      "description": "In a home-building market worth $492 billion, Vancouver’s BuildDirect has taken a major step forward.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/vancouvers-builddirect-raises-30-million-series-b-round/",
+          "title": "Vancouver’s BuildDirect Raises $30 Million Series B Round",
+          "type": "BetaKit Article"
+        },
+        {
+          "url": "https://betakit.com/vancouvers-builddirect-raises-30-million-series-b-round/",
+          "title": "Vancouver’s BuildDirect Raises $30 Million Series B Round",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    },
+    {
+      "companyName": "Vancouver cleantech Inventys",
+      "discoveredAt": "2025-08-03T06:37:16.874Z",
+      "fundingRounds": [
+        {
+          "amount": 23.5,
+          "amountRaw": "$23.5 million",
+          "round": "Series C",
+          "date": "June 25, 2019\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+          "leadInvestor": null,
+          "investors": [],
+          "source": "https://betakit.com/vancouver-cleantech-inventys-closes-series-c-at-34-million-cad/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 23.5,
+      "investors": [],
+      "description": "Vancouver-based cleantech Inventys has officially closed its Series C round with an investment of $13 million CAD, bringing its total funds raised for this round to $34 million CAD.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/vancouver-cleantech-inventys-closes-series-c-at-34-million-cad/",
+          "title": "Vancouver cleantech Inventys closes Series C at $34 million CAD",
+          "type": "BetaKit Article"
+        },
+        {
+          "url": "https://betakit.com/vancouver-cleantech-inventys-closes-series-c-at-34-million-cad/",
+          "title": "Vancouver cleantech Inventys closes Series C at $34 million CAD",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    },
+    {
+      "companyName": "Vancouver’s Clio",
+      "discoveredAt": "2025-08-03T06:37:20.080Z",
+      "fundingRounds": [
+        {
+          "amount": 20,
+          "amountRaw": "$20 million",
+          "round": "series C",
+          "date": "March 25, 2014\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+          "leadInvestor": "Bessemer Venture Partners",
+          "investors": [
+            "Bessemer Venture Partners"
+          ],
+          "source": "https://betakit.com/whoa-vancouvers-clio-raises-mammoth-20-million-series-c-round/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 20,
+      "investors": [
+        "Bessemer Venture Partners"
+      ],
+      "description": "Vancouver-based startup Clio has raised $20 million in series C money in a round led by Bessemer Venture Partners.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/whoa-vancouvers-clio-raises-mammoth-20-million-series-c-round/",
+          "title": "Vancouver’s Clio Raises Mammoth $20 Million Series C Round",
+          "type": "BetaKit Article"
+        },
+        {
+          "url": "https://betakit.com/whoa-vancouvers-clio-raises-mammoth-20-million-series-c-round/",
+          "title": "Vancouver’s Clio Raises Mammoth $20 Million Series C Round",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    },
+    {
+      "companyName": "Vancouver-based Klue",
+      "discoveredAt": "2025-08-03T06:37:13.682Z",
+      "fundingRounds": [
+        {
+          "amount": 19.7,
+          "amountRaw": "$19.7 million",
+          "round": "Series A",
+          "date": "September 10, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+          "leadInvestor": null,
+          "investors": [],
+          "source": "https://betakit.com/vancouver-based-klue-raises-19-7-million-cad-series-a/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 19.7,
+      "investors": [],
+      "description": "Vancouver-based artificial intelligence startup Klue, which has developed software aimed to give enterprises a better view of their competitors, has raised a $19.7 million CAD ($15 million USD) Series A round of financing. The investment brings the company’s total funding to $24.9 million CAD.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/vancouver-based-klue-raises-19-7-million-cad-series-a/",
+          "title": "Vancouver-based Klue raises $19.7 million CAD Series A",
+          "type": "BetaKit Article"
+        },
+        {
+          "url": "https://betakit.com/vancouver-based-klue-raises-19-7-million-cad-series-a/",
+          "title": "Vancouver-based Klue raises $19.7 million CAD Series A",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    },
+    {
+      "companyName": "Vancouver’s Appnovation",
+      "discoveredAt": "2025-08-03T06:37:12.617Z",
+      "fundingRounds": [
+        {
+          "amount": 11.6,
+          "amountRaw": "$11.6 million",
+          "round": "Series B",
+          "date": "September 28, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+          "leadInvestor": null,
+          "investors": [],
+          "source": "https://betakit.com/vancouvers-appnovation-raises-11-6-million-cad-in-series-b-financing/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 11.6,
+      "investors": [],
+      "description": "Appnovation, a Vancouver-based software startup that develops digital solutions and strategies focused on user experience for businesses, has raised $11.6 million CAD in Series B equity financing.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/vancouvers-appnovation-raises-11-6-million-cad-in-series-b-financing/",
+          "title": "Vancouver’s Appnovation raises $11.6 million CAD in Series B financing",
+          "type": "BetaKit Article"
+        },
+        {
+          "url": "https://betakit.com/vancouvers-appnovation-raises-11-6-million-cad-in-series-b-financing/",
+          "title": "Vancouver’s Appnovation raises $11.6 million CAD in Series B financing",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    },
+    {
+      "companyName": "Vancouver-based Dooly",
+      "discoveredAt": "2025-08-03T06:37:10.513Z",
+      "fundingRounds": [
+        {
+          "amount": 2.64,
+          "amountRaw": "$2.64 million",
+          "round": "Series B",
+          "date": "May 20, 2021\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025",
+          "leadInvestor": "Spark Capital",
+          "investors": [
+            "Spark Capital"
+          ],
+          "source": "https://betakit.com/vancouver-based-dooly-raises-80-million-usd-series-b-round/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 2.64,
+      "investors": [
+        "Spark Capital"
+      ],
+      "description": "Vancouver-based software startup Dooly, which offers a connected workplace solution for sales professionals, has closed an $80 million USD Series B round of funding, bringing the startup’s total funding to date to $105 million USD.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/vancouver-based-dooly-raises-80-million-usd-series-b-round/",
+          "title": "Vancouver-based Dooly raises $80 million USD Series B round",
+          "type": "BetaKit Article"
+        },
+        {
+          "url": "https://betakit.com/vancouver-based-dooly-raises-80-million-usd-series-b-round/",
+          "title": "Vancouver-based Dooly raises $80 million USD Series B round",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    },
+    {
+      "companyName": "CareGuide",
+      "discoveredAt": "2025-08-03T06:37:05.364Z",
+      "fundingRounds": [
+        {
+          "amount": 1,
+          "amountRaw": "$1 million",
+          "round": "Unknown",
+          "date": "June 30, 2015\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025",
+          "leadInvestor": null,
+          "investors": [],
+          "source": "https://betakit.com/careguide-raises-1-million-from-rbc-in-a-way-that-few-canadian-startups-can/",
+          "confidence": 0.95
+        }
+      ],
+      "totalRaised": 1,
+      "investors": [],
+      "description": "John Philip Green is an unorthodox entrepreneur.",
+      "sector": null,
+      "yearFounded": null,
+      "employees": null,
+      "headquarters": null,
+      "website": null,
+      "sources": [
+        {
+          "url": "https://betakit.com/careguide-raises-1-million-from-rbc-in-a-way-that-few-canadian-startups-can/",
+          "title": "CareGuide raises $1 million from RBC in a way that few Canadian startups can",
+          "type": "BetaKit Article"
+        }
+      ],
+      "aiRelated": true
+    }
+  ],
+  "topFundedCompanies": [
+    {
+      "name": "AlayaCare",
+      "totalRaised": 81,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 81,
+        "amountRaw": "$81 million",
+        "round": "Series C",
+        "date": "August 27, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+        "leadInvestor": null,
+        "investors": [],
+        "source": "https://betakit.com/alayacare-secures-15-million-debt-facility-from-cibc-innovation-banking/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "MacroHealth",
+      "totalRaised": 54,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 54,
+        "amountRaw": "$54 million",
+        "round": "Series A",
+        "date": "November 6, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+        "leadInvestor": null,
+        "investors": [],
+        "source": "https://betakit.com/macrohealth-raises-54-million-cad-series-a-to-hire-new-talent-in-vancouver/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "Vancouver cleantech company General Fusion",
+      "totalRaised": 49.3,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 49.3,
+        "amountRaw": "$49.3 million",
+        "round": "Series E",
+        "date": "December 17, 2019\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+        "leadInvestor": "Singapore-based investment firm Temasek Holdings Private Limited",
+        "investors": [
+          "Singapore-based investment firm Temasek Holdings Private Limited",
+          "the DLF Group",
+          "Gimv",
+          "I2BF Global Ventures",
+          "Disruptive Technology Advisers",
+          "Hatch",
+          "several individual impact investors"
+        ],
+        "source": "https://betakit.com/vancouver-cleantech-company-general-fusion-raises-85-million-cad-series-e/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "Vancouver’s BuildDirect",
+      "totalRaised": 30,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 30,
+        "amountRaw": "$30 million",
+        "round": "series B",
+        "date": "January 22, 2014\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025",
+        "leadInvestor": "Mohr Davidow Ventures",
+        "investors": [
+          "Mohr Davidow Ventures",
+          "supported BDC Venture Capital",
+          "among others"
+        ],
+        "source": "https://betakit.com/vancouvers-builddirect-raises-30-million-series-b-round/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "Vancouver cleantech Inventys",
+      "totalRaised": 23.5,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 23.5,
+        "amountRaw": "$23.5 million",
+        "round": "Series C",
+        "date": "June 25, 2019\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+        "leadInvestor": null,
+        "investors": [],
+        "source": "https://betakit.com/vancouver-cleantech-inventys-closes-series-c-at-34-million-cad/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "Vancouver’s Clio",
+      "totalRaised": 20,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 20,
+        "amountRaw": "$20 million",
+        "round": "series C",
+        "date": "March 25, 2014\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+        "leadInvestor": "Bessemer Venture Partners",
+        "investors": [
+          "Bessemer Venture Partners"
+        ],
+        "source": "https://betakit.com/whoa-vancouvers-clio-raises-mammoth-20-million-series-c-round/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "Vancouver-based Klue",
+      "totalRaised": 19.7,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 19.7,
+        "amountRaw": "$19.7 million",
+        "round": "Series A",
+        "date": "September 10, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+        "leadInvestor": null,
+        "investors": [],
+        "source": "https://betakit.com/vancouver-based-klue-raises-19-7-million-cad-series-a/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "Vancouver’s Appnovation",
+      "totalRaised": 11.6,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 11.6,
+        "amountRaw": "$11.6 million",
+        "round": "Series B",
+        "date": "September 28, 2020\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAugust 1, 2025",
+        "leadInvestor": null,
+        "investors": [],
+        "source": "https://betakit.com/vancouvers-appnovation-raises-11-6-million-cad-in-series-b-financing/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "Vancouver-based Dooly",
+      "totalRaised": 2.64,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 2.64,
+        "amountRaw": "$2.64 million",
+        "round": "Series B",
+        "date": "May 20, 2021\n\t\t\t\t\t\t\t\t\tAugust 1, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025",
+        "leadInvestor": "Spark Capital",
+        "investors": [
+          "Spark Capital"
+        ],
+        "source": "https://betakit.com/vancouver-based-dooly-raises-80-million-usd-series-b-round/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "name": "CareGuide",
+      "totalRaised": 1,
+      "rounds": 1,
+      "latestRound": {
+        "amount": 1,
+        "amountRaw": "$1 million",
+        "round": "Unknown",
+        "date": "June 30, 2015\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJuly 31, 2025",
+        "leadInvestor": null,
+        "investors": [],
+        "source": "https://betakit.com/careguide-raises-1-million-from-rbc-in-a-way-that-few-canadian-startups-can/",
+        "confidence": 0.95
+      }
+    }
+  ]
+}

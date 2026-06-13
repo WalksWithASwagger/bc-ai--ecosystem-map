@@ -1,0 +1,12 @@
+{
+  "triplets": [],
+  "statistics": {
+    "totalTriplets": 0,
+    "entityCount": 0,
+    "relationshipTypes": 0,
+    "timeSpan": {
+      "earliest": null,
+      "latest": null
+    }
+  }
+}

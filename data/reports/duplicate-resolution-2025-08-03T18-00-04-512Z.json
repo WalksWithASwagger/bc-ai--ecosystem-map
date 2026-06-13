@@ -1,0 +1,1143 @@
+{
+  "duplicatesFound": 81,
+  "duplicatesResolved": 81,
+  "companiesMerged": 81,
+  "companiesDeleted": 81,
+  "errors": [],
+  "resolutions": [
+    {
+      "normalizedName": "promptplayground",
+      "master": {
+        "id": "244c6f79-9a33-81a5-b78b-f4d774860302",
+        "name": "PromptPlayground"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8148-be96-fc85e61c3138",
+          "name": "PromptPlayground"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "cortexquill",
+      "master": {
+        "id": "244c6f79-9a33-817d-b1a4-ed15fc8b3beb",
+        "name": "CortexQuill"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8142-b823-d3cc22252939",
+          "name": "CortexQuill"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "storyforge",
+      "master": {
+        "id": "244c6f79-9a33-8197-8280-d981da2fa739",
+        "name": "StoryForge AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81f4-a938-fcd4c1081ad0",
+          "name": "StoryForge AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "craftml",
+      "master": {
+        "id": "244c6f79-9a33-8164-9615-dc2de59afc35",
+        "name": "CraftML"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81c7-b885-e57f9e8afab7",
+          "name": "CraftML"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "autoprompt",
+      "master": {
+        "id": "244c6f79-9a33-8120-bb7f-fb0c240461e5",
+        "name": "AutoPrompt"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8163-a48f-ce3019d99648",
+          "name": "AutoPrompt"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "picoplan",
+      "master": {
+        "id": "244c6f79-9a33-8126-80f6-f880433e7c7b",
+        "name": "PicoPlan AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8103-a95f-ef4ba9a072d3",
+          "name": "PicoPlan AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "drag drop law",
+      "master": {
+        "id": "244c6f79-9a33-81cc-91eb-f164bdb22201",
+        "name": "Drag & Drop Law"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81ea-9c4a-fd824c5d1bf6",
+          "name": "Drag & Drop Law"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "hypernatural",
+      "master": {
+        "id": "244c6f79-9a33-81d3-a0ad-d3ba1f10a4d4",
+        "name": "Hypernatural"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81bc-ad35-cbf3ebda87fb",
+          "name": "Hypernatural"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "gsp cloud",
+      "master": {
+        "id": "244c6f79-9a33-81b1-878f-fdc727ed725b",
+        "name": "GSP Cloud"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81f3-8a35-e8eeca15a7c1",
+          "name": "GSP Cloud"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "homesight",
+      "master": {
+        "id": "244c6f79-9a33-810c-a214-c6da756726e1",
+        "name": "HomeSight AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8192-9490-ef3d8921bf5e",
+          "name": "HomeSight AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "beaconfleet",
+      "master": {
+        "id": "244c6f79-9a33-817c-9c80-e4b385464853",
+        "name": "BeaconFleet"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81d9-bdc7-ccbeee8b4635",
+          "name": "BeaconFleet"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "circuittree",
+      "master": {
+        "id": "244c6f79-9a33-819f-abd1-c5ffc373ada5",
+        "name": "CircuitTree"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-814a-940e-dc94a5bde6b4",
+          "name": "CircuitTree"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "skylink grid",
+      "master": {
+        "id": "244c6f79-9a33-81f7-aaa2-c98cf6a6f26f",
+        "name": "SkyLink Grid"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81df-9a2b-cd93a6640dc1",
+          "name": "SkyLink Grid"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "hydrolytics",
+      "master": {
+        "id": "244c6f79-9a33-8107-ab0c-f36134439d72",
+        "name": "Hydrolytics AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81e1-bdc4-d3d23e8980f2",
+          "name": "Hydrolytics AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "envirodx",
+      "master": {
+        "id": "244c6f79-9a33-81e8-9612-f66ffc66db24",
+        "name": "EnviroDX"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81c8-b226-c70a81ab1d92",
+          "name": "EnviroDX"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "sensehome",
+      "master": {
+        "id": "244c6f79-9a33-8123-906a-dbe574736df2",
+        "name": "SenseHome"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8193-9e3b-c4c1ce125d68",
+          "name": "SenseHome"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "nanosense",
+      "master": {
+        "id": "244c6f79-9a33-81a5-b6f7-df48d521f695",
+        "name": "NanoSense AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81a8-b3f6-f996a13755a1",
+          "name": "NanoSense AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "spexcel sensors",
+      "master": {
+        "id": "244c6f79-9a33-8165-8b5a-f1030f4c1f89",
+        "name": "SpexCel Sensors"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-810b-a2db-e9fc04d87491",
+          "name": "SpexCel Sensors"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "littlelit",
+      "master": {
+        "id": "244c6f79-9a33-816b-8dc2-c389d23e4cbf",
+        "name": "LittleLit"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-813a-93bb-d9f934eb5d24",
+          "name": "LittleLit"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "dragonscale",
+      "master": {
+        "id": "244c6f79-9a33-8135-a487-e802eb9b7d7c",
+        "name": "Dragonscale"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81f1-a0b5-c90ffaf69614",
+          "name": "Dragonscale"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "vaultt",
+      "master": {
+        "id": "244c6f79-9a33-8140-9724-d4b1684499fc",
+        "name": "Vaultt AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8173-b4d4-c7e14f8f2a90",
+          "name": "Vaultt AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "tokenfolio",
+      "master": {
+        "id": "244c6f79-9a33-81c9-b8d9-f7c55d33acca",
+        "name": "TokenFolio"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8183-8b2b-c7bfa1587027",
+          "name": "TokenFolio"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "layeredledger",
+      "master": {
+        "id": "244c6f79-9a33-81ab-987c-f047b82a8616",
+        "name": "LayeredLedger"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81bd-82a4-c2e930d5bdf9",
+          "name": "LayeredLedger"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "flow blockchain",
+      "master": {
+        "id": "244c6f79-9a33-81b9-b694-d90b20f815c9",
+        "name": "Flow Blockchain"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81cf-8b7c-f14baa697a6c",
+          "name": "Flow Blockchain"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "idvector",
+      "master": {
+        "id": "244c6f79-9a33-81aa-be0e-c1a5a11ee1d5",
+        "name": "IDVector"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8190-83fc-c48efdfdd1da",
+          "name": "IDVector"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "safevault",
+      "master": {
+        "id": "244c6f79-9a33-8184-82c4-f46bc6a0976d",
+        "name": "SafeVault"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8171-84bf-d192d76a5339",
+          "name": "SafeVault"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "cyberguardians",
+      "master": {
+        "id": "244c6f79-9a33-8108-9867-c09805fb4cff",
+        "name": "CyberGuardians AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81af-a48b-f88526cca7a3",
+          "name": "CyberGuardians AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "cafcybercom",
+      "master": {
+        "id": "244c6f79-9a33-81fd-a952-f987c97d50fd",
+        "name": "CAFCyberCom"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81b6-91fa-f830d8dcd0d8",
+          "name": "CAFCyberCom"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "zerothreat",
+      "master": {
+        "id": "244c6f79-9a33-8193-bca8-f6c42c024745",
+        "name": "ZeroThreat"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-815d-936f-dec26ea6b20a",
+          "name": "ZeroThreat"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "nebulock",
+      "master": {
+        "id": "244c6f79-9a33-8162-a369-c06d65ed3f3d",
+        "name": "Nebulock"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81a9-9a4a-eadc0614013e",
+          "name": "Nebulock"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "geoguard",
+      "master": {
+        "id": "244c6f79-9a33-81c8-b33e-d3deceb1e7d4",
+        "name": "GeoGuard"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81d6-b624-db214fd00105",
+          "name": "GeoGuard"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "geocomply",
+      "master": {
+        "id": "244c6f79-9a33-81df-9c14-cbef669b20a2",
+        "name": "GeoComply"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-818f-8c19-eac3998507bf",
+          "name": "GeoComply"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "styx intelligence",
+      "master": {
+        "id": "244c6f79-9a33-818a-94ff-d4ffcda1abf7",
+        "name": "Styx Intelligence"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-816c-bf9d-e9abb882f646",
+          "name": "Styx Intelligence"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "arcus power",
+      "master": {
+        "id": "244c6f79-9a33-8195-98e9-d3d9f1a55032",
+        "name": "Arcus Power"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81c6-b74e-d97413f7e1f4",
+          "name": "Arcus Power"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "skyscout",
+      "master": {
+        "id": "244c6f79-9a33-8177-ade3-c3fb77abd2c7",
+        "name": "SkyScout AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81fc-890d-d63f47aa9f87",
+          "name": "SkyScout AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "aigreening",
+      "master": {
+        "id": "244c6f79-9a33-81f4-befd-c8be205b40eb",
+        "name": "AIGreening"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81f1-9780-ca54d316b9bc",
+          "name": "AIGreening"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "fireswarm solutions",
+      "master": {
+        "id": "244c6f79-9a33-81ff-81b7-f6fd143c7f54",
+        "name": "FireSwarm Solutions"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8126-8366-c656e9863afd",
+          "name": "FireSwarm Solutions"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "daric clouding solutions",
+      "master": {
+        "id": "244c6f79-9a33-81bf-9a11-dd11744f07a1",
+        "name": "Daric Clouding Solutions"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81d1-b370-e2b121d83c55",
+          "name": "Daric Clouding Solutions"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "affinity group",
+      "master": {
+        "id": "244c6f79-9a33-81de-89ef-cfd1273b5bad",
+        "name": "Affinity Group"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81f2-af53-d225ac472247",
+          "name": "Affinity Group"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "novatone consulting",
+      "master": {
+        "id": "244c6f79-9a33-814b-97d4-f728896516f9",
+        "name": "Novatone Consulting"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-817a-ab23-d87ef1147808",
+          "name": "Novatone Consulting"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "quartech",
+      "master": {
+        "id": "244c6f79-9a33-8183-809b-da9e62c1f9ff",
+        "name": "Quartech Systems"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-812c-8772-c8eeb280c606",
+          "name": "Quartech Systems"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "light",
+      "master": {
+        "id": "244c6f79-9a33-81d8-88dd-fab7c4c9637f",
+        "name": "Light AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8126-9947-ed63748aa868",
+          "name": "Light AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "medbright",
+      "master": {
+        "id": "244c6f79-9a33-8105-8126-c8e13a8d3121",
+        "name": "MedBright AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-811c-a2b5-e8f8d137ec32",
+          "name": "MedBright AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "healwell",
+      "master": {
+        "id": "244c6f79-9a33-819c-b567-e8c0ca3d1adc",
+        "name": "HEALWELL AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8180-ac21-e885983c03b1",
+          "name": "HEALWELL AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "satisfai health",
+      "master": {
+        "id": "244c6f79-9a33-81e3-b79a-f057571ff055",
+        "name": "Satisfai Health"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-818c-9262-dbd042caba60",
+          "name": "Satisfai Health"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "molecular you",
+      "master": {
+        "id": "244c6f79-9a33-815c-9e10-cb05060631d8",
+        "name": "Molecular You"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-818f-97a2-df1a45fb869e",
+          "name": "Molecular You"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "downtownai",
+      "master": {
+        "id": "244c6f79-9a33-81eb-ac39-f72f234697bc",
+        "name": "Downtown.AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-818f-8482-e6fd7f1c45bd",
+          "name": "Downtown.AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "ideon",
+      "master": {
+        "id": "244c6f79-9a33-8160-80c6-c0bf9da4390c",
+        "name": "Ideon Technologies"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8195-8081-fef4f973b60e",
+          "name": "Ideon Technologies"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "ceedar",
+      "master": {
+        "id": "244c6f79-9a33-8165-8c32-c46574d34294",
+        "name": "Ceedar"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8154-b40a-fec7fff96a10",
+          "name": "Ceedar"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "xtao",
+      "master": {
+        "id": "244c6f79-9a33-8178-89e7-ed74ceca8cf5",
+        "name": "xTAO"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-816a-b0d6-d8a2cdbc2381",
+          "name": "xTAO"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "gumloop",
+      "master": {
+        "id": "244c6f79-9a33-8161-b6ef-f084807bfba1",
+        "name": "Gumloop"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-814e-9416-f05d750e498f",
+          "name": "Gumloop"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "exathinklabs",
+      "master": {
+        "id": "244c6f79-9a33-8192-bf30-d4c928d06d1e",
+        "name": "ExaThinkLabs"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8173-a238-e125b65192b3",
+          "name": "ExaThinkLabs"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "second brain",
+      "master": {
+        "id": "244c6f79-9a33-8173-8cf5-edcebd80c54d",
+        "name": "Second Brain"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81fc-a1de-f5d4ef4505d0",
+          "name": "Second Brain"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "doolyai",
+      "master": {
+        "id": "244c6f79-9a33-8193-9694-d0abfbae8974",
+        "name": "Dooly.ai"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8102-b3e8-db3acf768823",
+          "name": "Dooly.ai"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "borderless",
+      "master": {
+        "id": "244c6f79-9a33-81cb-8225-e9b22ad2238d",
+        "name": "Borderless AI"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81d5-b585-db90909d67d2",
+          "name": "Borderless AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "veritree",
+      "master": {
+        "id": "240c6f79-9a33-8152-953e-cf00b1aa7645",
+        "name": "Veritree"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-814f-bb98-d285d3cd4712",
+          "name": "Veritree"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "ak robotics",
+      "master": {
+        "id": "240c6f79-9a33-81b5-9754-d589e8a3ae18",
+        "name": "A&K Robotics"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-812a-bc05-d995142e1324",
+          "name": "A&K Robotics"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "tasktop",
+      "master": {
+        "id": "240c6f79-9a33-81ac-b9eb-e0a1b540af8d",
+        "name": "Tasktop"
+      },
+      "merged": [
+        {
+          "id": "240c6f79-9a33-8196-ac68-cf2d703f5727",
+          "name": "Tasktop Technologies"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "minerva intelligence",
+      "master": {
+        "id": "240c6f79-9a33-815b-9c2b-de11e9dc0aac",
+        "name": "Minerva Intelligence"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81a9-9fde-f2cd37fa2d31",
+          "name": "Minerva Intelligence"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "spare",
+      "master": {
+        "id": "23dc6f79-9a33-81ee-8b58-d03c352fda1d",
+        "name": "Spare"
+      },
+      "merged": [
+        {
+          "id": "240c6f79-9a33-817a-937f-ee3ee94fc341",
+          "name": "Spare Labs"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "gaze",
+      "master": {
+        "id": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+        "name": "Gaze AI"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-8191-aed1-c426c1c54f00",
+          "name": "Gaze"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "compressionai",
+      "master": {
+        "id": "23dc6f79-9a33-81e3-83fe-f975f55614f8",
+        "name": "Compression.ai"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8134-8d1d-eea36cac66d0",
+          "name": "Compression.ai"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "shadeai",
+      "master": {
+        "id": "23dc6f79-9a33-81e2-a85d-e2a0d3f4b05a",
+        "name": "SHADE.ai"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81df-9f92-d4d3592183d2",
+          "name": "SHADE.ai"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "talentfulai",
+      "master": {
+        "id": "23dc6f79-9a33-8164-a83c-f0bc2d8071c7",
+        "name": "Talentful.ai"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81be-b2e5-e4ed7bdbead9",
+          "name": "Talentful.ai"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "theorypractice",
+      "master": {
+        "id": "23dc6f79-9a33-818d-be34-c0fde5433f6c",
+        "name": "Theory+Practice"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-813f-93e7-ece94b2b5bf8",
+          "name": "Theory+Practice"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "judiai",
+      "master": {
+        "id": "23dc6f79-9a33-8172-8cd8-c57add383203",
+        "name": "Judi.ai"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-815f-ae66-c94cf2837b0b",
+          "name": "JUDI.ai"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "arostercom",
+      "master": {
+        "id": "23dc6f79-9a33-814a-a50f-cc9e3d903770",
+        "name": "ARoster.com"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-812e-b046-ffe47c401fe6",
+          "name": "ARoster.com"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "helioshelmet",
+      "master": {
+        "id": "244c6f79-9a33-8172-9cb2-d7373ae79dfb",
+        "name": "Helios-Helmet"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-81db-8d0a-c513f276a998",
+          "name": "Helios-Helmet"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "virtualreceptionai",
+      "master": {
+        "id": "244c6f79-9a33-811f-bfff-f5af278ee9cc",
+        "name": "VirtualReception.ai"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-8189-851e-edcd4773d1ab",
+          "name": "VirtualReception.AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "kanooq industries",
+      "master": {
+        "id": "23dc6f79-9a33-8171-97ad-fcff2baf0a58",
+        "name": "Kanooq Industries Inc."
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-810e-99d6-d2e8fee5bb97",
+          "name": "Kanooq Industries"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "plantiga",
+      "master": {
+        "id": "23dc6f79-9a33-81f1-96e2-cd554411b7c7",
+        "name": "Plantiga Technologies Inc"
+      },
+      "merged": [
+        {
+          "id": "23fc6f79-9a33-81a8-b297-c6d626afaa49",
+          "name": "Plantiga"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "usediscoveryai",
+      "master": {
+        "id": "244c6f79-9a33-81e7-b612-c67fd86ded2e",
+        "name": "usediscovery.ai"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-81c6-afcd-d50471279ba5",
+          "name": "usediscovery.ai"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "olive",
+      "master": {
+        "id": "23dc6f79-9a33-8175-abc2-c27ff5b33e1c",
+        "name": "Olive"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-81b6-926f-cfaafdcd2f57",
+          "name": "Olive Technologies, Inc"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "downtownai",
+      "master": {
+        "id": "244c6f79-9a33-81eb-ac39-f72f234697bc",
+        "name": "Downtown.AI"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-81e3-b7d3-f9edb5c008f3",
+          "name": "Downtown.AI"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "hugo",
+      "master": {
+        "id": "23fc6f79-9a33-81df-94fd-cb462dd55bdf",
+        "name": "Hugo Inc"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-817d-ae48-ed7cbd8c346f",
+          "name": "Hugo"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "owlco",
+      "master": {
+        "id": "244c6f79-9a33-81a0-abf4-ea7cfa13f10b",
+        "name": "Owl.co"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-815a-a13e-c6838cb71ff1",
+          "name": "Owl.co"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "levrai",
+      "master": {
+        "id": "23dc6f79-9a33-81ba-83f3-c599ff16a137",
+        "name": "Levr.ai"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81fb-b093-d5c180c5fe8c",
+          "name": "Levr.ai"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "adastra",
+      "master": {
+        "id": "236c6f79-9a33-810a-89d0-e201fb5a9f8a",
+        "name": "Adastra Corporation"
+      },
+      "merged": [
+        {
+          "id": "23dc6f79-9a33-811c-82cc-e99db3585c35",
+          "name": "Adastra"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "artemis",
+      "master": {
+        "id": "240c6f79-9a33-81d1-863f-db1e93708b2d",
+        "name": "Artemis AI"
+      },
+      "merged": [
+        {
+          "id": "236c6f79-9a33-81cd-b214-fa0c242ac127",
+          "name": "Artemis"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "dwave",
+      "master": {
+        "id": "1f8c6f79-9a33-81cb-926d-ec8330e0ff04",
+        "name": "D-Wave Systems"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-81e7-b9ad-d1ba07d34f8d",
+          "name": "D-Wave"
+        }
+      ],
+      "status": "resolved"
+    },
+    {
+      "normalizedName": "doolyai",
+      "master": {
+        "id": "1f1c6f79-9a33-817c-aad0-f1f298dc2dd2",
+        "name": "Dooly.ai"
+      },
+      "merged": [
+        {
+          "id": "244c6f79-9a33-8193-9694-d0abfbae8974",
+          "name": "Dooly.ai"
+        }
+      ],
+      "status": "resolved"
+    }
+  ]
+}

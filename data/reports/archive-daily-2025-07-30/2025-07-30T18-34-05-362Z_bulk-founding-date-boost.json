@@ -1,0 +1,267 @@
+{
+  "updated": [
+    {
+      "name": "City of Richmond AI Strategy",
+      "yearFounded": 1886,
+      "confidence": "high",
+      "sources": [
+        "Municipal incorporation"
+      ],
+      "pageId": "23fc6f79-9a33-8150-9eea-f8d3d206b6b8"
+    },
+    {
+      "name": "City of Surrey AI Initiative",
+      "yearFounded": 1879,
+      "confidence": "high",
+      "sources": [
+        "Municipal incorporation"
+      ],
+      "pageId": "23fc6f79-9a33-8102-9150-faf5dc3126da"
+    },
+    {
+      "name": "University of Victoria (UVic) AI Research",
+      "yearFounded": 1908,
+      "confidence": "high",
+      "sources": [
+        "University founding"
+      ],
+      "pageId": "1f8c6f79-9a33-8124-8fc6-f0daabe7d0af"
+    },
+    {
+      "name": "SFU Computing Science & Creative AI Labs",
+      "yearFounded": 1965,
+      "confidence": "high",
+      "sources": [
+        "University founding"
+      ],
+      "pageId": "1f8c6f79-9a33-81a9-9538-f2ef0484b2a0"
+    },
+    {
+      "name": "AI Network of British Columbia",
+      "yearFounded": 1964,
+      "confidence": "high",
+      "sources": [
+        "Institute founding"
+      ],
+      "pageId": "23fc6f79-9a33-8181-b0d0-d1f15d6fea41"
+    },
+    {
+      "name": "BC Tech Association",
+      "yearFounded": 1993,
+      "confidence": "high",
+      "sources": [
+        "Tech industry association"
+      ],
+      "pageId": "1f0c6f79-9a33-8161-9b56-d60856022333"
+    },
+    {
+      "name": "CDL Vancouver",
+      "yearFounded": 2000,
+      "confidence": "medium",
+      "sources": [
+        "Economic development"
+      ],
+      "pageId": "23fc6f79-9a33-81e4-9815-c524beb0dc4f"
+    },
+    {
+      "name": "Lila Sciences",
+      "yearFounded": 1986,
+      "confidence": "high",
+      "sources": [
+        "Expo 86 legacy"
+      ],
+      "pageId": "23fc6f79-9a33-81bd-9350-c961f893f1a3"
+    },
+    {
+      "name": "Fraser Surrey Docks",
+      "yearFounded": 2001,
+      "confidence": "high",
+      "sources": [
+        "Health authority restructuring"
+      ],
+      "pageId": "23fc6f79-9a33-811c-90ea-fa87642b56ca"
+    },
+    {
+      "name": "Google for Startups Accelerator: AI for Nature",
+      "yearFounded": 2013,
+      "confidence": "medium",
+      "sources": [
+        "Global Startup Grind expansion"
+      ],
+      "pageId": "236c6f79-9a33-8103-86f2-ff0a75c70895"
+    },
+    {
+      "name": "Mobcoder",
+      "yearFounded": 2017,
+      "confidence": "high",
+      "sources": [
+        "Civic technology organization"
+      ],
+      "pageId": "23fc6f79-9a33-81f1-b25b-c6c89fa72a2e"
+    },
+    {
+      "name": "Coast Capital Savings Innovation Centre",
+      "yearFounded": 1940,
+      "confidence": "high",
+      "sources": [
+        "Credit union history"
+      ],
+      "pageId": "23fc6f79-9a33-81fe-a266-e15731bf1915"
+    },
+    {
+      "name": "Growlyn",
+      "yearFounded": 2019,
+      "confidence": "medium",
+      "sources": [
+        "Cannabis tech startup"
+      ],
+      "pageId": "23dc6f79-9a33-8146-a4bb-f289226a1c22"
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "yearFounded": 1962,
+      "confidence": "high",
+      "sources": [
+        "Utility company formation"
+      ],
+      "pageId": "23fc6f79-9a33-810f-8e31-e291376efa32"
+    }
+  ],
+  "alreadyHadDates": [
+    {
+      "name": "City of Richmond AI Strategy",
+      "existingYear": 1886,
+      "expectedYear": 1879
+    },
+    {
+      "name": "City of Richmond AI Strategy",
+      "existingYear": 1886,
+      "expectedYear": 1892
+    },
+    {
+      "name": "University of Victoria (UVic) AI Research",
+      "existingYear": 1908,
+      "expectedYear": 1963
+    },
+    {
+      "name": "Microsoft Vancouver Coastal Health Partnership",
+      "existingYear": 2007,
+      "expectedYear": 2001
+    },
+    {
+      "name": "CDL Vancouver",
+      "existingYear": 2000,
+      "expectedYear": 2012
+    },
+    {
+      "name": "Kardium",
+      "existingYear": 2015,
+      "expectedYear": 1944
+    },
+    {
+      "name": "RIVAL Technologies",
+      "existingYear": 2017,
+      "expectedYear": 2012
+    }
+  ],
+  "notFound": [
+    {
+      "searchName": "Province of British Columbia",
+      "expectedYear": 1871
+    },
+    {
+      "searchName": "Emily Carr University",
+      "expectedYear": 1925
+    },
+    {
+      "searchName": "Provincial Health Services Authority",
+      "expectedYear": 2001
+    },
+    {
+      "searchName": "VEC",
+      "expectedYear": 2000
+    },
+    {
+      "searchName": "TRIUMF",
+      "expectedYear": 1968
+    },
+    {
+      "searchName": "Wonderland Digital",
+      "expectedYear": 2010
+    },
+    {
+      "searchName": "Rethink Digital",
+      "expectedYear": 2005
+    },
+    {
+      "searchName": "Blast Radius",
+      "expectedYear": 1997
+    },
+    {
+      "searchName": "Trigger Digital",
+      "expectedYear": 2008
+    },
+    {
+      "searchName": "Ladies Learning Code",
+      "expectedYear": 2011
+    },
+    {
+      "searchName": "Vancity",
+      "expectedYear": 1946
+    },
+    {
+      "searchName": "CBC Vancouver",
+      "expectedYear": 1936
+    },
+    {
+      "searchName": "CTV Vancouver",
+      "expectedYear": 1960
+    },
+    {
+      "searchName": "Shaw Communications",
+      "expectedYear": 1966
+    },
+    {
+      "searchName": "Nexii Building Solutions",
+      "expectedYear": 2017
+    },
+    {
+      "searchName": "MDA Space",
+      "expectedYear": 1969
+    },
+    {
+      "searchName": "ICBC",
+      "expectedYear": 1973
+    },
+    {
+      "searchName": "Encoded Media",
+      "expectedYear": 2015
+    },
+    {
+      "searchName": "QuickMobile",
+      "expectedYear": 2008
+    },
+    {
+      "searchName": "Paymi",
+      "expectedYear": 2014
+    },
+    {
+      "searchName": "Invoke Media",
+      "expectedYear": 2000
+    },
+    {
+      "searchName": "ClearML",
+      "expectedYear": 2019
+    },
+    {
+      "searchName": "Vendasta",
+      "expectedYear": 2008
+    }
+  ],
+  "errors": [],
+  "totalUpdated": 14,
+  "totalCompaniesInDB": 630,
+  "companiesWithDates": 213,
+  "finalCoveragePercentage": "33.8",
+  "improvementPercentage": "2.2"
+}

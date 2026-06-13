@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "analysisDate": "2025-08-05T01:04:49.052Z",
+    "trendingFunders": 10,
+    "marketTrends": 5,
+    "opportunities": 5,
+    "source": "market_trend_analysis"
+  },
+  "marketTrends": [
+    {
+      "trend": "AI/ML Infrastructure Boom",
+      "description": "Massive investment in AI infrastructure and tooling",
+      "hotness": 95,
+      "fundingVolume": "$15B+ in 2024",
+      "keyPlayers": [
+        "NVIDIA",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "fundingTypes": [
+        "Venture Capital",
+        "Corporate VC",
+        "Strategic Investment"
+      ]
+    },
+    {
+      "trend": "Climate Tech Resurgence",
+      "description": "Renewed focus on climate solutions and cleantech",
+      "hotness": 88,
+      "fundingVolume": "$8B+ in 2024",
+      "keyPlayers": [
+        "Breakthrough Energy",
+        "Climate tech VCs"
+      ],
+      "fundingTypes": [
+        "Impact Investing",
+        "Government Grants",
+        "Corporate Investment"
+      ]
+    },
+    {
+      "trend": "Canadian Government Tech Support",
+      "description": "Increased Canadian federal support for tech innovation",
+      "hotness": 82,
+      "fundingVolume": "$2B+ allocated",
+      "keyPlayers": [
+        "Government of Canada",
+        "Provincial programs"
+      ],
+      "fundingTypes": [
+        "Grants",
+        "Tax Credits",
+        "Loan Programs"
+      ]
+    },
+    {
+      "trend": "Enterprise AI Adoption",
+      "description": "Enterprises investing heavily in AI integration",
+      "hotness": 90,
+      "fundingVolume": "$12B+ in enterprise AI",
+      "keyPlayers": [
+        "Microsoft",
+        "Google",
+        "Salesforce"
+      ],
+      "fundingTypes": [
+        "Corporate VC",
+        "Strategic Partnerships",
+        "Acquisition"
+      ]
+    },
+    {
+      "trend": "Quantum Computing Investment",
+      "description": "Growing investment in quantum technology",
+      "hotness": 75,
+      "fundingVolume": "$1.5B+ in 2024",
+      "keyPlayers": [
+        "IBM",
+        "Google",
+        "Canadian quantum companies"
+      ],
+      "fundingTypes": [
+        "Government Research",
+        "Corporate R&D",
+        "VC"
+      ]
+    }
+  ],
+  "trendingFunders": [
+    {
+      "id": "trend_1754355889052_iqe2uaivo",
+      "name": "A16Z AI Fund",
+      "type": "Specialized VC",
+      "location": "San Francisco, CA",
+      "website": "https://a16z.com/ai",
+      "contact": "info@a16z.com",
+      "description": "Dedicated AI-focused fund from Andreessen Horowitz",
+      "focusAreas": [
+        "AI Infrastructure",
+        "ML Tools",
+        "AI Applications"
+      ],
+      "ticketSize": "$1M-$50M",
+      "source": "trend_analysis",
+      "trend": "AI/ML Infrastructure Boom",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 90.08166704582449,
+      "priority": "high",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_kcsp7b7bl",
+      "name": "OpenAI Startup Fund",
+      "type": "Corporate VC",
+      "location": "San Francisco, CA",
+      "website": "https://openai.com/fund",
+      "contact": "info@openai.com",
+      "description": "Early-stage fund backed by OpenAI for AI startups",
+      "focusAreas": [
+        "AI Applications",
+        "AI Tools",
+        "AGI Research"
+      ],
+      "ticketSize": "$100K-$10M",
+      "source": "trend_analysis",
+      "trend": "AI/ML Infrastructure Boom",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 95.45505485553595,
+      "priority": "high",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_1wf91xiv6",
+      "name": "Breakthrough Energy Ventures",
+      "type": "Climate VC",
+      "location": "Seattle, WA",
+      "website": "https://www.breakthroughenergy.org",
+      "contact": "info@breakthroughenergy.org",
+      "description": "Bill Gates-backed climate technology fund",
+      "focusAreas": [
+        "Clean Energy",
+        "Climate Solutions",
+        "Carbon Capture"
+      ],
+      "ticketSize": "$5M-$100M",
+      "source": "trend_analysis",
+      "trend": "Climate Tech Resurgence",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 94.3457140802607,
+      "priority": "medium",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_iwzb83rse",
+      "name": "Climate Pledge Fund",
+      "type": "Corporate Climate VC",
+      "location": "Seattle, WA",
+      "website": "https://www.amazon.com/climatepledgefund",
+      "contact": "info@amazon.com",
+      "description": "Amazon's $10B climate investment fund",
+      "focusAreas": [
+        "Sustainable Transport",
+        "Clean Energy",
+        "Manufacturing"
+      ],
+      "ticketSize": "$2M-$50M",
+      "source": "trend_analysis",
+      "trend": "Climate Tech Resurgence",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 87.17078012456724,
+      "priority": "medium",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_sx8qp7int",
+      "name": "Canada Growth Fund",
+      "type": "Government Investment",
+      "location": "Ottawa, ON",
+      "website": "https://cgf-fcc.ca",
+      "contact": "info@cgf-fcc.ca",
+      "description": "$15B government fund for Canadian growth companies",
+      "focusAreas": [
+        "Clean Technology",
+        "Critical Minerals",
+        "Industrial Transformation"
+      ],
+      "ticketSize": "$50M-$500M",
+      "source": "trend_analysis",
+      "trend": "Canadian Government Tech Support",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 98.8937443896422,
+      "priority": "medium",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_6pcde2cqq",
+      "name": "Strategic Innovation Fund",
+      "type": "Government Program",
+      "location": "Ottawa, ON",
+      "website": "https://www.ic.gc.ca/eic/site/125.nsf/eng/home",
+      "contact": "info@ic.gc.ca",
+      "description": "Major federal innovation funding program",
+      "focusAreas": [
+        "Advanced Manufacturing",
+        "Digital Technologies",
+        "Clean Growth"
+      ],
+      "ticketSize": "$1M-$100M",
+      "source": "trend_analysis",
+      "trend": "Canadian Government Tech Support",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 89.25889826925913,
+      "priority": "medium",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_ygb94406y",
+      "name": "Salesforce Ventures AI Fund",
+      "type": "Corporate VC",
+      "location": "San Francisco, CA",
+      "website": "https://salesforceventures.com",
+      "contact": "info@salesforceventures.com",
+      "description": "Salesforce corporate venture arm focusing on AI",
+      "focusAreas": [
+        "Enterprise AI",
+        "CRM Tech",
+        "Business Intelligence"
+      ],
+      "ticketSize": "$1M-$25M",
+      "source": "trend_analysis",
+      "trend": "Enterprise AI Adoption",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 91.17966800587078,
+      "priority": "medium",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_7wbsqkvlf",
+      "name": "Microsoft M12 AI Initiative",
+      "type": "Corporate VC",
+      "location": "Redmond, WA",
+      "website": "https://m12.vc",
+      "contact": "info@m12.vc",
+      "description": "Microsoft's venture fund with AI focus",
+      "focusAreas": [
+        "Enterprise Software",
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "ticketSize": "$2M-$50M",
+      "source": "trend_analysis",
+      "trend": "Enterprise AI Adoption",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 92.96774477682553,
+      "priority": "medium",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_7u1kkssq3",
+      "name": "Quantum Industry Canada",
+      "type": "Industry Association",
+      "location": "Toronto, ON",
+      "website": "https://quantumindustrycanada.ca",
+      "contact": "info@quantumindustrycanada.ca",
+      "description": "Canadian quantum technology ecosystem support",
+      "focusAreas": [
+        "Quantum Computing",
+        "Quantum Communications",
+        "Quantum Sensing"
+      ],
+      "ticketSize": "Varies",
+      "source": "trend_analysis",
+      "trend": "Quantum Computing Investment",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 91.92081053496314,
+      "priority": "low",
+      "status": "trending"
+    },
+    {
+      "id": "trend_1754355889052_sw61r4472",
+      "name": "IBM Quantum Accelerator",
+      "type": "Corporate Program",
+      "location": "Armonk, NY",
+      "website": "https://www.ibm.com/quantum",
+      "contact": "info@ibm.com",
+      "description": "IBM's quantum startup support program",
+      "focusAreas": [
+        "Quantum Computing",
+        "Quantum Software",
+        "Quantum Applications"
+      ],
+      "ticketSize": "$100K-$5M",
+      "source": "trend_analysis",
+      "trend": "Quantum Computing Investment",
+      "discoveredAt": "2025-08-05T01:04:49.052Z",
+      "confidence": 94.58039479972325,
+      "priority": "low",
+      "status": "trending"
+    }
+  ],
+  "fundingOpportunities": [
+    {
+      "title": "AI Infrastructure Grant Stacking",
+      "description": "Combine multiple AI-focused grants for infrastructure development",
+      "trends": [
+        "AI/ML Infrastructure Boom",
+        "Canadian Government Tech Support"
+      ],
+      "estimatedValue": "$500K-$2M",
+      "timeframe": "3-6 months",
+      "difficulty": "medium",
+      "funders": [
+        "Strategic Innovation Fund",
+        "IRAP",
+        "MITACS",
+        "OpenAI Startup Fund"
+      ],
+      "strategy": "Apply to government programs first, then leverage for private funding"
+    },
+    {
+      "title": "Climate Tech Corporate Partnership",
+      "description": "Partner with large corporates seeking climate commitments",
+      "trends": [
+        "Climate Tech Resurgence"
+      ],
+      "estimatedValue": "$1M-$10M",
+      "timeframe": "6-12 months",
+      "difficulty": "high",
+      "funders": [
+        "Climate Pledge Fund",
+        "Breakthrough Energy",
+        "Microsoft Climate Fund"
+      ],
+      "strategy": "Focus on measurable climate impact and corporate sustainability goals"
+    },
+    {
+      "title": "Enterprise AI SaaS Funding Path",
+      "description": "Target enterprise-focused AI/ML solutions",
+      "trends": [
+        "Enterprise AI Adoption",
+        "AI/ML Infrastructure Boom"
+      ],
+      "estimatedValue": "$2M-$25M",
+      "timeframe": "4-8 months",
+      "difficulty": "medium",
+      "funders": [
+        "Salesforce Ventures",
+        "Microsoft M12",
+        "Greylock Partners"
+      ],
+      "strategy": "Build enterprise pilot customers before approaching VCs"
+    },
+    {
+      "title": "Canadian Quantum Ecosystem Play",
+      "description": "Leverage Canada's quantum leadership for funding",
+      "trends": [
+        "Quantum Computing Investment",
+        "Canadian Government Tech Support"
+      ],
+      "estimatedValue": "$100K-$5M",
+      "timeframe": "6-18 months",
+      "difficulty": "high",
+      "funders": [
+        "Quantum Industry Canada",
+        "IBM Quantum Accelerator",
+        "Canada Growth Fund"
+      ],
+      "strategy": "Focus on quantum applications with clear commercial potential"
+    },
+    {
+      "title": "Cross-Border AI Innovation",
+      "description": "Access both Canadian and US AI funding ecosystems",
+      "trends": [
+        "AI/ML Infrastructure Boom",
+        "Canadian Government Tech Support"
+      ],
+      "estimatedValue": "$1M-$50M",
+      "timeframe": "8-16 months",
+      "difficulty": "high",
+      "funders": [
+        "A16Z AI Fund",
+        "Strategic Innovation Fund",
+        "BDC Capital"
+      ],
+      "strategy": "Establish both Canadian and US presence for maximum access"
+    }
+  ],
+  "processingLog": [
+    "[2025-08-05T01:04:49.048Z] 📈 Starting trend-based funding discovery...",
+    "[2025-08-05T01:04:49.052Z] 📈 Analyzing current funding trends...",
+    "[2025-08-05T01:04:49.052Z] 📊 Identified 5 major funding trends",
+    "[2025-08-05T01:04:49.052Z] 🔥 Discovering funders based on current trends...",
+    "[2025-08-05T01:04:49.052Z] 🔥 Discovered 10 trending funders",
+    "[2025-08-05T01:04:49.052Z] 💡 Generating funding opportunities based on trends...",
+    "[2025-08-05T01:04:49.052Z] 💡 Generated 5 funding opportunities"
+  ]
+}

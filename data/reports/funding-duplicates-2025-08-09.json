@@ -1,0 +1,930 @@
+{
+  "timestamp": "2025-08-09T17:39:56.301Z",
+  "databaseId": "246c6f79-9a33-81ee-a3f1-e329b7120b44",
+  "summary": {
+    "totalDuplicateSets": 55,
+    "totalDuplicateEntries": 63
+  },
+  "duplicates": [
+    {
+      "normalized": "proteus fund https www proteusfund org",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8172-b947-f28537138e43",
+          "name": "Proteus Fund: https://www.proteusfund.org/",
+          "created": "2025-08-05T03:30:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-817b-86b0-e64b260870cf",
+          "name": "Proteus Fund: https://www.proteusfund.org/",
+          "created": "2025-08-05T03:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "democracy fund https www democracyfund org",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8177-8940-c1e7f3de7180",
+          "name": "Democracy Fund: https://www.democracyfund.org/",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8195-aeb3-fc96d4f48417",
+          "name": "Democracy Fund: https://www.democracyfund.org/",
+          "created": "2025-08-05T03:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "amazon journalism fund https journalism amazon com",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8164-8f16-cfa96546cf0b",
+          "name": "Amazon Journalism Fund: https://journalism.amazon.com/",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81aa-a582-c84e0dd943f7",
+          "name": "Amazon Journalism Fund: https://journalism.amazon.com/",
+          "created": "2025-08-05T03:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "lenfestinstitute",
+      "count": 3,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81b1-8f1d-c5a454d10e2a",
+          "name": "Lenfestinstitute",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8195-ae95-feee0bf080d5",
+          "name": "Lenfestinstitute",
+          "created": "2025-08-05T03:28:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8103-878f-d7a030adf242",
+          "name": "Lenfestinstitute",
+          "created": "2025-08-05T03:27:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "facebook",
+      "count": 3,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81c3-8a50-cb2456dc4f7c",
+          "name": "Facebook",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81da-aea3-c96657d38a5c",
+          "name": "Facebook",
+          "created": "2025-08-05T03:28:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-815b-a0fb-f06954629f93",
+          "name": "Facebook",
+          "created": "2025-08-05T03:27:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "gatesfoundation",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8160-ae70-ed246951072c",
+          "name": "Gatesfoundation",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81aa-8fba-d39254fd4ac7",
+          "name": "Gatesfoundation",
+          "created": "2025-08-05T03:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "fordfoundation",
+      "count": 3,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8114-b560-f49a463395ae",
+          "name": "Fordfoundation",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81ac-92d4-d49732958bec",
+          "name": "Fordfoundation",
+          "created": "2025-08-05T03:28:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81a0-93fd-d2e264787e05",
+          "name": "Fordfoundation",
+          "created": "2025-08-05T03:27:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "ngs",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81d4-89bc-d5f4616759fe",
+          "name": "Ngs",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8196-89d9-c76550f821af",
+          "name": "Ngs",
+          "created": "2025-08-05T03:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "mit",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8143-96d1-f36caea904ae",
+          "name": "Mit",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81c6-9e5d-ffc8c4b03bb6",
+          "name": "Mit",
+          "created": "2025-08-05T03:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "pewresearch",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-810b-b95d-f964299ef59d",
+          "name": "Pewresearch",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-812e-9827-dd9285e863a5",
+          "name": "Pewresearch",
+          "created": "2025-08-05T03:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "harvard",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8119-b34d-f8e767421c11",
+          "name": "Harvard",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8168-bd37-e4709d9d553b",
+          "name": "Harvard",
+          "created": "2025-08-05T03:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "pulitzercenter",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8168-a4ab-d2c137ad2b92",
+          "name": "Pulitzercenter",
+          "created": "2025-08-05T03:29:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81eb-9193-d22fc55be60a",
+          "name": "Pulitzercenter",
+          "created": "2025-08-05T03:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "solutionsjournalism",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-818a-8b8c-ec3830eb653b",
+          "name": "Solutionsjournalism",
+          "created": "2025-08-05T03:28:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81a9-84bb-ee240339f45a",
+          "name": "Solutionsjournalism",
+          "created": "2025-08-05T03:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "email gni",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8192-9b32-dd3e5e60cc25",
+          "name": "Email: gni",
+          "created": "2025-08-05T03:28:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81c6-bc4f-f5b107429675",
+          "name": "Email: gni",
+          "created": "2025-08-05T03:27:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "pushfestival",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-818a-a6cb-dcdc6cf5955f",
+          "name": "Pushfestival",
+          "created": "2025-08-05T03:27:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-810e-bcce-e7a69c5dd1a0",
+          "name": "Pushfestival",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "neekoopf",
+      "count": 3,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81d8-aa17-d71ad419fb48",
+          "name": "Neekoopf",
+          "created": "2025-08-05T03:27:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81ed-9de1-de1b151d5653",
+          "name": "Neekoopf",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-818c-864b-d542c3a0afcd",
+          "name": "Neekoopf",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "doxafestival",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-818a-8301-edc516640fb5",
+          "name": "Doxafestival",
+          "created": "2025-08-05T03:27:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81c8-84ec-fb886c37d2d2",
+          "name": "Doxafestival",
+          "created": "2025-08-05T03:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "ecuad",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-811e-a0e9-f11b973056e2",
+          "name": "Ecuad",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8135-9f87-dec807ce2810",
+          "name": "Ecuad",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "museumofvancouver",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81dc-9b83-f682e2177d5c",
+          "name": "Museumofvancouver",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8108-a47d-f4b65c20029b",
+          "name": "Museumofvancouver",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "moa",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-818a-bbde-c296d1d20fde",
+          "name": "Moa",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-816b-afe1-ebb7be48ab1c",
+          "name": "Moa",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "vaff",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8175-b7f3-f689c638971c",
+          "name": "Vaff",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-811b-b346-d600d2bb2932",
+          "name": "Vaff",
+          "created": "2025-08-05T03:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "isfestival",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8123-b60c-c18b39b56034",
+          "name": "Isfestival",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81d6-868e-ecb8f9bd671a",
+          "name": "Isfestival",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "vanfashionweek",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81fe-acf2-d5e517928d51",
+          "name": "Vanfashionweek",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81e4-b00a-ca25d2672380",
+          "name": "Vanfashionweek",
+          "created": "2025-08-05T03:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "hubcycling",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8162-b4e9-c40e6e15ed3f",
+          "name": "Hubcycling",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81b6-812b-d268d7111ec5",
+          "name": "Hubcycling",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "capturecentre",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8176-8181-eae78baf849a",
+          "name": "Capturecentre",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81a1-b9d1-fd0cee904a95",
+          "name": "Capturecentre",
+          "created": "2025-08-05T03:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "new ventures bc",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8199-91a4-c7ea38878798",
+          "name": "New Ventures BC",
+          "created": "2025-08-05T03:26:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81f5-a820-ff2ec0fb2f2a",
+          "name": "New Ventures BC",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "destinationvancouver",
+      "count": 6,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81c0-a544-e5b22cda6b69",
+          "name": "Destinationvancouver",
+          "created": "2025-08-05T03:25:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81b8-a5ee-fc8c917833fd",
+          "name": "Destinationvancouver",
+          "created": "2025-08-05T03:25:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81ce-8eaf-ede600b0f2f3",
+          "name": "Destinationvancouver",
+          "created": "2025-08-05T03:25:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-818f-9a84-d2478fc66d1c",
+          "name": "Destinationvancouver",
+          "created": "2025-08-05T03:25:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8130-bc2e-fbbd1be89428",
+          "name": "Destinationvancouver",
+          "created": "2025-08-05T03:22:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81e8-8c94-c65bb0bf9832",
+          "name": "Destinationvancouver",
+          "created": "2025-08-05T03:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "vancouvermaritimemuseum",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-813f-8be2-f51a77d34ca0",
+          "name": "Vancouvermaritimemuseum",
+          "created": "2025-08-05T03:25:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8156-abed-ee546bfcf561",
+          "name": "Vancouvermaritimemuseum",
+          "created": "2025-08-05T03:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "thestar",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8134-9366-e6275d7d73ce",
+          "name": "Thestar",
+          "created": "2025-08-05T03:25:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81dc-b362-e23fbcc56088",
+          "name": "Thestar",
+          "created": "2025-08-05T03:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "shafintejani",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-817a-a5ce-c25b23d3b244",
+          "name": "Shafintejani",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8114-9560-dfc62b28a140",
+          "name": "Shafintejani",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "sap",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-819c-bd82-ca0558ffd434",
+          "name": "Sap",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8159-b1fa-e1c50c5f11f1",
+          "name": "Sap",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "salesforce",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-813b-9439-e23137bcb16f",
+          "name": "Salesforce",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81c3-b9e9-c9dab0bc4fb1",
+          "name": "Salesforce",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "nutanix",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8128-85cb-c4430574593f",
+          "name": "Nutanix",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8151-9b82-da3d7907f376",
+          "name": "Nutanix",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "nortonlifelock",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8153-9052-cde2835b5d47",
+          "name": "Nortonlifelock",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8148-be77-e6ee6ae79f9b",
+          "name": "Nortonlifelock",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "newventuresbc",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-819e-9eed-e895d8e181a0",
+          "name": "Newventuresbc",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8143-a3aa-cdb6189fd38a",
+          "name": "Newventuresbc",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "microsoft",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8102-ab4e-f368edd8c0cc",
+          "name": "Microsoft",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8100-9f10-f4b621bed5d8",
+          "name": "Microsoft",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "magazinescanada",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81fc-80f0-dbcc75958725",
+          "name": "Magazinescanada",
+          "created": "2025-08-05T03:24:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-816a-a17e-d0e5bc7dd54d",
+          "name": "Magazinescanada",
+          "created": "2025-08-05T03:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "lindasolomon",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-818f-b7f1-f9b20179042f",
+          "name": "Lindasolomon",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8160-922b-e8a30d82f4ab",
+          "name": "Lindasolomon",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "lifelabs",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81df-8e07-f14ebc0ae758",
+          "name": "Lifelabs",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81aa-ad21-d6cbd90f33cf",
+          "name": "Lifelabs",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "jellyacademy",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81f8-8753-d0ee75f418f1",
+          "name": "Jellyacademy",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81ba-b4aa-f771250b1f82",
+          "name": "Jellyacademy",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "iyacyber",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-812d-90ab-fa0927f0a586",
+          "name": "Iyacyber",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-819c-9f61-f220377835eb",
+          "name": "Iyacyber",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "intel",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81c2-bc2a-c287ced3b06d",
+          "name": "Intel",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8164-9b86-fef37f892051",
+          "name": "Intel",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "hootsuite",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8148-a35b-c3d41de8cb36",
+          "name": "Hootsuite",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-810f-992b-c56efcee40ba",
+          "name": "Hootsuite",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "freewheel",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81ca-aca4-fa1db4b4f34c",
+          "name": "Freewheel",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8167-87c8-dc272df1dc2e",
+          "name": "Freewheel",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "fortisbc",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-819b-a372-c91e0a3f4f0b",
+          "name": "Fortisbc",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8129-bad3-f85d54fd2730",
+          "name": "Fortisbc",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "emc",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8105-b2f8-ce2aab7cc6c6",
+          "name": "Emc",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8168-994d-f4fa0c3a7f10",
+          "name": "Emc",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "elementai",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-81f3-a1f0-f1baeca84fb7",
+          "name": "Elementai",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81a9-b7c8-c3aa2da2a3ee",
+          "name": "Elementai",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "vancouverchinesegarden",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-819b-a1ce-f53e41c99aab",
+          "name": "Vancouverchinesegarden",
+          "created": "2025-08-05T03:23:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-818c-b3b0-f6121d482742",
+          "name": "Vancouverchinesegarden",
+          "created": "2025-08-05T03:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "dailyhive",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8164-84f6-d6f0cfa5821e",
+          "name": "Dailyhive",
+          "created": "2025-08-05T03:22:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8138-9674-dd315e141b19",
+          "name": "Dailyhive",
+          "created": "2025-08-05T03:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "dapperlabs",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-811c-a688-d1a318b6c12e",
+          "name": "Dapperlabs",
+          "created": "2025-08-05T03:22:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8103-a379-f34f24e1e858",
+          "name": "Dapperlabs",
+          "created": "2025-08-05T03:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "cloudera",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8152-b206-e6933375bb92",
+          "name": "Cloudera",
+          "created": "2025-08-05T03:22:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-812b-ace7-eefb9dea385e",
+          "name": "Cloudera",
+          "created": "2025-08-05T03:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "auth0",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-816b-9a35-e1a71e2032ab",
+          "name": "Auth0",
+          "created": "2025-08-05T03:22:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81cc-b55b-fba98656d0f6",
+          "name": "Auth0",
+          "created": "2025-08-05T03:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "easupport ea com",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-815c-ae23-f7b78b0753bd",
+          "name": "easupport@ea.com",
+          "created": "2025-08-05T03:02:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-811b-b780-d1114f6cb1ab",
+          "name": "easupport@ea.com",
+          "created": "2025-08-05T03:02:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "https www ea com",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-8196-84bc-e3098a2cd6d9",
+          "name": "https://www.ea.com",
+          "created": "2025-08-05T03:02:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-8124-b840-d53e89624f55",
+          "name": "https://www.ea.com",
+          "created": "2025-08-05T03:02:00.000Z"
+        }
+      ]
+    },
+    {
+      "normalized": "website https www sshrc",
+      "count": 2,
+      "entries": [
+        {
+          "id": "246c6f79-9a33-816b-ab63-e81ea51a3225",
+          "name": "Website: https://www.sshrc",
+          "created": "2025-08-05T03:01:00.000Z"
+        },
+        {
+          "id": "246c6f79-9a33-81bc-866d-cb96771be49d",
+          "name": "Website: https://www.sshrc",
+          "created": "2025-08-05T03:01:00.000Z"
+        }
+      ]
+    }
+  ]
+}

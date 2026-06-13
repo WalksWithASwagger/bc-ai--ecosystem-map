@@ -1,0 +1,21 @@
+{
+  "organizationProcessed": true,
+  "organizationFound": true,
+  "organizationEnhanced": true,
+  "organizationCreated": false,
+  "fieldsUpdated": [
+    "Website",
+    "Focus & Notes",
+    "Key People",
+    "Year Founded",
+    "BC Region",
+    "Category",
+    "City/Region",
+    "Funding",
+    "Employee Count",
+    "Data Source",
+    "Last Verified"
+  ],
+  "errors": [],
+  "notionId": "244c6f79-9a33-81aa-beef-d0dbe931d7b6"
+}

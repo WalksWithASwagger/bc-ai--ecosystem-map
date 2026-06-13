@@ -1,0 +1,2788 @@
+{
+  "suspiciousUrls": [
+    {
+      "name": "SkyAcres",
+      "url": "https://skyacres.com",
+      "pageId": "23fc6f79-9a33-811b-b373-ec277010dbd9",
+      "type": "website"
+    },
+    {
+      "name": "Properti Edge",
+      "url": "https://propertiedge.com",
+      "pageId": "23fc6f79-9a33-816b-a9a9-c048f4282e69",
+      "type": "website"
+    },
+    {
+      "name": "Plantiga",
+      "url": "https://plantiga.com",
+      "pageId": "23fc6f79-9a33-81a8-b297-c6d626afaa49",
+      "type": "website"
+    },
+    {
+      "name": "Flento",
+      "url": "https://flento.com",
+      "pageId": "23fc6f79-9a33-8163-b381-f20d468c5831",
+      "type": "website"
+    },
+    {
+      "name": "Athletica",
+      "url": "https://athletica.com",
+      "pageId": "23fc6f79-9a33-8182-a2bb-e940ec42bd56",
+      "type": "website"
+    },
+    {
+      "name": "Shape Immersive",
+      "url": "https://shapeimmersive.com",
+      "pageId": "23fc6f79-9a33-8146-a3ed-fb5d2725cb1a",
+      "type": "website"
+    },
+    {
+      "name": "Boast AI",
+      "url": "https://boastai.com",
+      "pageId": "23fc6f79-9a33-818a-a6c0-c5fe10727e6d",
+      "type": "website"
+    },
+    {
+      "name": "Meton AI",
+      "url": "https://metonai.com",
+      "pageId": "23fc6f79-9a33-8102-8af8-d81b632dbd61",
+      "type": "website"
+    },
+    {
+      "name": "Payday",
+      "url": "https://usepayday.com",
+      "pageId": "23dc6f79-9a33-8141-9873-e765870f13ea",
+      "type": "website"
+    },
+    {
+      "name": "Timezyx",
+      "url": "https://timezyx.com",
+      "pageId": "23dc6f79-9a33-811d-944a-fe3ba9ece32a",
+      "type": "website"
+    },
+    {
+      "name": "Orca Water",
+      "url": "https://orcawater.com",
+      "pageId": "23dc6f79-9a33-815d-9b3e-d97573a14b75",
+      "type": "website"
+    },
+    {
+      "name": "Build Smartr Robotics",
+      "url": "https://buildsmartrobotics.com",
+      "pageId": "23dc6f79-9a33-81ca-a561-ead9a2668429",
+      "type": "website"
+    },
+    {
+      "name": "Anodyne Chemistries",
+      "url": "https://anodynechemistries.com",
+      "pageId": "23dc6f79-9a33-81a7-a907-daaca0f08b42",
+      "type": "website"
+    },
+    {
+      "name": "Aqua Intelligent",
+      "url": "https://aquaintelligent.com",
+      "pageId": "23dc6f79-9a33-8130-90b1-e4812c4b7cd9",
+      "type": "website"
+    },
+    {
+      "name": "Arrowsmith Genetics",
+      "url": "https://arrowsmithgenetics.com",
+      "pageId": "23dc6f79-9a33-81f9-ad4c-f530031c9f51",
+      "type": "website"
+    },
+    {
+      "name": "CereCura Nanotherapeutics",
+      "url": "https://cerecura.com",
+      "pageId": "23dc6f79-9a33-8166-a83b-cd73a0ce2ec1",
+      "type": "website"
+    },
+    {
+      "name": "Amphoraxe Life Sciences Inc",
+      "url": "https://amphoraxe.com",
+      "pageId": "23dc6f79-9a33-8157-9dc5-ee78f5fd0321",
+      "type": "website"
+    },
+    {
+      "name": "Canexia Health",
+      "url": "https://canexiahealth.com",
+      "pageId": "23dc6f79-9a33-815b-9fdd-fe8347058ffa",
+      "type": "website"
+    },
+    {
+      "name": "Nytilus Inc",
+      "url": "https://nytilus.com",
+      "pageId": "23dc6f79-9a33-81bf-8f0b-fe9c052a7df9",
+      "type": "website"
+    },
+    {
+      "name": "Rockburst Technologies",
+      "url": "https://rockburst.com",
+      "pageId": "23dc6f79-9a33-8126-8541-d58095fcc84a",
+      "type": "website"
+    },
+    {
+      "name": "Mangrove Lithium",
+      "url": "https://mangrovelithium.com",
+      "pageId": "23dc6f79-9a33-81ad-8e2b-ff525b18aef4",
+      "type": "website"
+    },
+    {
+      "name": "Ekona Power",
+      "url": "https://ekonapower.com",
+      "pageId": "23dc6f79-9a33-81f1-bc21-d079942ed916",
+      "type": "website"
+    },
+    {
+      "name": "RBC Borealis",
+      "url": "https://rbcborealis.com",
+      "pageId": "23dc6f79-9a33-81f6-bf0f-ea2117753b46",
+      "type": "website"
+    },
+    {
+      "name": "Iris Automation",
+      "url": "https://irisonboard.com",
+      "pageId": "23dc6f79-9a33-8170-be61-e6d815033f01",
+      "type": "website"
+    },
+    {
+      "name": "Ekohe",
+      "url": "https://ekohe.com",
+      "pageId": "23dc6f79-9a33-811a-83e1-c0c82b9e849d",
+      "type": "website"
+    },
+    {
+      "name": "deltAlyz Corp",
+      "url": "https://deltalyz.com",
+      "pageId": "23dc6f79-9a33-8137-8cb4-e08a336edbef",
+      "type": "website"
+    },
+    {
+      "name": "Improving",
+      "url": "https://improving.com",
+      "pageId": "23dc6f79-9a33-8117-bcb4-c3df7786beac",
+      "type": "website"
+    },
+    {
+      "name": "IT Kapital",
+      "url": "https://itkapital.com",
+      "pageId": "23dc6f79-9a33-8121-92f5-c9c7d6ead3d1",
+      "type": "website"
+    },
+    {
+      "name": "Epsilon Venture Group",
+      "url": "https://epsilonventure.com",
+      "pageId": "23dc6f79-9a33-81bf-bb08-e6e85b32bac1",
+      "type": "website"
+    },
+    {
+      "name": "ValueLabs",
+      "url": "https://valuelabs.com",
+      "pageId": "23dc6f79-9a33-8107-9e94-eb0d7bad78a5",
+      "type": "website"
+    },
+    {
+      "name": "Venovis",
+      "url": "https://venovis.com",
+      "pageId": "23dc6f79-9a33-8161-8abf-c8832818bd4b",
+      "type": "website"
+    },
+    {
+      "name": "Steamclock Software",
+      "url": "https://steamclock.com",
+      "pageId": "23dc6f79-9a33-810b-8529-ea4777c521dc",
+      "type": "website"
+    },
+    {
+      "name": "MistyWest",
+      "url": "https://mistywest.com",
+      "pageId": "23dc6f79-9a33-8113-85c5-c4593c2b3ad5",
+      "type": "website"
+    },
+    {
+      "name": "Denologix",
+      "url": "https://denologix.com",
+      "pageId": "23dc6f79-9a33-81b5-85bc-c1c7760e9cde",
+      "type": "website"
+    },
+    {
+      "name": "INTERSOG",
+      "url": "https://intersog.com",
+      "pageId": "23dc6f79-9a33-8172-89b6-ddc4875d7755",
+      "type": "website"
+    },
+    {
+      "name": "WillowTree®",
+      "url": "https://willowtreeapps.com",
+      "pageId": "23dc6f79-9a33-81de-9b78-e0f32293ced2",
+      "type": "website"
+    },
+    {
+      "name": "FTSY",
+      "url": "https://ftsy.com",
+      "pageId": "23dc6f79-9a33-8140-8403-e09bb69985d4",
+      "type": "website"
+    },
+    {
+      "name": "MashUp Machine",
+      "url": "https://mashupmachine.com",
+      "pageId": "23dc6f79-9a33-814c-8345-fef4b40a6697",
+      "type": "website"
+    },
+    {
+      "name": "Growlyn",
+      "url": "https://growlyn.com",
+      "pageId": "23dc6f79-9a33-8146-a4bb-f289226a1c22",
+      "type": "website"
+    },
+    {
+      "name": "Lambda Science",
+      "url": "https://lambdascience.com",
+      "pageId": "23dc6f79-9a33-811e-aabd-c0551d8c4da4",
+      "type": "website"
+    },
+    {
+      "name": "Eli Report",
+      "url": "https://elireport.com",
+      "pageId": "23dc6f79-9a33-8190-86b1-c0f16fd86d82",
+      "type": "website"
+    },
+    {
+      "name": "DeepND",
+      "url": "https://deepnd.com",
+      "pageId": "23dc6f79-9a33-817d-b682-c17db865e7aa",
+      "type": "website"
+    },
+    {
+      "name": "TalentMarketplace",
+      "url": "https://talentmarketplace.com",
+      "pageId": "23dc6f79-9a33-8180-946d-e027f77f5721",
+      "type": "website"
+    },
+    {
+      "name": "Theory+Practice",
+      "url": "https://theoryandpractice.com",
+      "pageId": "23dc6f79-9a33-818d-be34-c0fde5433f6c",
+      "type": "website"
+    },
+    {
+      "name": "FIRMOGRAM",
+      "url": "https://firmogram.com",
+      "pageId": "23dc6f79-9a33-81d3-9a64-c608275ab2b5",
+      "type": "website"
+    },
+    {
+      "name": "Caliber Data Labs",
+      "url": "https://caliberdatalabs.com",
+      "pageId": "23dc6f79-9a33-81dc-8a04-ce37d64da482",
+      "type": "website"
+    },
+    {
+      "name": "Evolve Biologix",
+      "url": "https://evolvebiologix.com",
+      "pageId": "23dc6f79-9a33-8126-8d45-e384a2dddef6",
+      "type": "website"
+    },
+    {
+      "name": "Diabits",
+      "url": "https://diabits.com",
+      "pageId": "23dc6f79-9a33-8140-9e00-eaddbb188205",
+      "type": "website"
+    },
+    {
+      "name": "CareCru",
+      "url": "https://carecru.com",
+      "pageId": "23dc6f79-9a33-8161-8ad6-fd2f7d4777ab",
+      "type": "website"
+    },
+    {
+      "name": "Juicey Turf",
+      "url": "https://juiceyturf.com",
+      "pageId": "23dc6f79-9a33-8149-ba02-df39efae8ca8",
+      "type": "website"
+    },
+    {
+      "name": "Warranty Life",
+      "url": "https://warrantylife.com",
+      "pageId": "23dc6f79-9a33-8187-a111-d4478a735ead",
+      "type": "website"
+    },
+    {
+      "name": "Thinkcx",
+      "url": "https://thinkcx.com",
+      "pageId": "23dc6f79-9a33-813a-9711-dfb60aac7eee",
+      "type": "website"
+    },
+    {
+      "name": "Livnao Technologies",
+      "url": "https://livnao.com",
+      "pageId": "23dc6f79-9a33-8112-bed0-cea9251776cf",
+      "type": "website"
+    },
+    {
+      "name": "Mintent",
+      "url": "https://getmintent.com",
+      "pageId": "23dc6f79-9a33-816c-8552-eaaeebd3073a",
+      "type": "website"
+    },
+    {
+      "name": "Strategybox",
+      "url": "https://strategybox.com",
+      "pageId": "23dc6f79-9a33-81c4-ab6e-d5054a76ea73",
+      "type": "website"
+    },
+    {
+      "name": "Disrupted Logic",
+      "url": "https://disruptedlogic.com",
+      "pageId": "23dc6f79-9a33-81c6-a0f0-c9a851d29e42",
+      "type": "website"
+    },
+    {
+      "name": "Nextwave Software",
+      "url": "https://nxtwv.com",
+      "pageId": "23dc6f79-9a33-814a-85f1-e13a5ddb5a31",
+      "type": "website"
+    },
+    {
+      "name": "Illusense",
+      "url": "https://illusense.com",
+      "pageId": "23dc6f79-9a33-8132-91d8-f224a75c315b",
+      "type": "website"
+    },
+    {
+      "name": "Scanbo",
+      "url": "https://scanbo.com",
+      "pageId": "23dc6f79-9a33-811a-82c7-fbdde4cbfe8a",
+      "type": "website"
+    },
+    {
+      "name": "Youneeq",
+      "url": "https://youneeqai.com",
+      "pageId": "23dc6f79-9a33-8189-8263-effee91956db",
+      "type": "website"
+    },
+    {
+      "name": "Scopemedia",
+      "url": "https://scopemedia.com",
+      "pageId": "23dc6f79-9a33-812f-a992-d3d1a74f9772",
+      "type": "website"
+    },
+    {
+      "name": "Intellabridge Technology Corporation",
+      "url": "https://intellabridge.com",
+      "pageId": "23dc6f79-9a33-81a7-9330-fe6d0095bb50",
+      "type": "website"
+    },
+    {
+      "name": "ARoster.com",
+      "url": "https://aroster.com",
+      "pageId": "23dc6f79-9a33-814a-a50f-cc9e3d903770",
+      "type": "website"
+    },
+    {
+      "name": "Pilot - pilotplans.com",
+      "url": "https://pilotplans.com",
+      "pageId": "23dc6f79-9a33-8179-8f60-e712928bccee",
+      "type": "website"
+    },
+    {
+      "name": "Prenuvo",
+      "url": "https://prenuvo.com",
+      "pageId": "23dc6f79-9a33-8167-bdf0-f6b3b8bd7495",
+      "type": "website"
+    },
+    {
+      "name": "Noratek Solutions",
+      "url": "https://noratek.com",
+      "pageId": "23dc6f79-9a33-81c7-bd3f-d41c5e477c8a",
+      "type": "website"
+    },
+    {
+      "name": "MetaOptima (DermEngine)",
+      "url": "https://metaoptima.com",
+      "pageId": "23dc6f79-9a33-810b-8702-cb15089b5edc",
+      "type": "website"
+    },
+    {
+      "name": "VRIFY Technology",
+      "url": "https://vrify.com",
+      "pageId": "23dc6f79-9a33-8139-849f-d286c118c02c",
+      "type": "website"
+    },
+    {
+      "name": "Charli AI",
+      "url": "https://charliai.com",
+      "pageId": "23dc6f79-9a33-816c-a13b-cea35e8b96fe",
+      "type": "website"
+    },
+    {
+      "name": "EarthDaily Analytics",
+      "url": "https://earthdaily.com",
+      "pageId": "236c6f79-9a33-81d7-a90b-e8a9cf642aae",
+      "type": "website"
+    },
+    {
+      "name": "ASC Creative Ltd.",
+      "url": "https://asccreative.com",
+      "pageId": "236c6f79-9a33-8157-818e-c892b8d2b40e",
+      "type": "website"
+    },
+    {
+      "name": "Finger Food Advanced Technology Group",
+      "url": "https://fingerfood.com",
+      "pageId": "227c6f79-9a33-81d7-9d31-cc2fd8910412",
+      "type": "website"
+    },
+    {
+      "name": "Visier",
+      "url": "https://visier.com",
+      "pageId": "227c6f79-9a33-8124-ba25-e73122d22c05",
+      "type": "website"
+    },
+    {
+      "name": "AbCellera",
+      "url": "https://abcellera.com",
+      "pageId": "227c6f79-9a33-81fe-a66b-df3fce90b557",
+      "type": "website"
+    },
+    {
+      "name": "D-Wave Systems",
+      "url": "https://dwavesys.com",
+      "pageId": "1f8c6f79-9a33-81cb-926d-ec8330e0ff04",
+      "type": "website"
+    },
+    {
+      "name": "Two Hat Security",
+      "url": "https://twohat.com",
+      "pageId": "1f1c6f79-9a33-8184-98d7-f4f1e583c8e3",
+      "type": "website"
+    },
+    {
+      "name": "Klue",
+      "url": "https://klue.com",
+      "pageId": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+      "type": "website"
+    },
+    {
+      "name": "Animikii",
+      "url": "https://animikii.com",
+      "pageId": "1f1c6f79-9a33-810a-90d9-e27a8a97a2b0",
+      "type": "website"
+    },
+    {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "pageId": "1f0c6f79-9a33-814d-97d3-da38d5f56edb",
+      "type": "website"
+    },
+    {
+      "name": "AltaML (Vancouver)",
+      "url": "https://altaml.com",
+      "pageId": "1f0c6f79-9a33-8117-805d-d816bdc7150d",
+      "type": "website"
+    },
+    {
+      "name": "Vanedge Capital",
+      "url": "https://vanedgecapital.com",
+      "pageId": "1f0c6f79-9a33-812a-919d-dc64fa9df827",
+      "type": "website"
+    },
+    {
+      "name": "Vancouver AI Community (VanAI)",
+      "url": "https://vancouveraimeetup.com",
+      "pageId": "1f0c6f79-9a33-8179-a8d6-df6022f65418",
+      "type": "website"
+    },
+    {
+      "name": "Boreal Innovation Lab",
+      "url": "https://borealinnovation.com",
+      "pageId": "1f0c6f79-9a33-8195-a829-e7f36a33b783",
+      "type": "website"
+    },
+    {
+      "name": "Media: BetaKit",
+      "url": "https://betakit.com",
+      "pageId": "1f0c6f79-9a33-815f-8867-d9d0dd3f9e57",
+      "type": "website"
+    },
+    {
+      "name": "Foresight Canada",
+      "url": "https://foresightcac.com",
+      "pageId": "1f0c6f79-9a33-81e5-93b5-d988f84c21d8",
+      "type": "website"
+    },
+    {
+      "name": "Accelerate Okanagan",
+      "url": "https://accelerateokanagan.com",
+      "pageId": "1f0c6f79-9a33-8120-8011-c9d40512fa2c",
+      "type": "website"
+    },
+    {
+      "name": "BC Tech Association",
+      "url": "https://wearebctech.com",
+      "pageId": "1f0c6f79-9a33-8161-9b56-d60856022333",
+      "type": "website"
+    },
+    {
+      "name": "Vancouver AI Meetup (VAM!)",
+      "url": "https://vancouveraimeetup.com",
+      "pageId": "1f0c6f79-9a33-81ec-850b-f1c2939f5a3b",
+      "type": "website"
+    }
+  ],
+  "invalidUrls": [
+    {
+      "name": "Toonie",
+      "url": "https://toonieholding.com/",
+      "pageId": "23fc6f79-9a33-81f0-9a80-df0e820af991",
+      "type": "website",
+      "error": "timeout of 5000ms exceeded"
+    },
+    {
+      "name": "DP World Canada",
+      "url": "https://www.dpworld.com/en/canada",
+      "pageId": "23fc6f79-9a33-8176-bc16-dad5b67b0e95",
+      "type": "website",
+      "error": "timeout of 5000ms exceeded"
+    },
+    {
+      "name": "Browse AI",
+      "url": "https://www.browse.ai",
+      "pageId": "23dc6f79-9a33-8139-a460-d403a9538e08",
+      "type": "website",
+      "error": "HTTP 405"
+    },
+    {
+      "name": "Kindred",
+      "url": "https://kindred.ai",
+      "pageId": "23dc6f79-9a33-81fb-a273-dd8afaa06e0b",
+      "type": "website",
+      "error": "timeout of 5000ms exceeded"
+    },
+    {
+      "name": "PacifiCan AI Initiative",
+      "url": "https://canada.ca/en/pacific-economic-development",
+      "pageId": "23dc6f79-9a33-8181-ab90-c9bf9cec8e9c",
+      "type": "website",
+      "error": "timeout of 5000ms exceeded"
+    },
+    {
+      "name": "SmartParent Mobile Health Inc",
+      "url": "https://smartparent.health",
+      "pageId": "23dc6f79-9a33-81d2-b750-fd46603b62e1",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "Gaze",
+      "url": "https://gaze.ai",
+      "pageId": "23dc6f79-9a33-8191-aed1-c426c1c54f00",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "Insight Global",
+      "url": "https://insightglobal.net",
+      "pageId": "23dc6f79-9a33-8155-ae3a-d66f1dc1962f",
+      "type": "website",
+      "error": "Hostname/IP does not match certificate's altnames: Host: insightglobal.net. is not in the cert's altnames: DNS:*.insightglobal.net"
+    },
+    {
+      "name": "Autonopia",
+      "url": "https://autonopia.ca",
+      "pageId": "23dc6f79-9a33-81e4-962c-e83f565b80b8",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "SHADE.ai",
+      "url": "https://shade.ai",
+      "pageId": "23dc6f79-9a33-81e2-a85d-e2a0d3f4b05a",
+      "type": "website",
+      "error": "HTTP 405"
+    },
+    {
+      "name": "AntEater",
+      "url": "https://anteater.io",
+      "pageId": "23dc6f79-9a33-81a5-864b-fc8e055e7ae7",
+      "type": "website",
+      "error": "HTTP 405"
+    },
+    {
+      "name": "Sentient",
+      "url": "https://sentient.ag",
+      "pageId": "23dc6f79-9a33-8157-8931-f46f8cf77e63",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "Talentful.ai",
+      "url": "https://talentful.ai",
+      "pageId": "23dc6f79-9a33-8164-a83c-f0bc2d8071c7",
+      "type": "website",
+      "error": "certificate has expired"
+    },
+    {
+      "name": "bots4impact",
+      "url": "https://bots4impact.com",
+      "pageId": "23dc6f79-9a33-8145-aec1-ecc7c1545fec",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "Sports Iq Analytics",
+      "url": "https://sportsiq.ai",
+      "pageId": "23dc6f79-9a33-81b5-a6c5-f9881d713228",
+      "type": "website",
+      "error": "Hostname/IP does not match certificate's altnames: Host: sportsiq.ai. is not in the cert's altnames: DNS:*.web-hosting.com, DNS:web-hosting.com"
+    },
+    {
+      "name": "Blockmint",
+      "url": "https://blockmint.ai",
+      "pageId": "23dc6f79-9a33-81db-af41-c09c08abf9d7",
+      "type": "website",
+      "error": "timeout of 5000ms exceeded"
+    },
+    {
+      "name": "Advize",
+      "url": "https://advize.ai",
+      "pageId": "23dc6f79-9a33-811d-b460-d2c8f341a7f4",
+      "type": "website",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Xtract Ai",
+      "url": "https://xtract.ai",
+      "pageId": "23dc6f79-9a33-8157-b566-d30d584bf312",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "Onecup Ai",
+      "url": "https://onecup.ai",
+      "pageId": "23dc6f79-9a33-8181-b5c1-fa5d120a9ced",
+      "type": "website",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Telus Ventures",
+      "url": "https://www.telusdigital.com/solutions/data-and-ai-solutions",
+      "pageId": "23dc6f79-9a33-8190-a6eb-f0c5683c5548",
+      "type": "website",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "CamDo Solutions Inc.",
+      "url": "https://camdo.co/",
+      "pageId": "23dc6f79-9a33-81ac-b2ae-e2ae16e533f7",
+      "type": "website",
+      "error": ""
+    },
+    {
+      "name": "Secur3D",
+      "url": "https://www.roguefishmedia.com/",
+      "pageId": "23dc6f79-9a33-8175-95e4-d47f67d82e1b",
+      "type": "website",
+      "error": "write EPROTO C0FACCEB01000000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:ssl/record/methods/tls_common.c:663:\n"
+    },
+    {
+      "name": "AI Home Optimizer",
+      "url": "https://homeoptimizer.com/",
+      "pageId": "23dc6f79-9a33-81b7-8f07-fb4132cff563",
+      "type": "website",
+      "error": "HTTP 405"
+    },
+    {
+      "name": "Ringable AI",
+      "url": "https://ringable.com/",
+      "pageId": "23dc6f79-9a33-8116-ba98-e112febed2b5",
+      "type": "website",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Prompt Genie",
+      "url": "https://promptgenie.com/",
+      "pageId": "23dc6f79-9a33-8176-ab6e-faa7b6117bab",
+      "type": "website",
+      "error": "HTTP 405"
+    },
+    {
+      "name": "EPIC Semiconductors",
+      "url": "https://www.epic-semiconductors.com/",
+      "pageId": "23dc6f79-9a33-8181-b9d9-cba6685bb81d",
+      "type": "website",
+      "error": "HTTP 405"
+    },
+    {
+      "name": "Meton.ai (UnlockLand parent company)",
+      "url": "https://www.meton.ai",
+      "pageId": "23dc6f79-9a33-81c6-982a-c311a194070d",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "Raven Indigenous Capital Partners",
+      "url": "https://ravencapitalpartners.ca/",
+      "pageId": "236c6f79-9a33-81e8-9bb6-e504070cb891",
+      "type": "website",
+      "error": "HTTP 405"
+    },
+    {
+      "name": "SAP Canada (Vancouver)",
+      "url": "https://www.sap.com/canada/index.html",
+      "pageId": "1f7c6f79-9a33-816a-b2f7-edc1e28485d6",
+      "type": "website",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Deloitte Omnia AI",
+      "url": "https://www2.deloitte.com/ca/en/pages/deloitte-analytics/solutions/omnia-ai.html",
+      "pageId": "1f1c6f79-9a33-81aa-ad1b-f8d94c3ff80a",
+      "type": "website",
+      "error": "HTTP 404"
+    },
+    {
+      "name": "WildlifeAI",
+      "url": "https://www.wildlifeai.org/",
+      "pageId": "1f1c6f79-9a33-812b-ad85-c3272a1c507b",
+      "type": "website",
+      "error": "HTTP 405"
+    },
+    {
+      "name": "1QBit",
+      "url": "https://1qbit.com",
+      "pageId": "1f1c6f79-9a33-81c7-ae29-e2dcd342789b",
+      "type": "website",
+      "error": "HTTP 404"
+    },
+    {
+      "name": "Victoria Data Society",
+      "url": "https://www.victoriadata.ca",
+      "pageId": "1f0c6f79-9a33-81e0-8acd-d38e02381120",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "UBC Artificial Intelligence Research Centre",
+      "url": "https://aicentre.ubc.ca",
+      "pageId": "1f0c6f79-9a33-8153-becd-d9326b96ce91",
+      "type": "website",
+      "error": "Domain not found"
+    },
+    {
+      "name": "Open Source: BCLawData",
+      "url": "https://www.bclaws.gov.bc.ca/",
+      "pageId": "1f0c6f79-9a33-81c8-9e1b-f62c130b6294",
+      "type": "website",
+      "error": "unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"
+    },
+    {
+      "name": "Investors: Frontier Collective",
+      "url": "https://frontier.vc",
+      "pageId": "1f0c6f79-9a33-812f-84b5-dc405db01701",
+      "type": "website",
+      "error": "HTTP 405"
+    }
+  ],
+  "suspiciousEmails": [
+    {
+      "name": "MoogleLabs",
+      "email": "info@mooglelabs.com",
+      "pageId": "23dc6f79-9a33-8197-be38-d6a92ea4412b"
+    },
+    {
+      "name": "Kanooq Industries Inc.",
+      "email": "info@kanooq.com",
+      "pageId": "23dc6f79-9a33-8171-97ad-fcff2baf0a58"
+    },
+    {
+      "name": "Orca Water",
+      "email": "info@orcawater.com",
+      "pageId": "23dc6f79-9a33-815d-9b3e-d97573a14b75"
+    },
+    {
+      "name": "Build Smartr Robotics",
+      "email": "info@buildsmartrobotics.com",
+      "pageId": "23dc6f79-9a33-81ca-a561-ead9a2668429"
+    },
+    {
+      "name": "Anodyne Chemistries",
+      "email": "info@anodynechemistries.com",
+      "pageId": "23dc6f79-9a33-81a7-a907-daaca0f08b42"
+    },
+    {
+      "name": "Aqua Intelligent",
+      "email": "info@aquaintelligent.com",
+      "pageId": "23dc6f79-9a33-8130-90b1-e4812c4b7cd9"
+    },
+    {
+      "name": "Arrowsmith Genetics",
+      "email": "info@arrowsmithgenetics.com",
+      "pageId": "23dc6f79-9a33-81f9-ad4c-f530031c9f51"
+    },
+    {
+      "name": "Amphoraxe Life Sciences Inc",
+      "email": "info@amphoraxe.com",
+      "pageId": "23dc6f79-9a33-8157-9dc5-ee78f5fd0321"
+    },
+    {
+      "name": "Canexia Health",
+      "email": "info@canexiahealth.com",
+      "pageId": "23dc6f79-9a33-815b-9fdd-fe8347058ffa"
+    },
+    {
+      "name": "Rockburst Technologies",
+      "email": "info@rockburst.com",
+      "pageId": "23dc6f79-9a33-8126-8541-d58095fcc84a"
+    },
+    {
+      "name": "Mangrove Lithium",
+      "email": "info@mangrovelithium.com",
+      "pageId": "23dc6f79-9a33-81ad-8e2b-ff525b18aef4"
+    },
+    {
+      "name": "Ekona Power",
+      "email": "info@ekonapower.com",
+      "pageId": "23dc6f79-9a33-81f1-bc21-d079942ed916"
+    },
+    {
+      "name": "Iris Automation",
+      "email": "contact@irisonboard.com",
+      "pageId": "23dc6f79-9a33-8170-be61-e6d815033f01"
+    },
+    {
+      "name": "Ekohe",
+      "email": "info@ekohe.com",
+      "pageId": "23dc6f79-9a33-811a-83e1-c0c82b9e849d"
+    },
+    {
+      "name": "Wizard Labs",
+      "email": "contact@wizardlabs.com",
+      "pageId": "23dc6f79-9a33-8194-9345-db96aab72b1d"
+    },
+    {
+      "name": "deltAlyz Corp",
+      "email": "contact@deltalyz.com",
+      "pageId": "23dc6f79-9a33-8137-8cb4-e08a336edbef"
+    },
+    {
+      "name": "MistyWest",
+      "email": "contact@mistywest.com",
+      "pageId": "23dc6f79-9a33-8113-85c5-c4593c2b3ad5"
+    },
+    {
+      "name": "INTERSOG",
+      "email": "contact@intersog.com",
+      "pageId": "23dc6f79-9a33-8172-89b6-ddc4875d7755"
+    },
+    {
+      "name": "WillowTree®",
+      "email": "info@willowtreeapps.com",
+      "pageId": "23dc6f79-9a33-81de-9b78-e0f32293ced2"
+    },
+    {
+      "name": "Motion Metrics",
+      "email": "info@motionmetrics.com",
+      "pageId": "23dc6f79-9a33-819e-b542-c86bd5875c22"
+    },
+    {
+      "name": "Warranty Life",
+      "email": "info@warrantylife.com",
+      "pageId": "23dc6f79-9a33-8187-a111-d4478a735ead"
+    },
+    {
+      "name": "Thinkcx",
+      "email": "info@thinkcx.com",
+      "pageId": "23dc6f79-9a33-813a-9711-dfb60aac7eee"
+    },
+    {
+      "name": "Scopemedia",
+      "email": "info@scopemedia.com",
+      "pageId": "23dc6f79-9a33-812f-a992-d3d1a74f9772"
+    },
+    {
+      "name": "Kanooq Industries",
+      "email": "info@kanooq.com",
+      "pageId": "23dc6f79-9a33-810e-99d6-d2e8fee5bb97"
+    },
+    {
+      "name": "Niricson",
+      "email": "info@niricson.com",
+      "pageId": "23dc6f79-9a33-8119-acbe-eb4e9fe42ec4"
+    },
+    {
+      "name": "Novarc Technologies",
+      "email": "info@novarctech.com",
+      "pageId": "236c6f79-9a33-8107-9520-c1fa2a38a6a8"
+    },
+    {
+      "name": "Voronoi Health Analytics",
+      "email": "contact@voronoihealthanalytics.com",
+      "pageId": "236c6f79-9a33-8112-9d5c-fad7739366f5"
+    },
+    {
+      "name": "Zfort Group",
+      "email": "contact@zfort.com",
+      "pageId": "236c6f79-9a33-8191-912f-f54d701a7494"
+    },
+    {
+      "name": "ASC Creative Ltd.",
+      "email": "info@asccreative.com",
+      "pageId": "236c6f79-9a33-8157-818e-c892b8d2b40e"
+    },
+    {
+      "name": "Visier",
+      "email": "info@visier.com",
+      "pageId": "227c6f79-9a33-8124-ba25-e73122d22c05"
+    },
+    {
+      "name": "AbCellera",
+      "email": "info@abcellera.com",
+      "pageId": "227c6f79-9a33-81fe-a66b-df3fce90b557"
+    },
+    {
+      "name": "Animikii",
+      "email": "info@animikii.com",
+      "pageId": "1f1c6f79-9a33-810a-90d9-e27a8a97a2b0"
+    },
+    {
+      "name": "VR/AR Association – Vancouver Chapter",
+      "email": "info@thevrara.com",
+      "pageId": "1f0c6f79-9a33-816b-8efd-cb8624e70fdd"
+    }
+  ],
+  "suspiciousNames": [],
+  "missingCriticalData": [
+    {
+      "name": "SkyAcres",
+      "pageId": "23fc6f79-9a33-811b-b373-ec277010dbd9",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Properti Edge",
+      "pageId": "23fc6f79-9a33-816b-a9a9-c048f4282e69",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "City of Richmond AI Strategy",
+      "pageId": "23fc6f79-9a33-8150-9eea-f8d3d206b6b8",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "City of Surrey AI Initiative",
+      "pageId": "23fc6f79-9a33-8102-9150-faf5dc3126da",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC AI Assist Program",
+      "pageId": "23fc6f79-9a33-817f-9eff-d3cfefab274a",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Regional AI Initiative",
+      "pageId": "23fc6f79-9a33-8161-9022-db94c076be74",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Stellantis LG Energy Solution BC",
+      "pageId": "23fc6f79-9a33-815a-9713-def1a495e575",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Aerospace Skills Gap Analysis",
+      "pageId": "23fc6f79-9a33-810d-9bec-d80a4eb94511",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Centre for Innovation and Clean Energy",
+      "pageId": "23fc6f79-9a33-8136-b651-fed831c1c8a8",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "DigiBC Creative Technology Association",
+      "pageId": "23fc6f79-9a33-8153-8746-ee1da8fadb29",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Regional AI Initiative Recipients",
+      "pageId": "23fc6f79-9a33-819b-ac0f-d316a92b8c07",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Microsoft Canada AI Hub",
+      "pageId": "23fc6f79-9a33-81be-9128-e260cb998df9",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Excelar Technologies",
+      "pageId": "23fc6f79-9a33-81f2-aa7d-f41a2157ffd8",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "ChildCare Services BC AI Platform",
+      "pageId": "23fc6f79-9a33-815b-b33a-f8403797ca98",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Service BC AI Search Platform",
+      "pageId": "23fc6f79-9a33-819d-9938-cdac0c303ac4",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Wildfire Service AI Analytics",
+      "pageId": "23fc6f79-9a33-8149-94d4-e6e6bce9d31e",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC AI Refugee Integration Platform",
+      "pageId": "23fc6f79-9a33-8181-9afb-d64b7a742f5b",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "AI Network of British Columbia",
+      "pageId": "23fc6f79-9a33-8181-b0d0-d1f15d6fea41",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "VAG AI Imitation Game Program",
+      "pageId": "23fc6f79-9a33-819c-9509-c69697a06631",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "DigiBC Signals Program",
+      "pageId": "23fc6f79-9a33-8160-97c7-e88be6c2cc38",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Stellar Code Lab",
+      "pageId": "23fc6f79-9a33-81d9-8f76-c5cf99a45e14",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "SFU Metacreation Lab for Creative AI",
+      "pageId": "23fc6f79-9a33-812a-8213-de318d6dfb1a",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Artificial Muse Music AI Residency",
+      "pageId": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "ICCSMLAI Vancouver Sports Track",
+      "pageId": "23fc6f79-9a33-81ea-a212-d090b77e7270",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Plantiga",
+      "pageId": "23fc6f79-9a33-81a8-b297-c6d626afaa49",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Flento",
+      "pageId": "23fc6f79-9a33-8163-b381-f20d468c5831",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Athletica",
+      "pageId": "23fc6f79-9a33-8182-a2bb-e940ec42bd56",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "FLAIR BC Initiative",
+      "pageId": "23fc6f79-9a33-8105-972a-f5291ba9504e",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "UBC Kwak'wala AI Immersion Project",
+      "pageId": "23fc6f79-9a33-81a0-a2d6-fce118349c76",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Abundant Intelligences",
+      "pageId": "23fc6f79-9a33-81f5-ac1c-e2d39d8e2afd",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Indigenous Protocol and AI Working Group",
+      "pageId": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Vancouver AI Community",
+      "pageId": "23fc6f79-9a33-814f-acae-dd235bec0a8d",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Applied AI Research Association",
+      "pageId": "23fc6f79-9a33-81bc-8b42-fac3bfec6c00",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "AI Community Conference Vancouver",
+      "pageId": "23fc6f79-9a33-81a9-a85f-ef6f540f38d6",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "NEXT AI BC Companies",
+      "pageId": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Scale AI BC Recipients",
+      "pageId": "23fc6f79-9a33-81bb-99b4-e06406856531",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "DigiBC Creative AI Members",
+      "pageId": "23fc6f79-9a33-8193-b79b-e19e18cc35c2",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "DigiBC Signals AI Showcase",
+      "pageId": "23fc6f79-9a33-8139-8c2d-e340278f023e",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "RAII Grant Recipients 2025",
+      "pageId": "23fc6f79-9a33-81e8-bb83-d81f112e5580",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Fast Pilot AI Projects",
+      "pageId": "23fc6f79-9a33-818e-b964-da7b9a50ada9",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Circle Innovation Vancouver AI Community",
+      "pageId": "23fc6f79-9a33-81d6-aafc-f1e7f3d18b2c",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Shape Immersive",
+      "pageId": "23fc6f79-9a33-8146-a3ed-fb5d2725cb1a",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Boast AI",
+      "pageId": "23fc6f79-9a33-818a-a6c0-c5fe10727e6d",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Meton AI",
+      "pageId": "23fc6f79-9a33-8102-8af8-d81b632dbd61",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Microsoft VCH AI Partnership",
+      "pageId": "23fc6f79-9a33-819f-96ac-e9784041a029",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BCIT Applied Research Centre for Sustainability Energy and Resource Innovations",
+      "pageId": "23fc6f79-9a33-81b5-ad09-c285d08d695c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Vancouver Game Dev AI Collective",
+      "pageId": "23fc6f79-9a33-8126-accf-f280e5446edf",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Unity Muse Vancouver Community",
+      "pageId": "23fc6f79-9a33-81d7-8723-efbf5829fe6b",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "External Development Summit Vancouver",
+      "pageId": "23fc6f79-9a33-81aa-a1cf-d69182e824b9",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Prince George Wildfire AI Network",
+      "pageId": "23fc6f79-9a33-8142-b200-c9cc19ed2a87",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Forest Innovation and Bioeconomy Manufacturing Program",
+      "pageId": "23fc6f79-9a33-8111-a043-df271f8e95a0",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "CFS Mass Timber Innovation and Research Lab",
+      "pageId": "23fc6f79-9a33-817f-9b57-caa969f4554f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "qathet Regional District Fire AI",
+      "pageId": "23fc6f79-9a33-810c-9d7a-c62535a83232",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "MiningTech North America Conference",
+      "pageId": "23fc6f79-9a33-81bd-a9f6-eabdb1a08712",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Southern Cross Gold BC",
+      "pageId": "23fc6f79-9a33-812c-96c2-fbea33cb386a",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Farmonaut BC",
+      "pageId": "23fc6f79-9a33-8198-bad8-dabc55067107",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Industry Partners AI Consortium",
+      "pageId": "23fc6f79-9a33-8104-86a0-d0e1957e632c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Vancouver PropTech Hub",
+      "pageId": "23fc6f79-9a33-81f5-84f1-f3f6008f3c8e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Fraser Surrey Docks",
+      "pageId": "23fc6f79-9a33-811c-90ea-fa87642b56ca",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "VFPA Terminal 2 Project",
+      "pageId": "23fc6f79-9a33-81bb-92fd-e9408c52e19c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Deltaport Container Terminal",
+      "pageId": "23fc6f79-9a33-8125-a0e7-f7c920e4b8e8",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Neptune Terminals",
+      "pageId": "23fc6f79-9a33-81bf-9525-c79e16ff3a40",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "TIABC AI Workshop Initiative",
+      "pageId": "23fc6f79-9a33-8171-b9e3-d5790556b24f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Site C Hydroelectric Project AI Division",
+      "pageId": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "PacifiCan Regional Artificial Intelligence Initiative",
+      "pageId": "23fc6f79-9a33-8159-8654-caf7c9e5006e",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "BC Hydro Electrification Initiative",
+      "pageId": "23fc6f79-9a33-81e5-b4e9-f62e69011c60",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BCIT Xanadu Quantum Computing Program",
+      "pageId": "23fc6f79-9a33-81f0-b59f-ff4000a394e5",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Vancouver International Privacy Security Summit",
+      "pageId": "23fc6f79-9a33-81ea-a951-fa3fb05d806f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Tech Hypergrowth Program",
+      "pageId": "23fc6f79-9a33-81f4-92c2-ec65c0e08d42",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "UVic Coast Capital Innovation Centre",
+      "pageId": "23fc6f79-9a33-810b-a152-dc2b3d527836",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "e@UBC Accelerate",
+      "pageId": "23fc6f79-9a33-81d0-85e9-c28ff3f782ca",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "CDL Vancouver",
+      "pageId": "23fc6f79-9a33-81e4-9815-c524beb0dc4f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "CICE AI Program",
+      "pageId": "23fc6f79-9a33-81d4-88d4-f40dd6e5157f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BCIT Applied AI Certificate Program",
+      "pageId": "23fc6f79-9a33-811c-8a60-dc06b9c8ae7a",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "SFU Artificial Intelligence Research Group",
+      "pageId": "23fc6f79-9a33-812d-be34-f3974cee4ab8",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Applied AI Research Association (AAIRA)",
+      "pageId": "23fc6f79-9a33-8192-9ecc-d2311757a9c0",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "DevFest YVR / AI Summit Vancouver",
+      "pageId": "23fc6f79-9a33-8138-bbc5-e89ce17ed21c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Adiabatic Quantum Computing Conference 2025",
+      "pageId": "23fc6f79-9a33-81ac-9b55-dfb79ba2c19e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Thompson Rivers University Computer Science",
+      "pageId": "23fc6f79-9a33-8126-9330-f12d98fbfc33",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "First Nations Health Authority Digital Health",
+      "pageId": "23fc6f79-9a33-81e9-be87-fb3703a2bda6",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "University of Victoria AI and Machine Learning Lab",
+      "pageId": "23fc6f79-9a33-8180-b520-d7d06882bfcc",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "InBC Life Sciences Fund",
+      "pageId": "23fc6f79-9a33-81cb-ba45-fff149c337c7",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Digital Technology Supercluster Healthtech Initiative",
+      "pageId": "23fc6f79-9a33-81c0-816e-d93782f79461",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Microsoft Vancouver Coastal Health Partnership",
+      "pageId": "23fc6f79-9a33-811b-ab60-d14ce505d900",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC AI in Education Initiative",
+      "pageId": "23fc6f79-9a33-81b0-acde-ee67f82cd45a",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Tutor Lily Inc",
+      "pageId": "23fc6f79-9a33-8148-a2c0-dfbd2d59dc5c",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Edvisor.io",
+      "pageId": "23fc6f79-9a33-8177-8fb1-fbfa25cbea69",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Riipen",
+      "pageId": "23fc6f79-9a33-8114-8831-f6860381867d",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "UBC Biomedical Research Facility",
+      "pageId": "23fc6f79-9a33-816d-8b8b-ccb2de125782",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "CareConnect",
+      "pageId": "23fc6f79-9a33-8112-8c19-dc29c0fa82cd",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Kardium",
+      "pageId": "23fc6f79-9a33-8131-83d7-ecc0684531fd",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Toonie",
+      "pageId": "23fc6f79-9a33-81f0-9a80-df0e820af991",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Felix",
+      "pageId": "23fc6f79-9a33-8108-9cd5-c0553179881b",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Leasey.AI",
+      "pageId": "23fc6f79-9a33-81b5-9314-fe3df8ab6f2c",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Evergrow",
+      "pageId": "23fc6f79-9a33-81af-970b-cacdc52867b9",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "GreenMeter AI",
+      "pageId": "23fc6f79-9a33-819c-8e7b-f51b33bdbd16",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "3D AI Studio Vancouver",
+      "pageId": "23fc6f79-9a33-8180-8bb2-f24d31f306ad",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Rally Legal",
+      "pageId": "23fc6f79-9a33-8158-9322-c541c2875958",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Athennian",
+      "pageId": "23fc6f79-9a33-81ec-9b00-e5350a21065d",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Canadian Forest Service Mass Timber Lab",
+      "pageId": "23fc6f79-9a33-8105-b4ff-de202f58cb7a",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "qathet Regional District AI Fire System",
+      "pageId": "23fc6f79-9a33-81cd-95b5-e4424e1a4c4c",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Pano AI BC Operations",
+      "pageId": "23fc6f79-9a33-8125-b009-ff24fe1152a4",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Blue Economy Innovation Hub",
+      "pageId": "23fc6f79-9a33-819b-be47-cfbd077585dc",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "OceanWise",
+      "pageId": "23fc6f79-9a33-8112-a610-f27e2c6659b7",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "MarineAI Technologies",
+      "pageId": "23fc6f79-9a33-8154-ab55-d07faddcc321",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Southern Cross Gold BC Operations",
+      "pageId": "23fc6f79-9a33-8162-8412-d8a84c1490b8",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Agritech Training Initiative",
+      "pageId": "23fc6f79-9a33-81b8-a8be-c89cb321113a",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Farmonaut BC Operations",
+      "pageId": "23fc6f79-9a33-8192-824f-c7158b97b3b9",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Semios",
+      "pageId": "23fc6f79-9a33-814e-8017-dc7032e0a223",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Skills Training AI Initiative",
+      "pageId": "23fc6f79-9a33-81f3-847a-eacf249abde2",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Vancouver PropTech Ecosystem",
+      "pageId": "23fc6f79-9a33-81da-b817-f60850be7439",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Construction Technology Initiative",
+      "pageId": "23fc6f79-9a33-8128-acc9-f9a5f682700d",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "ConstructAI",
+      "pageId": "23fc6f79-9a33-8178-a264-cf1080d7a214",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BuildingOS",
+      "pageId": "23fc6f79-9a33-8131-a7aa-ec527c83d5bc",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Fraser Surrey Docks AI Operations",
+      "pageId": "23fc6f79-9a33-8187-87a0-e2fc29fe2b80",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Vancouver Fraser Port Authority Terminal 2",
+      "pageId": "23fc6f79-9a33-8163-834e-ce8f4720c21c",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Manufacturing Skills Initiative",
+      "pageId": "23fc6f79-9a33-810d-940f-d96d005343b0",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Neptune Terminals AI Operations",
+      "pageId": "23fc6f79-9a33-8114-81cb-fb32f74070f6",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "RCAB Advanced Manufacturing Laboratory",
+      "pageId": "23fc6f79-9a33-81af-831c-dc94fc73ff56",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Tourism Industry Association of BC AI Workshop",
+      "pageId": "23fc6f79-9a33-8107-b9fc-f5a64dfff25c",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Tourism Innovation Lab",
+      "pageId": "23fc6f79-9a33-812c-bc32-dc4543e5dbeb",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "TourismTechBC",
+      "pageId": "23fc6f79-9a33-8156-9dd6-c0436688cdc4",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Data Centre AI Initiative",
+      "pageId": "23fc6f79-9a33-8103-936f-feef0b0ba529",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Actuarial AI Society",
+      "pageId": "23fc6f79-9a33-8194-b0b2-db7100986372",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Financial AI Compliance Initiative",
+      "pageId": "23fc6f79-9a33-818b-9bb7-f44434344d46",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "pageId": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Clean Energy Innovation Program",
+      "pageId": "23fc6f79-9a33-811f-b562-da55cb3247bf",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "pageId": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "PacifiCan Regional AI Initiative",
+      "pageId": "23fc6f79-9a33-8132-829c-e30a2a5dc16c",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "pageId": "23fc6f79-9a33-810f-8e31-e291376efa32",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Hydro Electrification Plan",
+      "pageId": "23fc6f79-9a33-8179-a1f4-e1a4f953a491",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BCIT Xanadu Quantum Computing Certificate",
+      "pageId": "23fc6f79-9a33-8193-94c2-c3ca3e33f382",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Stellantis LG Energy Solution BC Partnership",
+      "pageId": "23fc6f79-9a33-8148-881d-c34f8a9d58ac",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Canadian Artificial Intelligence Safety Institute",
+      "pageId": "23fc6f79-9a33-810f-946f-e616ddcadbf3",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Government Cybersecurity Showcase BC",
+      "pageId": "23fc6f79-9a33-81cf-bda7-c09641bb4e05",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BC Aerospace Skills Gap Analysis Project",
+      "pageId": "23fc6f79-9a33-81a4-a2a1-fb6bda9e8bda",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BCIT Centre of Excellence for Aerospace",
+      "pageId": "23fc6f79-9a33-817e-9340-e054334d746e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BCIT Aerospace Technology Campus",
+      "pageId": "23fc6f79-9a33-816b-bd10-ce74a98aa8b4",
+      "missing": [
+        "Category",
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Consortium for Aerospace Research and Innovation in Canada",
+      "pageId": "23fc6f79-9a33-81d2-8844-c496a747ba14",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "entrepreneurship@UBC Accelerate",
+      "pageId": "23fc6f79-9a33-81a1-b8a1-f1d03e3edd3e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Unblocked",
+      "pageId": "23fc6f79-9a33-8106-a9ba-e2a72d3ad82f",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Defang",
+      "pageId": "23fc6f79-9a33-81c6-ac32-fb6864bcec70",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Fintel Connect",
+      "pageId": "23fc6f79-9a33-81f3-a6b9-d9a142798c61",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "SandboxAQ (Good Chemistry Acquisition)",
+      "pageId": "23fc6f79-9a33-81a8-991d-fe1001776942",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Thales Canada",
+      "pageId": "23fc6f79-9a33-812e-8d33-e1d12d22e597",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Simform",
+      "pageId": "23fc6f79-9a33-8187-b774-d56056ed01a6",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Mobcoder",
+      "pageId": "23fc6f79-9a33-81f1-b25b-c6c89fa72a2e",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Hugo Inc",
+      "pageId": "23fc6f79-9a33-81df-94fd-cb462dd55bdf",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Fujitsu Intelligence Technology",
+      "pageId": "23fc6f79-9a33-813e-bae0-e6aaa88cdace",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Cloudburst Research",
+      "pageId": "23fc6f79-9a33-81c4-94df-c4c7dab42d20",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Canexia Health (Imagia Canexia Health)",
+      "pageId": "23fc6f79-9a33-8131-b80c-e9c8e945e5b1",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "HomeCourt (NEX Team)",
+      "pageId": "23fc6f79-9a33-819b-abdf-d630a159d256",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Gaze AI",
+      "pageId": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Vision Critical (Alida)",
+      "pageId": "23fc6f79-9a33-81de-890b-fb2743bf0ad7",
+      "missing": [
+        "Category"
+      ]
+    },
+    {
+      "name": "Leaders of Tomorrow Institute Inc.",
+      "pageId": "23dc6f79-9a33-81e5-8eaf-c1fe8fbbad3d",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Helios-Helmet",
+      "pageId": "23dc6f79-9a33-81db-8d0a-c513f276a998",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Scoop Robotix",
+      "pageId": "23dc6f79-9a33-812a-8281-fc26880489c8",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Safety CLI Cybersecurity",
+      "pageId": "23dc6f79-9a33-8142-a860-f4edc5058562",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Swipe Right App",
+      "pageId": "23dc6f79-9a33-81e5-9701-ed735281d85a",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Kanooq Industries",
+      "pageId": "23dc6f79-9a33-810e-99d6-d2e8fee5bb97",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Blackout Media",
+      "pageId": "23dc6f79-9a33-814d-bcfe-c9226472778c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "1SecondPainting",
+      "pageId": "23dc6f79-9a33-810f-a61f-d813454afa7b",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "XARIIA",
+      "pageId": "23dc6f79-9a33-8119-a2ce-e4c14ad40b5a",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Flashee",
+      "pageId": "23dc6f79-9a33-81c4-b67b-c1db4ba889d3",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Caseway",
+      "pageId": "23dc6f79-9a33-8155-a137-e76ee0bdcf89",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "VRFY Inc.",
+      "pageId": "23dc6f79-9a33-8148-b08c-ec1001d1a0ab",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "wewell ecosystem",
+      "pageId": "23dc6f79-9a33-8137-a8fa-d3cc786002f4",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Plantiga Technologies Inc",
+      "pageId": "23dc6f79-9a33-81f1-96e2-cd554411b7c7",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Legible Media Inc.",
+      "pageId": "23dc6f79-9a33-8191-b310-c26f6ddda472",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Drive Hockey Analytics",
+      "pageId": "23dc6f79-9a33-8187-a016-d27418833bc7",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Artemisdata",
+      "pageId": "23dc6f79-9a33-81eb-8091-e3ab8403d7f9",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "CodeMaker AI Inc.",
+      "pageId": "23dc6f79-9a33-817e-8791-ca6b2c990bcc",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Automate.",
+      "pageId": "23dc6f79-9a33-810b-8ae4-eb150b5391de",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "usediscovery.ai",
+      "pageId": "23dc6f79-9a33-81c6-afcd-d50471279ba5",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "OneTask",
+      "pageId": "23dc6f79-9a33-81f6-9901-e2e378af7d18",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Swae",
+      "pageId": "23dc6f79-9a33-81b2-a73e-de88592542bb",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Topicflow",
+      "pageId": "23dc6f79-9a33-81db-a5b5-fe657cf24a7e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Olive Technologies, Inc",
+      "pageId": "23dc6f79-9a33-81b6-926f-cfaafdcd2f57",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Cifra",
+      "pageId": "23dc6f79-9a33-8174-a45d-f6841d03a6c4",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Optimate AI",
+      "pageId": "23dc6f79-9a33-81c0-842f-cde8858275b8",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Downtown.AI",
+      "pageId": "23dc6f79-9a33-81e3-b7d3-f9edb5c008f3",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Damon",
+      "pageId": "23dc6f79-9a33-8155-81cf-ce961fc1296b",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "akche technologies inc",
+      "pageId": "23dc6f79-9a33-819c-b87e-e98c56bd600e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Binta Financial",
+      "pageId": "23dc6f79-9a33-81df-a80b-ef732d3252ae",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Artenal",
+      "pageId": "23dc6f79-9a33-816a-ba8e-f02e22bb6389",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Neupeak",
+      "pageId": "23dc6f79-9a33-81a7-950e-ee1fc858a13c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Implant Genius",
+      "pageId": "23dc6f79-9a33-8131-a01d-fe2435ae7c98",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "GenerationsE",
+      "pageId": "23dc6f79-9a33-819e-b904-c87232c576ba",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Inofuse",
+      "pageId": "23dc6f79-9a33-818b-b5d1-c3cd6a9e14ce",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Flutter Care",
+      "pageId": "23dc6f79-9a33-81f6-9472-eeb83c737642",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Scrubs Co-Pilot",
+      "pageId": "23dc6f79-9a33-81a3-8c3a-c7bc6bec42af",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Rubriz AI",
+      "pageId": "23dc6f79-9a33-8166-a7ea-ea87a1598ff0",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Avicena AI",
+      "pageId": "23dc6f79-9a33-81bd-b6be-e304d21bf50d",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "ConcussionRx",
+      "pageId": "23dc6f79-9a33-8132-b8a7-f0e92c00ba6e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Arca",
+      "pageId": "23dc6f79-9a33-811f-8d15-ef67d8ebc591",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Creative Destruction Lab (CDL)",
+      "pageId": "23dc6f79-9a33-81c6-9304-d7bcde290654",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "VentureLabs Accelerator",
+      "pageId": "23dc6f79-9a33-810e-b523-d0c453d22ed6",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Animikii Indigenous Technology Inc",
+      "pageId": "23dc6f79-9a33-814d-9f8b-cccfc1b2f434",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Upper Nicola Band AI Data Centre",
+      "pageId": "23dc6f79-9a33-8122-acc6-e0760907de40",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Graphics, Artificial Intelligence, Design, and Games (GAIDG) Lab",
+      "pageId": "23dc6f79-9a33-8111-83da-cc25b52cfc56",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "PioGroup Software",
+      "pageId": "23dc6f79-9a33-815b-9ab5-f28a40ceb48c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Adastra",
+      "pageId": "23dc6f79-9a33-811c-82cc-e99db3585c35",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Hugo",
+      "pageId": "23dc6f79-9a33-817d-ae48-ed7cbd8c346f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Grammarly",
+      "pageId": "23dc6f79-9a33-81fb-866a-d8a83fd5fed7",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Fujitsu",
+      "pageId": "23dc6f79-9a33-81c8-8d6f-fd8162eeca73",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Bridge2AI",
+      "pageId": "23dc6f79-9a33-81e6-a90d-e7db0c0a3874",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Brainix",
+      "pageId": "23dc6f79-9a33-817b-a509-ebd8e18b3837",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "boilerroom.ai",
+      "pageId": "23dc6f79-9a33-812e-8bea-ef99c88d2ae5",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Bizzer AI",
+      "pageId": "23dc6f79-9a33-815d-99bb-fd82c0625bad",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Amass AI",
+      "pageId": "23dc6f79-9a33-81ec-bd1c-cf8c4ae8f48a",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "AIMA Inc",
+      "pageId": "23dc6f79-9a33-8120-be84-d8574c230327",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "AI Stock Watch",
+      "pageId": "23dc6f79-9a33-8193-8fff-c7a57412c607",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Advertising Intelligence (ADINT.AI)",
+      "pageId": "23dc6f79-9a33-810b-9aee-d193262b9e46",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "3DentAI",
+      "pageId": "23dc6f79-9a33-81e0-af85-d21b4e1ce784",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Zymeworks",
+      "pageId": "23dc6f79-9a33-813d-80e1-d9a0ce2345a1",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "CoPilot AI",
+      "pageId": "23dc6f79-9a33-81c4-8070-f76878fd1555",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "mCloud",
+      "pageId": "23dc6f79-9a33-819f-94fa-c87091cb3fe0",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Owl.co",
+      "pageId": "23dc6f79-9a33-815a-a13e-c6838cb71ff1",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Deadwood Innovations",
+      "pageId": "23dc6f79-9a33-8109-bd91-ed461dd4d4a2",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Haoma Health",
+      "pageId": "23dc6f79-9a33-8199-83cf-dfa13ef9bfdd",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "TELUS Sovereign AI Factories",
+      "pageId": "23dc6f79-9a33-812e-bd98-e5c2f4527238",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Safari AI",
+      "pageId": "23dc6f79-9a33-814b-be91-d4b607c90f90",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BLUESENSE AI",
+      "pageId": "23dc6f79-9a33-8114-9f1f-d73d73605bc6",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Creative Destruction Lab Vancouver (CDL-Vancouver)",
+      "pageId": "23dc6f79-9a33-8107-9a58-e45e1089f75f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Empirical Results",
+      "pageId": "23dc6f79-9a33-81da-b2b3-dc665991fe1c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "T4G",
+      "pageId": "23dc6f79-9a33-8187-8e11-d0d922efcb13",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Orishnal Digital Services",
+      "pageId": "236c6f79-9a33-811e-8944-ff2a0c1495f1",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "The Number",
+      "pageId": "236c6f79-9a33-8106-aa09-c02ac2d2d8fd",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "deltAlyz Canada",
+      "pageId": "236c6f79-9a33-8155-bb2b-ec8b92feeecf",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Canada Techs",
+      "pageId": "236c6f79-9a33-817d-89d6-ebc63e77de35",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Auryon.ai",
+      "pageId": "236c6f79-9a33-81c3-b10e-cde9b61ff604",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "BetterTable",
+      "pageId": "236c6f79-9a33-8197-bad4-d67850271c06",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "SenseNet",
+      "pageId": "236c6f79-9a33-8195-88cd-cd49fcb892c3",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Google for Startups Accelerator: AI for Nature",
+      "pageId": "236c6f79-9a33-8103-86f2-ff0a75c70895",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "QueerTech QT Founders Catalyst Program",
+      "pageId": "236c6f79-9a33-8173-8f1f-c78dae3e264f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "OneFeather",
+      "pageId": "236c6f79-9a33-81f1-96b8-fc27ff5bed42",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Artemis",
+      "pageId": "236c6f79-9a33-81cd-b214-fa0c242ac127",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "ThinkLabs AI",
+      "pageId": "236c6f79-9a33-81b0-8c0c-fb94e425d88a",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Jetson",
+      "pageId": "236c6f79-9a33-81f1-b28c-dc1cf9487e0d",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Mind AI & Consciousness",
+      "pageId": "236c6f79-9a33-81dc-aa93-fede1d426737",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Squamish AI (Stawamus Syntax)",
+      "pageId": "236c6f79-9a33-8105-8873-e7d3cbed5b26",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Womxn's AI (Vancouver)",
+      "pageId": "236c6f79-9a33-81da-971a-f0515e1d93a4",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Surrey AI",
+      "pageId": "236c6f79-9a33-81e2-a0c0-ce459dd4cb7c",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Active Impact Investments",
+      "pageId": "236c6f79-9a33-8132-b33d-f870888617ee",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "RBC Borealis AI (Vancouver Lab)",
+      "pageId": "1f8c6f79-9a33-8179-a60d-daa0d4738e2e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Providence Health & IBM Centre for Heart Lung Innovation",
+      "pageId": "1f1c6f79-9a33-8134-a2dc-e2f394f5db0f",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Creative Destruction Lab Vancouver (CDL)",
+      "pageId": "1f1c6f79-9a33-81b2-af6b-efcaa151b1eb",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Bayes Studio",
+      "pageId": "1f1c6f79-9a33-813e-b7e0-f4510f9d395e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Finn.ai",
+      "pageId": "1f1c6f79-9a33-81fd-9a9d-ffd755e9c5dc",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Pieoneers",
+      "pageId": "1f1c6f79-9a33-8109-b57f-ef1a32ba627e",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Inoxoft",
+      "pageId": "1f1c6f79-9a33-81fe-b3a6-d225759c9a4b",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "Dooly.ai",
+      "pageId": "1f1c6f79-9a33-817c-aad0-f1f298dc2dd2",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    },
+    {
+      "name": "TELUS",
+      "pageId": "1f1c6f79-9a33-81e6-bad9-ec0e66ae4892",
+      "missing": [
+        "No website or LinkedIn"
+      ]
+    }
+  ],
+  "placeholderData": [],
+  "totalIssues": 410
+}

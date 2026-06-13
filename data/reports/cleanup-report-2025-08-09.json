@@ -1,0 +1,613 @@
+{
+  "timestamp": "2025-08-09T23:41:23.359Z",
+  "stats": {
+    "totalEntries": 333,
+    "nonFundersRemoved": 73,
+    "fakeEmailsRemoved": 0,
+    "genericDescriptionsRemoved": 0,
+    "unverifiedMarked": 0,
+    "cleanEntries": 258
+  },
+  "cleanupLog": [
+    {
+      "id": "24ac6f79-9a33-8101-b134-d62cc19a0058",
+      "name": "Framework Venture Partners",
+      "timestamp": "2025-08-09T23:40:24.211Z",
+      "actions": [
+        "Removed mock investment data"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-815b-a0fb-f06954629f93",
+      "name": "Facebook",
+      "timestamp": "2025-08-09T23:40:24.556Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81e5-997d-dd2bdc224500",
+      "name": "Nutanix: https://www.nutanix.com/",
+      "timestamp": "2025-08-09T23:40:24.953Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8167-9a59-fc3f8bcbcd18",
+      "name": "Element AI: https://www.elementai.com/",
+      "timestamp": "2025-08-09T23:40:25.242Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8103-ba7c-f5f2dd74e349",
+      "name": "Meta",
+      "timestamp": "2025-08-09T23:40:25.455Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81f9-8f8b-f475da703e3f",
+      "name": "Microsoft: https://www.microsoft.com/en",
+      "timestamp": "2025-08-09T23:40:25.744Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-813f-8be2-f51a77d34ca0",
+      "name": "Vancouvermaritimemuseum",
+      "timestamp": "2025-08-09T23:40:26.000Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81e4-b00a-ca25d2672380",
+      "name": "Vanfashionweek",
+      "timestamp": "2025-08-09T23:40:30.206Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-811b-b346-d600d2bb2932",
+      "name": "Vaff",
+      "timestamp": "2025-08-09T23:40:30.492Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8134-9366-e6275d7d73ce",
+      "name": "Thestar",
+      "timestamp": "2025-08-09T23:40:30.901Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-817a-a5ce-c25b23d3b244",
+      "name": "Shafintejani",
+      "timestamp": "2025-08-09T23:40:31.185Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-819c-bd82-ca0558ffd434",
+      "name": "Sap",
+      "timestamp": "2025-08-09T23:40:31.660Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-810e-bcce-e7a69c5dd1a0",
+      "name": "Pushfestival",
+      "timestamp": "2025-08-09T23:40:32.416Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8128-85cb-c4430574593f",
+      "name": "Nutanix",
+      "timestamp": "2025-08-09T23:40:32.816Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8153-9052-cde2835b5d47",
+      "name": "Nortonlifelock",
+      "timestamp": "2025-08-09T23:40:33.167Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81ed-9de1-de1b151d5653",
+      "name": "Neekoopf",
+      "timestamp": "2025-08-09T23:40:33.578Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8108-a47d-f4b65c20029b",
+      "name": "Museumofvancouver",
+      "timestamp": "2025-08-09T23:40:34.060Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-816b-afe1-ebb7be48ab1c",
+      "name": "Moa",
+      "timestamp": "2025-08-09T23:40:34.613Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8102-ab4e-f368edd8c0cc",
+      "name": "Microsoft",
+      "timestamp": "2025-08-09T23:40:37.439Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81fc-80f0-dbcc75958725",
+      "name": "Magazinescanada",
+      "timestamp": "2025-08-09T23:40:37.674Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-818f-b7f1-f9b20179042f",
+      "name": "Lindasolomon",
+      "timestamp": "2025-08-09T23:40:37.975Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81df-8e07-f14ebc0ae758",
+      "name": "Lifelabs",
+      "timestamp": "2025-08-09T23:40:38.267Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81f8-8753-d0ee75f418f1",
+      "name": "Jellyacademy",
+      "timestamp": "2025-08-09T23:40:38.880Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-812d-90ab-fa0927f0a586",
+      "name": "Iyacyber",
+      "timestamp": "2025-08-09T23:40:39.394Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81c2-bc2a-c287ced3b06d",
+      "name": "Intel",
+      "timestamp": "2025-08-09T23:40:44.177Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81d6-868e-ecb8f9bd671a",
+      "name": "Isfestival",
+      "timestamp": "2025-08-09T23:40:44.453Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81c3-b9e9-c9dab0bc4fb1",
+      "name": "Salesforce",
+      "timestamp": "2025-08-09T23:40:44.691Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81b6-812b-d268d7111ec5",
+      "name": "Hubcycling",
+      "timestamp": "2025-08-09T23:40:44.906Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8148-a35b-c3d41de8cb36",
+      "name": "Hootsuite",
+      "timestamp": "2025-08-09T23:40:45.166Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81ca-aca4-fa1db4b4f34c",
+      "name": "Freewheel",
+      "timestamp": "2025-08-09T23:40:45.441Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-819b-a372-c91e0a3f4f0b",
+      "name": "Fortisbc",
+      "timestamp": "2025-08-09T23:40:46.064Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8135-9f87-dec807ce2810",
+      "name": "Ecuad",
+      "timestamp": "2025-08-09T23:40:46.687Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8105-b2f8-ce2aab7cc6c6",
+      "name": "Emc",
+      "timestamp": "2025-08-09T23:40:46.943Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81f3-a1f0-f1baeca84fb7",
+      "name": "Elementai",
+      "timestamp": "2025-08-09T23:40:47.196Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-819b-a1ce-f53e41c99aab",
+      "name": "Vancouverchinesegarden",
+      "timestamp": "2025-08-09T23:40:47.468Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81c8-84ec-fb886c37d2d2",
+      "name": "Doxafestival",
+      "timestamp": "2025-08-09T23:40:47.734Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8130-bc2e-fbbd1be89428",
+      "name": "Destinationvancouver",
+      "timestamp": "2025-08-09T23:40:47.925Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8164-84f6-d6f0cfa5821e",
+      "name": "Dailyhive",
+      "timestamp": "2025-08-09T23:40:49.057Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-811c-a688-d1a318b6c12e",
+      "name": "Dapperlabs",
+      "timestamp": "2025-08-09T23:40:49.337Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8152-b206-e6933375bb92",
+      "name": "Cloudera",
+      "timestamp": "2025-08-09T23:40:49.649Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81a1-b9d1-fd0cee904a95",
+      "name": "Capturecentre",
+      "timestamp": "2025-08-09T23:40:52.427Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-816b-9a35-e1a71e2032ab",
+      "name": "Auth0",
+      "timestamp": "2025-08-09T23:40:52.921Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81bb-bc79-e14271ea3f88",
+      "name": "Bessemer Venture Partners",
+      "timestamp": "2025-08-09T23:40:53.294Z",
+      "actions": [
+        "Removed mock investment data"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8183-9fe0-fba7b833b92a",
+      "name": "https://www.iyacyber.com",
+      "timestamp": "2025-08-09T23:40:54.317Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81c5-a478-d6d535829c31",
+      "name": "intelcsoffice@intel.com",
+      "timestamp": "2025-08-09T23:40:55.690Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81df-9b96-fab56602d2a2",
+      "name": "https://www.intel.com",
+      "timestamp": "2025-08-09T23:40:56.150Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8155-907c-fded89457ced",
+      "name": "info@isfestival.ca",
+      "timestamp": "2025-08-09T23:40:56.456Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-817a-89ea-e12ff2edb668",
+      "name": "info@salesforce.org",
+      "timestamp": "2025-08-09T23:40:58.794Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8112-b479-dcd9609e2973",
+      "name": "info@hubcycling.ca",
+      "timestamp": "2025-08-09T23:40:59.586Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-814b-b70f-f911be38f2c0",
+      "name": "info@hootsuite.com",
+      "timestamp": "2025-08-09T23:40:59.931Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81f4-a8e6-d203e099ab6f",
+      "name": "https://www.hootsuite.com",
+      "timestamp": "2025-08-09T23:41:00.688Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81ed-85af-f64b1102a898",
+      "name": "info@freewheel.com",
+      "timestamp": "2025-08-09T23:41:02.097Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81b1-a791-e3bbcaecf092",
+      "name": "https://www.freewheel.com",
+      "timestamp": "2025-08-09T23:41:02.409Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-812a-9df3-e960631502ec",
+      "name": "FortisBC",
+      "timestamp": "2025-08-09T23:41:02.854Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8164-af30-fb80d6c3c9f4",
+      "name": "https://www.fortisbc.com",
+      "timestamp": "2025-08-09T23:41:03.469Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8160-b93d-db2cc9a66fcd",
+      "name": "info@ecuad.ca",
+      "timestamp": "2025-08-09T23:41:03.909Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81eb-ad95-e7d0dcce3bd3",
+      "name": "info@emc.com",
+      "timestamp": "2025-08-09T23:41:07.262Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8129-ad89-cc921a4764f9",
+      "name": "EMC",
+      "timestamp": "2025-08-09T23:41:07.693Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-815c-ae23-f7b78b0753bd",
+      "name": "easupport@ea.com",
+      "timestamp": "2025-08-09T23:41:08.497Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8196-84bc-e3098a2cd6d9",
+      "name": "https://www.ea.com",
+      "timestamp": "2025-08-09T23:41:08.728Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81c5-9dc3-e68973914993",
+      "name": "info@elementai.com",
+      "timestamp": "2025-08-09T23:41:09.007Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81fb-bf35-e3b9ec7d7947",
+      "name": "https://www.elementai.com",
+      "timestamp": "2025-08-09T23:41:09.222Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8116-a4a9-c40390bab3fa",
+      "name": "Vancouver Chinese Garden",
+      "timestamp": "2025-08-09T23:41:09.484Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81dd-8b28-e40934b04023",
+      "name": "https://www.vancouverchinesegarden.com",
+      "timestamp": "2025-08-09T23:41:11.723Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8144-b443-cd430dc7da66",
+      "name": "info@doxafestival.ca",
+      "timestamp": "2025-08-09T23:41:14.519Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81b3-8202-e3e280612e4a",
+      "name": "info@destinationvancouver.com",
+      "timestamp": "2025-08-09T23:41:15.417Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8113-b2ad-d39a57b12bd3",
+      "name": "Destination Vancouver",
+      "timestamp": "2025-08-09T23:41:15.737Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8107-a0a7-f06e14f3ed7d",
+      "name": "Daily Hive",
+      "timestamp": "2025-08-09T23:41:15.964Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8140-bcad-ebff27e94925",
+      "name": "https://dailyhive.com",
+      "timestamp": "2025-08-09T23:41:18.129Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81a7-a9da-e74cd844cdba",
+      "name": "hi@dapperlabs.com",
+      "timestamp": "2025-08-09T23:41:19.780Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-81bd-b04b-e867ddf0c4a8",
+      "name": "info@cloudera.com",
+      "timestamp": "2025-08-09T23:41:21.425Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8114-bb36-ecc7a66a4554",
+      "name": "Cloudera",
+      "timestamp": "2025-08-09T23:41:21.948Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8166-abd4-d360d0f3f855",
+      "name": "info@capturecentre.ca",
+      "timestamp": "2025-08-09T23:41:22.774Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8153-be08-d6f845e69d1a",
+      "name": "contact@auth0.com",
+      "timestamp": "2025-08-09T23:41:23.048Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    },
+    {
+      "id": "246c6f79-9a33-8104-9fa8-c522655251ff",
+      "name": "Auth0",
+      "timestamp": "2025-08-09T23:41:23.358Z",
+      "actions": [
+        "Archived: Non-funding organization"
+      ]
+    }
+  ]
+}

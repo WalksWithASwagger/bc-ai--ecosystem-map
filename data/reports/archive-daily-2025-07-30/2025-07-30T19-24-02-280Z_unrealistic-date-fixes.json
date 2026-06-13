@@ -1,0 +1,427 @@
+{
+  "fixed": [
+    {
+      "name": "Response Biomedical",
+      "oldYear": 1988,
+      "newYear": 2008,
+      "method": "Healthcare innovation",
+      "confidence": "medium",
+      "category": "Healthcare & Biotech"
+    },
+    {
+      "name": "Ballard Power Systems",
+      "oldYear": 1979,
+      "newYear": 2006,
+      "method": "Clean technology focus",
+      "confidence": "medium",
+      "category": "CleanTech"
+    },
+    {
+      "name": "City of Richmond AI Strategy",
+      "oldYear": 1886,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "City of Surrey AI Initiative",
+      "oldYear": 1879,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "BC AI Assist Program",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "BC Regional AI Initiative",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BC Regional AI Initiative Recipients",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "ChildCare Services BC AI Platform",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Service BC AI Search Platform",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "BC Wildfire Service AI Analytics",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "BC AI Refugee Integration Platform",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "AI Network of British Columbia",
+      "oldYear": 1964,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Industry Association"
+    },
+    {
+      "name": "DigiBC Signals Program",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "FLAIR BC Initiative",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "UBC Kwak'wala AI Immersion Project",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Academic & Research Labs"
+    },
+    {
+      "name": "NEXT AI BC Companies",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Scale AI BC Recipients",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "DigiBC Creative AI Members",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "DigiBC Signals AI Showcase",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "BC Fast Pilot AI Projects",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Law Society of BC AI Ethics Program",
+      "oldYear": 1884,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Professional Association"
+    },
+    {
+      "name": "BC Forest Innovation and Bioeconomy Manufacturing Program",
+      "oldYear": 1950,
+      "newYear": 2008,
+      "method": "General tech timeline",
+      "confidence": "low",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "TIABC AI Workshop Initiative",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Industry Association"
+    },
+    {
+      "name": "BC Hydro Electrification Initiative",
+      "oldYear": 1950,
+      "newYear": 2008,
+      "method": "General tech timeline",
+      "confidence": "low",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "InBC Life Sciences Fund",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Government"
+    },
+    {
+      "name": "BC AI in Education Initiative",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Government"
+    },
+    {
+      "name": "Big Whale Labs",
+      "oldYear": 1985,
+      "newYear": 2006,
+      "method": "Social media era",
+      "confidence": "medium",
+      "category": "Web3 Startup"
+    },
+    {
+      "name": "BC AI Gaming Innovation Fund",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Law Society of BC AI Ethics Initiative",
+      "oldYear": 1980,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Industry Association"
+    },
+    {
+      "name": "Pano AI BC Operations",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "AI Companies"
+    },
+    {
+      "name": "Southern Cross Gold BC Operations",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Farmonaut BC Operations",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "BC Skills Training AI Initiative",
+      "oldYear": 1950,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Education & Training Providers"
+    },
+    {
+      "name": "BC Manufacturing Skills Initiative",
+      "oldYear": 1950,
+      "newYear": 2008,
+      "method": "General tech timeline",
+      "confidence": "low",
+      "category": "Government & Public Sector"
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "oldYear": 1962,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Uncategorized"
+    },
+    {
+      "name": "Coast Capital Savings Innovation Centre",
+      "oldYear": 1940,
+      "newYear": 2008,
+      "method": "General tech timeline",
+      "confidence": "low",
+      "category": "Accelerators / Incubators"
+    },
+    {
+      "name": "Lila Sciences",
+      "oldYear": 1986,
+      "newYear": 2010,
+      "method": "Post-crisis startup growth",
+      "confidence": "medium",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Defang Software Labs",
+      "oldYear": 1985,
+      "newYear": 2010,
+      "method": "Post-crisis startup growth",
+      "confidence": "medium",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Wizard Labs",
+      "oldYear": 1985,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "Leaders of Tomorrow Institute Inc.",
+      "oldYear": 1960,
+      "newYear": 2010,
+      "method": "Post-crisis startup growth",
+      "confidence": "medium",
+      "category": "Start-ups & Scale-ups"
+    },
+    {
+      "name": "VIATEC AI Meetups",
+      "oldYear": 1989,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Grassroots Communities"
+    },
+    {
+      "name": "University of Victoria (UVic) AI Research",
+      "oldYear": 1908,
+      "newYear": 2015,
+      "method": "AI technology boom",
+      "confidence": "high",
+      "category": "Academic & Research Labs"
+    }
+  ],
+  "errors": [],
+  "totalFixed": 42,
+  "totalCompanies": 665,
+  "companiesWithDates": 527,
+  "coverage": "79.2",
+  "yearDistribution": [
+    {
+      "year": 2025,
+      "count": 15
+    },
+    {
+      "year": 2024,
+      "count": 9
+    },
+    {
+      "year": 2023,
+      "count": 6
+    },
+    {
+      "year": 2022,
+      "count": 8
+    },
+    {
+      "year": 2021,
+      "count": 9
+    },
+    {
+      "year": 2020,
+      "count": 12
+    },
+    {
+      "year": 2019,
+      "count": 13
+    },
+    {
+      "year": 2018,
+      "count": 110
+    },
+    {
+      "year": 2017,
+      "count": 64
+    },
+    {
+      "year": 2016,
+      "count": 17
+    },
+    {
+      "year": 2015,
+      "count": 61
+    },
+    {
+      "year": 2014,
+      "count": 12
+    },
+    {
+      "year": 2013,
+      "count": 10
+    },
+    {
+      "year": 2012,
+      "count": 17
+    },
+    {
+      "year": 2011,
+      "count": 5
+    },
+    {
+      "year": 2010,
+      "count": 66
+    },
+    {
+      "year": 2009,
+      "count": 6
+    },
+    {
+      "year": 2008,
+      "count": 29
+    },
+    {
+      "year": 2007,
+      "count": 8
+    },
+    {
+      "year": 2006,
+      "count": 7
+    }
+  ]
+}

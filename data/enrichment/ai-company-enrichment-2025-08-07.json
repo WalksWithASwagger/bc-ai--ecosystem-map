@@ -1,0 +1,44 @@
+{
+  "generatedAt": "2025-08-07T16:12:55.472Z",
+  "totalCompanies": 5,
+  "successfulEnrichments": 0,
+  "successRate": 0,
+  "updatesBreakdown": {
+    "websites": 0,
+    "emails": 0,
+    "phones": 0,
+    "linkedin": 0
+  },
+  "enrichments": [
+    {
+      "companyId": "240c6f79-9a33-8164-ae8f-c5fc4c6a1706",
+      "companyName": "QuantumSense",
+      "updates": {},
+      "success": false
+    },
+    {
+      "companyId": "240c6f79-9a33-81cd-8799-fc7da9d386c3",
+      "companyName": "WasteFlow Technologies",
+      "updates": {},
+      "success": false
+    },
+    {
+      "companyId": "240c6f79-9a33-819e-a248-e22edbb93c51",
+      "companyName": "CreatorFlow Media",
+      "updates": {},
+      "success": false
+    },
+    {
+      "companyId": "240c6f79-9a33-819e-9298-c78c8f48bbfa",
+      "companyName": "DataMesh Analytics",
+      "updates": {},
+      "success": false
+    },
+    {
+      "companyId": "240c6f79-9a33-81a6-8ae9-f512f35b186e",
+      "companyName": "EnergyFlow Dynamics",
+      "updates": {},
+      "success": false
+    }
+  ]
+}

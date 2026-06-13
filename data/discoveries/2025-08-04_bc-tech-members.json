@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-08-04T17:36:31.521Z",
+  "source": "BC Tech Association",
+  "totalCompanies": 0,
+  "aiCompanies": 0,
+  "companiesWithData": {
+    "website": 0,
+    "employees": 0,
+    "yearFounded": 0,
+    "contactEmail": 0,
+    "linkedin": 0
+  },
+  "companies": {
+    "ai": [],
+    "other": []
+  }
+}

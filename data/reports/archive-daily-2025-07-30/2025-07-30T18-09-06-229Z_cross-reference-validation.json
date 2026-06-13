@@ -1,0 +1,209 @@
+{
+  "totalValidated": 10,
+  "confirmedAccurate": [
+    {
+      "name": "Trulioo",
+      "id": "240c6f79-9a33-8141-9a97-edc6de36d550",
+      "confirmations": [
+        "Funding confirmed: $394M",
+        "Valuation confirmed: $1.75B"
+      ],
+      "sources": [
+        "Series D announcement",
+        "Crunchbase"
+      ]
+    },
+    {
+      "name": "Tenstorrent",
+      "id": "240c6f79-9a33-8145-a710-c943a5fee40f",
+      "confirmations": [
+        "Funding confirmed: $100M",
+        "Valuation confirmed: $1B+"
+      ],
+      "sources": [
+        "Hyundai Motors press release",
+        "Company announcement"
+      ]
+    },
+    {
+      "name": "Visier",
+      "id": "227c6f79-9a33-8124-ba25-e73122d22c05",
+      "confirmations": [
+        "Funding confirmed: $154M",
+        "Revenue confirmed: $150M+ ARR",
+        "Valuation confirmed: $1B+ unicorn"
+      ],
+      "sources": [
+        "Warburg Pincus",
+        "Company press release"
+      ]
+    },
+    {
+      "name": "AlayaCare",
+      "id": "240c6f79-9a33-8143-8fcb-d0fa3a62bc52",
+      "confirmations": [
+        "Funding confirmed: $225M",
+        "Valuation confirmed: $800M+"
+      ],
+      "sources": [
+        "Inovia Capital",
+        "BetaKit"
+      ]
+    },
+    {
+      "name": "Aspect Biosystems",
+      "id": "23fc6f79-9a33-8130-9a24-ef13cd5beb71",
+      "confirmations": [
+        "Funding confirmed: $115M",
+        "Valuation confirmed: Approaching unicorn (~$800M-1B)"
+      ],
+      "sources": [
+        "Company website",
+        "Industry estimates"
+      ]
+    },
+    {
+      "name": "Hootsuite",
+      "id": "1f7c6f79-9a33-8162-ad8e-dbc2864b7f80",
+      "confirmations": [
+        "Funding confirmed: $50.2M",
+        "Revenue confirmed: $350M annually",
+        "Valuation confirmed: $1B (2014 unicorn)"
+      ],
+      "sources": [
+        "Getlatka",
+        "Historical records"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "name": "Clio",
+      "id": "23fc6f79-9a33-818f-81c1-daa1fa1a2a5c",
+      "issues": [
+        "Funding mismatch - DB: \"undefined (Source: undefined - Verified 2025-07-30)\", Expected: \"$900M Series F\"",
+        "Revenue mismatch - DB: \"undefined (Source: undefined - Verified 2025-07-30)\", Expected: \"$200M+ ARR\"",
+        "Valuation mismatch - DB: \"undefined (Source: undefined - Verified 2025-07-30)\", Expected: \"$3B\""
+      ],
+      "sources": [
+        "TechCrunch",
+        "Company Press Release"
+      ],
+      "severity": "high"
+    },
+    {
+      "name": "1Password",
+      "id": "240c6f79-9a33-8169-b3bb-f0b289a1a81c",
+      "issues": [
+        "Valuation mismatch - DB: \"$6.8B (Series C valuation)\", Expected: \"Unicorn status\""
+      ],
+      "sources": [
+        "Crunchbase",
+        "Company Blog"
+      ],
+      "severity": "medium"
+    },
+    {
+      "name": "AbCellera",
+      "id": "23dc6f79-9a33-81d0-8914-ffcdc86b1700",
+      "issues": [
+        "Funding mismatch - DB: \"Public (NASDAQ:ABCL) - Public markets, Viking Global, OrbiMed, Peter Thiel\", Expected: \"$483M IPO\""
+      ],
+      "sources": [
+        "NASDAQ",
+        "SEC filings"
+      ],
+      "severity": "medium"
+    },
+    {
+      "name": "Dapper Labs",
+      "id": "23fc6f79-9a33-8192-9d2f-e1c3d5f4a2a9",
+      "issues": [
+        "Funding mismatch - DB: \"undefined (Source: undefined - Verified 2025-07-30)\", Expected: \"$250M Series C\"",
+        "Revenue mismatch - DB: \"undefined (Source: undefined - Verified 2025-07-30)\", Expected: \"$100M+ (2021 peak)\"",
+        "Valuation mismatch - DB: \"undefined (Source: undefined - Verified 2025-07-30)\", Expected: \"Crypto Unicorn\""
+      ],
+      "sources": [
+        "A16z announcement",
+        "CoinDesk"
+      ],
+      "severity": "high"
+    }
+  ],
+  "missingData": [],
+  "outdatedData": [
+    {
+      "name": "Clio",
+      "lastVerified": "2024-06",
+      "monthsOld": 14,
+      "sources": [
+        "TechCrunch",
+        "Company Press Release"
+      ]
+    },
+    {
+      "name": "1Password",
+      "lastVerified": "2023-01",
+      "monthsOld": 31,
+      "sources": [
+        "Crunchbase",
+        "Company Blog"
+      ]
+    },
+    {
+      "name": "Trulioo",
+      "lastVerified": "2021-12",
+      "monthsOld": 45,
+      "sources": [
+        "Series D announcement",
+        "Crunchbase"
+      ]
+    },
+    {
+      "name": "Dapper Labs",
+      "lastVerified": "2021-09",
+      "monthsOld": 48,
+      "sources": [
+        "A16z announcement",
+        "CoinDesk"
+      ]
+    },
+    {
+      "name": "Tenstorrent",
+      "lastVerified": "2022-11",
+      "monthsOld": 33,
+      "sources": [
+        "Hyundai Motors press release",
+        "Company announcement"
+      ]
+    },
+    {
+      "name": "Visier",
+      "lastVerified": "2024-05",
+      "monthsOld": 15,
+      "sources": [
+        "Warburg Pincus",
+        "Company press release"
+      ]
+    },
+    {
+      "name": "AlayaCare",
+      "lastVerified": "2022-01",
+      "monthsOld": 44,
+      "sources": [
+        "Inovia Capital",
+        "BetaKit"
+      ]
+    },
+    {
+      "name": "Hootsuite",
+      "lastVerified": "2024",
+      "monthsOld": 19,
+      "sources": [
+        "Getlatka",
+        "Historical records"
+      ]
+    }
+  ],
+  "validationScore": 60
+}

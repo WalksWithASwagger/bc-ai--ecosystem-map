@@ -1,0 +1,207 @@
+{
+  "timestamp": "2025-08-03T07:25:20.232Z",
+  "discoveries": [
+    {
+      "company": "Ehsai",
+      "companyId": "23dc6f79-9a33-81da-85ba-da25185110a4",
+      "yearFounded": 2025,
+      "primaryEmail": "name@yourcompany.com",
+      "additionalEmails": [
+        "name@yourcompany.com"
+      ],
+      "source": "Website scraping",
+      "confidence": 0.5,
+      "discoveredAt": "2025-08-03T07:25:24.897Z"
+    },
+    {
+      "company": "Nirvanic Consciousness Technologies",
+      "companyId": "23fc6f79-9a33-8186-a592-f00d7e53f283",
+      "yearFounded": 2024,
+      "primaryEmail": "info@nirvanic.com",
+      "additionalEmails": [
+        "info@nirvanic.com",
+        "contact@nirvanic.com",
+        "hello@nirvanic.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-03T07:25:27.373Z"
+    },
+    {
+      "company": "AI Community Conference - Vancouver",
+      "companyId": "23fc6f79-9a33-81b1-acfe-f0c48073ddf1",
+      "yearFounded": 2022,
+      "primaryEmail": "info@techconferences.com",
+      "additionalEmails": [
+        "info@techconferences.com",
+        "info@dynamicsusergroup.com",
+        "bob@dynamicsusergroup.com",
+        "u003ebob@dynamicsusergroup.com",
+        "info@empowerconference.ch",
+        "inf@collabsummit.org",
+        "events@amscommunity.org",
+        "collabdaysfi@outlook.com",
+        "contact@balticsummit.pl",
+        "alex@espc.tech",
+        "john@espc.tech",
+        "u003ejohn@espc.tech",
+        "kevin.mcdonnell@expertslive.co.uk",
+        "info@m365tc.com",
+        "sponsors@M365TC.com",
+        "jamel.abed@gmail.com",
+        "brett@lightningtools.com",
+        "ariely.ronen@gmail.com",
+        "vesku@m365guru.com",
+        "kay@kayondata.com",
+        "info@tndays.com",
+        "spsottawa@outlook.com",
+        "frane.borozan@syskit.com",
+        "expertsliveusa@outlook.com",
+        "info@collabdaysne.org",
+        "marc.anderson@sympraxisconsulting.com",
+        "derekcp@sympraxisconsulting.com",
+        "info@biwug.be",
+        "summitna@dynamiccommunities.com",
+        "elvire@cadim.org",
+        "m@anjcerbolles.com",
+        "hinchchris@outlook.com",
+        "contact@expertslive.ae",
+        "richard.foltinek@updateconference.net",
+        "viviane@microsoft.com",
+        "anouckf@cloudbuilt.eu",
+        "lars.ovlien@msftcommunity.com",
+        "summit@shiftenter.hu",
+        "admin@techbayanihan.org",
+        "knut@teamkrm.com",
+        "jon@workplaceninjas.us",
+        "contact@collabdaystunisia.tech",
+        "contact@aidays.ai",
+        "aidaystunisia@gmail.com",
+        "contact@cloudtechtallinn.com",
+        "art.cain@techconferences.com",
+        "community@hackmum.in",
+        "siddh.vaghasia@gmail.com",
+        "dr.boomaai@hotmail.com",
+        "communitydays.nyc@gmail.com",
+        "liz@dynamicsusergroup.com",
+        "kamaleshvickyg59@gmail.com",
+        "info@aicoevents.org",
+        "doher.drizzle@dmdchicmode.com",
+        "info@d-techielearning.com",
+        "sqlsatsd@datadriventechnologies.org",
+        "iwugham@outlook.com",
+        "nicholasc001@hotmail.com",
+        "Info@IntraTeam.com",
+        "u003eInfo@IntraTeam.com",
+        "info@techcon365.com",
+        "bram@diwug.nl",
+        "canadiancloudsummit@gmail.com",
+        "kabesa-fr-logo-full-color-rgb-4in@300ppi.png",
+        "ella@espc.tech",
+        "dean@wpninjas.uk"
+      ],
+      "source": "Website scraping",
+      "confidence": 0.7,
+      "discoveredAt": "2025-08-03T07:25:30.451Z"
+    },
+    {
+      "company": "Defang Software Labs",
+      "companyId": "23fc6f79-9a33-8186-8f0e-e8b02eef3dc0",
+      "yearFounded": 2022,
+      "primaryEmail": "support@defang.io",
+      "additionalEmails": [
+        "sales@defang.io",
+        "support@defang.io"
+      ],
+      "source": "Website scraping",
+      "confidence": 1,
+      "discoveredAt": "2025-08-03T07:25:32.649Z"
+    },
+    {
+      "company": "ModeMagic",
+      "companyId": "240c6f79-9a33-8144-beb7-ed68c238b2f6",
+      "yearFounded": 2021,
+      "primaryEmail": "info@modemagic.com",
+      "additionalEmails": [
+        "info@modemagic.com",
+        "contact@modemagic.com",
+        "hello@modemagic.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-03T07:25:36.565Z"
+    },
+    {
+      "company": "MATT3R",
+      "companyId": "23fc6f79-9a33-819f-a7d4-d3ba547c55dc",
+      "yearFounded": 2021,
+      "primaryEmail": "info@matt3r.com",
+      "additionalEmails": [
+        "info@matt3r.com",
+        "contact@matt3r.com",
+        "hello@matt3r.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-03T07:25:40.634Z"
+    },
+    {
+      "company": "Nexera Robotics",
+      "companyId": "23dc6f79-9a33-81af-bf3e-d640e16fd8f7",
+      "yearFounded": 2021,
+      "primaryEmail": "example@domain.com",
+      "additionalEmails": [
+        "example@domain.com"
+      ],
+      "source": "Website scraping",
+      "confidence": 0.5,
+      "discoveredAt": "2025-08-03T07:25:42.851Z"
+    },
+    {
+      "company": "Quandri",
+      "companyId": "23dc6f79-9a33-819a-9ad6-dc566b773426",
+      "yearFounded": 2021,
+      "primaryEmail": "info@quandri.io",
+      "additionalEmails": [
+        "info@quandri.io",
+        "contact@quandri.io",
+        "hello@quandri.io"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-03T07:25:47.098Z"
+    },
+    {
+      "company": "Manzil",
+      "companyId": "240c6f79-9a33-8126-81ca-f2733076e237",
+      "yearFounded": 2020,
+      "primaryEmail": "info@getmanzil.com",
+      "additionalEmails": [
+        "info@getmanzil.com",
+        "contact@getmanzil.com",
+        "hello@getmanzil.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-03T07:26:39.108Z"
+    },
+    {
+      "company": "IAMGOLD Innovation",
+      "companyId": "240c6f79-9a33-8165-a23a-c3f876a5eabf",
+      "yearFounded": 2019,
+      "primaryEmail": "info@iamgold.com",
+      "additionalEmails": [
+        "info@iamgold.com"
+      ],
+      "source": "Website scraping",
+      "confidence": 1,
+      "discoveredAt": "2025-08-03T07:26:44.558Z"
+    }
+  ],
+  "stats": {
+    "searched": 10,
+    "found": 10,
+    "validated": 10,
+    "failed": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "timestamp": "2025-08-03T07:07:40.432Z",
+  "discoveries": [
+    {
+      "company": "Clio",
+      "yearFounded": 2012,
+      "revenue": null,
+      "source": "https://www.clio.com/about",
+      "confidence": 0.9,
+      "discoveredAt": "2025-08-03T07:07:41.713Z"
+    },
+    {
+      "company": "Hootsuite",
+      "yearFounded": 2025,
+      "revenue": null,
+      "source": "https://hootsuite.com/",
+      "confidence": 0.9,
+      "discoveredAt": "2025-08-03T07:07:43.847Z"
+    },
+    {
+      "company": "Trulioo",
+      "yearFounded": 2015,
+      "revenue": null,
+      "source": "https://www.trulioo.com/about",
+      "confidence": 0.9,
+      "discoveredAt": "2025-08-03T07:07:45.434Z"
+    },
+    {
+      "company": "Traction Guest",
+      "yearFounded": 2014,
+      "revenue": null,
+      "source": "https://tractionguest.com/about-us",
+      "confidence": 0.9,
+      "discoveredAt": "2025-08-03T07:07:52.931Z"
+    },
+    {
+      "company": "Thinkific",
+      "yearFounded": null,
+      "revenue": {
+        "amount": 3700000000,
+        "formatted": "$3.7B"
+      },
+      "source": null,
+      "confidence": 0,
+      "discoveredAt": "2025-08-03T07:07:55.754Z"
+    },
+    {
+      "company": "1Password",
+      "yearFounded": 2025,
+      "revenue": null,
+      "source": "https://1password.com/",
+      "confidence": 0.9,
+      "discoveredAt": "2025-08-03T07:07:56.861Z"
+    },
+    {
+      "company": "Copperleaf",
+      "yearFounded": 2000,
+      "revenue": null,
+      "source": "https://www.copperleaf.com/company",
+      "confidence": 0.9,
+      "discoveredAt": "2025-08-03T07:08:01.331Z"
+    }
+  ],
+  "stats": {
+    "searched": 10,
+    "foundYears": 6,
+    "foundRevenue": 1,
+    "errors": 0
+  }
+}

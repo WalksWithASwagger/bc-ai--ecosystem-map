@@ -1,0 +1,11 @@
+{
+  "scanDate": "2025-08-04T18:33:42.112Z",
+  "summary": {
+    "total": 649,
+    "suspicious": 0,
+    "legitimate": 649,
+    "suspiciousPercentage": "0.0"
+  },
+  "suspicious": [],
+  "byReason": {}
+}

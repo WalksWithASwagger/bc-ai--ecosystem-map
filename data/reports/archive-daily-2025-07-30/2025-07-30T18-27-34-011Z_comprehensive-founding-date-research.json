@@ -1,0 +1,174 @@
+{
+  "updated": [],
+  "alreadyHadDates": [
+    {
+      "name": "Clio",
+      "existingYear": 2008,
+      "expectedYear": 2008
+    },
+    {
+      "name": "1Password",
+      "existingYear": 2005,
+      "expectedYear": 2005
+    },
+    {
+      "name": "Trulioo",
+      "existingYear": 2011,
+      "expectedYear": 2011
+    },
+    {
+      "name": "Dapper Labs",
+      "existingYear": 2018,
+      "expectedYear": 2018
+    },
+    {
+      "name": "Visier",
+      "existingYear": 2010,
+      "expectedYear": 2010
+    },
+    {
+      "name": "AlayaCare",
+      "existingYear": 2014,
+      "expectedYear": 2014
+    },
+    {
+      "name": "Hootsuite",
+      "existingYear": 2008,
+      "expectedYear": 2008
+    },
+    {
+      "name": "Thinkific",
+      "existingYear": 2012,
+      "expectedYear": 2012
+    },
+    {
+      "name": "Later",
+      "existingYear": 2014,
+      "expectedYear": 2014
+    },
+    {
+      "name": "Unbounce",
+      "existingYear": 2009,
+      "expectedYear": 2009
+    },
+    {
+      "name": "STEMCELL Technologies",
+      "existingYear": 1993,
+      "expectedYear": 1993
+    },
+    {
+      "name": "AbCellera Biologics",
+      "existingYear": 2012,
+      "expectedYear": 2012
+    },
+    {
+      "name": "Xenon Pharmaceuticals",
+      "existingYear": 1996,
+      "expectedYear": 1996
+    },
+    {
+      "name": "D-Wave Systems",
+      "existingYear": 1999,
+      "expectedYear": 1999
+    },
+    {
+      "name": "Zymeworks",
+      "existingYear": 2003,
+      "expectedYear": 2003
+    },
+    {
+      "name": "Article",
+      "existingYear": 2013,
+      "expectedYear": 2013
+    },
+    {
+      "name": "Sanctuary AI",
+      "existingYear": 2018,
+      "expectedYear": 2018
+    },
+    {
+      "name": "Terramera",
+      "existingYear": 2010,
+      "expectedYear": 2010
+    },
+    {
+      "name": "Klue",
+      "existingYear": 2015,
+      "expectedYear": 2015
+    },
+    {
+      "name": "Certn",
+      "existingYear": 2016,
+      "expectedYear": 2016
+    },
+    {
+      "name": "Ballard Power Systems",
+      "existingYear": 1979,
+      "expectedYear": 1979
+    },
+    {
+      "name": "General Fusion",
+      "existingYear": 2002,
+      "expectedYear": 2002
+    },
+    {
+      "name": "Carbon Engineering",
+      "existingYear": 2009,
+      "expectedYear": 2009
+    },
+    {
+      "name": "Svante",
+      "existingYear": 2007,
+      "expectedYear": 2007
+    },
+    {
+      "name": "Mogo",
+      "existingYear": 2003,
+      "expectedYear": 2003
+    },
+    {
+      "name": "Coinsquare",
+      "existingYear": 2014,
+      "expectedYear": 2014
+    },
+    {
+      "name": "Symend",
+      "existingYear": 2016,
+      "expectedYear": 2016
+    },
+    {
+      "name": "Kabam",
+      "existingYear": 2006,
+      "expectedYear": 2006
+    },
+    {
+      "name": "Phoenix Labs",
+      "existingYear": 2014,
+      "expectedYear": 2014
+    },
+    {
+      "name": "Thunderbird Entertainment",
+      "existingYear": 2003,
+      "expectedYear": 2004
+    },
+    {
+      "name": "Bron Studios",
+      "existingYear": 2010,
+      "expectedYear": 2010
+    },
+    {
+      "name": "Absolute Software Vancouver",
+      "existingYear": 1993,
+      "expectedYear": 1993
+    },
+    {
+      "name": "Copperleaf Technologies",
+      "existingYear": 2000,
+      "expectedYear": 2000
+    }
+  ],
+  "notFound": [],
+  "errors": [],
+  "totalUpdated": 0,
+  "coverageImprovement": 0
+}

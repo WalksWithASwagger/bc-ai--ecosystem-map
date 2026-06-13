@@ -1,0 +1,84 @@
+{
+  "id": "funding-intelligence",
+  "name": "Funding Intelligence Database",
+  "type": "funding",
+  "description": "Comprehensive database of VCs, funds, and investment opportunities",
+  "createdAt": "2025-08-04T22:01:37.350Z",
+  "status": "active",
+  "dataSources": {
+    "notion": {
+      "databaseId": "",
+      "tokenEnvVar": "NOTION_TOKEN_FUNDING-INTELLIGENCE"
+    }
+  },
+  "pipelines": {
+    "discovery": {
+      "enabled": true,
+      "frequency": "daily"
+    },
+    "enrichment": {
+      "enabled": true,
+      "frequency": "weekly"
+    },
+    "funding": {
+      "enabled": true,
+      "frequency": "daily"
+    },
+    "competitive": {
+      "enabled": true,
+      "frequency": "weekly"
+    },
+    "temporal": {
+      "enabled": true
+    }
+  },
+  "schema": {
+    "entities": [
+      "funder",
+      "fund",
+      "investment",
+      "portfolio_company"
+    ],
+    "relationships": [
+      "invested_in",
+      "managed_by",
+      "focuses_on"
+    ],
+    "properties": {
+      "funder": [
+        "name",
+        "type",
+        "location",
+        "focus_areas",
+        "contact"
+      ],
+      "fund": [
+        "name",
+        "size",
+        "vintage",
+        "status",
+        "strategy"
+      ],
+      "investment": [
+        "amount",
+        "date",
+        "stage",
+        "valuation"
+      ],
+      "portfolio_company": [
+        "name",
+        "sector",
+        "status",
+        "exit_date"
+      ]
+    }
+  },
+  "paths": {
+    "root": "/Users/kk/ecosystem-map-bc-ai/data/projects/funding-intelligence",
+    "data": "/Users/kk/ecosystem-map-bc-ai/data/projects/funding-intelligence/data",
+    "logs": "/Users/kk/ecosystem-map-bc-ai/data/projects/funding-intelligence/logs",
+    "reports": "/Users/kk/ecosystem-map-bc-ai/data/projects/funding-intelligence/reports",
+    "discoveries": "/Users/kk/ecosystem-map-bc-ai/data/projects/funding-intelligence/discoveries",
+    "temporalKg": "/Users/kk/ecosystem-map-bc-ai/data/projects/funding-intelligence/data/temporal-kg"
+  }
+}

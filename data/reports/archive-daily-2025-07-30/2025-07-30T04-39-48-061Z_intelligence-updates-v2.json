@@ -1,0 +1,150 @@
+[
+  {
+    "pageId": "23fc6f79-9a33-8136-b651-fed831c1c8a8",
+    "organization": "BC Centre for Innovation and Clean Energy",
+    "verifiedData": {
+      "yearFounded": {
+        "value": 2018,
+        "source": "https://northx.ca/about/our-team",
+        "sourceType": "Company Website",
+        "confidence": "high",
+        "context": "tish Columbia’s inaugural Innovation Commissioner from 2018 to 2020, advancing BC’s innovation agenda and champi",
+        "extractedAt": "2025-07-30T04:39:39.647Z"
+      }
+    },
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-812e-85df-d82e9c1b44c1",
+    "organization": "InBC Life Sciences Investment Fund",
+    "verifiedData": {},
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-816e-a523-ee91747b774d",
+    "organization": "Digital Technology Supercluster Healthtech AI",
+    "verifiedData": {
+      "yearFounded": {
+        "value": 2019,
+        "source": "https://digitalsupercluster.ca/who-we-are/our-team/",
+        "sourceType": "Company Website",
+        "confidence": "high",
+        "context": "AL’s Programs team as Vice President of Programs. Since 2019, Nadia has provided strategic and operational ove",
+        "extractedAt": "2025-07-30T04:39:39.880Z"
+      }
+    },
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-814a-a218-ceba9ac28392",
+    "organization": "SFU Digital Health Innovation Lab",
+    "verifiedData": {
+      "employees": {
+        "value": "2024+ employees",
+        "source": "https://www.sfu.ca/main/dashboard/faculty-staff/news/2025/06/digital-humanities-team-drives-research-innovation-at-sfu.html",
+        "sourceType": "Company Website",
+        "confidence": "medium",
+        "context": "ademia. \nTogether, Gardener and Takeda received a 2024 Staff Achievement Award for Team Service, a recognition",
+        "extractedAt": "2025-07-30T04:39:40.359Z"
+      }
+    },
+    "requiresManualVerification": [
+      "funding"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-81de-8010-f35a21a8f4e3",
+    "organization": "Law Society of BC AI Ethics Program",
+    "verifiedData": {},
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-811d-929a-f5ef3ad03969",
+    "organization": "BCSC RegTech Sandbox",
+    "verifiedData": {},
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-8177-9069-d3d249dfff5b",
+    "organization": "Pano AI BC",
+    "verifiedData": {},
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-8159-8654-caf7c9e5006e",
+    "organization": "PacifiCan Regional Artificial Intelligence Initiative",
+    "verifiedData": {
+      "techStack": {
+        "value": "artificial intelligence",
+        "source": "https://www.canada.ca/en/pacific-economic-development/services/funding/regional-artificial-intelligence-initiative.html",
+        "sourceType": "Company Website",
+        "confidence": "medium",
+        "extractedAt": "2025-07-30T04:39:45.270Z"
+      }
+    },
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-81b1-acfe-f0c48073ddf1",
+    "organization": "AI Community Conference - Vancouver",
+    "verifiedData": {
+      "yearFounded": {
+        "value": 2022,
+        "source": "https://www.communitydays.org/",
+        "sourceType": "Company Website",
+        "confidence": "high",
+        "context": "ocal events in Gdansk and Gdynia, North of Poland since 2022.\\u003c/p\\u003e\\n\\u003cp\\u003eWith a track record",
+        "extractedAt": "2025-07-30T04:39:45.629Z"
+      },
+      "techStack": {
+        "value": "machine learning, artificial intelligence, data science",
+        "source": "https://www.communitydays.org/",
+        "sourceType": "Company Website",
+        "confidence": "medium",
+        "extractedAt": "2025-07-30T04:39:45.645Z"
+      }
+    },
+    "requiresManualVerification": [
+      "funding"
+    ]
+  },
+  {
+    "pageId": "23fc6f79-9a33-8177-8fb1-fbfa25cbea69",
+    "organization": "Edvisor.io",
+    "verifiedData": {
+      "yearFounded": {
+        "value": 2016,
+        "source": "https://www.edvisor.io/",
+        "sourceType": "Company Website",
+        "confidence": "high",
+        "context": "\"We have been using the Edvisor platform actively since 2016, and we believe that this system offers tremendou",
+        "extractedAt": "2025-07-30T04:39:46.349Z"
+      }
+    },
+    "requiresManualVerification": [
+      "funding",
+      "employees"
+    ]
+  }
+]

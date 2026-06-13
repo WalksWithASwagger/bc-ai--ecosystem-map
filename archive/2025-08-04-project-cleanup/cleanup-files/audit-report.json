@@ -1,0 +1,3806 @@
+{
+  "timestamp": "2025-08-04T02:31:12.637Z",
+  "total": 1404,
+  "suspicious": [
+    {
+      "id": "244c6f79-9a33-8105-bb86-ff20e744feea",
+      "name": "Name",
+      "website": null
+    },
+    {
+      "id": "244c6f79-9a33-8122-bf35-d53645232900",
+      "name": "2025",
+      "website": null
+    },
+    {
+      "id": "244c6f79-9a33-813f-8b53-cd857411188f",
+      "name": "Category",
+      "website": null
+    }
+  ],
+  "veryShort": [
+    {
+      "id": "244c6f79-9a33-814d-ae83-dc885bb67492",
+      "name": "UBC",
+      "website": null
+    },
+    {
+      "id": "240c6f79-9a33-8127-b1f3-da85914771d6",
+      "name": "Cmd",
+      "website": "https://cmd.com"
+    },
+    {
+      "id": "23dc6f79-9a33-8187-8e11-d0d922efcb13",
+      "name": "T4G",
+      "website": null
+    }
+  ],
+  "duplicates": [
+    {
+      "name": "Digital Technology Supercluster",
+      "count": 2,
+      "entries": [
+        {
+          "id": "244c6f79-9a33-81aa-beef-d0dbe931d7b6",
+          "website": "https://www.digitalsupercluster.ca"
+        },
+        {
+          "id": "23dc6f79-9a33-81b6-aa0d-cba176a7845a",
+          "website": "https://digitalsupercluster.ca"
+        }
+      ]
+    }
+  ],
+  "noWebsite": [
+    {
+      "id": "244c6f79-9a33-8109-a4ea-e6126a058cb0",
+      "name": "Last Verified"
+    },
+    {
+      "id": "244c6f79-9a33-8106-8a84-f520171456fc",
+      "name": "Key People"
+    },
+    {
+      "id": "244c6f79-9a33-8136-b835-ef9ce07b1feb",
+      "name": "Employee Count"
+    },
+    {
+      "id": "244c6f79-9a33-818f-9049-f86a7914a581",
+      "name": "Valuation"
+    },
+    {
+      "id": "244c6f79-9a33-8170-8c0f-df1fc0ad4999",
+      "name": "Revenue"
+    },
+    {
+      "id": "244c6f79-9a33-81ee-9b52-fd1e9e6fd6c1",
+      "name": "Year Founded"
+    },
+    {
+      "id": "244c6f79-9a33-8105-bb86-ff20e744feea",
+      "name": "Name"
+    },
+    {
+      "id": "244c6f79-9a33-8137-aa2a-ce80fc58323f",
+      "name": "Database Fields Populated"
+    },
+    {
+      "id": "244c6f79-9a33-8164-9921-dbe5a83d73df",
+      "name": "batch-15-formatted.json"
+    },
+    {
+      "id": "244c6f79-9a33-81a3-94c2-ce1ac8b12283",
+      "name": "Tools Created/Used"
+    },
+    {
+      "id": "244c6f79-9a33-814e-a271-cef5d7a0c749",
+      "name": "Deep dive specific sectors"
+    },
+    {
+      "id": "244c6f79-9a33-812e-a705-df1fafd5be17",
+      "name": "Track exits and acquisitions"
+    },
+    {
+      "id": "244c6f79-9a33-81c3-becb-dcdde13c6399",
+      "name": "Monitor funding announcements"
+    },
+    {
+      "id": "244c6f79-9a33-8159-8bf0-c571a6a8fb8e",
+      "name": "After Addition"
+    },
+    {
+      "id": "244c6f79-9a33-81a1-8481-ef1efb248a60",
+      "name": "Before Addition"
+    },
+    {
+      "id": "244c6f79-9a33-814a-a93a-c00f84510dd0",
+      "name": "Emerging Sectors"
+    },
+    {
+      "id": "244c6f79-9a33-81dd-9a63-f8d00097efa4",
+      "name": "Biotech/Life Sciences"
+    },
+    {
+      "id": "244c6f79-9a33-81f6-936e-d6888381a96e",
+      "name": "CleanTech Innovation"
+    },
+    {
+      "id": "244c6f79-9a33-812d-b7a8-d020a1b4504a",
+      "name": "AI/ML Applications"
+    },
+    {
+      "id": "244c6f79-9a33-8154-8b9d-fa707c600cfc",
+      "name": "Sector Strengthening"
+    },
+    {
+      "id": "244c6f79-9a33-8168-9d39-e13889a94789",
+      "name": "Investor Tracking"
+    },
+    {
+      "id": "244c6f79-9a33-8142-bab8-c79f39f038fc",
+      "name": "Talent Mapping"
+    },
+    {
+      "id": "244c6f79-9a33-818d-beba-e843bb8ee7c3",
+      "name": "Financial Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-81ec-952c-e7119b63d5ab",
+      "name": "Coverage Expansion"
+    },
+    {
+      "id": "244c6f79-9a33-819d-bb10-ee1a11e1364f",
+      "name": "Ecosystem Enhancement"
+    },
+    {
+      "id": "244c6f79-9a33-8190-9d77-fdbc2730a729",
+      "name": "Date Stamped"
+    },
+    {
+      "id": "244c6f79-9a33-8113-b134-fad939a4cb0c",
+      "name": "Cross-Referenced"
+    },
+    {
+      "id": "244c6f79-9a33-81e1-b214-f953d10e1f04",
+      "name": "Medium Confidence"
+    },
+    {
+      "id": "244c6f79-9a33-81ae-9fb3-cc324c0982a9",
+      "name": "High Confidence"
+    },
+    {
+      "id": "244c6f79-9a33-81f6-81e1-c62976d16007",
+      "name": "Verification Standards"
+    },
+    {
+      "id": "244c6f79-9a33-81af-86dc-d0266a92060d",
+      "name": "Market Data"
+    },
+    {
+      "id": "244c6f79-9a33-810e-baa6-cc0ba68ce2d7",
+      "name": "People Data"
+    },
+    {
+      "id": "244c6f79-9a33-8154-8880-d5dfe7aa8599",
+      "name": "Financial Sources"
+    },
+    {
+      "id": "244c6f79-9a33-8105-b593-f162d359a14d",
+      "name": "Source Documentation"
+    },
+    {
+      "id": "244c6f79-9a33-810c-853d-f971280d7bda",
+      "name": "Market Traction"
+    },
+    {
+      "id": "244c6f79-9a33-8158-a265-c5f7660d5574",
+      "name": "People Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-81a5-94c5-efe03ff5d3ba",
+      "name": "Revenue Metrics"
+    },
+    {
+      "id": "244c6f79-9a33-81c6-abb5-f4cbaa3520fe",
+      "name": "Funding Details"
+    },
+    {
+      "id": "244c6f79-9a33-8159-8106-c9bf51015fc4",
+      "name": "Financial Data Fields Populated"
+    },
+    {
+      "id": "244c6f79-9a33-8117-b43b-de9f64bad527",
+      "name": "Revenue Generating"
+    },
+    {
+      "id": "244c6f79-9a33-81dc-933a-d18ca0bce66f",
+      "name": "Aggregate Metrics Now in Database"
+    },
+    {
+      "id": "244c6f79-9a33-81ab-8173-c1e6f1e372da",
+      "name": "Database Fields to Populate"
+    },
+    {
+      "id": "244c6f79-9a33-8170-b752-e6e648f54a08",
+      "name": "Data Verification Needed"
+    },
+    {
+      "id": "244c6f79-9a33-813e-8b4c-d89e89d4f5b6",
+      "name": "High Priority Additions"
+    },
+    {
+      "id": "244c6f79-9a33-8163-8970-fc253c8f531d",
+      "name": "Recommendations for Database Integration"
+    },
+    {
+      "id": "244c6f79-9a33-81bf-b058-eabd36f3ea13",
+      "name": "3. Blockchain Innovation"
+    },
+    {
+      "id": "244c6f79-9a33-81d7-95a7-c629275484d0",
+      "name": "2. Industrial AI Applications"
+    },
+    {
+      "id": "244c6f79-9a33-81d4-88c1-ce39cc22ca09",
+      "name": "1. CleanTech Leadership"
+    },
+    {
+      "id": "244c6f79-9a33-81f0-b316-dda2eee6ffe4",
+      "name": "Market Opportunities"
+    },
+    {
+      "id": "244c6f79-9a33-8165-a5e4-c3c61b402ada",
+      "name": "Notable Investors"
+    },
+    {
+      "id": "244c6f79-9a33-8122-bf35-d53645232900",
+      "name": "2025"
+    },
+    {
+      "id": "244c6f79-9a33-8157-9ce5-d4a1c14e767e",
+      "name": "2023-2024"
+    },
+    {
+      "id": "244c6f79-9a33-812b-8082-c22ae2ce1bac",
+      "name": "2021-2022"
+    },
+    {
+      "id": "244c6f79-9a33-81f7-b87f-d96254e01428",
+      "name": "2019-2020"
+    },
+    {
+      "id": "244c6f79-9a33-8119-804a-caeb170b5296",
+      "name": "Funding Progression (2019-2025)"
+    },
+    {
+      "id": "244c6f79-9a33-8173-ace9-ebf0d937937c",
+      "name": "Investment Trends"
+    },
+    {
+      "id": "244c6f79-9a33-8179-bf83-e3270411cf57",
+      "name": "4. University Spin-outs"
+    },
+    {
+      "id": "244c6f79-9a33-81df-8e52-c41284de4e5f",
+      "name": "2. Strategic Investor Attraction"
+    },
+    {
+      "id": "244c6f79-9a33-81c8-8a21-ee889debba02",
+      "name": "1. Pre-COVID Foundation Advantage"
+    },
+    {
+      "id": "244c6f79-9a33-8170-aead-d05370bbee8f",
+      "name": "Key Success Factors"
+    },
+    {
+      "id": "244c6f79-9a33-81fd-b7c0-d7e2cc857649",
+      "name": "Exit Readiness Assessment"
+    },
+    {
+      "id": "244c6f79-9a33-81ff-85c3-f73476dc5837",
+      "name": "Regional/Provincial"
+    },
+    {
+      "id": "244c6f79-9a33-815b-aff8-d06a9856c514",
+      "name": "Victoria"
+    },
+    {
+      "id": "244c6f79-9a33-819b-ae2d-fc8d2dd315f2",
+      "name": "Burnaby"
+    },
+    {
+      "id": "244c6f79-9a33-813d-abd7-e24d322c4e04",
+      "name": "Vancouver"
+    },
+    {
+      "id": "244c6f79-9a33-814f-8f66-daab92b04511",
+      "name": "11. PacifiCan AI Initiative"
+    },
+    {
+      "id": "244c6f79-9a33-81a9-bfc0-ca6843b6044c",
+      "name": "Products"
+    },
+    {
+      "id": "244c6f79-9a33-8184-8d65-ca2d9f49dda7",
+      "name": "10. Growlyn"
+    },
+    {
+      "id": "244c6f79-9a33-813e-bc03-e01c120b5673",
+      "name": "Stage"
+    },
+    {
+      "id": "244c6f79-9a33-81bf-89eb-ed74d1eaa207",
+      "name": "9. Aqua Intelligent"
+    },
+    {
+      "id": "244c6f79-9a33-8127-a21f-cf220109eba4",
+      "name": "Partnerships"
+    },
+    {
+      "id": "244c6f79-9a33-8161-a197-cd05a45e299e",
+      "name": "COVID Impact"
+    },
+    {
+      "id": "244c6f79-9a33-81e4-8321-eca3f211ee6a",
+      "name": "7. Origen Air"
+    },
+    {
+      "id": "244c6f79-9a33-8183-8a7d-f2fcc439aa7c",
+      "name": "Growth"
+    },
+    {
+      "id": "244c6f79-9a33-8116-88a0-d2fd6b534818",
+      "name": "6. Hugo Inc"
+    },
+    {
+      "id": "244c6f79-9a33-8110-abea-f18978459148",
+      "name": "5. Beatdapp Software"
+    },
+    {
+      "id": "244c6f79-9a33-817a-a810-d7216a1646fe",
+      "name": "Series A"
+    },
+    {
+      "id": "244c6f79-9a33-818f-b7c6-d2e0f8a6d10d",
+      "name": "4. Ekona Power (Hydrogen Economy Play)"
+    },
+    {
+      "id": "244c6f79-9a33-81a4-9d7c-fd9f95e1cb9a",
+      "name": "3. Mangrove Lithium (Strategic Investment Target)"
+    },
+    {
+      "id": "244c6f79-9a33-811e-b760-c71a67fe833d",
+      "name": "Exit Potential"
+    },
+    {
+      "id": "244c6f79-9a33-814b-b07f-f11a021ffda2",
+      "name": "Traction"
+    },
+    {
+      "id": "244c6f79-9a33-815a-aaa8-e660c373fab0",
+      "name": "Key Investors"
+    },
+    {
+      "id": "244c6f79-9a33-8170-b1f4-e63e8da00401",
+      "name": "Founded by"
+    },
+    {
+      "id": "244c6f79-9a33-8180-8a43-e826280fbdfe",
+      "name": "2. Phaidra (Potential Unicorn)"
+    },
+    {
+      "id": "244c6f79-9a33-815b-9824-da7c950094bc",
+      "name": "Key Achievement"
+    },
+    {
+      "id": "244c6f79-9a33-815d-a822-e5632d89855e",
+      "name": "Impact"
+    },
+    {
+      "id": "244c6f79-9a33-8124-9406-e1d422a523b2",
+      "name": "Total Funding"
+    },
+    {
+      "id": "244c6f79-9a33-813f-8b53-cd857411188f",
+      "name": "Category"
+    },
+    {
+      "id": "244c6f79-9a33-815a-b81f-efd5e6e253fa",
+      "name": "Company Profiles"
+    },
+    {
+      "id": "244c6f79-9a33-8175-83ab-e894455d5853",
+      "name": "Strong CleanTech focus"
+    },
+    {
+      "id": "244c6f79-9a33-812a-bd81-e7f9f0486034",
+      "name": "8,500+ jobs created"
+    },
+    {
+      "id": "244c6f79-9a33-8153-9500-d9c327d76696",
+      "name": "Producing experienced entrepreneurs"
+    },
+    {
+      "id": "244c6f79-9a33-81af-a524-d102b397233e",
+      "name": "Leveraging sector leadership"
+    },
+    {
+      "id": "244c6f79-9a33-814f-ac0e-d0dffb3b9b97",
+      "name": "Commercializing university research"
+    },
+    {
+      "id": "244c6f79-9a33-81d3-9f56-e7325b2a8554",
+      "name": "Attracting international venture capital"
+    },
+    {
+      "id": "244c6f79-9a33-81f4-8504-f7d6e0406698",
+      "name": "Strong early customer traction"
+    },
+    {
+      "id": "244c6f79-9a33-81e3-b4b5-d472c4569ea3",
+      "name": "Advanced technology applications"
+    },
+    {
+      "id": "244c6f79-9a33-817c-bbfc-f2c22fc1dea2",
+      "name": "World-class founding teams"
+    },
+    {
+      "id": "244c6f79-9a33-8162-8adf-f1f5e093c22a",
+      "name": "85% revenue generation"
+    },
+    {
+      "id": "244c6f79-9a33-81fc-950b-eaa8fac9bd41",
+      "name": "Provide operational support"
+    },
+    {
+      "id": "244c6f79-9a33-8173-8548-e168e06a42fb",
+      "name": "Develop international syndication"
+    },
+    {
+      "id": "244c6f79-9a33-819a-904a-ff426217068e",
+      "name": "Consider sector-focused funds"
+    },
+    {
+      "id": "244c6f79-9a33-8152-81c3-f6305e5e2cc9",
+      "name": "For Investors"
+    },
+    {
+      "id": "244c6f79-9a33-81e3-b4a2-c5ef883ead6d",
+      "name": "Support international business development"
+    },
+    {
+      "id": "244c6f79-9a33-81ef-abad-d0fe936a8f0d",
+      "name": "Facilitate procurement pilots"
+    },
+    {
+      "id": "244c6f79-9a33-81b5-90d7-fe79ef9e5fbb",
+      "name": "Increase R&D support"
+    },
+    {
+      "id": "244c6f79-9a33-81e8-b896-d4a2b1381a50",
+      "name": "Provide growth capital"
+    },
+    {
+      "id": "244c6f79-9a33-811c-a903-c516cd586f5f",
+      "name": "Support international expansion"
+    },
+    {
+      "id": "244c6f79-9a33-8184-9a5d-dfe987e4b446",
+      "name": "Facilitate introductions"
+    },
+    {
+      "id": "244c6f79-9a33-81ca-913c-d94d3757f9c9",
+      "name": "For Ecosystem Development"
+    },
+    {
+      "id": "244c6f79-9a33-81cb-8677-f1673666e96c",
+      "name": "Investment Ecosystem Evolution"
+    },
+    {
+      "id": "244c6f79-9a33-812d-8bfd-c114d99ae501",
+      "name": "Sector Leadership Reinforcement"
+    },
+    {
+      "id": "244c6f79-9a33-8167-975d-dabba96d04ac",
+      "name": "Ecosystem Maturity Indicators"
+    },
+    {
+      "id": "244c6f79-9a33-8168-ab98-f763b33f649a",
+      "name": "Long-term Potential (2027-2030)"
+    },
+    {
+      "id": "244c6f79-9a33-81bd-b999-e0831a7aacbe",
+      "name": "Next 12 Months (2025-2026)"
+    },
+    {
+      "id": "244c6f79-9a33-8190-a13c-f58399b99d8e",
+      "name": "Competitive Positioning"
+    },
+    {
+      "id": "244c6f79-9a33-81f1-9a94-ef87bbeadf00",
+      "name": "Strategic Partnerships"
+    },
+    {
+      "id": "244c6f79-9a33-8127-bf9e-f97f3550b00c",
+      "name": "Year 3"
+    },
+    {
+      "id": "244c6f79-9a33-813d-97c3-de32fe126869",
+      "name": "Year 2"
+    },
+    {
+      "id": "244c6f79-9a33-8131-99c1-e4aed51f15bc",
+      "name": "Year 1"
+    },
+    {
+      "id": "244c6f79-9a33-813d-afcd-ccddc6003a13",
+      "name": "International Expansion Plans"
+    },
+    {
+      "id": "244c6f79-9a33-81b5-8a2f-c80863a97869",
+      "name": "Competitive Differentiation"
+    },
+    {
+      "id": "244c6f79-9a33-8153-81f6-ffa813725566",
+      "name": "University Partnerships"
+    },
+    {
+      "id": "244c6f79-9a33-813d-8e26-ebd95bc61a9e",
+      "name": "Patent Applications"
+    },
+    {
+      "id": "244c6f79-9a33-81a2-ae67-d020aa54a53b",
+      "name": "IoT/Sensors"
+    },
+    {
+      "id": "244c6f79-9a33-8170-84ef-ffba62ae1133",
+      "name": "Blockchain/Web3"
+    },
+    {
+      "id": "244c6f79-9a33-816d-9244-fbb7b84ee2f5",
+      "name": "Quantum Applications"
+    },
+    {
+      "id": "244c6f79-9a33-81fa-b4c8-cadb30cbb086",
+      "name": "AI/ML Integration"
+    },
+    {
+      "id": "244c6f79-9a33-8155-87f6-ee540e501947",
+      "name": "Technology Sophistication"
+    },
+    {
+      "id": "244c6f79-9a33-8118-aba8-f9e4ba5930d9",
+      "name": "International"
+    },
+    {
+      "id": "244c6f79-9a33-8142-a5ca-f013f039f35b",
+      "name": "US Market"
+    },
+    {
+      "id": "244c6f79-9a33-8157-aa6a-d84e8370afa4",
+      "name": "Canadian Expansion"
+    },
+    {
+      "id": "244c6f79-9a33-8176-99ca-c3978afbb962",
+      "name": "BC Market"
+    },
+    {
+      "id": "244c6f79-9a33-81b1-97ba-d66fd5fc212a",
+      "name": "Geographic Market Penetration"
+    },
+    {
+      "id": "244c6f79-9a33-8172-b44f-e1f097807831",
+      "name": "Product-Market Fit Signals"
+    },
+    {
+      "id": "244c6f79-9a33-8171-967d-e3d1db51ee63",
+      "name": "Partnership Deals"
+    },
+    {
+      "id": "244c6f79-9a33-81fa-a3fc-f27f9de7bd7a",
+      "name": "Revenue Generation"
+    },
+    {
+      "id": "244c6f79-9a33-8106-a433-e5bb2a0a97b9",
+      "name": "B2B Enterprise"
+    },
+    {
+      "id": "244c6f79-9a33-8123-9b40-eebe88f407f8",
+      "name": "Customer Acquisition (Within 6 months)"
+    },
+    {
+      "id": "244c6f79-9a33-8185-8a6a-da2fea5ec326",
+      "name": "Alumni networks"
+    },
+    {
+      "id": "244c6f79-9a33-8131-86d1-f89a4c499dbe",
+      "name": "Sector specialists"
+    },
+    {
+      "id": "244c6f79-9a33-8103-9e62-cb0c0cbda0f8",
+      "name": "Multi-stage investors"
+    },
+    {
+      "id": "244c6f79-9a33-813b-8b15-fdada9d3d44c",
+      "name": "Lead Investors by Type"
+    },
+    {
+      "id": "244c6f79-9a33-8139-ac11-dfb31a6eb79c",
+      "name": "Technical Founders"
+    },
+    {
+      "id": "244c6f79-9a33-8177-b272-d40eaeca958e",
+      "name": "International Backgrounds"
+    },
+    {
+      "id": "244c6f79-9a33-818a-9e2b-e15af4f3da3d",
+      "name": "Women CEOs"
+    },
+    {
+      "id": "244c6f79-9a33-811e-9d1c-ea142dfd0567",
+      "name": "Leadership Diversity"
+    },
+    {
+      "id": "244c6f79-9a33-81f6-bf42-e6968db86c79",
+      "name": "Domain Expertise"
+    },
+    {
+      "id": "244c6f79-9a33-818c-81b1-eb096a400230",
+      "name": "Previous Startup Experience"
+    },
+    {
+      "id": "244c6f79-9a33-814a-9551-e949e2078c05",
+      "name": "Average Founder Age"
+    },
+    {
+      "id": "244c6f79-9a33-81c9-a547-fe0d6d255a13",
+      "name": "Academic Backgrounds"
+    },
+    {
+      "id": "244c6f79-9a33-814d-ae83-dc885bb67492",
+      "name": "UBC"
+    },
+    {
+      "id": "244c6f79-9a33-8126-b0ba-e0fcedd1e47c",
+      "name": "BC Tech Alumni"
+    },
+    {
+      "id": "244c6f79-9a33-81e6-806c-f05aa8a10bc6",
+      "name": "PayPal/Stripe"
+    },
+    {
+      "id": "244c6f79-9a33-8121-b3c5-e5e6bc499883",
+      "name": "Tesla/Energy"
+    },
+    {
+      "id": "244c6f79-9a33-81fc-831b-d2b22f084e74",
+      "name": "Microsoft"
+    },
+    {
+      "id": "244c6f79-9a33-81a7-926b-c7a3d0ea3788",
+      "name": "Google/Alphabet"
+    },
+    {
+      "id": "244c6f79-9a33-8146-91ac-f4cbfb54290c",
+      "name": "Talent Sources & Pedigree"
+    },
+    {
+      "id": "244c6f79-9a33-814d-9a48-dd097160d4a1",
+      "name": "Marine Robotics"
+    },
+    {
+      "id": "244c6f79-9a33-8117-9bac-f06eebc9f33a",
+      "name": "Creator Economy"
+    },
+    {
+      "id": "244c6f79-9a33-811e-971e-c5907b12512a",
+      "name": "Cybersecurity"
+    },
+    {
+      "id": "244c6f79-9a33-8177-adf4-d203b4a09fac",
+      "name": "AgTech"
+    },
+    {
+      "id": "244c6f79-9a33-81bc-9325-cfee759a3040",
+      "name": "Aerospace"
+    },
+    {
+      "id": "244c6f79-9a33-8151-a248-d3468f621a8d",
+      "name": "EdTech"
+    },
+    {
+      "id": "244c6f79-9a33-8118-a1cb-e2f0515cf788",
+      "name": "PropTech"
+    },
+    {
+      "id": "244c6f79-9a33-81fd-a193-ff709fe797f6",
+      "name": "Gaming"
+    },
+    {
+      "id": "244c6f79-9a33-8106-a498-fb27031bc688",
+      "name": "Hiring Velocity"
+    },
+    {
+      "id": "244c6f79-9a33-8158-ad11-c5426a94760b",
+      "name": "Team Range"
+    },
+    {
+      "id": "244c6f79-9a33-81f7-860f-cdfe83752d1c",
+      "name": "Average Team Size"
+    },
+    {
+      "id": "244c6f79-9a33-8128-aef9-c0e8b25c0b07",
+      "name": "Total Employees"
+    },
+    {
+      "id": "244c6f79-9a33-8156-99be-fc853e96c561",
+      "name": "Employment & Team Building"
+    },
+    {
+      "id": "244c6f79-9a33-813b-b6b4-c623ecf8688d",
+      "name": "Revenue Range"
+    },
+    {
+      "id": "244c6f79-9a33-81d5-a6d3-c85563041608",
+      "name": "Average Revenue"
+    },
+    {
+      "id": "244c6f79-9a33-81a3-a20b-efc15e8e05e4",
+      "name": "Total Revenue"
+    },
+    {
+      "id": "244c6f79-9a33-81f9-b223-f617660705ad",
+      "name": "Revenue Traction (Early Stage)"
+    },
+    {
+      "id": "244c6f79-9a33-81be-8a0f-f3e137ba336a",
+      "name": "Funding Velocity"
+    },
+    {
+      "id": "244c6f79-9a33-81a0-9803-e9002bb65f7a",
+      "name": "Funding Range"
+    },
+    {
+      "id": "244c6f79-9a33-8127-bc3a-d5579ab580b6",
+      "name": "Average Funding"
+    },
+    {
+      "id": "244c6f79-9a33-81c1-9b53-f3ced32a0d12",
+      "name": "Total Raised"
+    },
+    {
+      "id": "244c6f79-9a33-81b4-a0d2-d1ebfdd862fb",
+      "name": "Funding Performance"
+    },
+    {
+      "id": "244c6f79-9a33-81c1-b667-dee1a6e1269c",
+      "name": "Community Manager:"
+    },
+    {
+      "id": "244c6f79-9a33-8193-8c7b-c0212f76d11a",
+      "name": "Research Team:"
+    },
+    {
+      "id": "244c6f79-9a33-8128-a91e-f167d2573033",
+      "name": "Marketing Team:"
+    },
+    {
+      "id": "244c6f79-9a33-81f1-abbb-f4bb396634ff",
+      "name": "Database Administrator:"
+    },
+    {
+      "id": "244c6f79-9a33-81d6-b550-e314430a5ed0",
+      "name": "Key Contacts for Follow-up:"
+    },
+    {
+      "id": "244c6f79-9a33-8125-8aff-d668bc835c96",
+      "name": "Talent Intelligence:"
+    },
+    {
+      "id": "244c6f79-9a33-8179-b753-fcefaf93ee7b",
+      "name": "Ecosystem Mapping:"
+    },
+    {
+      "id": "244c6f79-9a33-81cf-88ea-edb7f1e31c09",
+      "name": "Additional Value Delivered"
+    },
+    {
+      "id": "244c6f79-9a33-81f5-a13b-f1097852287c",
+      "name": "Scope:"
+    },
+    {
+      "id": "244c6f79-9a33-818b-851e-d55f639f742c",
+      "name": "Quality:"
+    },
+    {
+      "id": "244c6f79-9a33-814d-9d6c-e0433a02a0b5",
+      "name": "Achievement:"
+    },
+    {
+      "id": "244c6f79-9a33-81e4-bc4c-e3938b3f4eed",
+      "name": "Target:"
+    },
+    {
+      "id": "244c6f79-9a33-81c0-bd62-dc5d06c914f7",
+      "name": "Original Goals vs. Results"
+    },
+    {
+      "id": "244c6f79-9a33-8146-942d-e898a2fa6e4b",
+      "name": "Regional Focus:"
+    },
+    {
+      "id": "244c6f79-9a33-8128-a963-c9945a666d50",
+      "name": "Coverage Gaps:"
+    },
+    {
+      "id": "244c6f79-9a33-8130-8a3c-f13de47deecd",
+      "name": "Dynamic Content:"
+    },
+    {
+      "id": "244c6f79-9a33-8106-83f8-c7b87a162438",
+      "name": "Access Restrictions:"
+    },
+    {
+      "id": "244c6f79-9a33-811e-a465-c48764afb917",
+      "name": "Limitations"
+    },
+    {
+      "id": "244c6f79-9a33-817d-b55b-e5ed4e561265",
+      "name": "Quality Control:"
+    },
+    {
+      "id": "244c6f79-9a33-81b0-87db-ed3a005e4986",
+      "name": "Verification:"
+    },
+    {
+      "id": "244c6f79-9a33-8113-87cd-e83605fd024b",
+      "name": "Secondary:"
+    },
+    {
+      "id": "244c6f79-9a33-815e-9ac7-debf59c7aa19",
+      "name": "Primary:"
+    },
+    {
+      "id": "244c6f79-9a33-810a-851d-e5c3699ce70d",
+      "name": "Search Strategy"
+    },
+    {
+      "id": "244c6f79-9a33-815a-86f2-e5a29efdb234",
+      "name": "Market Positioning:"
+    },
+    {
+      "id": "244c6f79-9a33-812b-ae3c-cfdbc9616d9a",
+      "name": "Competitive Intelligence:"
+    },
+    {
+      "id": "244c6f79-9a33-8151-b963-fba1a7239c58",
+      "name": "Partnership Opportunities:"
+    },
+    {
+      "id": "244c6f79-9a33-818f-bbe0-c55f0c90df30",
+      "name": "Investment Targeting:"
+    },
+    {
+      "id": "244c6f79-9a33-819f-a6d3-d4d684024f9b",
+      "name": "For Strategic Planning"
+    },
+    {
+      "id": "244c6f79-9a33-81c0-9ef8-e96b183c6523",
+      "name": "Talent Pipeline:"
+    },
+    {
+      "id": "244c6f79-9a33-8162-a808-d48b49b7908a",
+      "name": "Event Promotion:"
+    },
+    {
+      "id": "244c6f79-9a33-8135-9963-c4738696e423",
+      "name": "Content Strategy:"
+    },
+    {
+      "id": "244c6f79-9a33-8118-aaad-c07d76a374bb",
+      "name": "LinkedIn Groups:"
+    },
+    {
+      "id": "244c6f79-9a33-8159-ab1b-d510fa2be7c3",
+      "name": "For Community Building"
+    },
+    {
+      "id": "244c6f79-9a33-8115-aa73-ccc7f4802063",
+      "name": "Connection Mapping:"
+    },
+    {
+      "id": "244c6f79-9a33-8175-842c-db61a7e84ec7",
+      "name": "Engagement Tracking:"
+    },
+    {
+      "id": "244c6f79-9a33-816e-9d06-e81b5349a431",
+      "name": "Regular Monitoring:"
+    },
+    {
+      "id": "244c6f79-9a33-811c-84e8-f94aafa8593e",
+      "name": "Immediate Import:"
+    },
+    {
+      "id": "244c6f79-9a33-8117-8a3d-d24843133862",
+      "name": "For Database Enhancement"
+    },
+    {
+      "id": "244c6f79-9a33-818f-8388-fdf3e8b67114",
+      "name": "Investment Landscape:"
+    },
+    {
+      "id": "244c6f79-9a33-81b4-b9c7-d0dbff6a0fcd",
+      "name": "Research Connections:"
+    },
+    {
+      "id": "244c6f79-9a33-8149-9678-cd4d29576c3b",
+      "name": "Major Players:"
+    },
+    {
+      "id": "244c6f79-9a33-81a2-8604-c0fd514941f0",
+      "name": "Ecosystem Understanding"
+    },
+    {
+      "id": "244c6f79-9a33-81ed-9526-ebaac3d1dc48",
+      "name": "Recent Activity:"
+    },
+    {
+      "id": "244c6f79-9a33-8139-a91d-e3911a71fc62",
+      "name": "Geographic Verification:"
+    },
+    {
+      "id": "244c6f79-9a33-81fd-ad34-c3218e76fb03",
+      "name": "Team Size Information:"
+    },
+    {
+      "id": "244c6f79-9a33-8170-839a-f26659f6dff2",
+      "name": "Company Descriptions:"
+    },
+    {
+      "id": "244c6f79-9a33-81b8-8d0c-f38b3b99c3e6",
+      "name": "Follower Count Data:"
+    },
+    {
+      "id": "244c6f79-9a33-81b9-966c-e9298563955e",
+      "name": "Data Quality Enhancement"
+    },
+    {
+      "id": "244c6f79-9a33-814b-a60d-f34a37682782",
+      "name": "Net Improvement:"
+    },
+    {
+      "id": "244c6f79-9a33-817f-884d-e8f45e234a7e",
+      "name": "After Research:"
+    },
+    {
+      "id": "244c6f79-9a33-817d-9012-eb1006d48ffe",
+      "name": "Before Research:"
+    },
+    {
+      "id": "244c6f79-9a33-8195-b1ac-f1ed6d45bbfd",
+      "name": "Investment Firms:"
+    },
+    {
+      "id": "244c6f79-9a33-819c-a50b-ca6cb85bc7fe",
+      "name": "Follow-up Research Needed"
+    },
+    {
+      "id": "244c6f79-9a33-8121-b851-cbeaff9475c6",
+      "name": "Office Addresses:"
+    },
+    {
+      "id": "244c6f79-9a33-8116-91ab-ffa16662c53a",
+      "name": "Funding Information:"
+    },
+    {
+      "id": "244c6f79-9a33-81a1-99b4-d0e5cde793fa",
+      "name": "Founding Dates:"
+    },
+    {
+      "id": "244c6f79-9a33-8196-bce9-e4d1d414ccdd",
+      "name": "Employee Counts:"
+    },
+    {
+      "id": "244c6f79-9a33-811e-ac17-e52dfe372ef6",
+      "name": "Additional Metadata Available"
+    },
+    {
+      "id": "244c6f79-9a33-81b2-8223-ff3578a7e217",
+      "name": "Meta Developer Circle Vancouver:"
+    },
+    {
+      "id": "244c6f79-9a33-8113-b432-fb134a5a936f",
+      "name": "SAP Canada:"
+    },
+    {
+      "id": "244c6f79-9a33-8111-a563-c1022b3c8758",
+      "name": "Immediate Database Updates"
+    },
+    {
+      "id": "244c6f79-9a33-81f1-82ec-cd41e7adb2ef",
+      "name": "Research:"
+    },
+    {
+      "id": "244c6f79-9a33-817f-8cca-ed6c3187d2ec",
+      "name": "Startups:"
+    },
+    {
+      "id": "244c6f79-9a33-8131-a567-f6c3df181107",
+      "name": "Enterprise:"
+    },
+    {
+      "id": "244c6f79-9a33-81ad-b325-c655fce712e0",
+      "name": "Content Quality Patterns"
+    },
+    {
+      "id": "244c6f79-9a33-81ea-bf0a-dcae55e730d5",
+      "name": "Strong Startup Presence:"
+    },
+    {
+      "id": "244c6f79-9a33-8167-a5b0-e9d0a095162c",
+      "name": "Largest Following:"
+    },
+    {
+      "id": "244c6f79-9a33-81d1-89aa-ed61dbb811fa",
+      "name": "Follower Distribution"
+    },
+    {
+      "id": "244c6f79-9a33-8193-911e-d8dbf1121059",
+      "name": "Academic Institutions:"
+    },
+    {
+      "id": "244c6f79-9a33-815c-944d-ee90d8ca2472",
+      "name": "Startups & Scale-ups:"
+    },
+    {
+      "id": "244c6f79-9a33-817f-ab0c-dddbb3254756",
+      "name": "Global vs. Local Pages"
+    },
+    {
+      "id": "244c6f79-9a33-8191-8903-c5300f55bdfc",
+      "name": "Current State Assessment"
+    },
+    {
+      "id": "244c6f79-9a33-81f7-9f2f-c28d37fe4df7",
+      "name": "Services:"
+    },
+    {
+      "id": "244c6f79-9a33-8186-a9a1-f2d264dd7d4b",
+      "name": "Organizers:"
+    },
+    {
+      "id": "244c6f79-9a33-81bb-a3a4-faad484e711e",
+      "name": "Next Event:"
+    },
+    {
+      "id": "244c6f79-9a33-810e-bf6b-c71cd645c8b0",
+      "name": "AI Meetups:"
+    },
+    {
+      "id": "244c6f79-9a33-811a-bfde-f483411f87de",
+      "name": "Employment:"
+    },
+    {
+      "id": "244c6f79-9a33-81b1-b2c9-f4052515928c",
+      "name": "Industry Impact:"
+    },
+    {
+      "id": "244c6f79-9a33-8158-87bd-e06d293d6a33",
+      "name": "VIATEC (Victoria Innovation, Advanced Technology & Entrepreneurship Council)"
+    },
+    {
+      "id": "244c6f79-9a33-81be-807e-ebd6f6d716c1",
+      "name": "Notable:"
+    },
+    {
+      "id": "244c6f79-9a33-8155-99b8-ce68d6b9dc95",
+      "name": "Research Focus:"
+    },
+    {
+      "id": "244c6f79-9a33-8117-8d64-f851352abf30",
+      "name": "Related LinkedIn:"
+    },
+    {
+      "id": "244c6f79-9a33-811f-ad6c-e07ea848f689",
+      "name": "Associated Labs:"
+    },
+    {
+      "id": "244c6f79-9a33-8144-b33f-d338eded259f",
+      "name": "Location:"
+    },
+    {
+      "id": "244c6f79-9a33-81cf-ad0d-d57ff4e80d8e",
+      "name": "SFU Trustworthy AI Lab"
+    },
+    {
+      "id": "244c6f79-9a33-8179-b9f6-fb6ced759148",
+      "name": "Industry Relations:"
+    },
+    {
+      "id": "244c6f79-9a33-81dd-8b3b-f7490a658633",
+      "name": "Key Initiatives:"
+    },
+    {
+      "id": "244c6f79-9a33-8150-a7ba-fc6f49232e96",
+      "name": "Research Areas:"
+    },
+    {
+      "id": "244c6f79-9a33-8185-b7f1-fafb2159ca8a",
+      "name": "Focus:"
+    },
+    {
+      "id": "244c6f79-9a33-81db-b050-de9a5c32799d",
+      "name": "Faculty Size:"
+    },
+    {
+      "id": "244c6f79-9a33-811c-9996-c475e15267ae",
+      "name": "Student Organization:"
+    },
+    {
+      "id": "244c6f79-9a33-8143-97af-d744783a7d4f",
+      "name": "LinkedIn:"
+    },
+    {
+      "id": "244c6f79-9a33-81d4-b0c6-e1287271a906",
+      "name": "Website:"
+    },
+    {
+      "id": "244c6f79-9a33-8193-8977-db9be1029ff5",
+      "name": "UBC CAIDA (Centre for AI Decision-making and Action)"
+    },
+    {
+      "id": "244c6f79-9a33-81d3-b062-ffaa4c8723e0",
+      "name": "Platform:"
+    },
+    {
+      "id": "244c6f79-9a33-815d-bb21-eecb7066f8a1",
+      "name": "Notable Customers:"
+    },
+    {
+      "id": "244c6f79-9a33-81e9-9d19-eeb8f88d8afe",
+      "name": "Compliance:"
+    },
+    {
+      "id": "244c6f79-9a33-8173-8219-fb488cd4d393",
+      "name": "Funding:"
+    },
+    {
+      "id": "244c6f79-9a33-8181-94aa-ffd3c7db192c",
+      "name": "Additional Office:"
+    },
+    {
+      "id": "244c6f79-9a33-81a6-aa04-f75ca93713ca",
+      "name": "Showcase Page:"
+    },
+    {
+      "id": "244c6f79-9a33-81fc-8e57-c841dc2fa63b",
+      "name": "Global Expansion:"
+    },
+    {
+      "id": "244c6f79-9a33-8184-88ae-c5594516ada2",
+      "name": "Key Technologies:"
+    },
+    {
+      "id": "244c6f79-9a33-8185-b126-c4132eac9e28",
+      "name": "Recent Challenge:"
+    },
+    {
+      "id": "244c6f79-9a33-81cf-b5fa-d815902a8287",
+      "name": "Industries:"
+    },
+    {
+      "id": "244c6f79-9a33-81c5-895e-f50a72268a67",
+      "name": "Global Reach:"
+    },
+    {
+      "id": "244c6f79-9a33-8164-bdea-e7ba98ca01b2",
+      "name": "Technology:"
+    },
+    {
+      "id": "244c6f79-9a33-81cd-bcb8-fc6e859c1f86",
+      "name": "Key Customers:"
+    },
+    {
+      "id": "244c6f79-9a33-81f5-aba7-c3cd6ab35f71",
+      "name": "Expansion:"
+    },
+    {
+      "id": "244c6f79-9a33-810c-88e6-cd57dfaebee1",
+      "name": "Team Growth:"
+    },
+    {
+      "id": "244c6f79-9a33-810b-ad6f-fc1f1093ccd7",
+      "name": "Growth Metrics:"
+    },
+    {
+      "id": "244c6f79-9a33-8113-aabd-d28769e54623",
+      "name": "Recent Development:"
+    },
+    {
+      "id": "244c6f79-9a33-8110-a53f-f23a88e1da21",
+      "name": "Ethical AI:"
+    },
+    {
+      "id": "244c6f79-9a33-8105-9c1f-f13938049c51",
+      "name": "Certification:"
+    },
+    {
+      "id": "244c6f79-9a33-81b9-b9a8-d7d0e28be178",
+      "name": "Awards:"
+    },
+    {
+      "id": "244c6f79-9a33-8135-9d99-e87b3e4df558",
+      "name": "Notable Project:"
+    },
+    {
+      "id": "244c6f79-9a33-8178-a19e-de272ce438ca",
+      "name": "Facilities:"
+    },
+    {
+      "id": "244c6f79-9a33-810d-bc7b-f077e0db8acb",
+      "name": "Patents:"
+    },
+    {
+      "id": "244c6f79-9a33-81fa-a834-c0c3995c31d7",
+      "name": "Mission:"
+    },
+    {
+      "id": "244c6f79-9a33-8107-a7f4-ca957e35394e",
+      "name": "Expertise:"
+    },
+    {
+      "id": "244c6f79-9a33-8190-9b45-d5ec77308023",
+      "name": "AI Factory:"
+    },
+    {
+      "id": "244c6f79-9a33-8143-9c63-e1aa980c5c31",
+      "name": "Key Personnel:"
+    },
+    {
+      "id": "244c6f79-9a33-8105-8ee8-ed53d53d1573",
+      "name": "Jobs:"
+    },
+    {
+      "id": "244c6f79-9a33-81ae-8edc-c2d2466cd251",
+      "name": "Vancouver Connection:"
+    },
+    {
+      "id": "244c6f79-9a33-81c7-ae85-f078c7e6f45d",
+      "name": "Stock:"
+    },
+    {
+      "id": "244c6f79-9a33-8198-bcd8-eb1411d81cae",
+      "name": "Technology Focus:"
+    },
+    {
+      "id": "244c6f79-9a33-8130-9304-d29c638d290f",
+      "name": "Consumer Reach:"
+    },
+    {
+      "id": "244c6f79-9a33-81b8-873f-c88b1d0889c3",
+      "name": "Notable Products:"
+    },
+    {
+      "id": "244c6f79-9a33-81c2-a1f7-d228994ea8ff",
+      "name": "Annual Revenue:"
+    },
+    {
+      "id": "244c6f79-9a33-81e7-83a5-d97dda3ce519",
+      "name": "Office Size:"
+    },
+    {
+      "id": "244c6f79-9a33-8188-90d6-d378a845ed78",
+      "name": "Recognition:"
+    },
+    {
+      "id": "244c6f79-9a33-81db-8972-e97c7d2b9599",
+      "name": "Platform Integration:"
+    },
+    {
+      "id": "244c6f79-9a33-81cb-b67b-fdc6622bd246",
+      "name": "Founded:"
+    },
+    {
+      "id": "244c6f79-9a33-8117-8d4b-c70a9414d12d",
+      "name": "Users:"
+    },
+    {
+      "id": "244c6f79-9a33-811b-b1a8-c9dfb50d3378",
+      "name": "Global Presence:"
+    },
+    {
+      "id": "244c6f79-9a33-81ba-af6c-ec1dcf34d0ca",
+      "name": "Company Size:"
+    },
+    {
+      "id": "244c6f79-9a33-816a-8bb6-f5cefa64657d",
+      "name": "Headquarters:"
+    },
+    {
+      "id": "244c6f79-9a33-8179-9f40-ebc56376a168",
+      "name": "Tagline:"
+    },
+    {
+      "id": "244c6f79-9a33-8136-8436-d4c47830e4b7",
+      "name": "Target Diseases:"
+    },
+    {
+      "id": "244c6f79-9a33-81ca-8a18-ce905bbe7ee1",
+      "name": "Key Technology:"
+    },
+    {
+      "id": "244c6f79-9a33-810e-b819-c475ae6f2cb8",
+      "name": "CEO:"
+    },
+    {
+      "id": "244c6f79-9a33-8112-b938-f92f2f2f38fa",
+      "name": "Team Size:"
+    },
+    {
+      "id": "244c6f79-9a33-81c1-8147-fc2c7909abd7",
+      "name": "Recent Funding:"
+    },
+    {
+      "id": "244c6f79-9a33-816a-8157-c7cd1fa66030",
+      "name": "Description:"
+    },
+    {
+      "id": "244c6f79-9a33-812f-88be-eee28377e264",
+      "name": "Industry:"
+    },
+    {
+      "id": "244c6f79-9a33-81be-91d5-f73a00ca715f",
+      "name": "LinkedIn URL:"
+    },
+    {
+      "id": "244c6f79-9a33-819e-b102-dce6d643bd1c",
+      "name": "Vancouver Office:"
+    },
+    {
+      "id": "244c6f79-9a33-8165-a222-d576c9d6bd69",
+      "name": "Global Page:"
+    },
+    {
+      "id": "244c6f79-9a33-8119-9489-c17353d45df8",
+      "name": "Canadian Page:"
+    },
+    {
+      "id": "244c6f79-9a33-8149-a12b-dba8e379df4a",
+      "name": "Developer Circle URL:"
+    },
+    {
+      "id": "244c6f79-9a33-811c-9f14-f376468e5158",
+      "name": "Special Initiative:"
+    },
+    {
+      "id": "244c6f79-9a33-8118-9e95-caaf8c5baec7",
+      "name": "Related:"
+    },
+    {
+      "id": "244c6f79-9a33-810b-a825-e3a5984f39b9",
+      "name": "Notable Positions:"
+    },
+    {
+      "id": "244c6f79-9a33-8108-ada4-f59fba589976",
+      "name": "Key Insight:"
+    },
+    {
+      "id": "244c6f79-9a33-815a-9c9b-db0c8900002a",
+      "name": "Vancouver Presence:"
+    },
+    {
+      "id": "244c6f79-9a33-81bb-be3e-cb81fc55979b",
+      "name": "Followers:"
+    },
+    {
+      "id": "244c6f79-9a33-8113-bb97-c63f12afbcee",
+      "name": "Main Page:"
+    },
+    {
+      "id": "244c6f79-9a33-81f2-a1a7-cec38266cc01",
+      "name": "LinkedIn Strategy:"
+    },
+    {
+      "id": "244c6f79-9a33-8128-805b-f33ab064ecac",
+      "name": "Coverage Improvement:"
+    },
+    {
+      "id": "244c6f79-9a33-810c-bb39-db50fc6a39ee",
+      "name": "Notable Gaps:"
+    },
+    {
+      "id": "244c6f79-9a33-8118-9407-c2c52faf1171",
+      "name": "Total Followers Discovered:"
+    },
+    {
+      "id": "244c6f79-9a33-8193-be0a-c3c9c51e7dde",
+      "name": "LinkedIn Pages Discovered:"
+    },
+    {
+      "id": "244c6f79-9a33-81ac-b88b-f0f89b8b619b",
+      "name": "Cross-Company Mobility"
+    },
+    {
+      "id": "244c6f79-9a33-81ce-9310-c759c27b9610",
+      "name": "Board Member Network"
+    },
+    {
+      "id": "244c6f79-9a33-8116-a830-ee465d25bfb8",
+      "name": "Technical Hiring Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-816e-89c0-fbbf3f236f58",
+      "name": "Executive Search Database"
+    },
+    {
+      "id": "244c6f79-9a33-8107-9fa0-c750d4e7b554",
+      "name": "Talent Acquisition Strategy"
+    },
+    {
+      "id": "244c6f79-9a33-81f6-9fed-c8bba84814dc",
+      "name": "Investor Network Development"
+    },
+    {
+      "id": "244c6f79-9a33-81b8-8866-cbdad9227e1b",
+      "name": "Competitive Landscape Mapping"
+    },
+    {
+      "id": "244c6f79-9a33-81a0-a002-e1dd62fd030f",
+      "name": "Due Diligence Database"
+    },
+    {
+      "id": "244c6f79-9a33-812e-aac8-f68960376045",
+      "name": "International Expansion Support"
+    },
+    {
+      "id": "244c6f79-9a33-81ea-baad-ecf0c60fb935",
+      "name": "Strategic Partnership Mapping"
+    },
+    {
+      "id": "244c6f79-9a33-815c-8300-c96a965b1e75",
+      "name": "Series A Pipeline Development"
+    },
+    {
+      "id": "244c6f79-9a33-8167-9d0a-c5d533d49118",
+      "name": "Business Development Priorities"
+    },
+    {
+      "id": "244c6f79-9a33-81e0-8fca-f1d3d4cf42ab",
+      "name": "Partnership Activity"
+    },
+    {
+      "id": "244c6f79-9a33-810d-a046-c8f7bba338cb",
+      "name": "Social Media Metrics"
+    },
+    {
+      "id": "244c6f79-9a33-8113-b911-d24ccb28e29a",
+      "name": "Executive Changes"
+    },
+    {
+      "id": "244c6f79-9a33-8191-9bb6-cb1c40b1e1f3",
+      "name": "Funding Data"
+    },
+    {
+      "id": "244c6f79-9a33-8156-8c79-d4ebca5659b4",
+      "name": "Update Frequency Recommendations"
+    },
+    {
+      "id": "244c6f79-9a33-8103-a439-c54c6a2dddca",
+      "name": "Research Methods"
+    },
+    {
+      "id": "244c6f79-9a33-8112-bbe9-cdd7bbf98255",
+      "name": "Secondary Sources"
+    },
+    {
+      "id": "244c6f79-9a33-8133-b592-d967fc2eaa39",
+      "name": "Primary Sources"
+    },
+    {
+      "id": "244c6f79-9a33-8176-891e-dc7d51300f9b",
+      "name": "Data Sources"
+    },
+    {
+      "id": "244c6f79-9a33-81a5-8506-e7edd02c10fa",
+      "name": "Level 3 - Preliminary"
+    },
+    {
+      "id": "244c6f79-9a33-81a6-9c18-f5cc9d26ed61",
+      "name": "Level 2 - High Confidence"
+    },
+    {
+      "id": "244c6f79-9a33-8153-85de-d3d6e7611b3e",
+      "name": "Level 1 - Verified"
+    },
+    {
+      "id": "244c6f79-9a33-81af-9ed7-ca4e6de6d02b",
+      "name": "Verification Levels"
+    },
+    {
+      "id": "244c6f79-9a33-81c9-b508-fe7ac974a452",
+      "name": "Cross-Industry Expertise"
+    },
+    {
+      "id": "244c6f79-9a33-81fb-9ccb-fefe3fc680a8",
+      "name": "Growth-Stage Executives"
+    },
+    {
+      "id": "244c6f79-9a33-818d-a51a-d2ea07708022",
+      "name": "Talent Acquisition Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-8102-be8c-ce905292e038",
+      "name": "Cross-Border Expansion"
+    },
+    {
+      "id": "244c6f79-9a33-8119-a7bb-db9e0a426ed7",
+      "name": "Enterprise AI Integration"
+    },
+    {
+      "id": "244c6f79-9a33-8151-8044-cfadbf9db1b5",
+      "name": "High-Value Partnership Targets"
+    },
+    {
+      "id": "244c6f79-9a33-8159-bdf7-c4e317de840d",
+      "name": "Partnership Development Priorities"
+    },
+    {
+      "id": "244c6f79-9a33-8192-9bff-d91dab669a85",
+      "name": "International Expansion"
+    },
+    {
+      "id": "244c6f79-9a33-8146-ab16-db47597fec77",
+      "name": "Market Consolidation"
+    },
+    {
+      "id": "244c6f79-9a33-8186-993a-d2985d09c617",
+      "name": "Technology Acqui-hires"
+    },
+    {
+      "id": "244c6f79-9a33-8102-b44c-cfbcdd4d5b49",
+      "name": "Strategic Acquisition Targets"
+    },
+    {
+      "id": "244c6f79-9a33-8153-a18a-f16c05a44c5b",
+      "name": "Investment Targeting Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-812a-9d30-dcc5f06132b6",
+      "name": "Cross-Border Proximity"
+    },
+    {
+      "id": "244c6f79-9a33-8177-ba8b-f6a4a4788611",
+      "name": "Research University Access"
+    },
+    {
+      "id": "244c6f79-9a33-8190-b844-e50ceda88a31",
+      "name": "Lower Mainland Concentration"
+    },
+    {
+      "id": "244c6f79-9a33-81c5-a026-ee072ded4e24",
+      "name": "Geographic Advantages"
+    },
+    {
+      "id": "244c6f79-9a33-8128-b9f0-deee5281b531",
+      "name": "VIATEC"
+    },
+    {
+      "id": "244c6f79-9a33-81e8-b0a6-ce605fa3b677",
+      "name": "Market Recognition & Awards"
+    },
+    {
+      "id": "244c6f79-9a33-8172-9667-f7e65046954b",
+      "name": "Proprietary Technology Advantages"
+    },
+    {
+      "id": "244c6f79-9a33-81eb-9f7c-d9437be2a0a0",
+      "name": "Technology Differentiation"
+    },
+    {
+      "id": "244c6f79-9a33-811a-8dd4-c581495136b1",
+      "name": "InsurTech AI"
+    },
+    {
+      "id": "244c6f79-9a33-8104-bc29-f4de1a06e32a",
+      "name": "Market Position"
+    },
+    {
+      "id": "244c6f79-9a33-81e9-b824-e5bd1bc8b654",
+      "name": "Biotech AI"
+    },
+    {
+      "id": "244c6f79-9a33-819c-95e7-e3bf3b0b2d50",
+      "name": "Competitive Edge"
+    },
+    {
+      "id": "244c6f79-9a33-8175-a896-d3d34f5c00d9",
+      "name": "Market Reach"
+    },
+    {
+      "id": "244c6f79-9a33-810e-a785-ee62b97f108d",
+      "name": "Social Media Management"
+    },
+    {
+      "id": "244c6f79-9a33-8192-91ac-f446fe110f99",
+      "name": "Market Advantage"
+    },
+    {
+      "id": "244c6f79-9a33-8151-afd6-e86348692ae1",
+      "name": "Competitive Position"
+    },
+    {
+      "id": "244c6f79-9a33-81fc-96b8-d92e77ffe5d0",
+      "name": "Quantum Computing"
+    },
+    {
+      "id": "244c6f79-9a33-81f1-bb3a-f29a2ad6e850",
+      "name": "Market Leadership by Sector"
+    },
+    {
+      "id": "244c6f79-9a33-81cc-9be9-e5734a62b947",
+      "name": "Research Commercialization"
+    },
+    {
+      "id": "244c6f79-9a33-812a-a584-cb8eabab5a8a",
+      "name": "Sector Convergence"
+    },
+    {
+      "id": "244c6f79-9a33-81dd-8c9d-d296e615e1ca",
+      "name": "Cross-Border Collaborations"
+    },
+    {
+      "id": "244c6f79-9a33-81f1-921c-d497811158ce",
+      "name": "Customer-Vendor Ecosystem"
+    },
+    {
+      "id": "244c6f79-9a33-81f0-8f4f-dbc5cf8f2a08",
+      "name": "Unity Technologies"
+    },
+    {
+      "id": "244c6f79-9a33-814b-8d1e-de1d3d2fc632",
+      "name": "Good Chemistry → SandboxAQ"
+    },
+    {
+      "id": "244c6f79-9a33-8104-876b-c55c444442eb",
+      "name": "Hootsuite Platform Integrations"
+    },
+    {
+      "id": "244c6f79-9a33-812e-8928-fe03b0ef3e69",
+      "name": "Technology Integration Partnerships"
+    },
+    {
+      "id": "244c6f79-9a33-81b0-a376-efabaf3e8799",
+      "name": "SFU Digital Health Innovation Lab"
+    },
+    {
+      "id": "244c6f79-9a33-8123-8ca4-db0eb7406f12",
+      "name": "Academic-Industry Collaborations"
+    },
+    {
+      "id": "244c6f79-9a33-8162-9a41-d11eb4a551a4",
+      "name": "Strategic Partnership Categories"
+    },
+    {
+      "id": "244c6f79-9a33-81be-a467-d632a17b5ca5",
+      "name": "Acquisition Impacts"
+    },
+    {
+      "id": "244c6f79-9a33-81e9-81b1-f1e6516db079",
+      "name": "Growth-Stage Transitions"
+    },
+    {
+      "id": "244c6f79-9a33-81c0-a345-c52a49d4625f",
+      "name": "Leadership Transition Patterns"
+    },
+    {
+      "id": "244c6f79-9a33-8180-9378-d767ba75154e",
+      "name": "Investment Community"
+    },
+    {
+      "id": "244c6f79-9a33-81ea-aa2a-dec9aec564a9",
+      "name": "Academic Connections"
+    },
+    {
+      "id": "244c6f79-9a33-81ed-abcf-f3ffee73a543",
+      "name": "Strategic Advisor Networks"
+    },
+    {
+      "id": "244c6f79-9a33-81b8-8203-d50be209bd15",
+      "name": "Board & Advisory Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-8189-bb7d-c98a38514edc",
+      "name": "Technical Leadership (CTO/Technical Founders)"
+    },
+    {
+      "id": "244c6f79-9a33-817b-9c23-f63026822798",
+      "name": "CEO & Founder Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-814b-8656-fa1728bb2689",
+      "name": "C-Level Executive Mapping"
+    },
+    {
+      "id": "244c6f79-9a33-81ce-b3a0-fd1f6446a19a",
+      "name": "Acquisition Targets"
+    },
+    {
+      "id": "244c6f79-9a33-81d0-b749-fd3a55b2f9a3",
+      "name": "Talent Acquisition Patterns"
+    },
+    {
+      "id": "244c6f79-9a33-8170-99d1-c79d06e813b5",
+      "name": "Geographic Distribution"
+    },
+    {
+      "id": "244c6f79-9a33-8136-af34-eaad520a4d0d",
+      "name": "Technical Leadership"
+    },
+    {
+      "id": "244c6f79-9a33-8173-b890-ce16069f41b3",
+      "name": "Gender Diversity"
+    },
+    {
+      "id": "244c6f79-9a33-81df-b74b-df430aed2628",
+      "name": "Active Recruitment Indicators"
+    },
+    {
+      "id": "244c6f79-9a33-8194-ae39-e1879576ba5b",
+      "name": "Hiring & Growth Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-814e-8d80-dd08628c3dc5",
+      "name": "Rapidly Scaling Startups (10-100 Employees)"
+    },
+    {
+      "id": "244c6f79-9a33-81dc-a42f-f7a093391722",
+      "name": "High-Growth Scale-ups (100-1000 Employees)"
+    },
+    {
+      "id": "244c6f79-9a33-81e2-8661-dc3ef24d2647",
+      "name": "TELUS AI Initiatives"
+    },
+    {
+      "id": "244c6f79-9a33-810d-a5c4-d4888dc3432e",
+      "name": "SAP Vancouver"
+    },
+    {
+      "id": "244c6f79-9a33-8197-a850-d3cb41da583c",
+      "name": "Large Enterprise Operations (1000+ Employees)"
+    },
+    {
+      "id": "244c6f79-9a33-81ae-8c25-fd2aa9540446",
+      "name": "AgTech Robotics"
+    },
+    {
+      "id": "244c6f79-9a33-81df-a5f1-e7a17fcf1cbb",
+      "name": "FinTech AI"
+    },
+    {
+      "id": "244c6f79-9a33-8129-9cb4-e8773a0281e8",
+      "name": "Healthcare AI"
+    },
+    {
+      "id": "244c6f79-9a33-8161-a027-ccb893a67596",
+      "name": "Emerging Investment Themes"
+    },
+    {
+      "id": "244c6f79-9a33-817e-8279-f13599bf59f6",
+      "name": "High-Value Acquisition Activity"
+    },
+    {
+      "id": "244c6f79-9a33-81f3-b29e-ce76754ade46",
+      "name": "T. Rowe Price"
+    },
+    {
+      "id": "244c6f79-9a33-81e5-8c75-f81898f8d0c7",
+      "name": "BankTech Ventures"
+    },
+    {
+      "id": "244c6f79-9a33-816d-9721-da4396b9fe2a",
+      "name": "B Capital"
+    },
+    {
+      "id": "244c6f79-9a33-8122-b705-c4d7bd82dbf8",
+      "name": "International Investment Activity"
+    },
+    {
+      "id": "244c6f79-9a33-811c-b5ee-cc36a150ed08",
+      "name": "InBC Investment Fund"
+    },
+    {
+      "id": "244c6f79-9a33-81f1-8de2-d18214457d82",
+      "name": "Major BC-Based Investors"
+    },
+    {
+      "id": "244c6f79-9a33-8104-930a-ceda7f2d430a",
+      "name": "Investment Ecosystem Map"
+    },
+    {
+      "id": "244c6f79-9a33-81d6-9b69-f07a5c193150",
+      "name": "Seed & Early Stage"
+    },
+    {
+      "id": "244c6f79-9a33-8104-9baf-df684a26b217",
+      "name": "Series B & Later Stage"
+    },
+    {
+      "id": "244c6f79-9a33-8155-a931-e93f177a43d8",
+      "name": "Major Funding Rounds (2024-2025)"
+    },
+    {
+      "id": "244c6f79-9a33-813b-999d-c1a85a450600",
+      "name": "Priority 3 - Social Media Metrics Collection"
+    },
+    {
+      "id": "244c6f79-9a33-81fd-8456-e041de35462d",
+      "name": "Social Media Enhancement Opportunities"
+    },
+    {
+      "id": "244c6f79-9a33-81c2-87a8-f1c15631f553",
+      "name": "Social Media Verification Status"
+    },
+    {
+      "id": "244c6f79-9a33-8164-a386-e902ff8f2e4e",
+      "name": "Microsoft Vancouver"
+    },
+    {
+      "id": "244c6f79-9a33-81bd-9d68-e420603d7bab",
+      "name": "Tier 1: Global Tech Giants (Vancouver Operations)"
+    },
+    {
+      "id": "244c6f79-9a33-8150-acf3-fbc92537b614",
+      "name": "Competitive Positioning Research"
+    },
+    {
+      "id": "244c6f79-9a33-81d5-b165-fbccacf5914c",
+      "name": "Talent & Recruitment Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-81e8-9a92-fdec610418f3",
+      "name": "Business Development & Partnerships"
+    },
+    {
+      "id": "244c6f79-9a33-8120-8683-fd00954a61ef",
+      "name": "Reflection.ai"
+    },
+    {
+      "id": "244c6f79-9a33-81d6-971c-f03ea9db4820",
+      "name": "Revv Autocare"
+    },
+    {
+      "id": "244c6f79-9a33-81bf-89aa-fd7e45e7a8a6",
+      "name": "Geninfinity Education"
+    },
+    {
+      "id": "244c6f79-9a33-81a0-abf4-ea7cfa13f10b",
+      "name": "Owl.co"
+    },
+    {
+      "id": "244c6f79-9a33-8117-ac33-c83c22a41d4a",
+      "name": "Softgems Inc."
+    },
+    {
+      "id": "244c6f79-9a33-8161-a5d4-e2927088b8b8",
+      "name": "Convergence"
+    },
+    {
+      "id": "244c6f79-9a33-81d7-9a3b-f5d45dccabef",
+      "name": "TTT Studios"
+    },
+    {
+      "id": "244c6f79-9a33-813d-abbb-d5abbd5c70ee",
+      "name": "Intergalactic Agency"
+    },
+    {
+      "id": "244c6f79-9a33-813d-b7d5-f2b689093ade",
+      "name": "Mediaforce Digital"
+    },
+    {
+      "id": "244c6f79-9a33-81d9-9052-f23ac99aa4b9",
+      "name": "yPilot"
+    },
+    {
+      "id": "244c6f79-9a33-81b2-b7de-cb6274275db2",
+      "name": "Tree Track Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-8152-be1f-fe4e037642e9",
+      "name": "skiKrumb"
+    },
+    {
+      "id": "244c6f79-9a33-8180-9172-f9153078cb53",
+      "name": "insporos"
+    },
+    {
+      "id": "244c6f79-9a33-81ff-89a6-ed52f64702a2",
+      "name": "FIBR.BIO"
+    },
+    {
+      "id": "244c6f79-9a33-8191-aaa7-c0d0d3b695ac",
+      "name": "Fibernx"
+    },
+    {
+      "id": "244c6f79-9a33-818c-a1ef-c884fd575209",
+      "name": "Carbon Trainer"
+    },
+    {
+      "id": "244c6f79-9a33-810f-9ed3-e109f48d8542",
+      "name": "LimeSpot"
+    },
+    {
+      "id": "244c6f79-9a33-813b-a95c-ed437aae9b2f",
+      "name": "UrtheCast"
+    },
+    {
+      "id": "244c6f79-9a33-8163-805f-ffaa00b56d7e",
+      "name": "Pragmatica"
+    },
+    {
+      "id": "244c6f79-9a33-8198-8b3e-cf82157e3482",
+      "name": "Perceptify"
+    },
+    {
+      "id": "244c6f79-9a33-81e0-aba6-f3bdb7496cb0",
+      "name": "OTOMAIT.ai"
+    },
+    {
+      "id": "244c6f79-9a33-813f-b198-e175b406d181",
+      "name": "TurtleShell"
+    },
+    {
+      "id": "244c6f79-9a33-812f-8196-ddb6c5f025fd",
+      "name": "TradeSynth"
+    },
+    {
+      "id": "244c6f79-9a33-81d6-a080-e7dd1edb9396",
+      "name": "TalktoPublish"
+    },
+    {
+      "id": "244c6f79-9a33-81ff-8e80-fe42c6f35a2e",
+      "name": "Suno"
+    },
+    {
+      "id": "244c6f79-9a33-814d-b73d-eaa7d297a7b2",
+      "name": "SpikeFit"
+    },
+    {
+      "id": "244c6f79-9a33-81e6-b555-ec526aa26b8f",
+      "name": "SocialRollup"
+    },
+    {
+      "id": "244c6f79-9a33-81db-8032-f6f80e99649e",
+      "name": "Reccs"
+    },
+    {
+      "id": "244c6f79-9a33-8164-8962-fcf1bd080645",
+      "name": "Preserve"
+    },
+    {
+      "id": "244c6f79-9a33-81ee-a2a6-c2285e26a814",
+      "name": "Morphace"
+    },
+    {
+      "id": "244c6f79-9a33-81b9-8e1a-c183d54dbc58",
+      "name": "Metanome"
+    },
+    {
+      "id": "244c6f79-9a33-81c9-938f-cb5fe7fb39e0",
+      "name": "Karve"
+    },
+    {
+      "id": "244c6f79-9a33-81fe-8e8e-f9c3f431fd2e",
+      "name": "Hype.ai"
+    },
+    {
+      "id": "244c6f79-9a33-811b-a768-c53a843be8a8",
+      "name": "Docere Health"
+    },
+    {
+      "id": "244c6f79-9a33-81cf-8e2e-e3a460d47feb",
+      "name": "DeepCruit"
+    },
+    {
+      "id": "244c6f79-9a33-81aa-a577-c7a9535719a3",
+      "name": "CrossOver Connection"
+    },
+    {
+      "id": "244c6f79-9a33-8145-bb8d-de02bbe773b0",
+      "name": "Ceco AI"
+    },
+    {
+      "id": "244c6f79-9a33-8133-85d4-ec9c351b7858",
+      "name": "Bonfire"
+    },
+    {
+      "id": "244c6f79-9a33-812b-b10e-cd3e7745f0c5",
+      "name": "360Learning"
+    },
+    {
+      "id": "244c6f79-9a33-8130-9367-ed5abeba98e7",
+      "name": "Rokt"
+    },
+    {
+      "id": "244c6f79-9a33-81da-842b-cf34c5f74d88",
+      "name": "LetHub"
+    },
+    {
+      "id": "244c6f79-9a33-81bb-9a49-f45d40acf582",
+      "name": "AMY Inspired"
+    },
+    {
+      "id": "244c6f79-9a33-81a0-990a-fe73e6702456",
+      "name": "DG1 Group Holdings"
+    },
+    {
+      "id": "244c6f79-9a33-81f1-ab2c-f6cf13dce14d",
+      "name": "Credib.ai"
+    },
+    {
+      "id": "244c6f79-9a33-816d-8749-f675cab422f8",
+      "name": "LearningBranch"
+    },
+    {
+      "id": "244c6f79-9a33-8173-866b-f6fdb431f14d",
+      "name": "Emtelligent"
+    },
+    {
+      "id": "244c6f79-9a33-8152-9c03-d411f9209fbd",
+      "name": "Full On Lighting"
+    },
+    {
+      "id": "244c6f79-9a33-814a-83fb-fed95ada9044",
+      "name": "Hyperlocal Tech"
+    },
+    {
+      "id": "244c6f79-9a33-814e-b94b-ebdffcba79cc",
+      "name": "Otter Platform"
+    },
+    {
+      "id": "244c6f79-9a33-8182-8999-e7e901d8731f",
+      "name": "SpaceBeacon"
+    },
+    {
+      "id": "244c6f79-9a33-8196-be4d-d36825ecd55a",
+      "name": "VLS AI Corp."
+    },
+    {
+      "id": "244c6f79-9a33-818d-9347-c795596fdaa4",
+      "name": "VeilStream"
+    },
+    {
+      "id": "244c6f79-9a33-812b-b2fe-c6dc29ca54da",
+      "name": "Wireless PnC"
+    },
+    {
+      "id": "244c6f79-9a33-8149-98f2-c42ac058a4f5",
+      "name": "Fuse Power Mgmt."
+    },
+    {
+      "id": "244c6f79-9a33-81ff-bb46-e331dec53ffd",
+      "name": "FUTURi Power"
+    },
+    {
+      "id": "244c6f79-9a33-814a-bbf6-da237f854ae5",
+      "name": "PublishVibe"
+    },
+    {
+      "id": "244c6f79-9a33-8176-898f-c7bdcd5fbca7",
+      "name": "Visualize You"
+    },
+    {
+      "id": "244c6f79-9a33-812c-bece-fd2653f03dcb",
+      "name": "The Real View"
+    },
+    {
+      "id": "244c6f79-9a33-8161-8a39-e54eafe73dc3",
+      "name": "Local"
+    },
+    {
+      "id": "244c6f79-9a33-81ac-b66a-dc4534aba55d",
+      "name": "LooktheSoftware"
+    },
+    {
+      "id": "244c6f79-9a33-815b-ae51-c2bd0ed105a2",
+      "name": "LINC Studios"
+    },
+    {
+      "id": "244c6f79-9a33-818e-ad5a-f1d3b4a48e2a",
+      "name": "CelebrateAlly AI"
+    },
+    {
+      "id": "244c6f79-9a33-819d-af9d-ea33e386a17c",
+      "name": "Aweesome"
+    },
+    {
+      "id": "244c6f79-9a33-8111-a13f-ee993958f862",
+      "name": "Gigsup"
+    },
+    {
+      "id": "244c6f79-9a33-81f9-8777-e01110f8772c",
+      "name": "Favoland Canada"
+    },
+    {
+      "id": "244c6f79-9a33-819c-a2be-f012dd16416c",
+      "name": "Yuzu Analytics"
+    },
+    {
+      "id": "244c6f79-9a33-8172-a792-d0b3cddefb92",
+      "name": "Budgety Tech"
+    },
+    {
+      "id": "244c6f79-9a33-8158-9829-ef79bf1780b5",
+      "name": "My Market Scout"
+    },
+    {
+      "id": "244c6f79-9a33-81b9-a3c7-fb6fa2e21aa1",
+      "name": "Scale Financials"
+    },
+    {
+      "id": "244c6f79-9a33-8143-be9b-db365c2b6c0d",
+      "name": "Payya"
+    },
+    {
+      "id": "244c6f79-9a33-81b9-9ac4-e25faeae647d",
+      "name": "Invoicer.ai"
+    },
+    {
+      "id": "244c6f79-9a33-8105-b9aa-efd137dfe320",
+      "name": "AgentMarket"
+    },
+    {
+      "id": "244c6f79-9a33-8182-b164-fe63e568bee2",
+      "name": "FormPay"
+    },
+    {
+      "id": "244c6f79-9a33-813a-951f-e0995184cd2e",
+      "name": "Baerfell"
+    },
+    {
+      "id": "244c6f79-9a33-8178-9097-c5ec905356fe",
+      "name": "925 Labs"
+    },
+    {
+      "id": "244c6f79-9a33-818f-9fe6-cd3c48268150",
+      "name": "eSense Health"
+    },
+    {
+      "id": "244c6f79-9a33-817e-8f86-cfea96003455",
+      "name": "Nanoscopy AI"
+    },
+    {
+      "id": "244c6f79-9a33-8102-b041-e1550fdb6788",
+      "name": "Salyx Medical"
+    },
+    {
+      "id": "244c6f79-9a33-813e-8828-fb7258dec78c",
+      "name": "NurseGPT"
+    },
+    {
+      "id": "244c6f79-9a33-81c9-a5cc-c1ae87565451",
+      "name": "Medex47 Treatments"
+    },
+    {
+      "id": "244c6f79-9a33-8125-bc9b-f9697dc3f211",
+      "name": "Medivo (VitaLink)"
+    },
+    {
+      "id": "244c6f79-9a33-8156-a358-c25e51756c60",
+      "name": "Simuhealth"
+    },
+    {
+      "id": "244c6f79-9a33-8126-a5bf-d70847cab35c",
+      "name": "Kiiren AI"
+    },
+    {
+      "id": "244c6f79-9a33-816b-ba26-d05d299088cb",
+      "name": "ImageCyte Tech"
+    },
+    {
+      "id": "244c6f79-9a33-81d7-9af0-f06a7c6466bf",
+      "name": "Undercat Tech"
+    },
+    {
+      "id": "244c6f79-9a33-81e7-bdef-f7c6d30ff1be",
+      "name": "MA Robot AI"
+    },
+    {
+      "id": "244c6f79-9a33-8160-b8a2-e1235109fdff",
+      "name": "Thunderbolt Tech"
+    },
+    {
+      "id": "244c6f79-9a33-8139-8a53-df48e4bf2cb0",
+      "name": "TruMotion Tech"
+    },
+    {
+      "id": "244c6f79-9a33-81b4-beb9-de0880b880c6",
+      "name": "BuildMapper"
+    },
+    {
+      "id": "244c6f79-9a33-81bf-b39e-e4d1af6b5116",
+      "name": "Break & Make Robotics"
+    },
+    {
+      "id": "244c6f79-9a33-81a3-a7c5-c947c747d9ef",
+      "name": "Recyclorobo.ai"
+    },
+    {
+      "id": "244c6f79-9a33-819b-a5e0-dcdf1b07500a",
+      "name": "Autochart Technologies"
+    },
+    {
+      "id": "244c6f79-9a33-8110-9a7c-f8b090662565",
+      "name": "A-Scent Innovations"
+    },
+    {
+      "id": "244c6f79-9a33-8163-866d-f292e6fdf932",
+      "name": "Auria Robotics"
+    },
+    {
+      "id": "244c6f79-9a33-81f4-8872-e1bf8fa9604b",
+      "name": "Ontoly Carbon"
+    },
+    {
+      "id": "244c6f79-9a33-819c-b01b-d4fbd1b22163",
+      "name": "PhyCo Technologies"
+    },
+    {
+      "id": "244c6f79-9a33-81cf-9be1-d089adf9218a",
+      "name": "Geco Strategic Weed Mgmt."
+    },
+    {
+      "id": "244c6f79-9a33-8103-8102-e6f596053f78",
+      "name": "Advanced Agriscience"
+    },
+    {
+      "id": "244c6f79-9a33-813e-91d0-d0babc7d83b4",
+      "name": "CarboMine Technologies"
+    },
+    {
+      "id": "244c6f79-9a33-814c-8ac6-dd0b1732c3e7",
+      "name": "VulcanX Energy Corp."
+    },
+    {
+      "id": "244c6f79-9a33-816f-8dd1-c0aa6a75136c",
+      "name": "Elastic Energy"
+    },
+    {
+      "id": "244c6f79-9a33-81f5-bc6d-c2677b5057d1",
+      "name": "Boron Energy"
+    },
+    {
+      "id": "244c6f79-9a33-81b1-8756-df3f3089b441",
+      "name": "aetherEV Energy Corp."
+    },
+    {
+      "id": "244c6f79-9a33-812e-9efd-e9b2a25d3d00",
+      "name": "Atalanta Climate"
+    },
+    {
+      "id": "244c6f79-9a33-8106-8e4f-fe561168eb2d",
+      "name": "TruthSayer AI"
+    },
+    {
+      "id": "244c6f79-9a33-81e6-bb27-c7e56e7a83ac",
+      "name": "memree.ai"
+    },
+    {
+      "id": "244c6f79-9a33-813e-a2a9-e0980993581f",
+      "name": "DigitalTwins.team"
+    },
+    {
+      "id": "244c6f79-9a33-816b-a9a5-de121eacae76",
+      "name": "Codecertain.ai"
+    },
+    {
+      "id": "244c6f79-9a33-8141-b5d4-d7a2e249e7a9",
+      "name": "Ada Analytics"
+    },
+    {
+      "id": "244c6f79-9a33-81a5-b78b-f4d774860302",
+      "name": "PromptPlayground"
+    },
+    {
+      "id": "244c6f79-9a33-817d-b1a4-ed15fc8b3beb",
+      "name": "CortexQuill"
+    },
+    {
+      "id": "244c6f79-9a33-8197-8280-d981da2fa739",
+      "name": "StoryForge AI"
+    },
+    {
+      "id": "244c6f79-9a33-8164-9615-dc2de59afc35",
+      "name": "CraftML"
+    },
+    {
+      "id": "244c6f79-9a33-8120-bb7f-fb0c240461e5",
+      "name": "AutoPrompt"
+    },
+    {
+      "id": "244c6f79-9a33-8126-80f6-f880433e7c7b",
+      "name": "PicoPlan AI"
+    },
+    {
+      "id": "244c6f79-9a33-81cc-91eb-f164bdb22201",
+      "name": "Drag & Drop Law"
+    },
+    {
+      "id": "244c6f79-9a33-81d3-a0ad-d3ba1f10a4d4",
+      "name": "Hypernatural"
+    },
+    {
+      "id": "244c6f79-9a33-81b1-878f-fdc727ed725b",
+      "name": "GSP Cloud"
+    },
+    {
+      "id": "244c6f79-9a33-810c-a214-c6da756726e1",
+      "name": "HomeSight AI"
+    },
+    {
+      "id": "244c6f79-9a33-817c-9c80-e4b385464853",
+      "name": "BeaconFleet"
+    },
+    {
+      "id": "244c6f79-9a33-819f-abd1-c5ffc373ada5",
+      "name": "CircuitTree"
+    },
+    {
+      "id": "244c6f79-9a33-81f7-aaa2-c98cf6a6f26f",
+      "name": "SkyLink Grid"
+    },
+    {
+      "id": "244c6f79-9a33-8107-ab0c-f36134439d72",
+      "name": "Hydrolytics AI"
+    },
+    {
+      "id": "244c6f79-9a33-81e8-9612-f66ffc66db24",
+      "name": "EnviroDX"
+    },
+    {
+      "id": "244c6f79-9a33-8123-906a-dbe574736df2",
+      "name": "SenseHome"
+    },
+    {
+      "id": "244c6f79-9a33-81a5-b6f7-df48d521f695",
+      "name": "NanoSense AI"
+    },
+    {
+      "id": "244c6f79-9a33-8165-8b5a-f1030f4c1f89",
+      "name": "SpexCel Sensors"
+    },
+    {
+      "id": "244c6f79-9a33-816b-8dc2-c389d23e4cbf",
+      "name": "LittleLit"
+    },
+    {
+      "id": "244c6f79-9a33-8135-a487-e802eb9b7d7c",
+      "name": "Dragonscale"
+    },
+    {
+      "id": "244c6f79-9a33-8140-9724-d4b1684499fc",
+      "name": "Vaultt AI"
+    },
+    {
+      "id": "244c6f79-9a33-81c9-b8d9-f7c55d33acca",
+      "name": "TokenFolio"
+    },
+    {
+      "id": "244c6f79-9a33-81ab-987c-f047b82a8616",
+      "name": "LayeredLedger"
+    },
+    {
+      "id": "244c6f79-9a33-81b9-b694-d90b20f815c9",
+      "name": "Flow Blockchain"
+    },
+    {
+      "id": "244c6f79-9a33-81aa-be0e-c1a5a11ee1d5",
+      "name": "IDVector"
+    },
+    {
+      "id": "244c6f79-9a33-8184-82c4-f46bc6a0976d",
+      "name": "SafeVault"
+    },
+    {
+      "id": "244c6f79-9a33-8108-9867-c09805fb4cff",
+      "name": "CyberGuardians AI"
+    },
+    {
+      "id": "244c6f79-9a33-81fd-a952-f987c97d50fd",
+      "name": "CAFCyberCom"
+    },
+    {
+      "id": "244c6f79-9a33-8193-bca8-f6c42c024745",
+      "name": "ZeroThreat"
+    },
+    {
+      "id": "244c6f79-9a33-8162-a369-c06d65ed3f3d",
+      "name": "Nebulock"
+    },
+    {
+      "id": "244c6f79-9a33-81c8-b33e-d3deceb1e7d4",
+      "name": "GeoGuard"
+    },
+    {
+      "id": "244c6f79-9a33-81df-9c14-cbef669b20a2",
+      "name": "GeoComply"
+    },
+    {
+      "id": "244c6f79-9a33-818a-94ff-d4ffcda1abf7",
+      "name": "Styx Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-8195-98e9-d3d9f1a55032",
+      "name": "Arcus Power"
+    },
+    {
+      "id": "244c6f79-9a33-8177-ade3-c3fb77abd2c7",
+      "name": "SkyScout AI"
+    },
+    {
+      "id": "244c6f79-9a33-81f4-befd-c8be205b40eb",
+      "name": "AIGreening"
+    },
+    {
+      "id": "244c6f79-9a33-81ff-81b7-f6fd143c7f54",
+      "name": "FireSwarm Solutions"
+    },
+    {
+      "id": "244c6f79-9a33-81bf-9a11-dd11744f07a1",
+      "name": "Daric Clouding Solutions"
+    },
+    {
+      "id": "244c6f79-9a33-81de-89ef-cfd1273b5bad",
+      "name": "Affinity Group"
+    },
+    {
+      "id": "244c6f79-9a33-814b-97d4-f728896516f9",
+      "name": "Novatone Consulting"
+    },
+    {
+      "id": "244c6f79-9a33-8183-809b-da9e62c1f9ff",
+      "name": "Quartech Systems"
+    },
+    {
+      "id": "244c6f79-9a33-81d8-88dd-fab7c4c9637f",
+      "name": "Light AI"
+    },
+    {
+      "id": "244c6f79-9a33-8105-8126-c8e13a8d3121",
+      "name": "MedBright AI"
+    },
+    {
+      "id": "244c6f79-9a33-819c-b567-e8c0ca3d1adc",
+      "name": "HEALWELL AI"
+    },
+    {
+      "id": "244c6f79-9a33-81e3-b79a-f057571ff055",
+      "name": "Satisfai Health"
+    },
+    {
+      "id": "244c6f79-9a33-815c-9e10-cb05060631d8",
+      "name": "Molecular You"
+    },
+    {
+      "id": "244c6f79-9a33-8160-80c6-c0bf9da4390c",
+      "name": "Ideon Technologies"
+    },
+    {
+      "id": "244c6f79-9a33-8165-8c32-c46574d34294",
+      "name": "Ceedar"
+    },
+    {
+      "id": "244c6f79-9a33-8178-89e7-ed74ceca8cf5",
+      "name": "xTAO"
+    },
+    {
+      "id": "244c6f79-9a33-8161-b6ef-f084807bfba1",
+      "name": "Gumloop"
+    },
+    {
+      "id": "244c6f79-9a33-8192-bf30-d4c928d06d1e",
+      "name": "ExaThinkLabs"
+    },
+    {
+      "id": "244c6f79-9a33-8173-8cf5-edcebd80c54d",
+      "name": "Second Brain"
+    },
+    {
+      "id": "244c6f79-9a33-81af-ab21-efaedae667e1",
+      "name": "Creative Destruction Lab-West"
+    },
+    {
+      "id": "244c6f79-9a33-8185-9902-dc27e874bebc",
+      "name": "BC Tech AI C-Council"
+    },
+    {
+      "id": "244c6f79-9a33-813d-884f-f12b9ae571e3",
+      "name": "BC AI Ecosystem"
+    },
+    {
+      "id": "244c6f79-9a33-81cb-8225-e9b22ad2238d",
+      "name": "Borderless AI"
+    },
+    {
+      "id": "244c6f79-9a33-818e-bfde-f21f94ba7e8c",
+      "name": "TalentMinded AI"
+    },
+    {
+      "id": "244c6f79-9a33-81f4-924d-d57aecda388c",
+      "name": "Skillhat BC"
+    },
+    {
+      "id": "244c6f79-9a33-810a-8e64-f357e1f2957b",
+      "name": "Mentorly West"
+    },
+    {
+      "id": "244c6f79-9a33-8174-a6e9-c4db81d76d57",
+      "name": "SpringboardVR BC"
+    },
+    {
+      "id": "244c6f79-9a33-81bc-bc14-eced22199c61",
+      "name": "SkillsFlow"
+    },
+    {
+      "id": "244c6f79-9a33-8181-88fa-e1d01bfd8ffa",
+      "name": "Practica AI"
+    },
+    {
+      "id": "244c6f79-9a33-8108-b210-e7fedc536083",
+      "name": "Rise People"
+    },
+    {
+      "id": "244c6f79-9a33-8111-8b42-f6848da11857",
+      "name": "Wisr AI (cyber)"
+    },
+    {
+      "id": "244c6f79-9a33-810b-b73b-c33d3cf37b11",
+      "name": "SafeHeron Labs"
+    },
+    {
+      "id": "244c6f79-9a33-81c5-b066-e53915516c88",
+      "name": "Sanction Scanner CA"
+    },
+    {
+      "id": "244c6f79-9a33-81d9-ba91-f2e3edd57037",
+      "name": "Cryptosense BC"
+    },
+    {
+      "id": "244c6f79-9a33-811d-9946-e1b3cc133c75",
+      "name": "Seekintoo"
+    },
+    {
+      "id": "244c6f79-9a33-8114-add9-c7d3dac5899b",
+      "name": "Darkvision"
+    },
+    {
+      "id": "244c6f79-9a33-8178-bd24-ea3815715304",
+      "name": "D3 Security"
+    },
+    {
+      "id": "244c6f79-9a33-8116-ba1a-fd8cee7a2460",
+      "name": "NuData Security"
+    },
+    {
+      "id": "244c6f79-9a33-814c-a9d9-d740a51f51f7",
+      "name": "Tracesafe"
+    },
+    {
+      "id": "244c6f79-9a33-8147-8956-d86480fa5b87",
+      "name": "D3 Intelligence"
+    },
+    {
+      "id": "244c6f79-9a33-8122-84f0-d73989c76e9c",
+      "name": "WonderFi"
+    },
+    {
+      "id": "244c6f79-9a33-8117-940c-db5a2e76b404",
+      "name": "Wealthica"
+    },
+    {
+      "id": "244c6f79-9a33-8195-9115-f2287a983ff7",
+      "name": "FISPAN"
+    },
+    {
+      "id": "244c6f79-9a33-8137-bfe4-fa41cb7c71f6",
+      "name": "LayerZero Labs"
+    },
+    {
+      "id": "244c6f79-9a33-8137-8cb0-ece1b6cc99a0",
+      "name": "Nirvana Conscious Tech"
+    },
+    {
+      "id": "244c6f79-9a33-8102-b925-d677d5f9d99a",
+      "name": "Coast Salish GAN"
+    },
+    {
+      "id": "244c6f79-9a33-8122-bb5e-e1e9a26a2d49",
+      "name": "MyLog"
+    },
+    {
+      "id": "244c6f79-9a33-81fd-ad1f-de2f4f79d6bd",
+      "name": "Teleport Engine"
+    },
+    {
+      "id": "244c6f79-9a33-8142-86e3-db74754a23a9",
+      "name": "Combo Vision"
+    },
+    {
+      "id": "244c6f79-9a33-8111-8441-cc08088e49d4",
+      "name": "AutoLoom"
+    },
+    {
+      "id": "244c6f79-9a33-81af-89f7-df0c830525da",
+      "name": "Intergalactic Art Lab"
+    },
+    {
+      "id": "244c6f79-9a33-8152-b3e7-d65258f1e53e",
+      "name": "Lantern Lab Society"
+    },
+    {
+      "id": "244c6f79-9a33-8108-8683-e1971c8c2c87",
+      "name": "Futureproof Creatives"
+    },
+    {
+      "id": "244c6f79-9a33-8164-847b-e6af1ac82382",
+      "name": "Volutric Camera Systems"
+    },
+    {
+      "id": "244c6f79-9a33-8132-adea-e5747df87a95",
+      "name": "Glidance"
+    },
+    {
+      "id": "244c6f79-9a33-81a9-9856-da8682464b7c",
+      "name": "AVA Reality"
+    },
+    {
+      "id": "244c6f79-9a33-81d1-b753-e774eae55459",
+      "name": "Clarius Sonics"
+    },
+    {
+      "id": "244c6f79-9a33-81f3-be62-e11fd9ba1ca9",
+      "name": "IRIS Dynamics"
+    },
+    {
+      "id": "244c6f79-9a33-8154-af93-fa275c62b08c",
+      "name": "Human-in-Motion"
+    },
+    {
+      "id": "244c6f79-9a33-81e2-8937-dac0a948502a",
+      "name": "InDro Robotics"
+    },
+    {
+      "id": "244c6f79-9a33-81a2-9d96-e9998306f485",
+      "name": "Hydra Energy"
+    },
+    {
+      "id": "244c6f79-9a33-8124-8e21-f54bdda753b4",
+      "name": "3vGeomatics"
+    },
+    {
+      "id": "244c6f79-9a33-8187-a050-d43c1dd76347",
+      "name": "Ecoation"
+    },
+    {
+      "id": "244c6f79-9a33-8115-91d2-f20d9d9314c3",
+      "name": "Ladybug Robotics"
+    },
+    {
+      "id": "244c6f79-9a33-81a6-b870-f065791c6bbf",
+      "name": "Recon Health"
+    },
+    {
+      "id": "244c6f79-9a33-81fa-bdbe-cbe2121e7893",
+      "name": "Genevant Sciences"
+    },
+    {
+      "id": "244c6f79-9a33-8178-9bde-fe1e1089d941",
+      "name": "Notch Therapeutics"
+    },
+    {
+      "id": "244c6f79-9a33-81cf-97ae-c003b958c897",
+      "name": "Metaspectral"
+    },
+    {
+      "id": "244c6f79-9a33-818d-a34e-f77cab32c058",
+      "name": "Taloflow"
+    },
+    {
+      "id": "244c6f79-9a33-8115-8e63-f370888cb8c4",
+      "name": "Spade"
+    },
+    {
+      "id": "244c6f79-9a33-81a4-85e1-d387dfcbeabc",
+      "name": "SceneBox"
+    },
+    {
+      "id": "244c6f79-9a33-816b-92ca-f3876a1ada60",
+      "name": "Wisr AI"
+    },
+    {
+      "id": "244c6f79-9a33-81ad-959a-e507688bc90a",
+      "name": "Railtown.ai"
+    },
+    {
+      "id": "244c6f79-9a33-815c-8dc2-c7b763cb3b94",
+      "name": "Variational.ai"
+    },
+    {
+      "id": "244c6f79-9a33-8105-9293-f75247fb6887",
+      "name": "This Fish"
+    },
+    {
+      "id": "244c6f79-9a33-81c5-89b0-f612dafa8d31",
+      "name": "Shade AI"
+    },
+    {
+      "id": "244c6f79-9a33-817c-8113-ef248e93220a",
+      "name": "Boreal Genomics"
+    },
+    {
+      "id": "244c6f79-9a33-8108-928d-cc1516e336ac",
+      "name": "WaitWell"
+    },
+    {
+      "id": "244c6f79-9a33-81c8-bd8d-c40a6d7b6cf7",
+      "name": "Pharity AI"
+    },
+    {
+      "id": "240c6f79-9a33-814f-add1-cc65305f3224",
+      "name": "CodeStream"
+    },
+    {
+      "id": "240c6f79-9a33-8108-8737-f59c7ab8d019",
+      "name": "Twenty Billion Neurons"
+    },
+    {
+      "id": "240c6f79-9a33-81e7-ab62-c3733ac577a4",
+      "name": "Chinook Therapeutics"
+    },
+    {
+      "id": "240c6f79-9a33-81b3-a56b-c53536ba869f",
+      "name": "Absolute Software"
+    },
+    {
+      "id": "240c6f79-9a33-81eb-a48f-c4602b22549b",
+      "name": "Galvanize"
+    },
+    {
+      "id": "240c6f79-9a33-8133-9cbf-ef735bc28e10",
+      "name": "Origen Air"
+    },
+    {
+      "id": "240c6f79-9a33-81e2-950f-f980cef2c00f",
+      "name": "Beatdapp Software"
+    },
+    {
+      "id": "240c6f79-9a33-8140-b976-d65447f79fec",
+      "name": "GreenFlow Analytics"
+    },
+    {
+      "id": "240c6f79-9a33-8149-8b39-e2e75919b9de",
+      "name": "Neural Dynamics"
+    },
+    {
+      "id": "240c6f79-9a33-81ae-98f0-cb72297cefcb",
+      "name": "Vaultie"
+    },
+    {
+      "id": "240c6f79-9a33-8144-897e-e32c2504e738",
+      "name": "OVA (Open Virtual Assistant)"
+    },
+    {
+      "id": "240c6f79-9a33-8134-9ea2-fc936c4951e4",
+      "name": "RapidCert"
+    },
+    {
+      "id": "240c6f79-9a33-811e-a7e9-cc5f0a9711cf",
+      "name": "Enteligent"
+    },
+    {
+      "id": "240c6f79-9a33-8159-8078-d32987229438",
+      "name": "Cooler Heads Care"
+    },
+    {
+      "id": "240c6f79-9a33-81d1-b1ed-c1c691c935da",
+      "name": "Canurta"
+    },
+    {
+      "id": "240c6f79-9a33-81a6-ba44-c2eecd65105d",
+      "name": "SkyAcres Agrotechnologies"
+    },
+    {
+      "id": "240c6f79-9a33-8152-953e-cf00b1aa7645",
+      "name": "Veritree"
+    },
+    {
+      "id": "240c6f79-9a33-8116-8d1a-cc3d6da7d3a8",
+      "name": "Durable AI"
+    },
+    {
+      "id": "240c6f79-9a33-81f5-88e6-fe960823ce1b",
+      "name": "Ariglad"
+    },
+    {
+      "id": "240c6f79-9a33-8143-b4b4-f7e76dc59437",
+      "name": "JackRabbit Ops"
+    },
+    {
+      "id": "240c6f79-9a33-81ed-ba45-e7c0b2cebc9d",
+      "name": "CloudMD Software & Services Inc"
+    },
+    {
+      "id": "240c6f79-9a33-8135-ab6d-e3e9cec8aa44",
+      "name": "Qu Biologics Inc"
+    },
+    {
+      "id": "240c6f79-9a33-81bb-b332-f9256c0e375d",
+      "name": "WELL Health Technologies Corp"
+    },
+    {
+      "id": "240c6f79-9a33-81b6-a25d-ed3eb34e3999",
+      "name": "Arbutus Biopharma Corporation"
+    },
+    {
+      "id": "240c6f79-9a33-812d-855e-fcdc6b8fd2a7",
+      "name": "Pocketed"
+    },
+    {
+      "id": "240c6f79-9a33-81c4-9318-dceb67b2e8eb",
+      "name": "Kater Technologies"
+    },
+    {
+      "id": "240c6f79-9a33-8131-b5d9-d295a807569a",
+      "name": "Westport Fuel Systems Inc."
+    },
+    {
+      "id": "240c6f79-9a33-81f8-a233-e058f123e090",
+      "name": "Roomvu"
+    },
+    {
+      "id": "240c6f79-9a33-81ab-bf6d-c52d754a254d",
+      "name": "Moment Energy"
+    },
+    {
+      "id": "240c6f79-9a33-8121-92e4-d72a2527ab5e",
+      "name": "Phaidra"
+    },
+    {
+      "id": "240c6f79-9a33-813e-810a-f19fccb08754",
+      "name": "ZenHub"
+    },
+    {
+      "id": "240c6f79-9a33-8116-8597-f5daba437243",
+      "name": "Lendesk Technologies"
+    },
+    {
+      "id": "240c6f79-9a33-8164-ae8f-c5fc4c6a1706",
+      "name": "QuantumSense"
+    },
+    {
+      "id": "240c6f79-9a33-81cd-8799-fc7da9d386c3",
+      "name": "WasteFlow Technologies"
+    },
+    {
+      "id": "240c6f79-9a33-819e-a248-e22edbb93c51",
+      "name": "CreatorFlow Media"
+    },
+    {
+      "id": "240c6f79-9a33-819e-9298-c78c8f48bbfa",
+      "name": "DataMesh Analytics"
+    },
+    {
+      "id": "240c6f79-9a33-81a6-8ae9-f512f35b186e",
+      "name": "EnergyFlow Dynamics"
+    },
+    {
+      "id": "240c6f79-9a33-818f-b495-d05e80c45a92",
+      "name": "SecureChain Labs"
+    },
+    {
+      "id": "240c6f79-9a33-81bf-9969-fe3f53276a5e",
+      "name": "GameFlow Studios"
+    },
+    {
+      "id": "240c6f79-9a33-81b8-ae2d-deca281e0ec9",
+      "name": "AgriTech Innovations"
+    },
+    {
+      "id": "240c6f79-9a33-81c0-a856-f5f5f11ab0fb",
+      "name": "SpaceLink Communications"
+    },
+    {
+      "id": "240c6f79-9a33-8138-b70e-d83f06c26e73",
+      "name": "HealthGraph AI"
+    },
+    {
+      "id": "240c6f79-9a33-81c4-b7ca-c0a5d07cba35",
+      "name": "Ocean Robotics Dynamics"
+    },
+    {
+      "id": "240c6f79-9a33-812e-b9ff-c028732a23cb",
+      "name": "FinFlow Systems"
+    },
+    {
+      "id": "240c6f79-9a33-81ef-a69a-c0ff825b71be",
+      "name": "Immersive Learning Labs"
+    },
+    {
+      "id": "240c6f79-9a33-8186-a8af-eb60ac16378c",
+      "name": "CarbonFlow"
+    },
+    {
+      "id": "240c6f79-9a33-817f-bae8-f0849b8d4803",
+      "name": "PropFlow AI"
+    },
+    {
+      "id": "240c6f79-9a33-81fe-9739-ddab03f47139",
+      "name": "Neural Therapeutics"
+    },
+    {
+      "id": "240c6f79-9a33-81ec-a228-ca7bb98d746e",
+      "name": "CleanGrid Systems"
+    },
+    {
+      "id": "240c6f79-9a33-8107-bfd8-f0dd9bb05e84",
+      "name": "BioSynth Technologies"
+    },
+    {
+      "id": "240c6f79-9a33-8191-9813-f6d0e3488fd6",
+      "name": "Quantum Dynamics"
+    },
+    {
+      "id": "240c6f79-9a33-81cd-a249-d3f59fc8309d",
+      "name": "Nexus AI Labs"
+    },
+    {
+      "id": "240c6f79-9a33-8179-b664-d704cc4233b9",
+      "name": "AgriSense AI"
+    },
+    {
+      "id": "240c6f79-9a33-81b4-bd74-f9abc62860cb",
+      "name": "Forest AI Systems"
+    },
+    {
+      "id": "240c6f79-9a33-8160-9418-cff10e3c999e",
+      "name": "Voltaiq Energy AI"
+    },
+    {
+      "id": "240c6f79-9a33-812e-afb8-e60854815e73",
+      "name": "Riverlane Solutions"
+    },
+    {
+      "id": "240c6f79-9a33-812b-bd95-d51e2be18fb3",
+      "name": "Motive.io"
+    },
+    {
+      "id": "240c6f79-9a33-81cf-961f-c98d19bb195a",
+      "name": "Payfirma"
+    },
+    {
+      "id": "240c6f79-9a33-81bd-a04c-fac254358e1d",
+      "name": "Archiact"
+    },
+    {
+      "id": "240c6f79-9a33-81d4-bf20-cc38b1b3f705",
+      "name": "Narval Energy Inc."
+    },
+    {
+      "id": "240c6f79-9a33-819d-9e58-f7e640777abb",
+      "name": "Finger Food Studios"
+    },
+    {
+      "id": "240c6f79-9a33-813f-b059-dd0b4fb7ad2e",
+      "name": "Ocean AID"
+    },
+    {
+      "id": "240c6f79-9a33-817d-9849-e58177aa0b05",
+      "name": "Traction on Demand"
+    },
+    {
+      "id": "240c6f79-9a33-8162-b62f-cdf2fd4815eb",
+      "name": "General Fusion"
+    },
+    {
+      "id": "23fc6f79-9a33-811b-b373-ec277010dbd9",
+      "name": "SkyAcres"
+    },
+    {
+      "id": "23fc6f79-9a33-8150-9eea-f8d3d206b6b8",
+      "name": "City of Richmond AI Strategy"
+    },
+    {
+      "id": "23fc6f79-9a33-8102-9150-faf5dc3126da",
+      "name": "City of Surrey AI Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-817f-9eff-d3cfefab274a",
+      "name": "BC AI Assist Program"
+    },
+    {
+      "id": "23fc6f79-9a33-8161-9022-db94c076be74",
+      "name": "BC Regional AI Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-815a-9713-def1a495e575",
+      "name": "Stellantis LG Energy Solution BC"
+    },
+    {
+      "id": "23fc6f79-9a33-8153-8746-ee1da8fadb29",
+      "name": "DigiBC Creative Technology Association"
+    },
+    {
+      "id": "23fc6f79-9a33-819b-ac0f-d316a92b8c07",
+      "name": "BC Regional AI Initiative Recipients"
+    },
+    {
+      "id": "23fc6f79-9a33-81be-9128-e260cb998df9",
+      "name": "Microsoft Canada AI Hub"
+    },
+    {
+      "id": "23fc6f79-9a33-8181-b0d0-d1f15d6fea41",
+      "name": "AI Network of British Columbia"
+    },
+    {
+      "id": "23fc6f79-9a33-819c-9509-c69697a06631",
+      "name": "VAG AI Imitation Game Program"
+    },
+    {
+      "id": "23fc6f79-9a33-8160-97c7-e88be6c2cc38",
+      "name": "DigiBC Signals Program"
+    },
+    {
+      "id": "23fc6f79-9a33-81d9-8f76-c5cf99a45e14",
+      "name": "Stellar Code Lab"
+    },
+    {
+      "id": "23fc6f79-9a33-812a-8213-de318d6dfb1a",
+      "name": "SFU Metacreation Lab for Creative AI"
+    },
+    {
+      "id": "23fc6f79-9a33-81ea-96e4-c920b4f5e0b2",
+      "name": "Artificial Muse Music AI Residency"
+    },
+    {
+      "id": "23fc6f79-9a33-81ea-a212-d090b77e7270",
+      "name": "ICCSMLAI Vancouver Sports Track"
+    },
+    {
+      "id": "23fc6f79-9a33-8163-b381-f20d468c5831",
+      "name": "Flento"
+    },
+    {
+      "id": "23fc6f79-9a33-8182-a2bb-e940ec42bd56",
+      "name": "Athletica"
+    },
+    {
+      "id": "23fc6f79-9a33-8105-972a-f5291ba9504e",
+      "name": "FLAIR BC Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-81a0-a2d6-fce118349c76",
+      "name": "UBC Kwak'wala AI Immersion Project"
+    },
+    {
+      "id": "23fc6f79-9a33-81f5-ac1c-e2d39d8e2afd",
+      "name": "Abundant Intelligences"
+    },
+    {
+      "id": "23fc6f79-9a33-811e-9b3a-e74d7e2a374b",
+      "name": "Indigenous Protocol and AI Working Group"
+    },
+    {
+      "id": "23fc6f79-9a33-81f3-8f71-f47fe1bd53e8",
+      "name": "NEXT AI BC Companies"
+    },
+    {
+      "id": "23fc6f79-9a33-81bb-99b4-e06406856531",
+      "name": "Scale AI BC Recipients"
+    },
+    {
+      "id": "23fc6f79-9a33-8193-b79b-e19e18cc35c2",
+      "name": "DigiBC Creative AI Members"
+    },
+    {
+      "id": "23fc6f79-9a33-8139-8c2d-e340278f023e",
+      "name": "DigiBC Signals AI Showcase"
+    },
+    {
+      "id": "23fc6f79-9a33-81e8-bb83-d81f112e5580",
+      "name": "RAII Grant Recipients 2025"
+    },
+    {
+      "id": "23fc6f79-9a33-818e-b964-da7b9a50ada9",
+      "name": "BC Fast Pilot AI Projects"
+    },
+    {
+      "id": "23fc6f79-9a33-81d6-aafc-f1e7f3d18b2c",
+      "name": "Circle Innovation Vancouver AI Community"
+    },
+    {
+      "id": "23fc6f79-9a33-8146-a3ed-fb5d2725cb1a",
+      "name": "Shape Immersive"
+    },
+    {
+      "id": "23fc6f79-9a33-818a-a6c0-c5fe10727e6d",
+      "name": "Boast AI"
+    },
+    {
+      "id": "23fc6f79-9a33-8102-8af8-d81b632dbd61",
+      "name": "Meton AI"
+    },
+    {
+      "id": "23fc6f79-9a33-819f-96ac-e9784041a029",
+      "name": "Microsoft VCH AI Partnership"
+    },
+    {
+      "id": "23fc6f79-9a33-81b5-ad09-c285d08d695c",
+      "name": "BCIT Applied Research Centre for Sustainability Energy and Resource Innovations"
+    },
+    {
+      "id": "23fc6f79-9a33-81d7-8723-efbf5829fe6b",
+      "name": "Unity Muse Vancouver Community"
+    },
+    {
+      "id": "23fc6f79-9a33-81aa-a1cf-d69182e824b9",
+      "name": "External Development Summit Vancouver"
+    },
+    {
+      "id": "23fc6f79-9a33-8111-a043-df271f8e95a0",
+      "name": "BC Forest Innovation and Bioeconomy Manufacturing Program"
+    },
+    {
+      "id": "23fc6f79-9a33-817f-9b57-caa969f4554f",
+      "name": "CFS Mass Timber Innovation and Research Lab"
+    },
+    {
+      "id": "23fc6f79-9a33-81bd-a9f6-eabdb1a08712",
+      "name": "MiningTech North America Conference"
+    },
+    {
+      "id": "23fc6f79-9a33-812c-96c2-fbea33cb386a",
+      "name": "Southern Cross Gold BC"
+    },
+    {
+      "id": "23fc6f79-9a33-8198-bad8-dabc55067107",
+      "name": "Farmonaut BC"
+    },
+    {
+      "id": "23fc6f79-9a33-8104-86a0-d0e1957e632c",
+      "name": "BC Industry Partners AI Consortium"
+    },
+    {
+      "id": "23fc6f79-9a33-81f5-84f1-f3f6008f3c8e",
+      "name": "Vancouver PropTech Hub"
+    },
+    {
+      "id": "23fc6f79-9a33-811c-90ea-fa87642b56ca",
+      "name": "Fraser Surrey Docks"
+    },
+    {
+      "id": "23fc6f79-9a33-81bb-92fd-e9408c52e19c",
+      "name": "VFPA Terminal 2 Project"
+    },
+    {
+      "id": "23fc6f79-9a33-8125-a0e7-f7c920e4b8e8",
+      "name": "Deltaport Container Terminal"
+    },
+    {
+      "id": "23fc6f79-9a33-81bf-9525-c79e16ff3a40",
+      "name": "Neptune Terminals"
+    },
+    {
+      "id": "23fc6f79-9a33-8171-b9e3-d5790556b24f",
+      "name": "TIABC AI Workshop Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-817e-b1c3-f51e7c86c7ca",
+      "name": "Site C Hydroelectric Project AI Division"
+    },
+    {
+      "id": "23fc6f79-9a33-81e5-b4e9-f62e69011c60",
+      "name": "BC Hydro Electrification Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-81f0-b59f-ff4000a394e5",
+      "name": "BCIT Xanadu Quantum Computing Program"
+    },
+    {
+      "id": "23fc6f79-9a33-81ea-a951-fa3fb05d806f",
+      "name": "Vancouver International Privacy Security Summit"
+    },
+    {
+      "id": "23fc6f79-9a33-81f4-92c2-ec65c0e08d42",
+      "name": "BC Tech Hypergrowth Program"
+    },
+    {
+      "id": "23fc6f79-9a33-810b-a152-dc2b3d527836",
+      "name": "UVic Coast Capital Innovation Centre"
+    },
+    {
+      "id": "23fc6f79-9a33-81d0-85e9-c28ff3f782ca",
+      "name": "e@UBC Accelerate"
+    },
+    {
+      "id": "23fc6f79-9a33-81e4-9815-c524beb0dc4f",
+      "name": "CDL Vancouver"
+    },
+    {
+      "id": "23fc6f79-9a33-81d4-88d4-f40dd6e5157f",
+      "name": "CICE AI Program"
+    },
+    {
+      "id": "23fc6f79-9a33-812d-be34-f3974cee4ab8",
+      "name": "SFU Artificial Intelligence Research Group"
+    },
+    {
+      "id": "23fc6f79-9a33-8192-9ecc-d2311757a9c0",
+      "name": "Applied AI Research Association (AAIRA)"
+    },
+    {
+      "id": "23fc6f79-9a33-8138-bbc5-e89ce17ed21c",
+      "name": "DevFest YVR / AI Summit Vancouver"
+    },
+    {
+      "id": "23fc6f79-9a33-81ac-9b55-dfb79ba2c19e",
+      "name": "Adiabatic Quantum Computing Conference 2025"
+    },
+    {
+      "id": "23fc6f79-9a33-8126-9330-f12d98fbfc33",
+      "name": "Thompson Rivers University Computer Science"
+    },
+    {
+      "id": "23fc6f79-9a33-81e9-be87-fb3703a2bda6",
+      "name": "First Nations Health Authority Digital Health"
+    },
+    {
+      "id": "23fc6f79-9a33-8180-b520-d7d06882bfcc",
+      "name": "University of Victoria AI and Machine Learning Lab"
+    },
+    {
+      "id": "23fc6f79-9a33-81cb-ba45-fff149c337c7",
+      "name": "InBC Life Sciences Fund"
+    },
+    {
+      "id": "23fc6f79-9a33-81c0-816e-d93782f79461",
+      "name": "Digital Technology Supercluster Healthtech Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-811b-ab60-d14ce505d900",
+      "name": "Microsoft Vancouver Coastal Health Partnership"
+    },
+    {
+      "id": "23fc6f79-9a33-81b0-acde-ee67f82cd45a",
+      "name": "BC AI in Education Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-816d-8b8b-ccb2de125782",
+      "name": "UBC Biomedical Research Facility"
+    },
+    {
+      "id": "23fc6f79-9a33-8112-8c19-dc29c0fa82cd",
+      "name": "CareConnect"
+    },
+    {
+      "id": "23fc6f79-9a33-8192-8f87-ca7b4e44245c",
+      "name": "B.C. Centre for Innovation and Clean Energy (CICE)"
+    },
+    {
+      "id": "23fc6f79-9a33-81af-970b-cacdc52867b9",
+      "name": "Evergrow"
+    },
+    {
+      "id": "23fc6f79-9a33-819c-8e7b-f51b33bdbd16",
+      "name": "GreenMeter AI"
+    },
+    {
+      "id": "23fc6f79-9a33-814d-9bec-cb8dd4e28789",
+      "name": "BC Cleantech CEO Alliance"
+    },
+    {
+      "id": "23fc6f79-9a33-814c-9abe-dd34607880ce",
+      "name": "BC AI Gaming Innovation Fund"
+    },
+    {
+      "id": "23fc6f79-9a33-819e-8b3f-d47a49dbbfd0",
+      "name": "Vancouver Game Development AI Collective"
+    },
+    {
+      "id": "23fc6f79-9a33-8180-8bb2-f24d31f306ad",
+      "name": "3D AI Studio Vancouver"
+    },
+    {
+      "id": "23fc6f79-9a33-8129-9bf2-f50c3fdadaed",
+      "name": "Unity Muse Vancouver Users"
+    },
+    {
+      "id": "23fc6f79-9a33-8173-9383-eaf346b45cd7",
+      "name": "External Development Summit (XDS)"
+    },
+    {
+      "id": "23fc6f79-9a33-8189-899e-db8ddbe0a7e7",
+      "name": "Radical Entertainment"
+    },
+    {
+      "id": "23fc6f79-9a33-81f1-8ce8-f669be4346de",
+      "name": "Law Society of BC AI Ethics Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-81ed-bc87-ce76c95fd03b",
+      "name": "BC Securities Commission RegTech Sandbox"
+    },
+    {
+      "id": "23fc6f79-9a33-8158-9322-c541c2875958",
+      "name": "Rally Legal"
+    },
+    {
+      "id": "23fc6f79-9a33-818f-81c1-daa1fa1a2a5c",
+      "name": "Clio"
+    },
+    {
+      "id": "23fc6f79-9a33-8114-971b-c7c3b76341ba",
+      "name": "Prince George AI Fire Detection Network"
+    },
+    {
+      "id": "23fc6f79-9a33-815e-8e98-f88e3e526304",
+      "name": "Forest Innovation and Bioeconomy Program"
+    },
+    {
+      "id": "23fc6f79-9a33-8105-b4ff-de202f58cb7a",
+      "name": "Canadian Forest Service Mass Timber Lab"
+    },
+    {
+      "id": "23fc6f79-9a33-81cd-95b5-e4424e1a4c4c",
+      "name": "qathet Regional District AI Fire System"
+    },
+    {
+      "id": "23fc6f79-9a33-8125-b009-ff24fe1152a4",
+      "name": "Pano AI BC Operations"
+    },
+    {
+      "id": "23fc6f79-9a33-8105-80c3-c16bbe504b77",
+      "name": "BC Ocean and Marine Industry Association"
+    },
+    {
+      "id": "23fc6f79-9a33-819b-be47-cfbd077585dc",
+      "name": "Blue Economy Innovation Hub"
+    },
+    {
+      "id": "23fc6f79-9a33-8175-9d32-f25c9d28bcdc",
+      "name": "Ocean Networks Canada AI Lab"
+    },
+    {
+      "id": "23fc6f79-9a33-8112-a610-f27e2c6659b7",
+      "name": "OceanWise"
+    },
+    {
+      "id": "23fc6f79-9a33-8143-b3b9-e60509578494",
+      "name": "Kamloops Exploration Group"
+    },
+    {
+      "id": "23fc6f79-9a33-8162-8412-d8a84c1490b8",
+      "name": "Southern Cross Gold BC Operations"
+    },
+    {
+      "id": "23fc6f79-9a33-81b8-a8be-c89cb321113a",
+      "name": "BC Agritech Training Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-8192-824f-c7158b97b3b9",
+      "name": "Farmonaut BC Operations"
+    },
+    {
+      "id": "23fc6f79-9a33-814e-8017-dc7032e0a223",
+      "name": "Semios"
+    },
+    {
+      "id": "23fc6f79-9a33-81f3-847a-eacf249abde2",
+      "name": "BC Skills Training AI Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-81da-b817-f60850be7439",
+      "name": "Vancouver PropTech Ecosystem"
+    },
+    {
+      "id": "23fc6f79-9a33-8128-acc9-f9a5f682700d",
+      "name": "BC Construction Technology Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-8178-a264-cf1080d7a214",
+      "name": "ConstructAI"
+    },
+    {
+      "id": "23fc6f79-9a33-8131-a7aa-ec527c83d5bc",
+      "name": "BuildingOS"
+    },
+    {
+      "id": "23fc6f79-9a33-8187-87a0-e2fc29fe2b80",
+      "name": "Fraser Surrey Docks AI Operations"
+    },
+    {
+      "id": "23fc6f79-9a33-8176-bc16-dad5b67b0e95",
+      "name": "DP World Canada"
+    },
+    {
+      "id": "23fc6f79-9a33-8163-834e-ce8f4720c21c",
+      "name": "Vancouver Fraser Port Authority Terminal 2"
+    },
+    {
+      "id": "23fc6f79-9a33-810d-940f-d96d005343b0",
+      "name": "BC Manufacturing Skills Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-8114-81cb-fb32f74070f6",
+      "name": "Neptune Terminals AI Operations"
+    },
+    {
+      "id": "23fc6f79-9a33-81af-831c-dc94fc73ff56",
+      "name": "RCAB Advanced Manufacturing Laboratory"
+    },
+    {
+      "id": "23fc6f79-9a33-8107-b9fc-f5a64dfff25c",
+      "name": "Tourism Industry Association of BC AI Workshop"
+    },
+    {
+      "id": "23fc6f79-9a33-812c-bc32-dc4543e5dbeb",
+      "name": "Tourism Innovation Lab"
+    },
+    {
+      "id": "23fc6f79-9a33-8156-9dd6-c0436688cdc4",
+      "name": "TourismTechBC"
+    },
+    {
+      "id": "23fc6f79-9a33-8103-936f-feef0b0ba529",
+      "name": "BC Data Centre AI Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-8194-b0b2-db7100986372",
+      "name": "BC Actuarial AI Society"
+    },
+    {
+      "id": "23fc6f79-9a33-818b-9bb7-f44434344d46",
+      "name": "BC Financial AI Compliance Initiative"
+    },
+    {
+      "id": "23fc6f79-9a33-8136-a529-e1fac7d2ffdb",
+      "name": "Artificial Intelligence Underwriting Company (AIUC)"
+    },
+    {
+      "id": "23fc6f79-9a33-811f-b562-da55cb3247bf",
+      "name": "BC Clean Energy Innovation Program"
+    },
+    {
+      "id": "23fc6f79-9a33-8168-a8d3-e3ab12e3bfd7",
+      "name": "Site C Hydroelectric AI Integration"
+    },
+    {
+      "id": "23fc6f79-9a33-810f-8e31-e291376efa32",
+      "name": "BC Hydro Clean Power Action Plan"
+    },
+    {
+      "id": "23fc6f79-9a33-8148-881d-c34f8a9d58ac",
+      "name": "Stellantis LG Energy Solution BC Partnership"
+    },
+    {
+      "id": "23fc6f79-9a33-810f-946f-e616ddcadbf3",
+      "name": "Canadian Artificial Intelligence Safety Institute"
+    },
+    {
+      "id": "23fc6f79-9a33-81cf-bda7-c09641bb4e05",
+      "name": "Government Cybersecurity Showcase BC"
+    },
+    {
+      "id": "23fc6f79-9a33-81a4-a2a1-fb6bda9e8bda",
+      "name": "BC Aerospace Skills Gap Analysis Project"
+    },
+    {
+      "id": "23fc6f79-9a33-817e-9340-e054334d746e",
+      "name": "BCIT Centre of Excellence for Aerospace"
+    },
+    {
+      "id": "23fc6f79-9a33-816b-bd10-ce74a98aa8b4",
+      "name": "BCIT Aerospace Technology Campus"
+    },
+    {
+      "id": "23fc6f79-9a33-81d2-8844-c496a747ba14",
+      "name": "Consortium for Aerospace Research and Innovation in Canada"
+    },
+    {
+      "id": "23fc6f79-9a33-81a1-b8a1-f1d03e3edd3e",
+      "name": "entrepreneurship@UBC Accelerate"
+    },
+    {
+      "id": "23fc6f79-9a33-81ba-8f31-e185f6a61b0a",
+      "name": "AQC 2025 Vancouver"
+    },
+    {
+      "id": "23fc6f79-9a33-81ad-a479-e83389e0c5bf",
+      "name": "Tkmlps Development Corporation"
+    },
+    {
+      "id": "23fc6f79-9a33-81f9-9f66-e769aa7008d9",
+      "name": "UNBC Computer Science Department"
+    },
+    {
+      "id": "23fc6f79-9a33-81bb-b3f5-c198a7286dbd",
+      "name": "Northern Development Initiative Trust"
+    },
+    {
+      "id": "23fc6f79-9a33-81c9-90b1-f640c28b3f55",
+      "name": "TRU Computer Science Department"
+    },
+    {
+      "id": "23fc6f79-9a33-81a5-9195-e3b513616d2f",
+      "name": "SFU Quantum Fabrication Centre"
+    },
+    {
+      "id": "23fc6f79-9a33-81ce-bea4-debfb07b86d4",
+      "name": "Quantum Matter Institute"
+    },
+    {
+      "id": "23fc6f79-9a33-817a-89f9-cdecb69db268",
+      "name": "Quantum BC"
+    },
+    {
+      "id": "23fc6f79-9a33-8183-8a49-fea9bc1e5815",
+      "name": "Indigenous Digital Equity Strategy BC"
+    },
+    {
+      "id": "23fc6f79-9a33-8162-bb72-ef4d6a74232b",
+      "name": "FNHA Digital Health Division"
+    },
+    {
+      "id": "23fc6f79-9a33-81d5-9093-ffd0ebd3d9ea",
+      "name": "Yeti Farm Creative"
+    },
+    {
+      "id": "23fc6f79-9a33-811e-b968-f79df3179a71",
+      "name": "Disney Interactive Studios Kelowna"
+    },
+    {
+      "id": "23fc6f79-9a33-81d3-ba7b-ec6d97c25599",
+      "name": "FreshGrade"
+    },
+    {
+      "id": "23fc6f79-9a33-8131-85a3-ff4fd10b4d94",
+      "name": "QHR Technologies"
+    },
+    {
+      "id": "23fc6f79-9a33-81a0-8250-d4ce825204fd",
+      "name": "UVic AI and Machine Learning Lab"
+    },
+    {
+      "id": "23fc6f79-9a33-8131-ad7a-f17dc181998b",
+      "name": "BC Tech Association Hypergrowth"
+    },
+    {
+      "id": "23fc6f79-9a33-81fe-a266-e15731bf1915",
+      "name": "Coast Capital Savings Innovation Centre"
+    },
+    {
+      "id": "23fc6f79-9a33-8131-87e9-d4863fddaf3a",
+      "name": "BCIT Applied Artificial Intelligence Program"
+    },
+    {
+      "id": "23fc6f79-9a33-81aa-9b75-dc1946d1162b",
+      "name": "SFU AI Research Group"
+    },
+    {
+      "id": "23fc6f79-9a33-815a-a777-e845afc67c71",
+      "name": "AI4Good Canada"
+    },
+    {
+      "id": "23fc6f79-9a33-8128-8065-c3ad16bc9129",
+      "name": "Van AI Space"
+    },
+    {
+      "id": "23fc6f79-9a33-8179-b7f7-cbf2d7387352",
+      "name": "Vancouver AI Academy"
+    },
+    {
+      "id": "23fc6f79-9a33-8180-8f2a-dc1a009a1c5e",
+      "name": "AI Summit Vancouver 2025"
+    },
+    {
+      "id": "23fc6f79-9a33-81c6-ac32-fb6864bcec70",
+      "name": "Defang"
+    },
+    {
+      "id": "23fc6f79-9a33-813e-bae0-e6aaa88cdace",
+      "name": "Fujitsu Intelligence Technology"
+    },
+    {
+      "id": "23fc6f79-9a33-81c4-94df-c4c7dab42d20",
+      "name": "Cloudburst Research"
+    },
+    {
+      "id": "23fc6f79-9a33-81a0-8292-f5bfad343bfd",
+      "name": "Gaze AI"
+    },
+    {
+      "id": "23fc6f79-9a33-81de-890b-fb2743bf0ad7",
+      "name": "Vision Critical (Alida)"
+    },
+    {
+      "id": "23dc6f79-9a33-81d0-8914-ffcdc86b1700",
+      "name": "AbCellera Biologics"
+    },
+    {
+      "id": "23dc6f79-9a33-8100-a933-dac23159a3b0",
+      "name": "Women in Machine Learning & Data Science (WiMLDS Vancouver)"
+    },
+    {
+      "id": "23dc6f79-9a33-81f6-bf0f-ea2117753b46",
+      "name": "RBC Borealis"
+    },
+    {
+      "id": "23dc6f79-9a33-8187-a016-d27418833bc7",
+      "name": "Drive Hockey Analytics"
+    },
+    {
+      "id": "23dc6f79-9a33-8166-a7ea-ea87a1598ff0",
+      "name": "Rubriz AI"
+    },
+    {
+      "id": "23dc6f79-9a33-8169-a5f3-ca476bfb8b0d",
+      "name": "Victory Square Technologies"
+    },
+    {
+      "id": "23dc6f79-9a33-810e-b523-d0c453d22ed6",
+      "name": "VentureLabs Accelerator"
+    },
+    {
+      "id": "23dc6f79-9a33-8122-acc6-e0760907de40",
+      "name": "Upper Nicola Band AI Data Centre"
+    },
+    {
+      "id": "23dc6f79-9a33-815b-9ab5-f28a40ceb48c",
+      "name": "PioGroup Software"
+    },
+    {
+      "id": "23dc6f79-9a33-81c8-8d6f-fd8162eeca73",
+      "name": "Fujitsu"
+    },
+    {
+      "id": "23dc6f79-9a33-813d-80e1-d9a0ce2345a1",
+      "name": "Zymeworks"
+    },
+    {
+      "id": "23dc6f79-9a33-8153-922b-df1d6b735b2f",
+      "name": "SkyHive"
+    },
+    {
+      "id": "23dc6f79-9a33-81fe-aaa9-fefd1df86fd8",
+      "name": "Finn AI"
+    },
+    {
+      "id": "23dc6f79-9a33-8109-bd91-ed461dd4d4a2",
+      "name": "Deadwood Innovations"
+    },
+    {
+      "id": "23dc6f79-9a33-8199-83cf-dfa13ef9bfdd",
+      "name": "Haoma Health"
+    },
+    {
+      "id": "23dc6f79-9a33-814b-be91-d4b607c90f90",
+      "name": "Safari AI"
+    },
+    {
+      "id": "23dc6f79-9a33-8114-9f1f-d73d73605bc6",
+      "name": "BLUESENSE AI"
+    },
+    {
+      "id": "23dc6f79-9a33-8107-9a58-e45e1089f75f",
+      "name": "Creative Destruction Lab Vancouver (CDL-Vancouver)"
+    },
+    {
+      "id": "23dc6f79-9a33-810b-8702-cb15089b5edc",
+      "name": "MetaOptima (DermEngine)"
+    },
+    {
+      "id": "23dc6f79-9a33-81da-b2b3-dc665991fe1c",
+      "name": "Empirical Results"
+    },
+    {
+      "id": "23dc6f79-9a33-8187-8e11-d0d922efcb13",
+      "name": "T4G"
+    },
+    {
+      "id": "23dc6f79-9a33-8139-849f-d286c118c02c",
+      "name": "VRIFY Technology"
+    },
+    {
+      "id": "236c6f79-9a33-811e-8944-ff2a0c1495f1",
+      "name": "Orishnal Digital Services"
+    },
+    {
+      "id": "236c6f79-9a33-8106-aa09-c02ac2d2d8fd",
+      "name": "The Number"
+    },
+    {
+      "id": "236c6f79-9a33-8155-bb2b-ec8b92feeecf",
+      "name": "deltAlyz Canada"
+    },
+    {
+      "id": "236c6f79-9a33-817d-89d6-ebc63e77de35",
+      "name": "Canada Techs"
+    },
+    {
+      "id": "236c6f79-9a33-81c3-b10e-cde9b61ff604",
+      "name": "Auryon.ai"
+    },
+    {
+      "id": "236c6f79-9a33-8103-86f2-ff0a75c70895",
+      "name": "Google for Startups Accelerator: AI for Nature"
+    },
+    {
+      "id": "236c6f79-9a33-8173-8f1f-c78dae3e264f",
+      "name": "QueerTech QT Founders Catalyst Program"
+    },
+    {
+      "id": "236c6f79-9a33-81f1-96b8-fc27ff5bed42",
+      "name": "OneFeather"
+    },
+    {
+      "id": "236c6f79-9a33-81dc-aa93-fede1d426737",
+      "name": "Mind AI & Consciousness"
+    },
+    {
+      "id": "236c6f79-9a33-8105-8873-e7d3cbed5b26",
+      "name": "Squamish AI (Stawamus Syntax)"
+    },
+    {
+      "id": "236c6f79-9a33-81da-971a-f0515e1d93a4",
+      "name": "Womxn's AI (Vancouver)"
+    },
+    {
+      "id": "236c6f79-9a33-81e2-a0c0-ce459dd4cb7c",
+      "name": "Surrey AI"
+    },
+    {
+      "id": "236c6f79-9a33-81e8-9bb6-e504070cb891",
+      "name": "Raven Indigenous Capital Partners"
+    },
+    {
+      "id": "236c6f79-9a33-8132-b33d-f870888617ee",
+      "name": "Active Impact Investments"
+    },
+    {
+      "id": "1f8c6f79-9a33-8179-a60d-daa0d4738e2e",
+      "name": "RBC Borealis AI (Vancouver Lab)"
+    },
+    {
+      "id": "1f7c6f79-9a33-811c-bfde-c38f8b469ac3",
+      "name": "Unity Technologies (Vancouver)"
+    },
+    {
+      "id": "1f1c6f79-9a33-8134-a2dc-e2f394f5db0f",
+      "name": "Providence Health & IBM Centre for Heart Lung Innovation"
+    },
+    {
+      "id": "1f1c6f79-9a33-81aa-ad1b-f8d94c3ff80a",
+      "name": "Deloitte Omnia AI"
+    },
+    {
+      "id": "1f1c6f79-9a33-812b-ad85-c3272a1c507b",
+      "name": "WildlifeAI"
+    },
+    {
+      "id": "1f1c6f79-9a33-813e-b7e0-f4510f9d395e",
+      "name": "Bayes Studio"
+    },
+    {
+      "id": "1f1c6f79-9a33-81e6-bad9-ec0e66ae4892",
+      "name": "TELUS"
+    },
+    {
+      "id": "1f1c6f79-9a33-810a-90d9-e27a8a97a2b0",
+      "name": "Animikii"
+    }
+  ],
+  "testData": [
+    {
+      "id": "1f0c6f79-9a33-812c-9045-d15b0693c76f",
+      "name": "SFU's Digital Democracies Institute"
+    }
+  ]
+}

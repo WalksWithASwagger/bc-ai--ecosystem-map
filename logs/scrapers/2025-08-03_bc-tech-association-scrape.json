@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-08-03T06:39:08.287Z",
+  "sources": {
+    "memberDirectory": "https://wearebctech.com/cpages/member-directory",
+    "aiMembers": "https://wearebctech.com/cpages/member-directory?category=artificial-intelligence",
+    "techMembers": "https://wearebctech.com/cpages/member-directory?category=technology"
+  },
+  "totalScraped": 0,
+  "uniqueCompanies": 0,
+  "enriched": 0
+}

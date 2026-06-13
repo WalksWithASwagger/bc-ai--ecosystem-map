@@ -1,0 +1,167 @@
+{
+  "aiFocusExpansion": {
+    "researchId": "2025-01-30-ai-focus-expansion",
+    "date": "2025-01-30",
+    "focus": "Expanding AI technology focus areas with newly added companies",
+    "newCompaniesAnalyzed": [
+      "General Fusion",
+      "Traction on Demand", 
+      "Finger Food Studios",
+      "Archiact",
+      "Payfirma",
+      "Motive.io",
+      "Riverlane"
+    ],
+    "expandedClusters": {
+      "fusionEnergyAI": {
+        "description": "AI-powered fusion energy development and optimization",
+        "newCluster": true,
+        "totalCompanies": 1,
+        "totalEmployees": "300+",
+        "totalFunding": "$400M+ (including Jeff Bezos investment)",
+        "companies": [
+          {
+            "name": "General Fusion",
+            "focus": ["Plasma Physics AI", "Magnetized Target Fusion", "Energy Optimization", "Simulation AI"],
+            "specialization": "Commercial fusion energy development with AI-powered plasma control",
+            "maturity": "Late-stage development",
+            "investors": ["Jeff Bezos", "Shopify", "DCVC"],
+            "techStack": "AI-optimized plasma injection and containment systems",
+            "globalSignificance": "Building demonstration plant in UK",
+            "aiApplication": "AI controls plasma dynamics and optimizes fusion reactions"
+          }
+        ],
+        "clusterInsights": [
+          "Unique fusion + AI combination in global cleantech landscape",
+          "High-profile backing validates commercial viability",
+          "AI critical for plasma control and energy optimization",
+          "Part of global race for commercial fusion energy"
+        ]
+      },
+      "salesforceEcosystemAI": {
+        "description": "AI-powered Salesforce platform enhancement and automation",
+        "expandedCluster": true,
+        "totalCompanies": 2,
+        "totalEmployees": "2200+",
+        "totalFunding": "$500M+",
+        "companies": [
+          {
+            "name": "Traction on Demand",
+            "focus": ["CRM AI", "Salesforce Automation", "Business Process AI", "Customer Intelligence"],
+            "specialization": "Largest dedicated Salesforce partner globally with AI-powered solutions",
+            "maturity": "Market leader",
+            "employees": "2000+",
+            "revenue": "$350M+",
+            "partnerships": ["Salesforce Premier Partner", "Multiple Partner of the Year awards"],
+            "aiApplication": "AI-powered CRM optimization and automated business processes"
+          },
+          {
+            "name": "Payfirma",
+            "focus": ["Payment AI", "Fraud Detection", "Transaction Intelligence", "FinTech AI"],
+            "specialization": "AI-powered payment processing and fraud prevention",
+            "maturity": "Established fintech",
+            "partnerships": ["Salesforce AppExchange", "Payment processors"],
+            "aiApplication": "ML-based fraud detection and payment optimization"
+          }
+        ],
+        "clusterInsights": [
+          "Strong Salesforce ecosystem presence",
+          "AI enhances CRM and payment processing capabilities",
+          "Revenue-generating AI applications in enterprise space",
+          "Proven business model with recurring revenue"
+        ]
+      },
+      "immersiveMediaAI": {
+        "description": "AI-powered AR/VR/XR and immersive media experiences",
+        "expandedCluster": true,
+        "totalCompanies": 2,
+        "totalEmployees": "200+",
+        "totalFunding": "$100M+",
+        "companies": [
+          {
+            "name": "Finger Food Studios",
+            "focus": ["AR/VR AI", "Unity Integration", "Immersive Experiences", "Real-time Rendering AI"],
+            "specialization": "AR/VR technology development with AI-enhanced experiences",
+            "maturity": "Acquired by Unity (2020)",
+            "exit": "Unity Technologies acquisition",
+            "aiApplication": "AI-powered real-time rendering and immersive experience optimization"
+          },
+          {
+            "name": "Archiact",
+            "focus": ["VR Gaming AI", "Immersive Entertainment", "Interactive Media AI", "Game Intelligence"],
+            "specialization": "VR game development with AI-powered interactive experiences",
+            "maturity": "Established VR studio",
+            "products": ["VR games", "Interactive experiences"],
+            "aiApplication": "AI-driven game mechanics and player behavior analysis"
+          }
+        ],
+        "clusterInsights": [
+          "Strong presence in immersive media and gaming",
+          "Unity acquisition validates AR/VR + AI combination",
+          "Focus on entertainment and interactive experiences",
+          "AI enhances real-time rendering and user interaction"
+        ]
+      },
+      "quantumSoftwareExpansion": {
+        "description": "Expansion of quantum computing software capabilities",
+        "expandedCluster": true,
+        "existingCompanies": ["D-Wave", "1QBit", "Photonic"],
+        "newCompanies": [
+          {
+            "name": "Riverlane",
+            "focus": ["Quantum Error Correction", "Quantum Software Stack", "Quantum OS", "Fault-Tolerant Computing"],
+            "specialization": "Quantum error correction and operating system development",
+            "maturity": "Series A funded",
+            "partnerships": ["Cambridge University", "Quantum computing hardware companies"],
+            "aiApplication": "AI-assisted quantum error correction and code optimization"
+          }
+        ],
+        "clusterInsights": [
+          "Completing quantum software stack with error correction",
+          "Critical component for fault-tolerant quantum computing",
+          "Strong academic partnerships",
+          "AI integration for quantum system optimization"
+        ]
+      },
+      "mobilePlatformAI": {
+        "description": "AI-powered mobile platforms and digital solutions",
+        "newCluster": true,
+        "totalCompanies": 1,
+        "totalEmployees": "100+",
+        "totalFunding": "$50M+",
+        "companies": [
+          {
+            "name": "Motive.io",
+            "focus": ["Mobile AI", "Platform Intelligence", "User Experience AI", "Mobile Analytics"],
+            "specialization": "AI-powered mobile platform development and optimization",
+            "maturity": "Growth stage",
+            "aiApplication": "AI-driven mobile user experience and platform optimization"
+          }
+        ],
+        "clusterInsights": [
+          "Mobile-first AI platform approach",
+          "Focus on user experience optimization",
+          "Growing market for mobile AI solutions",
+          "Platform-as-a-service model"
+        ]
+      }
+    },
+    "updatedEcosystemStats": {
+      "totalAIClusters": 13,
+      "totalCompaniesAnalyzed": 30,
+      "totalEmployeesInAI": "8000+",
+      "totalFundingTracked": "$8B+",
+      "newVerticals": ["Fusion Energy AI", "Quantum Error Correction", "Mobile Platform AI"],
+      "strengthenedVerticals": ["Salesforce Ecosystem", "Immersive Media", "Quantum Software"]
+    },
+    "keyFindings": [
+      "BC has unique fusion energy + AI combination (General Fusion)",
+      "Strong Salesforce ecosystem with $350M+ revenue partnerships",
+      "Successful AR/VR exits (Finger Food → Unity)",
+      "Complete quantum software stack emerging",
+      "Mobile AI platforms gaining traction",
+      "High-profile investor backing (Jeff Bezos, Shopify)",
+      "Multiple unicorn-track companies identified"
+    ]
+  }
+}

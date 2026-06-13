@@ -1,0 +1,148 @@
+{
+  "timestamp": "2025-08-04T17:36:54.180Z",
+  "discoveries": [
+    {
+      "company": "Artemis AI",
+      "companyId": "240c6f79-9a33-81d1-863f-db1e93708b2d",
+      "yearFounded": 2022,
+      "primaryEmail": "info@artemis.com",
+      "additionalEmails": [
+        "info@artemis.com",
+        "contact@artemis.com",
+        "hello@artemis.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:36:55.821Z"
+    },
+    {
+      "company": "Lila Bioscience",
+      "companyId": "244c6f79-9a33-81da-975a-f23353c402e4",
+      "yearFounded": 2021,
+      "primaryEmail": "info@lilabioscience.com",
+      "additionalEmails": [
+        "info@lilabioscience.com",
+        "contact@lilabioscience.com",
+        "hello@lilabioscience.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:36:57.863Z"
+    },
+    {
+      "company": "GreenMeter AI",
+      "companyId": "23fc6f79-9a33-819c-8e7b-f51b33bdbd16",
+      "yearFounded": 2021,
+      "primaryEmail": "info@greenmetrics.ca",
+      "additionalEmails": [
+        "info@greenmetrics.ca"
+      ],
+      "source": "Website scraping",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:37:00.638Z"
+    },
+    {
+      "company": "8. Quantum Algorithms Institute",
+      "companyId": "244c6f79-9a33-81cb-9919-ec4b2f5c5ecd",
+      "yearFounded": 2020,
+      "primaryEmail": "info@quantumalgorithms.ca",
+      "additionalEmails": [
+        "info@quantumalgorithms.ca",
+        "contact@quantumalgorithms.ca",
+        "hello@quantumalgorithms.ca"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:37:04.965Z"
+    },
+    {
+      "company": "Circles of AI",
+      "companyId": "245c6f79-9a33-8178-bff1-f281f582479b",
+      "yearFounded": 2019,
+      "primaryEmail": "info@circlesofai.com",
+      "additionalEmails": [
+        "info@circlesofai.com",
+        "contact@circlesofai.com",
+        "hello@circlesofai.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:37:08.286Z"
+    },
+    {
+      "company": "4AG Robotics",
+      "companyId": "23dc6f79-9a33-8111-8ef7-dfe49820a945",
+      "yearFounded": 2019,
+      "primaryEmail": "info@4agrobotics.com",
+      "additionalEmails": [
+        "info@4agrobotics.com",
+        "contact@4agrobotics.com",
+        "hello@4agrobotics.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:37:12.200Z"
+    },
+    {
+      "company": "Frontier Collective",
+      "companyId": "1f0c6f79-9a33-812f-84b5-dc405db01701",
+      "yearFounded": 2019,
+      "primaryEmail": "info@frontiercollective.com",
+      "additionalEmails": [
+        "info@frontiercollective.com",
+        "contact@frontiercollective.com",
+        "hello@frontiercollective.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:37:22.295Z"
+    },
+    {
+      "company": "Get Fresh Ventures",
+      "companyId": "245c6f79-9a33-81b3-92ee-de50c59bceed",
+      "yearFounded": 2018,
+      "primaryEmail": "info@getfreshventures.com",
+      "additionalEmails": [
+        "info@getfreshventures.com",
+        "contact@getfreshventures.com",
+        "hello@getfreshventures.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:37:26.559Z"
+    },
+    {
+      "company": "Digital Technology Supercluster",
+      "companyId": "244c6f79-9a33-81aa-beef-d0dbe931d7b6",
+      "yearFounded": 2018,
+      "primaryEmail": "info@digitalsupercluster.ca",
+      "additionalEmails": [
+        "info@digitalsupercluster.ca",
+        "media@digitalsupercluster.ca"
+      ],
+      "source": "Website scraping",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:37:28.986Z"
+    },
+    {
+      "company": "MetaOptima / MetaOptima (DermEngine)",
+      "companyId": "244c6f79-9a33-8105-b9d0-f7fcd9f5ce32",
+      "yearFounded": 2018,
+      "primaryEmail": "info@linkedin.com",
+      "additionalEmails": [
+        "info@linkedin.com",
+        "contact@linkedin.com",
+        "hello@linkedin.com"
+      ],
+      "source": "Common patterns",
+      "confidence": 1,
+      "discoveredAt": "2025-08-04T17:37:34.619Z"
+    }
+  ],
+  "stats": {
+    "searched": 10,
+    "found": 10,
+    "validated": 10,
+    "failed": 0
+  }
+}

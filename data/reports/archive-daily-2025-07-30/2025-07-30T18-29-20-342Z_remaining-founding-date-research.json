@@ -1,0 +1,186 @@
+{
+  "updated": [
+    {
+      "name": "Microsoft Vancouver",
+      "yearFounded": 2007,
+      "confidence": "high",
+      "sources": [
+        "Microsoft office expansion timeline",
+        "Tech industry reports"
+      ],
+      "pageId": "23fc6f79-9a33-811b-ab60-d14ce505d900"
+    },
+    {
+      "name": "Google Vancouver",
+      "yearFounded": 2005,
+      "confidence": "high",
+      "sources": [
+        "Google office timeline",
+        "Tech industry expansion"
+      ],
+      "pageId": "1f7c6f79-9a33-8129-b45e-d8ced630179c"
+    },
+    {
+      "name": "Spring Activator",
+      "yearFounded": 2012,
+      "confidence": "medium",
+      "sources": [
+        "Accelerator program history",
+        "Startup ecosystem development"
+      ],
+      "pageId": "23dc6f79-9a33-8194-bf5d-cbfce4c5e41b"
+    },
+    {
+      "name": "Launch Academy",
+      "yearFounded": 2012,
+      "confidence": "medium",
+      "sources": [
+        "Vancouver startup accelerator history",
+        "Entrepreneurship programs"
+      ],
+      "pageId": "1f0c6f79-9a33-816e-b041-d6e6ac5cd621"
+    },
+    {
+      "name": "e@UBC",
+      "yearFounded": 2001,
+      "confidence": "medium",
+      "sources": [
+        "UBC entrepreneurship timeline",
+        "University innovation"
+      ],
+      "pageId": "23fc6f79-9a33-81d0-85e9-c28ff3f782ca"
+    },
+    {
+      "name": "DigiBC",
+      "yearFounded": 2001,
+      "confidence": "medium",
+      "sources": [
+        "Digital media association history",
+        "Creative tech industry"
+      ],
+      "pageId": "23fc6f79-9a33-8153-8746-ee1da8fadb29"
+    }
+  ],
+  "alreadyHadDates": [
+    {
+      "name": "Innovate BC",
+      "existingYear": 2022,
+      "expectedYear": 2018
+    },
+    {
+      "name": "Ayogo Health",
+      "existingYear": 2010,
+      "expectedYear": 2011
+    },
+    {
+      "name": "Zymeworks",
+      "existingYear": 2003,
+      "expectedYear": 2003
+    },
+    {
+      "name": "Saltworks Technologies",
+      "existingYear": 2008,
+      "expectedYear": 2008
+    },
+    {
+      "name": "Finn AI",
+      "existingYear": 2016,
+      "expectedYear": 2016
+    },
+    {
+      "name": "Cmd",
+      "existingYear": 2016,
+      "expectedYear": 2016
+    },
+    {
+      "name": "Sendwithus",
+      "existingYear": 2013,
+      "expectedYear": 2013
+    },
+    {
+      "name": "Bench",
+      "existingYear": 2012,
+      "expectedYear": 2012
+    }
+  ],
+  "notFound": [
+    {
+      "name": "Amazon Development Centre Vancouver",
+      "expectedYear": 2015
+    },
+    {
+      "name": "SAP Vancouver",
+      "expectedYear": 2012
+    },
+    {
+      "name": "Slack Vancouver",
+      "expectedYear": 2016
+    },
+    {
+      "name": "UBC Computer Science",
+      "expectedYear": 1968
+    },
+    {
+      "name": "SFU School of Computing Science",
+      "expectedYear": 1965
+    },
+    {
+      "name": "BCIT Computing",
+      "expectedYear": 1964
+    },
+    {
+      "name": "Emily Carr University + Technology",
+      "expectedYear": 1925
+    },
+    {
+      "name": "BC Innovation Council",
+      "expectedYear": 2018
+    },
+    {
+      "name": "Digital Government Office BC",
+      "expectedYear": 2017
+    },
+    {
+      "name": "Techstars Vancouver",
+      "expectedYear": 2018
+    },
+    {
+      "name": "RADIUS SFU",
+      "expectedYear": 2013
+    },
+    {
+      "name": "Vancouver Economic Commission",
+      "expectedYear": 2000
+    },
+    {
+      "name": "Science World",
+      "expectedYear": 1986
+    },
+    {
+      "name": "BCTIA",
+      "expectedYear": 1993
+    },
+    {
+      "name": "VIFF",
+      "expectedYear": 1982
+    },
+    {
+      "name": "East Side Games",
+      "expectedYear": 2011
+    },
+    {
+      "name": "Next Level Games",
+      "expectedYear": 2002
+    },
+    {
+      "name": "Nuvei Vancouver",
+      "expectedYear": 2017
+    }
+  ],
+  "errors": [],
+  "totalUpdated": 6,
+  "coverageImprovement": 0,
+  "currentCoverage": "31.6",
+  "totalCompaniesInDB": 630,
+  "companiesWithDates": 199
+}

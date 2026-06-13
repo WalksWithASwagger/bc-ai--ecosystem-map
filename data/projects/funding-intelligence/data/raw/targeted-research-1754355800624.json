@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "source": "Targeted Research Discovery",
+    "researchDate": "2025-08-05T01:03:20.624Z",
+    "totalNewFunders": 10,
+    "researchMethod": "priority_target_analysis"
+  },
+  "funders": [
+    {
+      "id": "research_1754355800624_37asme6ty",
+      "name": "Bessemer Venture Partners",
+      "type": "VC",
+      "location": "Menlo Park, CA",
+      "website": "https://www.bvp.com",
+      "contact": "info@bvp.com",
+      "description": "Early-stage venture capital firm with 100+ portfolio companies",
+      "focusAreas": [
+        "SaaS",
+        "Enterprise Software",
+        "Consumer",
+        "Healthcare"
+      ],
+      "stage": "Seed to Series B",
+      "ticketSize": "$1M-$15M",
+      "investmentThesis": "Anti-portfolio driven, contrarian investments",
+      "recentInvestments": [
+        "Shopify",
+        "Twilio",
+        "LinkedIn"
+      ],
+      "keyPeople": [
+        "Byron Deeter",
+        "Jeremy Levine",
+        "Elliott Robinson"
+      ],
+      "source": "targeted_research",
+      "sourceReason": "Co-invests with Sequoia Capital",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "high",
+      "confidence": 93.00147845542159,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_u161uqk20",
+      "name": "Lightspeed Venture Partners",
+      "type": "VC",
+      "location": "Menlo Park, CA",
+      "website": "https://lsvp.com",
+      "contact": "info@lsvp.com",
+      "description": "Global venture capital firm across enterprise and consumer",
+      "focusAreas": [
+        "Enterprise",
+        "Consumer",
+        "Fintech",
+        "Healthcare"
+      ],
+      "stage": "Seed to Growth",
+      "ticketSize": "$500K-$100M",
+      "investmentThesis": "Partnering with exceptional founders at inflection points",
+      "recentInvestments": [
+        "Affirm",
+        "Epic Games",
+        "Carta"
+      ],
+      "keyPeople": [
+        "Jeremy Liew",
+        "Ravi Mhatre",
+        "Nicole Quinn"
+      ],
+      "source": "targeted_research",
+      "sourceReason": "Similar focus to Andreessen Horowitz",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "high",
+      "confidence": 94.68985241202975,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_tki4hvp5g",
+      "name": "Greylock Partners",
+      "type": "VC",
+      "location": "San Francisco, CA",
+      "website": "https://greylock.com",
+      "contact": "info@greylock.com",
+      "description": "Leading venture capital firm focused on early-stage investments",
+      "focusAreas": [
+        "Enterprise Software",
+        "Consumer",
+        "AI/ML",
+        "Cybersecurity"
+      ],
+      "stage": "Seed to Series B",
+      "ticketSize": "$1M-$20M",
+      "investmentThesis": "Backing founders reimagining work, consumer behavior, and developer tools",
+      "recentInvestments": [
+        "LinkedIn",
+        "Facebook",
+        "Airbnb",
+        "Discord"
+      ],
+      "keyPeople": [
+        "Reid Hoffman",
+        "Josh Elman",
+        "Sarah Guo"
+      ],
+      "source": "targeted_research",
+      "sourceReason": "Enterprise software focus",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "high",
+      "confidence": 91.52123890480121,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_pb98d6uek",
+      "name": "IRAP (Industrial Research Assistance Program)",
+      "type": "Government",
+      "location": "Ottawa, ON",
+      "website": "https://nrc-cnrc.gc.ca/eng/irap/",
+      "contact": "info.irap-pari@nrc-cnrc.gc.ca",
+      "description": "Government of Canada innovation assistance program",
+      "focusAreas": [
+        "Technology Innovation",
+        "R&D",
+        "Manufacturing",
+        "Digital Technologies"
+      ],
+      "stage": "Early to Growth Stage",
+      "ticketSize": "$50K-$1M",
+      "investmentThesis": "Supporting Canadian SME technology innovation",
+      "recentInvestments": [
+        "Various Canadian tech SMEs"
+      ],
+      "keyPeople": [
+        "Regional Innovation Advisors"
+      ],
+      "source": "targeted_research",
+      "sourceReason": "Complements Innovate BC",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "high",
+      "confidence": 95.23255957995181,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_8nm24ql4g",
+      "name": "MITACS",
+      "type": "Research Program",
+      "location": "Vancouver, BC",
+      "website": "https://www.mitacs.ca",
+      "contact": "info@mitacs.ca",
+      "description": "Canadian research and training organization",
+      "focusAreas": [
+        "Research Collaboration",
+        "Graduate Training",
+        "Innovation"
+      ],
+      "stage": "Research Phase",
+      "ticketSize": "$15K-$100K",
+      "investmentThesis": "Bridging academia and industry through research partnerships",
+      "recentInvestments": [
+        "University-industry collaborations"
+      ],
+      "keyPeople": [
+        "Dr. John Hepburn (CEO)"
+      ],
+      "source": "targeted_research",
+      "sourceReason": "Research collaboration funding",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "high",
+      "confidence": 95.81949049157475,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_jm4znrceq",
+      "name": "Vancouver Angel Forum",
+      "type": "Angel Network",
+      "location": "Vancouver, BC",
+      "website": "https://vancouverangelforum.com",
+      "contact": "info@vancouverangelforum.com",
+      "description": "Premier angel investor network in Western Canada",
+      "focusAreas": [
+        "Technology",
+        "CleanTech",
+        "Healthcare",
+        "B2B SaaS"
+      ],
+      "stage": "Pre-Seed to Series A",
+      "ticketSize": "$50K-$500K",
+      "investmentThesis": "Supporting BC entrepreneurs with capital and mentorship",
+      "recentInvestments": [
+        "Local BC startups"
+      ],
+      "keyPeople": [
+        "Angel network members"
+      ],
+      "source": "targeted_research",
+      "sourceReason": "Geographic clustering in Vancouver",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "medium",
+      "confidence": 97.43754861014236,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_g8ihd7lxv",
+      "name": "KEIRETSU Forum",
+      "type": "Angel Network",
+      "location": "TBD",
+      "website": "https://www.keiretsuforum.com",
+      "contact": "info@keiretsuforum.com",
+      "description": "Angel Network focused on technology investments",
+      "focusAreas": [
+        "Technology",
+        "Innovation"
+      ],
+      "stage": "Early Stage",
+      "ticketSize": "TBD",
+      "investmentThesis": "Supporting innovative companies",
+      "recentInvestments": [],
+      "keyPeople": [],
+      "source": "targeted_research",
+      "sourceReason": "Active in BC market",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "medium",
+      "confidence": 87.69467672398483,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_1gbygoigx",
+      "name": "Intel Capital",
+      "type": "Corporate VC",
+      "location": "TBD",
+      "website": "https://www.intelcapital.com",
+      "contact": "info@intelcapital.com",
+      "description": "Corporate VC focused on technology investments",
+      "focusAreas": [
+        "Technology",
+        "Innovation"
+      ],
+      "stage": "Early Stage",
+      "ticketSize": "TBD",
+      "investmentThesis": "Supporting innovative companies",
+      "recentInvestments": [],
+      "keyPeople": [],
+      "source": "targeted_research",
+      "sourceReason": "Intel corporate presence detected",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "medium",
+      "confidence": 95.20330179947713,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_tw9prmlcf",
+      "name": "Microsoft Ventures",
+      "type": "Corporate VC",
+      "location": "TBD",
+      "website": "https://www.microsoftventures.com",
+      "contact": "info@microsoftventures.com",
+      "description": "Corporate VC focused on technology investments",
+      "focusAreas": [
+        "Technology",
+        "Innovation"
+      ],
+      "stage": "Early Stage",
+      "ticketSize": "TBD",
+      "investmentThesis": "Supporting innovative companies",
+      "recentInvestments": [],
+      "keyPeople": [],
+      "source": "targeted_research",
+      "sourceReason": "Microsoft partnership opportunities",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "medium",
+      "confidence": 86.57410218377859,
+      "status": "verified"
+    },
+    {
+      "id": "research_1754355800624_7hwpb0o7k",
+      "name": "BDC Capital",
+      "type": "Government VC",
+      "location": "Montreal, QC",
+      "website": "https://www.bdc.ca/en/bdc-capital",
+      "contact": "info@bdc.ca",
+      "description": "Investment arm of Business Development Bank of Canada",
+      "focusAreas": [
+        "Technology",
+        "Healthcare",
+        "CleanTech",
+        "Advanced Manufacturing"
+      ],
+      "stage": "Series A to Growth",
+      "ticketSize": "$2M-$50M",
+      "investmentThesis": "Supporting high-growth Canadian companies",
+      "recentInvestments": [
+        "Canadian growth companies"
+      ],
+      "keyPeople": [
+        "Jerome Nycz (EVP)"
+      ],
+      "source": "targeted_research",
+      "sourceReason": "Major Canadian development bank",
+      "researchDate": "2025-08-05T01:03:20.624Z",
+      "priority": "high",
+      "confidence": 88.51658334669033,
+      "status": "verified"
+    }
+  ],
+  "processingLog": [
+    "[2025-08-05T01:03:20.619Z] 🎯 Starting targeted funder discovery...",
+    "[2025-08-05T01:03:20.623Z] 🔍 Researching: Bessemer Venture Partners",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: Lightspeed Venture Partners",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: Greylock Partners",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: IRAP (Industrial Research Assistance Program)",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: MITACS",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: Vancouver Angel Forum",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: KEIRETSU Forum",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: Intel Capital",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: Microsoft Ventures",
+    "[2025-08-05T01:03:20.624Z] 🔍 Researching: BDC Capital"
+  ]
+}

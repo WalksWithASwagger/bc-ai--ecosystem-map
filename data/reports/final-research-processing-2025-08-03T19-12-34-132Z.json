@@ -1,0 +1,2931 @@
+{
+  "filesProcessed": 5,
+  "companiesExtracted": 821,
+  "companiesAdded": 487,
+  "companiesSkipped": 334,
+  "errors": [],
+  "additions": [
+    {
+      "name": "Business Development & Partnerships",
+      "id": "244c6f79-9a33-81e8-9a92-fdec610418f3",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Talent & Recruitment Intelligence",
+      "id": "244c6f79-9a33-81d5-b165-fbccacf5914c",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Competitive Positioning Research",
+      "id": "244c6f79-9a33-8150-acf3-fbc92537b614",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "🔗 1. SOCIAL MEDIA INTELLIGENCE",
+      "id": "244c6f79-9a33-8105-a568-d656968b7033",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Tier 1: Global Tech Giants (Vancouver Operations)",
+      "id": "244c6f79-9a33-81bd-9d68-e420603d7bab",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Microsoft Vancouver",
+      "id": "244c6f79-9a33-8164-a386-e902ff8f2e4e",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Social Media Verification Status",
+      "id": "244c6f79-9a33-81c2-87a8-f1c15631f553",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Social Media Enhancement Opportunities",
+      "id": "244c6f79-9a33-81fd-8456-e041de35462d",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Priority 3 - Social Media Metrics Collection",
+      "id": "244c6f79-9a33-813b-999d-c1a85a450600",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "💰 2. FUNDING & INVESTMENT INTELLIGENCE",
+      "id": "244c6f79-9a33-811f-9dd3-e21eba006c43",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Major Funding Rounds (2024-2025)",
+      "id": "244c6f79-9a33-8155-a931-e93f177a43d8",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Series B & Later Stage",
+      "id": "244c6f79-9a33-8104-9baf-df684a26b217",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Seed & Early Stage",
+      "id": "244c6f79-9a33-81d6-9b69-f07a5c193150",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Investment Ecosystem Map",
+      "id": "244c6f79-9a33-8104-930a-ceda7f2d430a",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Major BC-Based Investors",
+      "id": "244c6f79-9a33-81f1-8de2-d18214457d82",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "InBC Investment Fund",
+      "id": "244c6f79-9a33-811c-b5ee-cc36a150ed08",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "International Investment Activity",
+      "id": "244c6f79-9a33-8122-b705-c4d7bd82dbf8",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "B Capital",
+      "id": "244c6f79-9a33-816d-9721-da4396b9fe2a",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "BankTech Ventures",
+      "id": "244c6f79-9a33-81e5-8c75-f81898f8d0c7",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "T. Rowe Price",
+      "id": "244c6f79-9a33-81f3-b29e-ce76754ade46",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "High-Value Acquisition Activity",
+      "id": "244c6f79-9a33-817e-8279-f13599bf59f6",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Emerging Investment Themes",
+      "id": "244c6f79-9a33-8161-a027-ccb893a67596",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Healthcare AI",
+      "id": "244c6f79-9a33-8129-9cb4-e8773a0281e8",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "FinTech AI",
+      "id": "244c6f79-9a33-81df-a5f1-e7a17fcf1cbb",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "AgTech Robotics",
+      "id": "244c6f79-9a33-81ae-8c25-fd2aa9540446",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "👥 3. EMPLOYEE & SCALE INTELLIGENCE",
+      "id": "244c6f79-9a33-81e1-9f58-c253436735ef",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Large Enterprise Operations (1000+ Employees)",
+      "id": "244c6f79-9a33-8197-a850-d3cb41da583c",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "SAP Vancouver",
+      "id": "244c6f79-9a33-810d-a5c4-d4888dc3432e",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "TELUS AI Initiatives",
+      "id": "244c6f79-9a33-81e2-8661-dc3ef24d2647",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "High-Growth Scale-ups (100-1000 Employees)",
+      "id": "244c6f79-9a33-81dc-a42f-f7a093391722",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Rapidly Scaling Startups (10-100 Employees)",
+      "id": "244c6f79-9a33-814e-8d80-dd08628c3dc5",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Hiring & Growth Intelligence",
+      "id": "244c6f79-9a33-8194-ae39-e1879576ba5b",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Active Recruitment Indicators",
+      "id": "244c6f79-9a33-81df-b74b-df430aed2628",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Gender Diversity",
+      "id": "244c6f79-9a33-8173-b890-ce16069f41b3",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Technical Leadership",
+      "id": "244c6f79-9a33-8136-af34-eaad520a4d0d",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Geographic Distribution",
+      "id": "244c6f79-9a33-8170-99d1-c79d06e813b5",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Talent Acquisition Patterns",
+      "id": "244c6f79-9a33-81d0-b749-fd3a55b2f9a3",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Acquisition Targets",
+      "id": "244c6f79-9a33-81ce-b3a0-fd1f6446a19a",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "🏆 4. EXECUTIVE & BOARD INTELLIGENCE",
+      "id": "244c6f79-9a33-8148-ba48-f09d85957324",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "C-Level Executive Mapping",
+      "id": "244c6f79-9a33-814b-8656-fa1728bb2689",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "CEO & Founder Intelligence",
+      "id": "244c6f79-9a33-817b-9c23-f63026822798",
+      "confidence": 0.9,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Technical Leadership (CTO/Technical Founders)",
+      "id": "244c6f79-9a33-8189-bb7d-c98a38514edc",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Board & Advisory Intelligence",
+      "id": "244c6f79-9a33-81b8-8203-d50be209bd15",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Strategic Advisor Networks",
+      "id": "244c6f79-9a33-81ed-abcf-f3ffee73a543",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Academic Connections",
+      "id": "244c6f79-9a33-81ea-aa2a-dec9aec564a9",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Investment Community",
+      "id": "244c6f79-9a33-8180-9378-d767ba75154e",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Leadership Transition Patterns",
+      "id": "244c6f79-9a33-81c0-a345-c52a49d4625f",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Growth-Stage Transitions",
+      "id": "244c6f79-9a33-81e9-81b1-f1e6516db079",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Acquisition Impacts",
+      "id": "244c6f79-9a33-81be-a467-d632a17b5ca5",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "🤝 5. PARTNERSHIP & COLLABORATION INTELLIGENCE",
+      "id": "244c6f79-9a33-8114-bfd3-fe53c197c7da",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Strategic Partnership Categories",
+      "id": "244c6f79-9a33-8162-9a41-d11eb4a551a4",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Academic-Industry Collaborations",
+      "id": "244c6f79-9a33-8123-8ca4-db0eb7406f12",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "SFU Digital Health Innovation Lab",
+      "id": "244c6f79-9a33-81b0-a376-efabaf3e8799",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Technology Integration Partnerships",
+      "id": "244c6f79-9a33-812e-8928-fe03b0ef3e69",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Hootsuite Platform Integrations",
+      "id": "244c6f79-9a33-8104-876b-c55c444442eb",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Good Chemistry → SandboxAQ",
+      "id": "244c6f79-9a33-814b-8d1e-de1d3d2fc632",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Unity Technologies",
+      "id": "244c6f79-9a33-81f0-8f4f-dbc5cf8f2a08",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Customer-Vendor Ecosystem",
+      "id": "244c6f79-9a33-81f1-921c-d497811158ce",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Cross-Border Collaborations",
+      "id": "244c6f79-9a33-81dd-8c9d-d296e615e1ca",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Sector Convergence",
+      "id": "244c6f79-9a33-812a-a584-cb8eabab5a8a",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Research Commercialization",
+      "id": "244c6f79-9a33-81cc-9be9-e5734a62b947",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "📈 6. COMPETITIVE & MARKET INTELLIGENCE",
+      "id": "244c6f79-9a33-81e2-811f-e2db24914c9f",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Market Leadership by Sector",
+      "id": "244c6f79-9a33-81f1-bb3a-f29a2ad6e850",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Quantum Computing",
+      "id": "244c6f79-9a33-81fc-96b8-d92e77ffe5d0",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Competitive Position",
+      "id": "244c6f79-9a33-8151-afd6-e86348692ae1",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Market Advantage",
+      "id": "244c6f79-9a33-8192-91ac-f446fe110f99",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Social Media Management",
+      "id": "244c6f79-9a33-810e-a785-ee62b97f108d",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Market Reach",
+      "id": "244c6f79-9a33-8175-a896-d3d34f5c00d9",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Competitive Edge",
+      "id": "244c6f79-9a33-819c-95e7-e3bf3b0b2d50",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Biotech AI",
+      "id": "244c6f79-9a33-81e9-b824-e5bd1bc8b654",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Market Position",
+      "id": "244c6f79-9a33-8104-bc29-f4de1a06e32a",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "InsurTech AI",
+      "id": "244c6f79-9a33-811a-8dd4-c581495136b1",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Technology Differentiation",
+      "id": "244c6f79-9a33-81eb-9f7c-d9437be2a0a0",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Proprietary Technology Advantages",
+      "id": "244c6f79-9a33-8172-9667-f7e65046954b",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Market Recognition & Awards",
+      "id": "244c6f79-9a33-81e8-b0a6-ce605fa3b677",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "VIATEC",
+      "id": "244c6f79-9a33-8128-b9f0-deee5281b531",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Geographic Advantages",
+      "id": "244c6f79-9a33-81c5-a026-ee072ded4e24",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Lower Mainland Concentration",
+      "id": "244c6f79-9a33-8190-b844-e50ceda88a31",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Research University Access",
+      "id": "244c6f79-9a33-8177-ba8b-f6a4a4788611",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Cross-Border Proximity",
+      "id": "244c6f79-9a33-812a-9d30-dcc5f06132b6",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "🎯 HIGH-IMPACT BUSINESS DEVELOPMENT OPPORTUNITIES",
+      "id": "244c6f79-9a33-8182-bd15-dde277b42dd3",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Investment Targeting Intelligence",
+      "id": "244c6f79-9a33-8153-a18a-f16c05a44c5b",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Strategic Acquisition Targets",
+      "id": "244c6f79-9a33-8102-b44c-cfbcdd4d5b49",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Technology Acqui-hires",
+      "id": "244c6f79-9a33-8186-993a-d2985d09c617",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Market Consolidation",
+      "id": "244c6f79-9a33-8146-ab16-db47597fec77",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "International Expansion",
+      "id": "244c6f79-9a33-8192-9bff-d91dab669a85",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Partnership Development Priorities",
+      "id": "244c6f79-9a33-8159-bdf7-c4e317de840d",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "High-Value Partnership Targets",
+      "id": "244c6f79-9a33-8151-8044-cfadbf9db1b5",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Enterprise AI Integration",
+      "id": "244c6f79-9a33-8119-a7bb-db9e0a426ed7",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Cross-Border Expansion",
+      "id": "244c6f79-9a33-8102-be8c-ce905292e038",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Talent Acquisition Intelligence",
+      "id": "244c6f79-9a33-818d-a51a-d2ea07708022",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Growth-Stage Executives",
+      "id": "244c6f79-9a33-81fb-9ccb-fefe3fc680a8",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Cross-Industry Expertise",
+      "id": "244c6f79-9a33-81c9-b508-fe7ac974a452",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "📊 DATA VERIFICATION & SOURCE ATTRIBUTION",
+      "id": "244c6f79-9a33-812f-8f6c-d4bca35a95d6",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Verification Levels",
+      "id": "244c6f79-9a33-81af-9ed7-ca4e6de6d02b",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Level 1 - Verified",
+      "id": "244c6f79-9a33-8153-85de-d3d6e7611b3e",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Level 2 - High Confidence",
+      "id": "244c6f79-9a33-81a6-9c18-f5cc9d26ed61",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Level 3 - Preliminary",
+      "id": "244c6f79-9a33-81a5-8506-e7edd02c10fa",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Data Sources",
+      "id": "244c6f79-9a33-8176-891e-dc7d51300f9b",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Primary Sources",
+      "id": "244c6f79-9a33-8133-b592-d967fc2eaa39",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Secondary Sources",
+      "id": "244c6f79-9a33-8112-bbe9-cdd7bbf98255",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Research Methods",
+      "id": "244c6f79-9a33-8103-a439-c54c6a2dddca",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Update Frequency Recommendations",
+      "id": "244c6f79-9a33-8156-8c79-d4ebca5659b4",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Funding Data",
+      "id": "244c6f79-9a33-8191-9bb6-cb1c40b1e1f3",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Executive Changes",
+      "id": "244c6f79-9a33-8113-b911-d24ccb28e29a",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Social Media Metrics",
+      "id": "244c6f79-9a33-810d-a046-c8f7bba338cb",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Partnership Activity",
+      "id": "244c6f79-9a33-81e0-8fca-f1d3d4cf42ab",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "🚀 IMMEDIATE ACTION ITEMS",
+      "id": "244c6f79-9a33-8118-aeb7-fbac56053c77",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Business Development Priorities",
+      "id": "244c6f79-9a33-8167-9d0a-c5d533d49118",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Series A Pipeline Development",
+      "id": "244c6f79-9a33-815c-8300-c96a965b1e75",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Strategic Partnership Mapping",
+      "id": "244c6f79-9a33-81ea-baad-ecf0c60fb935",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "International Expansion Support",
+      "id": "244c6f79-9a33-812e-aac8-f68960376045",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Due Diligence Database",
+      "id": "244c6f79-9a33-81a0-a002-e1dd62fd030f",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Competitive Landscape Mapping",
+      "id": "244c6f79-9a33-81b8-8866-cbdad9227e1b",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Investor Network Development",
+      "id": "244c6f79-9a33-81f6-9fed-c8bba84814dc",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Talent Acquisition Strategy",
+      "id": "244c6f79-9a33-8107-9fa0-c750d4e7b554",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Executive Search Database",
+      "id": "244c6f79-9a33-816e-89c0-fbbf3f236f58",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Technical Hiring Intelligence",
+      "id": "244c6f79-9a33-8116-a830-ee465d25bfb8",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Board Member Network",
+      "id": "244c6f79-9a33-81ce-9310-c759c27b9610",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "Cross-Company Mobility",
+      "id": "244c6f79-9a33-81ac-b88b-f0f89b8b619b",
+      "confidence": 0.8,
+      "source": "data/research/advanced-ecosystem-intelligence-2025-07-29.md"
+    },
+    {
+      "name": "LinkedIn Pages Discovered:",
+      "id": "244c6f79-9a33-8193-be0a-c3c9c51e7dde",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Total Followers Discovered:",
+      "id": "244c6f79-9a33-8118-9407-c2c52faf1171",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Notable Gaps:",
+      "id": "244c6f79-9a33-810c-bb39-db50fc6a39ee",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Coverage Improvement:",
+      "id": "244c6f79-9a33-8128-805b-f33ab064ecac",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "LinkedIn Strategy:",
+      "id": "244c6f79-9a33-81f2-a1a7-cec38266cc01",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Main Page:",
+      "id": "244c6f79-9a33-8113-bb97-c63f12afbcee",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Followers:",
+      "id": "244c6f79-9a33-81bb-be3e-cb81fc55979b",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Vancouver Presence:",
+      "id": "244c6f79-9a33-815a-9c9b-db0c8900002a",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Key Insight:",
+      "id": "244c6f79-9a33-8108-ada4-f59fba589976",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Notable Positions:",
+      "id": "244c6f79-9a33-810b-a825-e3a5984f39b9",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Related:",
+      "id": "244c6f79-9a33-8118-9e95-caaf8c5baec7",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Special Initiative:",
+      "id": "244c6f79-9a33-811c-9f14-f376468e5158",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Developer Circle URL:",
+      "id": "244c6f79-9a33-8149-a12b-dba8e379df4a",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Canadian Page:",
+      "id": "244c6f79-9a33-8119-9489-c17353d45df8",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Global Page:",
+      "id": "244c6f79-9a33-8165-a222-d576c9d6bd69",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Vancouver Office:",
+      "id": "244c6f79-9a33-819e-b102-dce6d643bd1c",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "🚀 Tier 2: High-Impact Startups & Scale-ups",
+      "id": "244c6f79-9a33-8145-a517-e054f94b7e1d",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "LinkedIn URL:",
+      "id": "244c6f79-9a33-81be-91d5-f73a00ca715f",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Industry:",
+      "id": "244c6f79-9a33-812f-88be-eee28377e264",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Description:",
+      "id": "244c6f79-9a33-816a-8157-c7cd1fa66030",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Recent Funding:",
+      "id": "244c6f79-9a33-81c1-8147-fc2c7909abd7",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Team Size:",
+      "id": "244c6f79-9a33-8112-b938-f92f2f2f38fa",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "CEO:",
+      "id": "244c6f79-9a33-810e-b819-c475ae6f2cb8",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Key Technology:",
+      "id": "244c6f79-9a33-81ca-8a18-ce905bbe7ee1",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Target Diseases:",
+      "id": "244c6f79-9a33-8136-8436-d4c47830e4b7",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Tagline:",
+      "id": "244c6f79-9a33-8179-9f40-ebc56376a168",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Headquarters:",
+      "id": "244c6f79-9a33-816a-8bb6-f5cefa64657d",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Company Size:",
+      "id": "244c6f79-9a33-81ba-af6c-ec1dcf34d0ca",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Global Presence:",
+      "id": "244c6f79-9a33-811b-b1a8-c9dfb50d3378",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Users:",
+      "id": "244c6f79-9a33-8117-8d4b-c70a9414d12d",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Founded:",
+      "id": "244c6f79-9a33-81cb-b67b-fdc6622bd246",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Platform Integration:",
+      "id": "244c6f79-9a33-81db-8972-e97c7d2b9599",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Recognition:",
+      "id": "244c6f79-9a33-8188-90d6-d378a845ed78",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Office Size:",
+      "id": "244c6f79-9a33-81e7-83a5-d97dda3ce519",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Annual Revenue:",
+      "id": "244c6f79-9a33-81c2-a1f7-d228994ea8ff",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Notable Products:",
+      "id": "244c6f79-9a33-81b8-873f-c88b1d0889c3",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Consumer Reach:",
+      "id": "244c6f79-9a33-8130-9304-d29c638d290f",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Technology Focus:",
+      "id": "244c6f79-9a33-8198-bcd8-eb1411d81cae",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Stock:",
+      "id": "244c6f79-9a33-81c7-ae85-f078c7e6f45d",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Vancouver Connection:",
+      "id": "244c6f79-9a33-81ae-8edc-c2d2466cd251",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Jobs:",
+      "id": "244c6f79-9a33-8105-8ee8-ed53d53d1573",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Key Personnel:",
+      "id": "244c6f79-9a33-8143-9c63-e1aa980c5c31",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "AI Factory:",
+      "id": "244c6f79-9a33-8190-9b45-d5ec77308023",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Expertise:",
+      "id": "244c6f79-9a33-8107-a7f4-ca957e35394e",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "🌱 Tier 3: Promising BC AI Startups",
+      "id": "244c6f79-9a33-8188-b110-cffb3cffa0ec",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Mission:",
+      "id": "244c6f79-9a33-81fa-a834-c0c3995c31d7",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Patents:",
+      "id": "244c6f79-9a33-810d-bc7b-f077e0db8acb",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Facilities:",
+      "id": "244c6f79-9a33-8178-a19e-de272ce438ca",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Notable Project:",
+      "id": "244c6f79-9a33-8135-9d99-e87b3e4df558",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Awards:",
+      "id": "244c6f79-9a33-81b9-b9a8-d7d0e28be178",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Certification:",
+      "id": "244c6f79-9a33-8105-9c1f-f13938049c51",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Ethical AI:",
+      "id": "244c6f79-9a33-8110-a53f-f23a88e1da21",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Recent Development:",
+      "id": "244c6f79-9a33-8113-aabd-d28769e54623",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Growth Metrics:",
+      "id": "244c6f79-9a33-810b-ad6f-fc1f1093ccd7",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Team Growth:",
+      "id": "244c6f79-9a33-810c-88e6-cd57dfaebee1",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Expansion:",
+      "id": "244c6f79-9a33-81f5-aba7-c3cd6ab35f71",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Key Customers:",
+      "id": "244c6f79-9a33-81cd-bcb8-fc6e859c1f86",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Technology:",
+      "id": "244c6f79-9a33-8164-bdea-e7ba98ca01b2",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Global Reach:",
+      "id": "244c6f79-9a33-81c5-895e-f50a72268a67",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Industries:",
+      "id": "244c6f79-9a33-81cf-b5fa-d815902a8287",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Recent Challenge:",
+      "id": "244c6f79-9a33-8185-b126-c4132eac9e28",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Key Technologies:",
+      "id": "244c6f79-9a33-8184-88ae-c5594516ada2",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Global Expansion:",
+      "id": "244c6f79-9a33-81fc-8e57-c841dc2fa63b",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Showcase Page:",
+      "id": "244c6f79-9a33-81a6-aa04-f75ca93713ca",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Additional Office:",
+      "id": "244c6f79-9a33-8181-94aa-ffd3c7db192c",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Funding:",
+      "id": "244c6f79-9a33-8173-8219-fb488cd4d393",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Compliance:",
+      "id": "244c6f79-9a33-81e9-9d19-eeb8f88d8afe",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Notable Customers:",
+      "id": "244c6f79-9a33-815d-bb21-eecb7066f8a1",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Platform:",
+      "id": "244c6f79-9a33-81d3-b062-ffaa4c8723e0",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "🎓 Academic & Research Institutions",
+      "id": "244c6f79-9a33-818a-a104-dc85b957fad6",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "UBC CAIDA (Centre for AI Decision-making and Action)",
+      "id": "244c6f79-9a33-8193-8977-db9be1029ff5",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Website:",
+      "id": "244c6f79-9a33-81d4-b0c6-e1287271a906",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "LinkedIn:",
+      "id": "244c6f79-9a33-8143-97af-d744783a7d4f",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Student Organization:",
+      "id": "244c6f79-9a33-811c-9996-c475e15267ae",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Faculty Size:",
+      "id": "244c6f79-9a33-81db-b050-de9a5c32799d",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Focus:",
+      "id": "244c6f79-9a33-8185-b7f1-fafb2159ca8a",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Research Areas:",
+      "id": "244c6f79-9a33-8150-a7ba-fc6f49232e96",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Key Initiatives:",
+      "id": "244c6f79-9a33-81dd-8b3b-f7490a658633",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Industry Relations:",
+      "id": "244c6f79-9a33-8179-b9f6-fb6ced759148",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "SFU Trustworthy AI Lab",
+      "id": "244c6f79-9a33-81cf-ad0d-d57ff4e80d8e",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Location:",
+      "id": "244c6f79-9a33-8144-b33f-d338eded259f",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Associated Labs:",
+      "id": "244c6f79-9a33-811f-ad6c-e07ea848f689",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Related LinkedIn:",
+      "id": "244c6f79-9a33-8117-8d64-f851352abf30",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Research Focus:",
+      "id": "244c6f79-9a33-8155-99b8-ce68d6b9dc95",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Notable:",
+      "id": "244c6f79-9a33-81be-807e-ebd6f6d716c1",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "VIATEC (Victoria Innovation, Advanced Technology & Entrepreneurship Council)",
+      "id": "244c6f79-9a33-8158-87bd-e06d293d6a33",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Industry Impact:",
+      "id": "244c6f79-9a33-81b1-b2c9-f4052515928c",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Employment:",
+      "id": "244c6f79-9a33-811a-bfde-f483411f87de",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "AI Meetups:",
+      "id": "244c6f79-9a33-810e-bf6b-c71cd645c8b0",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Next Event:",
+      "id": "244c6f79-9a33-81bb-a3a4-faad484e711e",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Organizers:",
+      "id": "244c6f79-9a33-8186-a9a1-f2d264dd7d4b",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Services:",
+      "id": "244c6f79-9a33-81f7-9f2f-c28d37fe4df7",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Current State Assessment",
+      "id": "244c6f79-9a33-8191-8903-c5300f55bdfc",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Global vs. Local Pages",
+      "id": "244c6f79-9a33-817f-ab0c-dddbb3254756",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Startups & Scale-ups:",
+      "id": "244c6f79-9a33-815c-944d-ee90d8ca2472",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Academic Institutions:",
+      "id": "244c6f79-9a33-8193-911e-d8dbf1121059",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Follower Distribution",
+      "id": "244c6f79-9a33-81d1-89aa-ed61dbb811fa",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Largest Following:",
+      "id": "244c6f79-9a33-8167-a5b0-e9d0a095162c",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Strong Startup Presence:",
+      "id": "244c6f79-9a33-81ea-bf0a-dcae55e730d5",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Content Quality Patterns",
+      "id": "244c6f79-9a33-81ad-b325-c655fce712e0",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Enterprise:",
+      "id": "244c6f79-9a33-8131-a567-f6c3df181107",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Startups:",
+      "id": "244c6f79-9a33-817f-8cca-ed6c3187d2ec",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Research:",
+      "id": "244c6f79-9a33-81f1-82ec-cd41e7adb2ef",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "🎯 Data Enhancement Opportunities",
+      "id": "244c6f79-9a33-810a-aa5a-d8ad21b577c1",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Immediate Database Updates",
+      "id": "244c6f79-9a33-8111-a563-c1022b3c8758",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "SAP Canada:",
+      "id": "244c6f79-9a33-8113-b432-fb134a5a936f",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Meta Developer Circle Vancouver:",
+      "id": "244c6f79-9a33-81b2-8223-ff3578a7e217",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Additional Metadata Available",
+      "id": "244c6f79-9a33-811e-ac17-e52dfe372ef6",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Employee Counts:",
+      "id": "244c6f79-9a33-8196-bce9-e4d1d414ccdd",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Founding Dates:",
+      "id": "244c6f79-9a33-81a1-99b4-d0e5cde793fa",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Funding Information:",
+      "id": "244c6f79-9a33-8116-91ab-ffa16662c53a",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Office Addresses:",
+      "id": "244c6f79-9a33-8121-b851-cbeaff9475c6",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Follow-up Research Needed",
+      "id": "244c6f79-9a33-819c-a50b-ca6cb85bc7fe",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Investment Firms:",
+      "id": "244c6f79-9a33-8195-b1ac-f1ed6d45bbfd",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "📊 Impact Assessment",
+      "id": "244c6f79-9a33-818a-b328-fa10fe08faea",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Before Research:",
+      "id": "244c6f79-9a33-817d-9012-eb1006d48ffe",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "After Research:",
+      "id": "244c6f79-9a33-817f-884d-e8f45e234a7e",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Net Improvement:",
+      "id": "244c6f79-9a33-814b-a60d-f34a37682782",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Data Quality Enhancement",
+      "id": "244c6f79-9a33-81b9-966c-e9298563955e",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Follower Count Data:",
+      "id": "244c6f79-9a33-81b8-8d0c-f38b3b99c3e6",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Company Descriptions:",
+      "id": "244c6f79-9a33-8170-839a-f26659f6dff2",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Team Size Information:",
+      "id": "244c6f79-9a33-81fd-ad34-c3218e76fb03",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Geographic Verification:",
+      "id": "244c6f79-9a33-8139-a91d-e3911a71fc62",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Recent Activity:",
+      "id": "244c6f79-9a33-81ed-9526-ebaac3d1dc48",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Ecosystem Understanding",
+      "id": "244c6f79-9a33-81a2-8604-c0fd514941f0",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Major Players:",
+      "id": "244c6f79-9a33-8149-9678-cd4d29576c3b",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Research Connections:",
+      "id": "244c6f79-9a33-81b4-b9c7-d0dbff6a0fcd",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Investment Landscape:",
+      "id": "244c6f79-9a33-818f-8388-fdf3e8b67114",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "🤝 Recommendations",
+      "id": "244c6f79-9a33-81d9-8def-e947ed958146",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "For Database Enhancement",
+      "id": "244c6f79-9a33-8117-8a3d-d24843133862",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Immediate Import:",
+      "id": "244c6f79-9a33-811c-84e8-f94aafa8593e",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Regular Monitoring:",
+      "id": "244c6f79-9a33-816e-9d06-e81b5349a431",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Engagement Tracking:",
+      "id": "244c6f79-9a33-8175-842c-db61a7e84ec7",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Connection Mapping:",
+      "id": "244c6f79-9a33-8115-aa73-ccc7f4802063",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "For Community Building",
+      "id": "244c6f79-9a33-8159-ab1b-d510fa2be7c3",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "LinkedIn Groups:",
+      "id": "244c6f79-9a33-8118-aaad-c07d76a374bb",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Content Strategy:",
+      "id": "244c6f79-9a33-8135-9963-c4738696e423",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Event Promotion:",
+      "id": "244c6f79-9a33-8162-a808-d48b49b7908a",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Talent Pipeline:",
+      "id": "244c6f79-9a33-81c0-9ef8-e96b183c6523",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "For Strategic Planning",
+      "id": "244c6f79-9a33-819f-a6d3-d4d684024f9b",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Investment Targeting:",
+      "id": "244c6f79-9a33-818f-bbe0-c55f0c90df30",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Partnership Opportunities:",
+      "id": "244c6f79-9a33-8151-b963-fba1a7239c58",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Competitive Intelligence:",
+      "id": "244c6f79-9a33-812b-ae3c-cfdbc9616d9a",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Market Positioning:",
+      "id": "244c6f79-9a33-815a-86f2-e5a29efdb234",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "📝 Research Methodology",
+      "id": "244c6f79-9a33-810c-9978-c4911edab05a",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Search Strategy",
+      "id": "244c6f79-9a33-810a-851d-e5c3699ce70d",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Primary:",
+      "id": "244c6f79-9a33-815e-9ac7-debf59c7aa19",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Secondary:",
+      "id": "244c6f79-9a33-8113-87cd-e83605fd024b",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Verification:",
+      "id": "244c6f79-9a33-81b0-87db-ed3a005e4986",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Quality Control:",
+      "id": "244c6f79-9a33-817d-b55b-e5ed4e561265",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Limitations",
+      "id": "244c6f79-9a33-811e-a465-c48764afb917",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Access Restrictions:",
+      "id": "244c6f79-9a33-8106-83f8-c7b87a162438",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Dynamic Content:",
+      "id": "244c6f79-9a33-8130-8a3c-f13de47deecd",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Coverage Gaps:",
+      "id": "244c6f79-9a33-8128-a963-c9945a666d50",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Regional Focus:",
+      "id": "244c6f79-9a33-8146-942d-e898a2fa6e4b",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "🎯 Success Metrics Achievement",
+      "id": "244c6f79-9a33-81f9-8d95-efa85f1e68a6",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Original Goals vs. Results",
+      "id": "244c6f79-9a33-81c0-bd62-dc5d06c914f7",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Target:",
+      "id": "244c6f79-9a33-81e4-bc4c-e3938b3f4eed",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Achievement:",
+      "id": "244c6f79-9a33-814d-9d6c-e0433a02a0b5",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Quality:",
+      "id": "244c6f79-9a33-818b-851e-d55f639f742c",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Scope:",
+      "id": "244c6f79-9a33-81f5-a13b-f1097852287c",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Additional Value Delivered",
+      "id": "244c6f79-9a33-81cf-88ea-edb7f1e31c09",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Ecosystem Mapping:",
+      "id": "244c6f79-9a33-8179-b753-fcefaf93ee7b",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Talent Intelligence:",
+      "id": "244c6f79-9a33-8125-8aff-d668bc835c96",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Key Contacts for Follow-up:",
+      "id": "244c6f79-9a33-81d6-b550-e314430a5ed0",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Database Administrator:",
+      "id": "244c6f79-9a33-81f1-abbb-f4bb396634ff",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Marketing Team:",
+      "id": "244c6f79-9a33-8128-a91e-f167d2573033",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Research Team:",
+      "id": "244c6f79-9a33-8193-8c7b-c0212f76d11a",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "Community Manager:",
+      "id": "244c6f79-9a33-81c1-b667-dee1a6e1269c",
+      "confidence": 0.8,
+      "source": "data/research/linkedin-research-comprehensive-2025-07-29.md"
+    },
+    {
+      "name": "📊 Aggregate Financial Metrics",
+      "id": "244c6f79-9a33-81c1-a3df-f3ad976e5d1b",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Funding Performance",
+      "id": "244c6f79-9a33-81b4-a0d2-d1ebfdd862fb",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Total Raised",
+      "id": "244c6f79-9a33-81c1-9b53-f3ced32a0d12",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Average Funding",
+      "id": "244c6f79-9a33-8127-bc3a-d5579ab580b6",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Funding Range",
+      "id": "244c6f79-9a33-81a0-9803-e9002bb65f7a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Funding Velocity",
+      "id": "244c6f79-9a33-81be-8a0f-f3e137ba336a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Revenue Traction (Early Stage)",
+      "id": "244c6f79-9a33-81f9-b223-f617660705ad",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Total Revenue",
+      "id": "244c6f79-9a33-81a3-a20b-efc15e8e05e4",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Average Revenue",
+      "id": "244c6f79-9a33-81d5-a6d3-c85563041608",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Revenue Range",
+      "id": "244c6f79-9a33-813b-b6b4-c623ecf8688d",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Employment & Team Building",
+      "id": "244c6f79-9a33-8156-99be-fc853e96c561",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Total Employees",
+      "id": "244c6f79-9a33-8128-aef9-c0e8b25c0b07",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Average Team Size",
+      "id": "244c6f79-9a33-81f7-860f-cdfe83752d1c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Team Range",
+      "id": "244c6f79-9a33-8158-ad11-c5426a94760b",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Hiring Velocity",
+      "id": "244c6f79-9a33-8106-a498-fb27031bc688",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Gaming",
+      "id": "244c6f79-9a33-81fd-a193-ff709fe797f6",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "PropTech",
+      "id": "244c6f79-9a33-8118-a1cb-e2f0515cf788",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "EdTech",
+      "id": "244c6f79-9a33-8151-a248-d3468f621a8d",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Aerospace",
+      "id": "244c6f79-9a33-81bc-9325-cfee759a3040",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "AgTech",
+      "id": "244c6f79-9a33-8177-adf4-d203b4a09fac",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Cybersecurity",
+      "id": "244c6f79-9a33-811e-971e-c5907b12512a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Creator Economy",
+      "id": "244c6f79-9a33-8117-9bac-f06eebc9f33a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Marine Robotics",
+      "id": "244c6f79-9a33-814d-9a48-dd097160d4a1",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Talent Sources & Pedigree",
+      "id": "244c6f79-9a33-8146-91ac-f4cbfb54290c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Google/Alphabet",
+      "id": "244c6f79-9a33-81a7-926b-c7a3d0ea3788",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Microsoft",
+      "id": "244c6f79-9a33-81fc-831b-d2b22f084e74",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Tesla/Energy",
+      "id": "244c6f79-9a33-8121-b3c5-e5e6bc499883",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "PayPal/Stripe",
+      "id": "244c6f79-9a33-81e6-806c-f05aa8a10bc6",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "BC Tech Alumni",
+      "id": "244c6f79-9a33-8126-b0ba-e0fcedd1e47c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "UBC",
+      "id": "244c6f79-9a33-814d-ae83-dc885bb67492",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Academic Backgrounds",
+      "id": "244c6f79-9a33-81c9-a547-fe0d6d255a13",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Average Founder Age",
+      "id": "244c6f79-9a33-814a-9551-e949e2078c05",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Previous Startup Experience",
+      "id": "244c6f79-9a33-818c-81b1-eb096a400230",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Domain Expertise",
+      "id": "244c6f79-9a33-81f6-bf42-e6968db86c79",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Leadership Diversity",
+      "id": "244c6f79-9a33-811e-9d1c-ea142dfd0567",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Women CEOs",
+      "id": "244c6f79-9a33-818a-9e2b-e15af4f3da3d",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "International Backgrounds",
+      "id": "244c6f79-9a33-8177-b272-d40eaeca958e",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Technical Founders",
+      "id": "244c6f79-9a33-8139-ac11-dfb31a6eb79c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "💰 Investment Ecosystem Participation",
+      "id": "244c6f79-9a33-81cd-b2c6-c8ccae628f11",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Lead Investors by Type",
+      "id": "244c6f79-9a33-813b-8b15-fdada9d3d44c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Multi-stage investors",
+      "id": "244c6f79-9a33-8103-9e62-cb0c0cbda0f8",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Sector specialists",
+      "id": "244c6f79-9a33-8131-86d1-f89a4c499dbe",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Alumni networks",
+      "id": "244c6f79-9a33-8185-8a6a-da2fea5ec326",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "🚀 Early Traction & Performance Indicators",
+      "id": "244c6f79-9a33-8164-ace3-ec35f73eb815",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Customer Acquisition (Within 6 months)",
+      "id": "244c6f79-9a33-8123-9b40-eebe88f407f8",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "B2B Enterprise",
+      "id": "244c6f79-9a33-8106-a433-e5bb2a0a97b9",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Revenue Generation",
+      "id": "244c6f79-9a33-81fa-a3fc-f27f9de7bd7a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Partnership Deals",
+      "id": "244c6f79-9a33-8171-967d-e3d1db51ee63",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Product-Market Fit Signals",
+      "id": "244c6f79-9a33-8172-b44f-e1f097807831",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Geographic Market Penetration",
+      "id": "244c6f79-9a33-81b1-97ba-d66fd5fc212a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "BC Market",
+      "id": "244c6f79-9a33-8176-99ca-c3978afbb962",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Canadian Expansion",
+      "id": "244c6f79-9a33-8157-aa6a-d84e8370afa4",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "US Market",
+      "id": "244c6f79-9a33-8142-a5ca-f013f039f35b",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "International",
+      "id": "244c6f79-9a33-8118-aba8-f9e4ba5930d9",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Technology Sophistication",
+      "id": "244c6f79-9a33-8155-87f6-ee540e501947",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "AI/ML Integration",
+      "id": "244c6f79-9a33-81fa-b4c8-cadb30cbb086",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Quantum Applications",
+      "id": "244c6f79-9a33-816d-9244-fbb7b84ee2f5",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Blockchain/Web3",
+      "id": "244c6f79-9a33-8170-84ef-ffba62ae1133",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "IoT/Sensors",
+      "id": "244c6f79-9a33-81a2-ae67-d020aa54a53b",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Patent Applications",
+      "id": "244c6f79-9a33-813d-8e26-ebd95bc61a9e",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "University Partnerships",
+      "id": "244c6f79-9a33-8153-81f6-ffa813725566",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Competitive Differentiation",
+      "id": "244c6f79-9a33-81b5-8a2f-c80863a97869",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "🌍 Global Competitiveness",
+      "id": "244c6f79-9a33-8110-bd71-da1c86c50630",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "International Expansion Plans",
+      "id": "244c6f79-9a33-813d-afcd-ccddc6003a13",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Year 1",
+      "id": "244c6f79-9a33-8131-99c1-e4aed51f15bc",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Year 2",
+      "id": "244c6f79-9a33-813d-97c3-de32fe126869",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Year 3",
+      "id": "244c6f79-9a33-8127-bf9e-f97f3550b00c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Strategic Partnerships",
+      "id": "244c6f79-9a33-81f1-9a94-ef87bbeadf00",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Competitive Positioning",
+      "id": "244c6f79-9a33-8190-a13c-f58399b99d8e",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "📈 Growth Projections & Trajectories",
+      "id": "244c6f79-9a33-81c0-be63-e1ead82258c0",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Next 12 Months (2025-2026)",
+      "id": "244c6f79-9a33-81bd-b999-e0831a7aacbe",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Long-term Potential (2027-2030)",
+      "id": "244c6f79-9a33-8168-ab98-f763b33f649a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "🎯 Strategic Implications for BC Ecosystem",
+      "id": "244c6f79-9a33-818b-b28f-db52136330c7",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Ecosystem Maturity Indicators",
+      "id": "244c6f79-9a33-8167-975d-dabba96d04ac",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Sector Leadership Reinforcement",
+      "id": "244c6f79-9a33-812d-8bfd-c114d99ae501",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Investment Ecosystem Evolution",
+      "id": "244c6f79-9a33-81cb-8677-f1673666e96c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "For Ecosystem Development",
+      "id": "244c6f79-9a33-81ca-913c-d94d3757f9c9",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Facilitate introductions",
+      "id": "244c6f79-9a33-8184-9a5d-dfe987e4b446",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Support international expansion",
+      "id": "244c6f79-9a33-811c-a903-c516cd586f5f",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Provide growth capital",
+      "id": "244c6f79-9a33-81e8-b896-d4a2b1381a50",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Increase R&D support",
+      "id": "244c6f79-9a33-81b5-90d7-fe79ef9e5fbb",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Facilitate procurement pilots",
+      "id": "244c6f79-9a33-81ef-abad-d0fe936a8f0d",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Support international business development",
+      "id": "244c6f79-9a33-81e3-b4a2-c5ef883ead6d",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "For Investors",
+      "id": "244c6f79-9a33-8152-81c3-f6305e5e2cc9",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Consider sector-focused funds",
+      "id": "244c6f79-9a33-819a-904a-ff426217068e",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Develop international syndication",
+      "id": "244c6f79-9a33-8173-8548-e168e06a42fb",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Provide operational support",
+      "id": "244c6f79-9a33-81fc-950b-eaa8fac9bd41",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "🏁 Conclusion",
+      "id": "244c6f79-9a33-8199-8810-cac3ab2b1b5d",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "$186M raised",
+      "id": "244c6f79-9a33-8132-9758-fd669e772146",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "85% revenue generation",
+      "id": "244c6f79-9a33-8162-8adf-f1f5e093c22a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "World-class founding teams",
+      "id": "244c6f79-9a33-817c-bbfc-f2c22fc1dea2",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Advanced technology applications",
+      "id": "244c6f79-9a33-81e3-b4b5-d472c4569ea3",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Strong early customer traction",
+      "id": "244c6f79-9a33-81f4-8504-f7d6e0406698",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Attracting international venture capital",
+      "id": "244c6f79-9a33-81d3-9f56-e7325b2a8554",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Commercializing university research",
+      "id": "244c6f79-9a33-814f-ac0e-d0dffb3b9b97",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Leveraging sector leadership",
+      "id": "244c6f79-9a33-81af-a524-d102b397233e",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "Producing experienced entrepreneurs",
+      "id": "244c6f79-9a33-8153-9500-d9c327d76696",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_ANALYSIS.md"
+    },
+    {
+      "name": "$795M+ total funding raised",
+      "id": "244c6f79-9a33-8131-aa6d-fa91bd8f57b2",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "8,500+ jobs created",
+      "id": "244c6f79-9a33-812a-bd81-e7f9f0486034",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Strong CleanTech focus",
+      "id": "244c6f79-9a33-8175-83ab-e894455d5853",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Company Profiles",
+      "id": "244c6f79-9a33-815a-b81f-efd5e6e253fa",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "1. Digital Technology Supercluster",
+      "id": "244c6f79-9a33-81aa-beef-d0dbe931d7b6",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Category",
+      "id": "244c6f79-9a33-813f-8b53-cd857411188f",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Total Funding",
+      "id": "244c6f79-9a33-8124-9406-e1d422a523b2",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Impact",
+      "id": "244c6f79-9a33-815d-a822-e5632d89855e",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Key Achievement",
+      "id": "244c6f79-9a33-815b-9824-da7c950094bc",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "2. Phaidra (Potential Unicorn)",
+      "id": "244c6f79-9a33-8180-8a43-e826280fbdfe",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Founded by",
+      "id": "244c6f79-9a33-8170-b1f4-e63e8da00401",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Key Investors",
+      "id": "244c6f79-9a33-815a-aaa8-e660c373fab0",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Traction",
+      "id": "244c6f79-9a33-814b-b07f-f11a021ffda2",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Exit Potential",
+      "id": "244c6f79-9a33-811e-b760-c71a67fe833d",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "3. Mangrove Lithium (Strategic Investment Target)",
+      "id": "244c6f79-9a33-81a4-9d7c-fd9f95e1cb9a",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "4. Ekona Power (Hydrogen Economy Play)",
+      "id": "244c6f79-9a33-818f-b7c6-d2e0f8a6d10d",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Series A",
+      "id": "244c6f79-9a33-817a-a810-d7216a1646fe",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "5. Beatdapp Software",
+      "id": "244c6f79-9a33-8110-abea-f18978459148",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "6. Hugo Inc",
+      "id": "244c6f79-9a33-8116-88a0-d2fd6b534818",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Growth",
+      "id": "244c6f79-9a33-8183-8a7d-f2fcc439aa7c",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "7. Origen Air",
+      "id": "244c6f79-9a33-81e4-8321-eca3f211ee6a",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "COVID Impact",
+      "id": "244c6f79-9a33-8161-a197-cd05a45e299e",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "8. Quantum Algorithms Institute",
+      "id": "244c6f79-9a33-81cb-9919-ec4b2f5c5ecd",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Partnerships",
+      "id": "244c6f79-9a33-8127-a21f-cf220109eba4",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "9. Aqua Intelligent",
+      "id": "244c6f79-9a33-81bf-89eb-ed74d1eaa207",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Stage",
+      "id": "244c6f79-9a33-813e-bc03-e01c120b5673",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "10. Growlyn",
+      "id": "244c6f79-9a33-8184-8d65-ca2d9f49dda7",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Products",
+      "id": "244c6f79-9a33-81a9-bfc0-ca6843b6044c",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "11. PacifiCan AI Initiative",
+      "id": "244c6f79-9a33-814f-8f66-daab92b04511",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Vancouver",
+      "id": "244c6f79-9a33-813d-abd7-e24d322c4e04",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Burnaby",
+      "id": "244c6f79-9a33-819b-ae2d-fc8d2dd315f2",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Victoria",
+      "id": "244c6f79-9a33-815b-aff8-d06a9856c514",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Regional/Provincial",
+      "id": "244c6f79-9a33-81ff-85c3-f73476dc5837",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Exit Readiness Assessment",
+      "id": "244c6f79-9a33-81fd-b7c0-d7e2cc857649",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Key Success Factors",
+      "id": "244c6f79-9a33-8170-aead-d05370bbee8f",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "1. Pre-COVID Foundation Advantage",
+      "id": "244c6f79-9a33-81c8-8a21-ee889debba02",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "2. Strategic Investor Attraction",
+      "id": "244c6f79-9a33-81df-8e52-c41284de4e5f",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "4. University Spin-outs",
+      "id": "244c6f79-9a33-8179-bf83-e3270411cf57",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Investment Trends",
+      "id": "244c6f79-9a33-8173-ace9-ebf0d937937c",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Funding Progression (2019-2025)",
+      "id": "244c6f79-9a33-8119-804a-caeb170b5296",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "2019-2020",
+      "id": "244c6f79-9a33-81f7-b87f-d96254e01428",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "2021-2022",
+      "id": "244c6f79-9a33-812b-8082-c22ae2ce1bac",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "2023-2024",
+      "id": "244c6f79-9a33-8157-9ce5-d4a1c14e767e",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "2025",
+      "id": "244c6f79-9a33-8122-bf35-d53645232900",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Notable Investors",
+      "id": "244c6f79-9a33-8165-a5e4-c3c61b402ada",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Market Opportunities",
+      "id": "244c6f79-9a33-81f0-b316-dda2eee6ffe4",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "1. CleanTech Leadership",
+      "id": "244c6f79-9a33-81d4-88c1-ce39cc22ca09",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "2. Industrial AI Applications",
+      "id": "244c6f79-9a33-81d7-95a7-c629275484d0",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "3. Blockchain Innovation",
+      "id": "244c6f79-9a33-81bf-b058-eabd36f3ea13",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Recommendations for Database Integration",
+      "id": "244c6f79-9a33-8163-8970-fc253c8f531d",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "High Priority Additions",
+      "id": "244c6f79-9a33-813e-8b4c-d89e89d4f5b6",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Data Verification Needed",
+      "id": "244c6f79-9a33-8170-b752-e6e648f54a08",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "Database Fields to Populate",
+      "id": "244c6f79-9a33-81ab-8173-c1e6f1e372da",
+      "confidence": 0.8,
+      "source": "data/research/2019_FOUNDED_BC_TECH_COMPANIES_REPORT.md"
+    },
+    {
+      "name": "🎯 Mission Accomplished",
+      "id": "244c6f79-9a33-81cc-b5d1-db206a6845d4",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "💰 Financial Intelligence Added",
+      "id": "244c6f79-9a33-8150-ba4c-de2da7b64849",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Aggregate Metrics Now in Database",
+      "id": "244c6f79-9a33-81dc-933a-d18ca0bce66f",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Revenue Generating",
+      "id": "244c6f79-9a33-8117-b43b-de9f64bad527",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Financial Data Fields Populated",
+      "id": "244c6f79-9a33-8159-8106-c9bf51015fc4",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Funding Details",
+      "id": "244c6f79-9a33-81c6-abb5-f4cbaa3520fe",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Revenue Metrics",
+      "id": "244c6f79-9a33-81a5-94c5-efe03ff5d3ba",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "People Intelligence",
+      "id": "244c6f79-9a33-8158-a265-c5f7660d5574",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Market Traction",
+      "id": "244c6f79-9a33-810c-853d-f971280d7bda",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "🎯 Data Quality & Verification",
+      "id": "244c6f79-9a33-8184-a1f8-c67a3dd52974",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Source Documentation",
+      "id": "244c6f79-9a33-8105-b593-f162d359a14d",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Financial Sources",
+      "id": "244c6f79-9a33-8154-8880-d5dfe7aa8599",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "People Data",
+      "id": "244c6f79-9a33-810e-baa6-cc0ba68ce2d7",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Market Data",
+      "id": "244c6f79-9a33-81af-86dc-d0266a92060d",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Verification Standards",
+      "id": "244c6f79-9a33-81f6-81e1-c62976d16007",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "High Confidence",
+      "id": "244c6f79-9a33-81ae-9fb3-cc324c0982a9",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Medium Confidence",
+      "id": "244c6f79-9a33-81e1-b214-f953d10e1f04",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Cross-Referenced",
+      "id": "244c6f79-9a33-8113-b134-fad939a4cb0c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Date Stamped",
+      "id": "244c6f79-9a33-8190-9d77-fdbc2730a729",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "🚀 Strategic Impact",
+      "id": "244c6f79-9a33-81fa-9107-da637386b6bf",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Ecosystem Enhancement",
+      "id": "244c6f79-9a33-819d-bb10-ee1a11e1364f",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Coverage Expansion",
+      "id": "244c6f79-9a33-81ec-952c-e7119b63d5ab",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Financial Intelligence",
+      "id": "244c6f79-9a33-818d-beba-e843bb8ee7c3",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Talent Mapping",
+      "id": "244c6f79-9a33-8142-bab8-c79f39f038fc",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Investor Tracking",
+      "id": "244c6f79-9a33-8168-9d39-e13889a94789",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Sector Strengthening",
+      "id": "244c6f79-9a33-8154-8b9d-fa707c600cfc",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "AI/ML Applications",
+      "id": "244c6f79-9a33-812d-b7a8-d020a1b4504a",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "CleanTech Innovation",
+      "id": "244c6f79-9a33-81f6-936e-d6888381a96e",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Biotech/Life Sciences",
+      "id": "244c6f79-9a33-81dd-9a63-f8d00097efa4",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Emerging Sectors",
+      "id": "244c6f79-9a33-814a-a93a-c00f84510dd0",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "📈 Database Metrics Update",
+      "id": "244c6f79-9a33-8178-9c93-d0e35f12f1cd",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Before Addition",
+      "id": "244c6f79-9a33-81a1-8481-ef1efb248a60",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "After Addition",
+      "id": "244c6f79-9a33-8159-8bf0-c571a6a8fb8e",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "🔍 Next Steps Available",
+      "id": "244c6f79-9a33-81d5-a6f3-f239e9de31bb",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Monitor funding announcements",
+      "id": "244c6f79-9a33-81c3-becb-dcdde13c6399",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Track exits and acquisitions",
+      "id": "244c6f79-9a33-812e-a705-df1fafd5be17",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Deep dive specific sectors",
+      "id": "244c6f79-9a33-814e-a271-cef5d7a0c749",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "📋 Technical Implementation",
+      "id": "244c6f79-9a33-8195-bf34-fcf625918d3c",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Tools Created/Used",
+      "id": "244c6f79-9a33-81a3-94c2-ce1ac8b12283",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "batch-15-formatted.json",
+      "id": "244c6f79-9a33-8164-9921-dbe5a83d73df",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Database Fields Populated",
+      "id": "244c6f79-9a33-8137-aa2a-ce80fc58323f",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Name",
+      "id": "244c6f79-9a33-8105-bb86-ff20e744feea",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Year Founded",
+      "id": "244c6f79-9a33-81ee-9b52-fd1e9e6fd6c1",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Revenue",
+      "id": "244c6f79-9a33-8170-8c0f-df1fc0ad4999",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Valuation",
+      "id": "244c6f79-9a33-818f-9049-f86a7914a581",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Employee Count",
+      "id": "244c6f79-9a33-8136-b835-ef9ce07b1feb",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Key People",
+      "id": "244c6f79-9a33-8106-8a84-f520171456fc",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    },
+    {
+      "name": "Last Verified",
+      "id": "244c6f79-9a33-8109-a4ea-e6126a058cb0",
+      "confidence": 0.8,
+      "source": "data/research/2025_FOUNDED_COMPANIES_DATABASE_ADDITIONS.md"
+    }
+  ]
+}

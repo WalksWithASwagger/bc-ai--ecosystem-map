@@ -1,0 +1,178 @@
+{
+  "newCompaniesEnhancementPlan": {
+    "researchId": "2025-01-30-new-companies-deep-dive",
+    "date": "2025-01-30",
+    "focus": "Deep funding and people research for newly added notable companies",
+    "priorityCompanies": [
+      {
+        "name": "General Fusion",
+        "id": "240c6f79-9a33-8162-b62f-cdf2fd4815eb",
+        "priority": "HIGHEST",
+        "rationale": "Jeff Bezos backing, fusion energy breakthrough, $400M+ UK project",
+        "researchTargets": {
+          "funding": [
+            "Total funding raised across all rounds",
+            "Jeff Bezos investment amount and date",
+            "Government funding (Canada, UK)",
+            "Strategic investors and corporate partnerships",
+            "Valuation progression over time"
+          ],
+          "keyPeople": [
+            "Christofer Mowry - CEO background and experience",
+            "Michel Laberge - Founder story and technical background",
+            "Board of directors and advisors",
+            "Key technical leadership team",
+            "Jeff Bezos involvement level"
+          ],
+          "businessIntel": [
+            "UK demonstration plant details and timeline",
+            "Commercial partnerships and customers",
+            "Technical milestones and achievements",
+            "Competitive position vs other fusion companies",
+            "Revenue model and path to commercialization"
+          ]
+        }
+      },
+      {
+        "name": "STEMCELL Technologies",
+        "id": "240c6f79-9a33-817d-898f-fc94ede14e55",
+        "priority": "HIGHEST",
+        "rationale": "Largest private biotech in Canada, 2000+ employees, $500M+ revenue",
+        "researchTargets": {
+          "funding": [
+            "Private funding history (founder-owned vs external)",
+            "Revenue figures and growth trajectory",
+            "Government R&D funding and grants",
+            "International expansion funding",
+            "M&A activity and acquisition offers"
+          ],
+          "keyPeople": [
+            "Dr. Allen Eaves - detailed background, Order of Canada citation",
+            "Dr. Sharon Louis - career progression and achievements",
+            "Scientific advisory board and key researchers",
+            "International leadership team",
+            "Succession planning and next generation leadership"
+          ]
+        }
+      },
+      {
+        "name": "Traction on Demand",
+        "id": "240c6f79-9a33-817d-9849-e58177aa0b05",
+        "priority": "HIGH",
+        "rationale": "$350M+ revenue, 2000+ employees, largest Salesforce partner",
+        "researchTargets": {
+          "funding": [
+            "Private equity or VC funding history",
+            "Revenue growth trajectory to $350M+",
+            "Acquisition offers and M&A interest",
+            "Salesforce partnership value and terms",
+            "International expansion funding"
+          ],
+          "keyPeople": [
+            "Greg Malpass - founder journey from age 23",
+            "Susan Robertson - COO background and role",
+            "Mark Schmulen - CTO technical leadership",
+            "Regional managing directors",
+            "Key client relationship managers"
+          ]
+        }
+      },
+      {
+        "name": "Procurify",
+        "id": "240c6f79-9a33-81e4-b5e4-d3e039632bec", 
+        "priority": "HIGH",
+        "rationale": "Forbes 30 Under 30 founder, 100% YoY growth",
+        "researchTargets": {
+          "funding": [
+            "Series A, B, C funding rounds and amounts",
+            "Investor roster and lead investors",
+            "Valuation progression and growth metrics",
+            "Revenue run rate and growth trajectory",
+            "Path to unicorn status or IPO"
+          ],
+          "keyPeople": [
+            "David Louie - promotion to CEO, background",
+            "Aman Mann - Forbes 30 Under 30 story and achievements",
+            "Andrew Louie - co-founder role and background",
+            "Key engineering and product leadership",
+            "Board composition and advisors"
+          ]
+        }
+      },
+      {
+        "name": "Appnovation",
+        "id": "240c6f79-9a33-8150-a237-c55332a2d061",
+        "priority": "HIGH", 
+        "rationale": "800+ employees, acquired 2023, EY Entrepreneur winner",
+        "researchTargets": {
+          "funding": [
+            "Acquisition details - buyer, amount, terms",
+            "Pre-acquisition funding history",
+            "Revenue at time of acquisition",
+            "Growth trajectory and expansion funding",
+            "Post-acquisition integration and growth"
+          ],
+          "keyPeople": [
+            "Arnold Leung - EY Entrepreneur of the Year details",
+            "Leadership team retention post-acquisition",
+            "Key technical and business development leaders",
+            "Regional office leadership",
+            "Integration with acquiring company leadership"
+          ]
+        }
+      },
+      {
+        "name": "Riverlane",
+        "id": "240c6f79-9a33-812e-afb8-e60854815e73",
+        "priority": "MEDIUM",
+        "rationale": "Quantum error correction, Cambridge partnership",
+        "researchTargets": {
+          "funding": [
+            "Series A funding amount and lead investors",
+            "Research grants and academic funding",
+            "Strategic partnerships and corporate investment",
+            "Quantum computing industry positioning",
+            "Competition with other quantum software companies"
+          ],
+          "keyPeople": [
+            "Actual CEO and leadership team (verify current info)",
+            "Cambridge University partnership details",
+            "Key quantum computing researchers and scientists",
+            "Advisory board and quantum industry connections",
+            "Technical publications and thought leadership"
+          ]
+        }
+      }
+    ],
+    "researchMethodology": {
+      "fundingResearch": [
+        "Crunchbase deep dive for funding rounds",
+        "Company press releases and announcements",
+        "Government funding databases (IRAP, NRC, etc.)",
+        "Industry reports and analyst coverage",
+        "Patent filings and R&D indicators"
+      ],
+      "peopleResearch": [
+        "LinkedIn profile deep analysis",
+        "Company leadership pages and bios",
+        "Industry conference speaking engagements",
+        "News interviews and thought leadership",
+        "University and academic connections"
+      ],
+      "businessIntelligence": [
+        "Recent news and press coverage",
+        "Partnership announcements",
+        "Product launch and milestone announcements",
+        "Industry awards and recognition",
+        "Competitive positioning analysis"
+      ]
+    },
+    "expectedOutcomes": {
+      "fundingData": "Complete funding history for 6 priority companies",
+      "peopleProfiles": "Enhanced leadership profiles with LinkedIn, backgrounds, achievements",
+      "businessIntel": "Strategic context for each company's market position",
+      "updateDatabase": "All research findings applied to Notion database",
+      "insightsCapture": "Key intelligence added to research insights log"
+    }
+  }
+}

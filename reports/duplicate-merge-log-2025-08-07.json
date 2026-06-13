@@ -1,0 +1,434 @@
+[
+  {
+    "name": "This Fish",
+    "kept": "244c6f79-9a33-8105-9293-f75247fb6887",
+    "deleted": [
+      "245c6f79-9a33-8108-9431-e7f34a6c4f7f"
+    ],
+    "mergedData": {
+      "id": "244c6f79-9a33-8105-9293-f75247fb6887",
+      "name": "This Fish",
+      "website": "",
+      "linkedin": "",
+      "email": "",
+      "phone": "",
+      "city": "",
+      "bcRegion": "",
+      "category": "AI Startup",
+      "aiFocus": [],
+      "yearFounded": 2024,
+      "size": "",
+      "blurb": "This Fish is a BC-based AI company",
+      "keyPeople": "",
+      "funding": "$3M\n\nSource: Funding News\nImported: 2025-08-03T07:13:45.012Z",
+      "latitude": null,
+      "longitude": null,
+      "logo": null,
+      "created": "2025-08-03T07:13:00.000Z",
+      "updated": "2025-08-03T07:13:00.000Z",
+      "completeness": 28.57142857142857
+    }
+  },
+  {
+    "name": "Shade AI",
+    "kept": "244c6f79-9a33-81c5-89b0-f612dafa8d31",
+    "deleted": [
+      "245c6f79-9a33-8148-adea-d05992155a08"
+    ],
+    "mergedData": {
+      "id": "244c6f79-9a33-81c5-89b0-f612dafa8d31",
+      "name": "Shade AI",
+      "website": "",
+      "linkedin": "",
+      "email": "",
+      "phone": "",
+      "city": "",
+      "bcRegion": "",
+      "category": "AI Startup",
+      "aiFocus": [],
+      "yearFounded": 2024,
+      "size": "",
+      "blurb": "Shade AI is a BC-based AI company",
+      "keyPeople": "",
+      "funding": "$5M Series A\n\nSource: Funding News\nImported: 2025-08-03T07:13:44.176Z",
+      "latitude": null,
+      "longitude": null,
+      "logo": null,
+      "created": "2025-08-03T07:13:00.000Z",
+      "updated": "2025-08-03T07:13:00.000Z",
+      "completeness": 28.57142857142857
+    }
+  },
+  {
+    "name": "MashUp Machine",
+    "kept": "23dc6f79-9a33-814c-8345-fef4b40a6697",
+    "deleted": [
+      "245c6f79-9a33-8162-b81c-de66fc88813e"
+    ],
+    "mergedData": {
+      "id": "23dc6f79-9a33-814c-8345-fef4b40a6697",
+      "name": "MashUp Machine",
+      "website": "https://www.mashup.io",
+      "linkedin": "https://www.linkedin.com/company/mashupmachine",
+      "email": "info@mashup.io",
+      "phone": "",
+      "city": "Vancouver",
+      "bcRegion": "Lower Mainland",
+      "category": "Start-ups & Scale-ups",
+      "aiFocus": [
+        "Computer Vision",
+        "Other AI Applications"
+      ],
+      "yearFounded": 2017,
+      "size": "",
+      "blurb": "MashUp Machine is a Vancouver-based startup founded in 2017, focusing on AI applications such as adaptive storytelling and computer-generated animation. It employs 2-10 people and utilizes machine learning technology. The company is currently in the research phase and is confident in its growth potential within the ML industry.",
+      "keyPeople": "",
+      "funding": "$2M seed\n\nSource: Funding News\nImported: 2025-08-04T18:52:59.734Z",
+      "latitude": 49.246,
+      "longitude": -123.116,
+      "logo": null,
+      "created": "2025-07-27T06:51:00.000Z",
+      "updated": "2025-08-04T23:10:00.000Z",
+      "completeness": 71.42857142857143
+    }
+  },
+  {
+    "name": "Nytilus Inc",
+    "kept": "23dc6f79-9a33-81bf-8f0b-fe9c052a7df9",
+    "deleted": [
+      "245c6f79-9a33-81f1-9fcd-e8cdd3bf3ec0"
+    ],
+    "mergedData": {
+      "id": "23dc6f79-9a33-81bf-8f0b-fe9c052a7df9",
+      "name": "Nytilus Inc",
+      "website": "https://www.nytilus.com",
+      "linkedin": "https://www.linkedin.com/company/nytilus",
+      "email": "hello@nytilus.com",
+      "phone": "",
+      "city": "Vancouver",
+      "bcRegion": "Lower Mainland",
+      "category": "Company",
+      "aiFocus": [
+        "Computer Vision",
+        "Data Science"
+      ],
+      "yearFounded": 2010,
+      "size": "",
+      "blurb": "Nytilus Inc is a Vancouver-based startup focused on AI in computer vision and data science, with 2-10 employees and $120K in funding. Founded in 2010, notable projects include industrial camera AI and smartphone-based manufacturing quality control. Contact via email at ",
+      "keyPeople": "",
+      "funding": "$120K",
+      "latitude": 49.246,
+      "longitude": -123.116,
+      "logo": null,
+      "created": "2025-07-27T06:52:00.000Z",
+      "updated": "2025-08-03T06:43:00.000Z",
+      "completeness": 78.57142857142857
+    }
+  },
+  {
+    "name": "Kardium",
+    "kept": "23fc6f79-9a33-8131-83d7-ecc0684531fd",
+    "deleted": [
+      "245c6f79-9a33-8135-aeb7-ca9aa2d8367b"
+    ],
+    "mergedData": {
+      "id": "23fc6f79-9a33-8131-83d7-ecc0684531fd",
+      "name": "Kardium",
+      "website": "https://kardium.com/",
+      "linkedin": "https://www.linkedin.com/company/kardium-inc",
+      "email": "info@kardium.com",
+      "phone": "+1 604 248 8891",
+      "city": "Vancouver, BC",
+      "bcRegion": "Lower Mainland",
+      "category": "Healthcare AI",
+      "aiFocus": [],
+      "yearFounded": 2015,
+      "size": "",
+      "blurb": "Kardium, founded in 2015 and based in Vancouver, BC, has over 100 employees and has raised over $115M in funding, backed by Fidelity and BDC. The CEO is Kevin Chaplin, and the company can be contacted via phone at +1 604 248 8891 or through their website at \n\nEmail research completed on 2025-08-04: Corporate contact email from contact page",
+      "keyPeople": "Kevin Chaplin (CEO) (Source: Company website)",
+      "funding": "$115M+ USD Total - Fidelity, BDC backed (Source: Company announcements)",
+      "latitude": 49.2608724,
+      "longitude": -123.113952,
+      "logo": null,
+      "created": "2025-07-29T04:32:00.000Z",
+      "updated": "2025-08-04T16:14:00.000Z",
+      "completeness": 85.71428571428571
+    }
+  },
+  {
+    "name": "Aspect Biosystems",
+    "kept": "23fc6f79-9a33-8130-9a24-ef13cd5beb71",
+    "deleted": [
+      "245c6f79-9a33-8122-a7a5-f1f6866bff62"
+    ],
+    "mergedData": {
+      "id": "23fc6f79-9a33-8130-9a24-ef13cd5beb71",
+      "name": "Aspect Biosystems",
+      "website": "https://www.aspectbiosystems.com",
+      "linkedin": "https://www.linkedin.com/company/aspect-biosystems",
+      "email": "info@aspectbiosystems.com",
+      "phone": "+1 604 263 0502",
+      "city": "Vancouver, BC",
+      "bcRegion": "Lower Mainland",
+      "category": "Start-ups & Scale-ups",
+      "aiFocus": [
+        "Healthcare AI",
+        "Data Science"
+      ],
+      "yearFounded": 2013,
+      "size": "",
+      "blurb": "Aspect Biosystems is a Vancouver-based scale-up in the healthcare AI sector, employing 110-116 people and recently raising $115M in Series B funding. The company, co-founded by CEO Tamer G. Mohamed, is approaching unicorn status with an estimated valuation of $800M-1B. Key personnel include CSO Sam Wadsworth and VP Operations Kira Pusch. Founded in 2013, it focuses on data science and has various funding partners.",
+      "keyPeople": "Tamer G. Mohamed (CEO, Co-founder), Sam Wadsworth (CSO), Kira Pusch (VP Operations)",
+      "funding": "$115M USD Series B (2025-01) - Dimension (lead), Novo Nordisk, Radical Ventures, InBC, Pallasite Ventures, Pangaea Ventures",
+      "latitude": 53.726,
+      "longitude": -127.647,
+      "logo": null,
+      "created": "2025-07-29T01:34:00.000Z",
+      "updated": "2025-08-03T06:22:00.000Z",
+      "completeness": 92.85714285714286
+    }
+  },
+  {
+    "name": "Clarius Mobile Health",
+    "kept": "240c6f79-9a33-8183-be06-ec5e56fab949",
+    "deleted": [
+      "245c6f79-9a33-8199-80dc-f208bb79c9d3"
+    ],
+    "mergedData": {
+      "id": "240c6f79-9a33-8183-be06-ec5e56fab949",
+      "name": "Clarius Mobile Health",
+      "website": "https://clarius.com",
+      "linkedin": "https://www.linkedin.com/company/clarius-mobile-health/",
+      "email": "info@clarius.com",
+      "phone": "+1 778 800 9975",
+      "city": "Burnaby, BC",
+      "bcRegion": "Lower Mainland",
+      "category": "Healthcare & Biotech",
+      "aiFocus": [
+        "Medical Imaging",
+        "Computer Vision",
+        "Healthcare AI"
+      ],
+      "yearFounded": 2014,
+      "size": "",
+      "blurb": "Clarius Mobile Health, founded in 2014 and based in Burnaby, BC, focuses on AI in healthcare, particularly in medical imaging with notable projects like AI-powered handheld ultrasound. The company has over 150 employees, raised over $90M in funding, and generated over $50M in revenue in 2023, with Ohad Arazi as CEO.\n\nEmail research completed on 2025-08-04: Primary business contact email",
+      "keyPeople": "Ohad Arazi (CEO) (Source: Company website)",
+      "funding": "$90M+ raised (Source: Crunchbase)",
+      "latitude": null,
+      "longitude": null,
+      "logo": null,
+      "created": "2025-07-30T17:18:00.000Z",
+      "updated": "2025-08-04T16:14:00.000Z",
+      "completeness": 78.57142857142857
+    }
+  },
+  {
+    "name": "Motive.io",
+    "kept": "240c6f79-9a33-812b-bd95-d51e2be18fb3",
+    "deleted": [
+      "245c6f79-9a33-81c9-84cd-f621e6015b61"
+    ],
+    "mergedData": {
+      "id": "240c6f79-9a33-812b-bd95-d51e2be18fb3",
+      "name": "Motive.io",
+      "website": "https://motive.io",
+      "linkedin": "https://linkedin.com/company/motive-io",
+      "email": "",
+      "phone": "",
+      "city": "",
+      "bcRegion": "",
+      "category": "AI Startup",
+      "aiFocus": [],
+      "yearFounded": 2018,
+      "size": "",
+      "blurb": "AI coaching platform",
+      "keyPeople": "Michael Meinhardt (CEO) (Source: Company website)",
+      "funding": "$15M Series A (2023) (Source: TechCrunch)",
+      "latitude": null,
+      "longitude": null,
+      "logo": null,
+      "created": "2025-07-30T06:30:00.000Z",
+      "updated": "2025-08-03T06:24:00.000Z",
+      "completeness": 35.714285714285715
+    }
+  },
+  {
+    "name": "Certn",
+    "kept": "23dc6f79-9a33-81d5-9356-fed9bc525c1c",
+    "deleted": [
+      "245c6f79-9a33-81f7-86d6-ebd67cb514d0"
+    ],
+    "mergedData": {
+      "id": "23dc6f79-9a33-81d5-9356-fed9bc525c1c",
+      "name": "Certn",
+      "website": "https://certn.co",
+      "linkedin": "https://www.linkedin.com/company/certn",
+      "email": "sales@certn.co",
+      "phone": "+1 844 987-0690",
+      "city": "Victoria",
+      "bcRegion": "Vancouver Island",
+      "category": "Start-ups & Scale-ups",
+      "aiFocus": [
+        "Data Science",
+        "Other AI Applications",
+        "NLP/LLMs"
+      ],
+      "yearFounded": 2016,
+      "size": "",
+      "blurb": "Certn is a Vancouver Island-based scale-up specializing in AI applications, particularly in data science and NLP. Founded in 2016, it has 330 employees and has raised over $114M in funding. The company offers an AI-powered background screening platform serving over 10,000 clients globally and is recognized as BC's fastest-growing company in 2023.",
+      "keyPeople": "Andrew McLeod (CEO & Co-founder)",
+      "funding": "$114M+ USD Total (Series B) (2023-04) - Series B extension $30M",
+      "latitude": 48.428,
+      "longitude": -123.365,
+      "logo": null,
+      "created": "2025-07-27T06:49:00.000Z",
+      "updated": "2025-08-03T06:32:00.000Z",
+      "completeness": 92.85714285714286
+    }
+  },
+  {
+    "name": "Cmd",
+    "kept": "240c6f79-9a33-8127-b1f3-da85914771d6",
+    "deleted": [
+      "245c6f79-9a33-816b-82e0-dd85667d2157"
+    ],
+    "mergedData": {
+      "id": "240c6f79-9a33-8127-b1f3-da85914771d6",
+      "name": "Cmd",
+      "website": "https://cmd.com",
+      "linkedin": "https://www.linkedin.com/company/cmdio/",
+      "email": "",
+      "phone": "",
+      "city": "Vancouver, BC",
+      "bcRegion": "Lower Mainland",
+      "category": "Technology Companies",
+      "aiFocus": [
+        "Cybersecurity",
+        "Machine Learning"
+      ],
+      "yearFounded": 2016,
+      "size": "",
+      "blurb": "Cmd is a technology company founded in 2016, acquired by Elastic in August 2021 for $320M. It focuses on cybersecurity and machine learning, with notable projects in Linux security monitoring and real-time threat detection. The company has a revenue of over $10M ARR and an employee count of 109 at the time of acquisition. Total funding amounts to $21.6M USD.",
+      "keyPeople": "Jake King (Founder & Former CEO)",
+      "funding": "$21.6M USD Total, Acquired by Elastic (2021-08) - Acquired by Elastic (terms undisclosed)",
+      "latitude": null,
+      "longitude": null,
+      "logo": null,
+      "created": "2025-07-30T16:21:00.000Z",
+      "updated": "2025-08-03T06:32:00.000Z",
+      "completeness": 64.28571428571429
+    }
+  },
+  {
+    "name": "Klue",
+    "kept": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+    "deleted": [
+      "245c6f79-9a33-81ea-ab76-cb9e51d647a4"
+    ],
+    "mergedData": {
+      "id": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+      "name": "Klue",
+      "website": "https://www.klue.com",
+      "linkedin": "https://www.linkedin.com/company/klue",
+      "email": "hello@klue.com",
+      "phone": "+1-888-355-5833",
+      "city": "Vancouver",
+      "bcRegion": "Lower Mainland",
+      "category": "Start-ups & Scale-ups",
+      "aiFocus": [
+        "Data Science",
+        "NLP/LLMs",
+        "Other AI Applications"
+      ],
+      "yearFounded": 2015,
+      "size": "",
+      "blurb": "Klue is a Vancouver-based scale-up with 150-200 employees, focusing on AI applications in data science and NLP. It has raised $81M in funding, including a $62M Series B led by Tiger Global and Salesforce Ventures. The company serves over 2000 customers, including Microsoft and Shopify, and has an estimated revenue of $15-20M ARR. Key contact is CEO Jason Smith, and support needs include market access, partnerships, and talent.",
+      "keyPeople": "Jason Smith (CEO & Co-founder)",
+      "funding": "$81M USD Total (2021-10) - Tiger Global, Salesforce Ventures (Series B $62M)",
+      "latitude": 49.246,
+      "longitude": -123.116,
+      "logo": {
+        "name": "Klue_logo_clearbit.png",
+        "type": "external",
+        "external": {
+          "url": "https://bc-ai-ecosystem.vercel.app/logos/Klue_logo_clearbit.png"
+        }
+      },
+      "created": "2025-05-12T15:22:00.000Z",
+      "updated": "2025-08-03T07:43:00.000Z",
+      "completeness": 100
+    }
+  },
+  {
+    "name": "MistyWest",
+    "kept": "23dc6f79-9a33-8113-85c5-c4593c2b3ad5",
+    "deleted": [
+      "245c6f79-9a33-8184-bcee-e5bf2efa6f30"
+    ],
+    "mergedData": {
+      "id": "23dc6f79-9a33-8113-85c5-c4593c2b3ad5",
+      "name": "MistyWest",
+      "website": "https://www.mistywest.com",
+      "linkedin": "https://ca.linkedin.com/company/mistywest",
+      "email": "contact@mistywest.com",
+      "phone": "+16042927036",
+      "city": "Vancouver",
+      "bcRegion": "Lower Mainland",
+      "category": "Start-ups & Scale-ups",
+      "aiFocus": [
+        "Data Science",
+        "AI Hardware",
+        "Machine Learning",
+        "IoT & Sensors"
+      ],
+      "yearFounded": 2003,
+      "size": "",
+      "blurb": "MistyWest is a leading electronic product design consultancy in Vancouver, specializing in IoT development, wearable technology, and connected devices. The company offers end-to-end solutions, including hardware engineering, software development, and industrial design. Notable projects include wearable health devices and industrial IoT systems. Recognized for innovation, MistyWest contributes significantly to BC's tech sector and maintains strategic partnerships with academic institutions and technology providers, focusing on future advancements in AI and sustainable technology.",
+      "keyPeople": "Joel Cannon (CEO & Founder), engineering team with hardware and software expertise",
+      "funding": "Self-funded, client project revenue, private investment",
+      "latitude": 49.246,
+      "longitude": -123.116,
+      "logo": null,
+      "created": "2025-07-27T06:51:00.000Z",
+      "updated": "2025-08-04T03:14:00.000Z",
+      "completeness": 85.71428571428571
+    }
+  },
+  {
+    "name": "Digital Technology Supercluster",
+    "kept": "23dc6f79-9a33-81b6-aa0d-cba176a7845a",
+    "deleted": [
+      "244c6f79-9a33-81aa-beef-d0dbe931d7b6"
+    ],
+    "mergedData": {
+      "id": "23dc6f79-9a33-81b6-aa0d-cba176a7845a",
+      "name": "Digital Technology Supercluster",
+      "website": "https://digitalsupercluster.ca",
+      "linkedin": "https://www.linkedin.com/company/digital-technology-supercluster",
+      "email": "info@digitalsupercluster.ca",
+      "phone": "+1-604-633-4225",
+      "city": "Vancouver",
+      "bcRegion": "Lower Mainland",
+      "category": "Innovation Centres & Hubs",
+      "aiFocus": [
+        "Healthcare AI",
+        "Manufacturing",
+        "Natural Resources",
+        "Smart Mining",
+        "Personalized Education",
+        "Ocean Monitoring"
+      ],
+      "yearFounded": 2018,
+      "size": "",
+      "blurb": "Canada's largest technology consortium focuses on digital transformation through collaborative projects in AI, advanced manufacturing, clean technology, and digital health. With over 700 member organizations and significant funding from the Government of Canada and industry partners, it aims to create 50,000+ jobs and generate $50B+ in GDP impact over 10 years. Key initiatives include AI for Advanced Manufacturing and a Digital Health Accelerator, emphasizing innovation, talent development, and export growth while fostering partnerships with universities and global innovation clusters.",
+      "keyPeople": "Tomica Divic, Peter Cowan",
+      "funding": "Government of Canada Innovation Supercluster Initiative + Major industry partners (Microsoft, Amazon, IBM, Google) + 40+ universities + 500+ SMEs",
+      "latitude": 49.246,
+      "longitude": -123.116,
+      "logo": null,
+      "created": "2025-07-27T18:11:00.000Z",
+      "updated": "2025-08-03T07:59:00.000Z",
+      "completeness": 92.85714285714286
+    }
+  }
+]

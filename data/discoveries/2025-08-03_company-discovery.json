@@ -1,0 +1,78 @@
+{
+  "timestamp": "2025-08-03T07:09:11.473Z",
+  "discoveries": [
+    {
+      "name": "Pharity AI",
+      "category": "Healthcare AI",
+      "location": "Vancouver",
+      "source": "Innovate BC",
+      "discoveredAt": "2025-08-03T07:09:16.568Z"
+    },
+    {
+      "name": "WaitWell",
+      "category": "Healthcare AI",
+      "location": "Victoria",
+      "source": "Innovate BC",
+      "discoveredAt": "2025-08-03T07:09:17.344Z"
+    },
+    {
+      "name": "Boreal Genomics",
+      "university": "UBC",
+      "category": "Healthcare AI",
+      "source": "University Spin-offs",
+      "discoveredAt": "2025-08-03T07:09:21.461Z"
+    },
+    {
+      "name": "Shade AI",
+      "funding": "$5M Series A",
+      "date": "2024",
+      "source": "Funding News",
+      "discoveredAt": "2025-08-03T07:09:30.855Z"
+    },
+    {
+      "name": "This Fish",
+      "funding": "$3M",
+      "date": "2024",
+      "source": "Funding News",
+      "discoveredAt": "2025-08-03T07:09:31.561Z"
+    }
+  ],
+  "sources": [
+    {
+      "url": "BC Tech Directory",
+      "type": "BC Tech Directory",
+      "companiesFound": 4,
+      "searchedAt": "2025-08-03T07:09:11.474Z"
+    },
+    {
+      "url": "Innovate BC",
+      "type": "Innovate BC",
+      "companiesFound": 3,
+      "searchedAt": "2025-08-03T07:09:11.474Z"
+    },
+    {
+      "url": "University Spin-offs",
+      "type": "University Spin-offs",
+      "companiesFound": 3,
+      "searchedAt": "2025-08-03T07:09:11.474Z"
+    },
+    {
+      "url": "Accelerators",
+      "type": "Accelerators",
+      "companiesFound": 3,
+      "searchedAt": "2025-08-03T07:09:11.474Z"
+    },
+    {
+      "url": "Funding News",
+      "type": "Funding News",
+      "companiesFound": 3,
+      "searchedAt": "2025-08-03T07:09:11.474Z"
+    }
+  ],
+  "stats": {
+    "sourcesSearched": 5,
+    "companiesFound": 5,
+    "novelCompanies": 5,
+    "duplicates": 11
+  }
+}

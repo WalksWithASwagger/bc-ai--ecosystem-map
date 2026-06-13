@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-08-03T06:49:57.185Z",
+  "execution": "VERIFIED_LINKEDIN_DATA_GATHERING",
+  "qualityStandard": "85%+ confidence required",
+  "summary": {
+    "analyzed": 20,
+    "enhanced": 0,
+    "failed": 20,
+    "totalFieldsUpdated": 0,
+    "successRate": "0%",
+    "averageConfidence": 0
+  },
+  "companiesEnhanced": [],
+  "errors": [
+    {
+      "name": "Stellantis LG Energy Solution BC",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "BC Hydro Electrification Initiative",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Prince George AI Fire Detection Network",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "BC Data Centre AI Initiative",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Artificial Intelligence Underwriting Company (AIUC)",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Site C Hydroelectric AI Integration",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "BC Hydro Clean Power Action Plan",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Yeti Farm Creative",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Disney Interactive Studios Kelowna",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "QHR Technologies",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Cloudburst Research",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Canexia Health (Imagia Canexia Health)",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "AI Scout Solutions",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "MoogleLabs",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "AIEX",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Nytilus Inc",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Swipe Right App",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Upper Nicola Band AI Data Centre",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "Advertising Intelligence (ADINT.AI)",
+      "error": "Confidence 60% below threshold 85%"
+    },
+    {
+      "name": "3DentAI",
+      "error": "Confidence 60% below threshold 85%"
+    }
+  ]
+}

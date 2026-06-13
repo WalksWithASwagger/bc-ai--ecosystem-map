@@ -1,0 +1,36 @@
+{
+  "added": [
+    {
+      "name": "Cmd",
+      "pageId": "240c6f79-9a33-8127-b1f3-da85914771d6",
+      "funding": "Acquired by Elastic (October 2021) - Elastic, GV, Expa, Amplify Partners, Slack Fund",
+      "valuation": "$320M (acquisition price)"
+    },
+    {
+      "name": "Article",
+      "pageId": "240c6f79-9a33-819e-830e-f212cabba53a",
+      "funding": "$66M Series D (February 2024) - Tritium Partners, Mouro Capital, Link Ventures, Altos Ventures"
+    },
+    {
+      "name": "Later",
+      "pageId": "240c6f79-9a33-8103-8167-da533663fef3",
+      "funding": "$60M Series B (2024) - Madrona Venture Group, Founders Fund, Origin Ventures"
+    },
+    {
+      "name": "Saltworks Technologies",
+      "pageId": "240c6f79-9a33-818f-a249-faf56a2e5a09",
+      "funding": "$20M (2024) - Government and strategic investors, SDTC, BDC Capital, Chrysalix Venture Capital"
+    },
+    {
+      "name": "Svante",
+      "pageId": "240c6f79-9a33-81c7-b421-e926d3054742",
+      "funding": "$318M Series E (December 2022) - Chevron Technology Ventures, United Airlines, Temasek, Samsung Ventures"
+    }
+  ],
+  "errors": [
+    {
+      "name": "Cohere Health Vancouver",
+      "error": "Failed to add"
+    }
+  ]
+}

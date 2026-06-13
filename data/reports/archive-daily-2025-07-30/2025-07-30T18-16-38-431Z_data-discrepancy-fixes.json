@@ -1,0 +1,76 @@
+{
+  "fixed": [
+    {
+      "name": "Clio",
+      "pageId": "23fc6f79-9a33-818f-81c1-daa1fa1a2a5c",
+      "corrections": [
+        "revenue",
+        "valuation",
+        "additionalNotes"
+      ],
+      "sources": [
+        "TechCrunch June 2024",
+        "Company Press Release"
+      ]
+    },
+    {
+      "name": "1Password",
+      "pageId": "240c6f79-9a33-8169-b3bb-f0b289a1a81c",
+      "corrections": [
+        "valuation",
+        "additionalNotes"
+      ],
+      "sources": [
+        "Crunchbase",
+        "Company Blog January 2023"
+      ]
+    },
+    {
+      "name": "AbCellera",
+      "pageId": "23dc6f79-9a33-81d0-8914-ffcdc86b1700",
+      "corrections": [
+        "funding",
+        "valuation",
+        "additionalNotes"
+      ],
+      "sources": [
+        "NASDAQ",
+        "SEC filings"
+      ]
+    },
+    {
+      "name": "Dapper Labs",
+      "pageId": "23fc6f79-9a33-8192-9d2f-e1c3d5f4a2a9",
+      "corrections": [
+        "funding",
+        "revenue",
+        "valuation",
+        "additionalNotes"
+      ],
+      "sources": [
+        "A16z announcement",
+        "CoinDesk",
+        "The Block"
+      ]
+    }
+  ],
+  "merged": [
+    {
+      "kept": "Photonic Inc.",
+      "archived": "Photonic Inc",
+      "reason": "Formatting inconsistency - same company"
+    },
+    {
+      "kept": "OnDeck Fisheries AI",
+      "archived": "OnDeck Fisheries",
+      "reason": "Same company - AI suffix more descriptive"
+    },
+    {
+      "kept": "MineSense Technologies",
+      "archived": "MineSense",
+      "reason": "Same company - full name more appropriate"
+    }
+  ],
+  "errors": [],
+  "totalFixed": 4
+}

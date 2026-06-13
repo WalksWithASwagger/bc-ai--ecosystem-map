@@ -1,0 +1,155 @@
+{
+  "total": 20,
+  "successful": 20,
+  "failed": 0,
+  "skipped": 0,
+  "methods": {
+    "clearbit": 19,
+    "website": 0,
+    "favicon": 0,
+    "fallback": 1
+  },
+  "collected": [
+    {
+      "company": "UrbanLogiq",
+      "filename": "UrbanLogiq_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 5670,
+      "website": "https://urbanlogiq.com"
+    },
+    {
+      "company": "Avigilon",
+      "filename": "Avigilon_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 6803,
+      "website": "https://avigilon.com"
+    },
+    {
+      "company": "Nimble AI",
+      "filename": "Nimble_AI_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 4807,
+      "website": "https://nimble.ai"
+    },
+    {
+      "company": "Zenhub",
+      "filename": "Zenhub_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 10259,
+      "website": "https://zenhub.com"
+    },
+    {
+      "company": "Redlen Technologies",
+      "filename": "Redlen_Technologies_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 7370,
+      "website": "https://redlen.com"
+    },
+    {
+      "company": "Finger Food ATG",
+      "filename": "Finger_Food_ATG_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 9461,
+      "website": "https://fingerfoodatg.com"
+    },
+    {
+      "company": "Copilot",
+      "filename": "Copilot_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 618,
+      "website": "https://copilot.com"
+    },
+    {
+      "company": "BroadbandTV",
+      "filename": "BroadbandTV_placeholder_logo.svg",
+      "method": "placeholder",
+      "size": 267,
+      "website": "https://broadbandtv.com"
+    },
+    {
+      "company": "Phreesia",
+      "filename": "Phreesia_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 12533,
+      "website": "https://phreesia.com"
+    },
+    {
+      "company": "Finn AI",
+      "filename": "Finn_AI_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 11205,
+      "website": "https://finn.ai"
+    },
+    {
+      "company": "Flighthub",
+      "filename": "Flighthub_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 1256,
+      "website": "https://flighthub.com"
+    },
+    {
+      "company": "Beanworks",
+      "filename": "Beanworks_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 10291,
+      "website": "https://beanworks.com"
+    },
+    {
+      "company": "QHR Technologies",
+      "filename": "QHR_Technologies_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 8494,
+      "website": "https://qhrtechnologies.com"
+    },
+    {
+      "company": "Invoke",
+      "filename": "Invoke_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 7230,
+      "website": "https://invoke.ai"
+    },
+    {
+      "company": "Validere",
+      "filename": "Validere_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 5539,
+      "website": "https://validere.com"
+    },
+    {
+      "company": "Ada",
+      "filename": "Ada_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 4083,
+      "website": "https://ada.cx"
+    },
+    {
+      "company": "Trulioo",
+      "filename": "Trulioo_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 9509,
+      "website": "https://trulioo.com"
+    },
+    {
+      "company": "Paymi",
+      "filename": "Paymi_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 7119,
+      "website": "https://paymi.com"
+    },
+    {
+      "company": "Dapper Labs",
+      "filename": "Dapper_Labs_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 11156,
+      "website": "https://dapperlabs.com"
+    },
+    {
+      "company": "Mogo",
+      "filename": "Mogo_clearbit_logo.png",
+      "method": "clearbit",
+      "size": 3246,
+      "website": "https://mogo.ca"
+    }
+  ],
+  "errors": []
+}

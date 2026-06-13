@@ -1,0 +1,242 @@
+[
+  {
+    "name": "1Password",
+    "category": "Cybersecurity",
+    "priority": "UNICORN",
+    "website": "https://1password.com",
+    "linkedin": "https://www.linkedin.com/company/1password/",
+    "currentData": {
+      "funding": "$620M Series C (January 2022) - ICONIQ Growth, Tiger Global, Lightspeed, Backbone Angels",
+      "employees": "500+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "Cmd",
+    "category": "Technology Companies",
+    "priority": "UNICORN",
+    "website": "https://cmd.com",
+    "linkedin": "https://www.linkedin.com/company/cmdio/",
+    "currentData": {
+      "funding": "$21.6M USD Total, Acquired by Elastic (2021-08) - Acquired by Elastic (terms undisclosed) (Source: Elastic announcement - Verified 2025-07-30)",
+      "employees": "109 (at acquisition) (as of 2021-08) (Source: Acquisition announcement - Verified 2025-07-30)",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "Tasktop",
+    "category": "AI Companies",
+    "priority": "UNICORN",
+    "website": "https://www.tasktop.com",
+    "linkedin": "https://www.linkedin.com/company/tasktop",
+    "currentData": {
+      "funding": "Acquired by Planview (April 2023) - Planview (acquirer), Yaletown Partners, Nicola Wealth Management",
+      "employees": "200-500",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "Trulioo",
+    "category": "AI Companies",
+    "priority": "UNICORN",
+    "website": "https://www.trulioo.com",
+    "linkedin": "https://www.linkedin.com/company/trulioo",
+    "currentData": {
+      "funding": "$394M Series D (June 2021) - TCV, CapitalG, Citi Ventures, Santander InnoVentures, Goldman Sachs",
+      "employees": "500-1000",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "AbCellera Biologics",
+    "category": "Unicorn",
+    "priority": "UNICORN",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/company/abcellerabiologics",
+    "currentData": {
+      "funding": "Public company (NASDAQ: ABCL) - IPO raised $483M (2020-12) - Public markets, Viking Global, OrbiMed, Peter Thiel",
+      "employees": "700+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "CRH Medical",
+    "category": "Healthcare & Biotech",
+    "priority": "LARGE",
+    "website": "https://crhmedical.com",
+    "linkedin": "",
+    "currentData": {
+      "funding": "Acquired by WELL Health (2021) - WELL Health Technologies (acquirer), Public markets (TSX)",
+      "employees": "500+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "Tenstorrent",
+    "category": "Technology Companies",
+    "priority": "LARGE",
+    "website": "https://tenstorrent.com",
+    "linkedin": "https://www.linkedin.com/company/tenstorrent/",
+    "currentData": {
+      "funding": "$100M Series C (2023) - Hyundai Motor Group, Samsung Catalyst Fund, Fidelity, Eclipse Ventures",
+      "employees": "200+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "AlayaCare",
+    "category": "Healthcare & Biotech",
+    "priority": "LARGE",
+    "website": "https://alayacare.com",
+    "linkedin": "https://www.linkedin.com/company/alayacare/",
+    "currentData": {
+      "funding": "$225M Series D (December 2021) - Caisse de dépôt et placement du Québec, Inovia Capital, Fidelity Management, Klass Capital",
+      "employees": "500+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "Saltworks Technologies",
+    "category": "Technology Companies",
+    "priority": "LARGE",
+    "website": "https://www.saltworkstech.com",
+    "linkedin": "https://www.linkedin.com/company/saltworks-technologies/",
+    "currentData": {
+      "funding": "$20M (2024) - Government and strategic investors, SDTC, BDC Capital, Chrysalix Venture Capital",
+      "employees": "100-200",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "Later",
+    "category": "Technology Companies",
+    "priority": "LARGE",
+    "website": "https://later.com",
+    "linkedin": "https://www.linkedin.com/company/latergramme/",
+    "currentData": {
+      "funding": "$60M Series B (2024) - Madrona Venture Group, Founders Fund, Origin Ventures",
+      "employees": "200-300",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "Traction on Demand",
+    "category": "Uncategorized",
+    "priority": "LARGE",
+    "website": "",
+    "linkedin": "https://linkedin.com/company/traction-on-demand",
+    "currentData": {
+      "funding": "Acquired by Salesforce (2024) - Salesforce (acquirer), N/A",
+      "employees": "2000+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "STEMCELL Technologies",
+    "category": "AI Companies",
+    "priority": "LARGE",
+    "website": "https://www.stemcell.com",
+    "linkedin": "https://www.linkedin.com/company/stemcell-technologies",
+    "currentData": {
+      "funding": "Private/Bootstrapped - N/A - Bootstrapped, N/A",
+      "employees": "2500",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": true,
+      "people": false
+    }
+  },
+  {
+    "name": "Visier",
+    "category": "Enterprise / Corporate Divisions",
+    "priority": "LARGE",
+    "website": "",
+    "linkedin": "https://ca.linkedin.com/company/visier-analytics",
+    "currentData": {
+      "funding": "$154M Series F (May 2024) - Warburg Pincus, Goldman Sachs, Foundation Capital, Sorenson Capital",
+      "employees": "700+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "D-Wave Systems",
+    "category": "Enterprise / Corporate Divisions",
+    "priority": "LARGE",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/company/d-wave-systems",
+    "currentData": {
+      "funding": "Public (NYSE:QBTS) via SPAC (August 2022) - DPCM Capital (SPAC sponsor), PSP Investments, Goldman Sachs, BDC Capital, Bezos Expeditions",
+      "employees": "200+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  },
+  {
+    "name": "Absolute Software Vancouver",
+    "category": "Enterprise / Corporate Divisions",
+    "priority": "LARGE",
+    "website": "https://www.absolute.com",
+    "linkedin": "https://ca.linkedin.com/company/absolute-software",
+    "currentData": {
+      "funding": "Public (TSX:ABST, NASDAQ:ABST) - Public markets, N/A",
+      "employees": "800+",
+      "people": "Has some"
+    },
+    "needs": {
+      "financial": false,
+      "people": true
+    }
+  }
+]

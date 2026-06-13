@@ -1,0 +1,19 @@
+[
+  {
+    "pageId": "notion-page-id-here",
+    "updates": {
+      "Website": { "url": "https://example.com" },
+      "LinkedIn": { "url": "https://linkedin.com/company/example" },
+      "Email": { "email": "contact@example.com" },
+      "Phone": { "phone_number": "+1 604 555 0123" }
+    }
+  },
+  {
+    "pageId": "another-page-id-here", 
+    "updates": {
+      "Website": { "url": "https://another-example.com" },
+      "Year Founded": { "number": 2020 },
+      "Size": { "select": { "name": "11-50" } }
+    }
+  }
+] 

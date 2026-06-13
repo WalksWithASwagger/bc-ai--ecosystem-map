@@ -1,0 +1,10 @@
+{
+  "success": [],
+  "notFound": [
+    "Microsoft Vancouver",
+    "Google Vancouver",
+    "IBM Vancouver"
+  ],
+  "failed": [],
+  "skipped": []
+}

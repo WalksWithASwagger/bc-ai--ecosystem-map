@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Clio",
+    "yearFounded": 2012,
+    "source": "https://www.clio.com/about"
+  },
+  {
+    "name": "Hootsuite",
+    "yearFounded": 2025,
+    "source": "https://hootsuite.com/"
+  },
+  {
+    "name": "Trulioo",
+    "yearFounded": 2015,
+    "source": "https://www.trulioo.com/about"
+  },
+  {
+    "name": "Traction Guest",
+    "yearFounded": 2014,
+    "source": "https://tractionguest.com/about-us"
+  },
+  {
+    "name": "1Password",
+    "yearFounded": 2025,
+    "source": "https://1password.com/"
+  },
+  {
+    "name": "Copperleaf",
+    "yearFounded": 2000,
+    "source": "https://www.copperleaf.com/company"
+  }
+]

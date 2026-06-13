@@ -1,0 +1,82 @@
+{
+  "updated": [
+    {
+      "name": "Echosec Systems",
+      "pageId": "23fc6f79-9a33-81ae-b260-ef444fc8da29",
+      "exitDetails": "Acquired by Flashpoint (August 2022) for undisclosed amount. Team integrated into Flashpoint's OSINT platform."
+    },
+    {
+      "name": "DeepND",
+      "pageId": "23dc6f79-9a33-817d-b682-c17db865e7aa",
+      "exitDetails": "Acquired by Deloitte Canada (2021) for undisclosed amount. Became part of Deloitte's Omnia AI platform."
+    },
+    {
+      "name": "MetaOptima",
+      "pageId": "23dc6f79-9a33-810b-8702-cb15089b5edc",
+      "exitDetails": "$8.5M Series A (2021)"
+    }
+  ],
+  "notFound": [
+    {
+      "name": "Elastic Path",
+      "details": "Strategic acquisition to accelerate growth",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Buyatab",
+      "details": "Strategic acquisition to expand payment solutions",
+      "category": "Fintech"
+    },
+    {
+      "name": "BroadbandTV",
+      "details": "Strategic acquisition by European media giant",
+      "category": "Media Tech"
+    },
+    {
+      "name": "Avigilon",
+      "details": "One of BC's largest tech exits",
+      "category": "Security Tech"
+    },
+    {
+      "name": "UrtheCast",
+      "details": "Company ceased operations, assets sold in bankruptcy",
+      "category": "Space Tech"
+    },
+    {
+      "name": "Recon Instruments",
+      "details": "Strategic acquisition for wearable technology",
+      "category": "Wearables"
+    },
+    {
+      "name": "Foodee",
+      "details": "Strategic acquisition to expand corporate food services",
+      "category": "Food Tech"
+    },
+    {
+      "name": "Bench Accounting",
+      "details": "Sudden shutdown, assets potentially being sold",
+      "category": "Fintech"
+    },
+    {
+      "name": "Mojio",
+      "details": "Restructured in 2021, scaled back operations",
+      "category": "IoT"
+    },
+    {
+      "name": "Hyperwallet",
+      "details": "Major fintech exit, integrated into PayPal's payout services",
+      "category": "Fintech"
+    },
+    {
+      "name": "Layer 6 AI",
+      "details": "Strategic AI acquisition by major Canadian bank",
+      "category": "AI/ML"
+    },
+    {
+      "name": "Routific",
+      "details": "$5M Series A (2019)",
+      "category": "Logistics Tech"
+    }
+  ],
+  "errors": []
+}

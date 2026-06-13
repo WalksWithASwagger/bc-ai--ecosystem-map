@@ -1,0 +1,72 @@
+{
+  "updated": [
+    {
+      "name": "Dapper Labs",
+      "pageId": "23fc6f79-9a33-8192-9d2f-e1c3d5f4a2a9",
+      "funding": "$250M (November 2021)",
+      "revenue": "$100M+ (2021 peak)",
+      "valuation": "$7.6B (2021 peak)"
+    },
+    {
+      "name": "Clio",
+      "pageId": "23fc6f79-9a33-818f-81c1-daa1fa1a2a5c",
+      "funding": "$900M Series F (June 2024)",
+      "revenue": "$200M+ ARR (2024)",
+      "valuation": "$3B (centaur status)"
+    },
+    {
+      "name": "AbCellera",
+      "pageId": "23dc6f79-9a33-81d0-8914-ffcdc86b1700",
+      "funding": "Public (NASDAQ:ABCL)",
+      "revenue": "$544M (2023)",
+      "valuation": "$2B+ market cap"
+    },
+    {
+      "name": "General Fusion",
+      "pageId": "240c6f79-9a33-8162-b62f-cdf2fd4815eb",
+      "funding": "$130M (November 2021)",
+      "revenue": "Pre-revenue (R&D)"
+    },
+    {
+      "name": "Semios",
+      "pageId": "23fc6f79-9a33-814e-8017-dc7032e0a223",
+      "funding": "$100M Series C (September 2024)",
+      "revenue": "$30M+ ARR"
+    },
+    {
+      "name": "Klue",
+      "pageId": "1f1c6f79-9a33-8190-98db-d86a03011dc6",
+      "funding": "$62M Series B (October 2024)",
+      "revenue": "$15-20M ARR"
+    },
+    {
+      "name": "Visier",
+      "pageId": "227c6f79-9a33-8124-ba25-e73122d22c05",
+      "funding": "$154M Series F (May 2024)",
+      "revenue": "$150M+ ARR",
+      "valuation": "$1B+ (unicorn)"
+    },
+    {
+      "name": "Certn",
+      "pageId": "23dc6f79-9a33-81d5-9356-fed9bc525c1c",
+      "funding": "$131M Series C (July 2024)",
+      "revenue": "$50M+ ARR"
+    },
+    {
+      "name": "Traction on Demand",
+      "pageId": "240c6f79-9a33-817d-9849-e58177aa0b05",
+      "funding": "Acquired by Salesforce (2024)",
+      "revenue": "$200M+ (at acquisition)",
+      "valuation": "Undisclosed (strategic acquisition)"
+    }
+  ],
+  "notFound": [
+    "Cmd",
+    "Article",
+    "Later (now Later.com)",
+    "Saltworks Technologies",
+    "Svante",
+    "Cohere Health (BC office)"
+  ],
+  "errors": []
+}
