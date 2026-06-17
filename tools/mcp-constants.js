@@ -1,0 +1,30 @@
+const FIELDS = {
+  NAME: 'Name',
+  WEBSITE: 'Website',
+  EMAIL: 'Email',
+  LINKEDIN: 'LinkedIn',
+  PHONE: 'Phone',
+  CITY_REGION: 'City/Region',
+  BC_REGION: 'BC Region',
+  CATEGORY: 'Category',
+  AI_FOCUS: 'AI Focus Areas',
+  YEAR_FOUNDED: 'Year Founded',
+  SIZE: 'Size',
+  KEY_PEOPLE: 'Key People',
+  FUNDING: 'Funding',
+  SHORT_BLURB: 'Short Blurb',
+  LOGO: 'Logo',
+  LATITUDE: 'Latitude',
+  LONGITUDE: 'Longitude',
+};
+
+module.exports = {
+  NOTION_TOKEN: process.env.NOTION_TOKEN,
+  DATABASE_ID: process.env.NOTION_DATABASE_ID,
+  BATCH_SIZE: 100,
+  RATE_LIMIT_DELAY: 500,
+  DEFAULT_LIMIT: 20,
+  DEFAULT_TIMEOUT: 30000,
+  REPORTS_DIR: 'reports',
+  FIELDS,
+};

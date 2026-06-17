@@ -40,7 +40,7 @@ Thank you for your interest in contributing to the BC AI Ecosystem Atlas! This p
 ### Quick Contributions (No Technical Setup)
 
 #### Submit Organization Updates via Issues
-1. Go to [GitHub Issues](https://github.com/your-org/ecosystem-map-bc-ai/issues)
+1. Go to [GitHub Issues](https://github.com/WalksWithASwagger/bc-ai--ecosystem-map/issues)
 2. Click "New Issue"
 3. Use the "Organization Update" template
 4. Provide as much detail as possible
@@ -66,24 +66,24 @@ Thank you for your interest in contributing to the BC AI Ecosystem Atlas! This p
 ```bash
 # 1. Fork the repository on GitHub
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/ecosystem-map-bc-ai.git
-cd ecosystem-map-bc-ai
+git clone https://github.com/YOUR_USERNAME/bc-ai--ecosystem-map.git
+cd bc-ai--ecosystem-map
 
 # 3. Install dependencies
 npm install
 
-# 4. No configuration needed! We use MCP (Model Context Protocol)
-# All tools have direct access - no environment variables required
+# 4. Configure Notion access for database tools
+export NOTION_TOKEN=secret_xxx
+export NOTION_DATABASE_ID=1f0c6f799a3381bd8332ca0235c24655
 
 # 5. Create a new branch for your changes
 git checkout -b feature/your-feature-name
 ```
 
-⚠️ **IMPORTANT: This project uses MCP exclusively for Notion access**
-- No `.env` files needed
-- No config files needed  
-- No environment variables needed
-- See [MCP_NOTION_GUIDE.md](MCP_NOTION_GUIDE.md) for details
+⚠️ **IMPORTANT: Never hard-code Notion tokens**
+- Use `NOTION_TOKEN` and `NOTION_DATABASE_ID` from your local shell, uncommitted `.env` file, or approved CI secret store.
+- Do not commit `.env`, credentials, tokens, generated config with secrets, or copied API responses containing private credentials.
+- See [MCP_NOTION_GUIDE.md](MCP_NOTION_GUIDE.md) for details.
 
 ---
 
@@ -93,35 +93,23 @@ git checkout -b feature/your-feature-name
 
 #### Running Enhancement Tools
 ```bash
-# Always start with dry runs to test changes
-./scripts/run-contact-tools.sh
-
-# Test specific tools
-node scripts/enhance-websites.js --limit=5 --dryrun
-node scripts/find-linkedin.js --limit=5 --dryrun
-node scripts/extract-contact-info.js --limit=5 --dryrun
+# Always start with help or dry-run style modes before live updates
+npm run mcp -- --help
+npm run analyze -- --help
+npm run enrich -- --help
 ```
 
 #### Adding New Organizations
 ```bash
-# Interactive addition
-node scripts/add-org.js
-
-# Batch import from markdown
-node scripts/import-discovery-orgs.js your-discoveries.md
+# Use the package entrypoints and documented import workflow
+npm run mcp -- --help
 ```
 
 #### Quality Assurance
 ```bash
-# Check for duplicates
-node scripts/check-active-duplicates.js
-
-# Scan database completeness
-node scripts/scan-completeness.js
-
-# Fix common issues
-node scripts/fix-invalid-urls.js
-node scripts/normalize-categories.js
+# Check analysis and enrichment options
+npm run analyze -- --help
+npm run enrich -- --help
 ```
 
 ### Code Contributions
@@ -143,15 +131,15 @@ node scripts/normalize-categories.js
  */
 
 const { Client } = require('@notionhq/client');
-require('dotenv').config();
 
-// Configuration loading
-let config = {};
-try {
-  config = require('./config');
-} catch (e) {
-  // Fallback to environment variables
+const notionToken = process.env.NOTION_TOKEN;
+const databaseId = process.env.NOTION_DATABASE_ID;
+
+if (!notionToken || !databaseId) {
+  throw new Error('Set NOTION_TOKEN and NOTION_DATABASE_ID before running this tool.');
 }
+
+const notion = new Client({ auth: notionToken });
 
 // Argument parsing
 const args = process.argv.slice(2);
@@ -271,8 +259,8 @@ Closes #123 (if fixing an issue)
 
 ### When to Update Documentation
 
-- **New scripts or tools** - Add to ENHANCEMENT_TOOLS.md
-- **Workflow changes** - Update WORKFLOW_GUIDE.md
+- **New scripts or tools** - Add or update `tools/README.md` and the nearest tool-specific README
+- **Workflow changes** - Update `docs/guides/WORKFLOW_GUIDE.md`
 - **New features** - Update README.md and relevant docs
 - **Breaking changes** - Update all affected documentation
 
@@ -332,7 +320,7 @@ Closes #123 (if fixing an issue)
 
 ### Getting Support
 
-1. **Check Documentation** - Review README, WORKFLOW_GUIDE, and ENHANCEMENT_TOOLS
+1. **Check Documentation** - Review README, the workflow guide, and tool README files
 2. **Search Issues** - Look for similar problems or questions
 3. **Ask Questions** - Create a GitHub Discussion for general questions
 4. **Report Bugs** - Use GitHub Issues for problems or errors
@@ -394,8 +382,9 @@ Violations of the code of conduct will be addressed by project maintainers. Seri
 
 ### Project Documentation
 - **[README.md](README.md)** - Project overview and current status
-- **[WORKFLOW_GUIDE.md](WORKFLOW_GUIDE.md)** - Complete operational procedures
-- **[ENHANCEMENT_TOOLS.md](ENHANCEMENT_TOOLS.md)** - Tool documentation
+- **[docs/guides/WORKFLOW_GUIDE.md](docs/guides/WORKFLOW_GUIDE.md)** - Complete operational procedures
+- **[tools/README.md](tools/README.md)** - Tool documentation
+- **[tools/03-enrichment/CONTACT_ENHANCEMENT_README.md](tools/03-enrichment/CONTACT_ENHANCEMENT_README.md)** - Contact enhancement documentation
 - **[database-schema.md](database-schema.md)** - Database structure
 
 ### External Resources
@@ -415,4 +404,4 @@ Together, we're creating a valuable resource for entrepreneurs, researchers, inv
 
 *Last updated: August 1, 2025*
 
-**[🏠 Back to README](README.md)** • **[📋 Workflow Guide](WORKFLOW_GUIDE.md)** • **[🔧 Enhancement Tools](ENHANCEMENT_TOOLS.md)** 
+**[🏠 Back to README](README.md)** • **[📋 Workflow Guide](docs/guides/WORKFLOW_GUIDE.md)** • **[🔧 Tool Docs](tools/README.md)**

@@ -22,26 +22,24 @@ This guide provides step-by-step procedures for managing and enhancing the BC AI
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/ecosystem-map-bc-ai.git
-cd ecosystem-map-bc-ai
+git clone https://github.com/WalksWithASwagger/bc-ai--ecosystem-map.git
+cd bc-ai--ecosystem-map
 
 # Install dependencies
 npm install
 
-# Set up configuration
-cp scripts/config.sample.js scripts/config.js
-# Edit scripts/config.js with your Notion credentials
+# Set Notion credentials in your local shell or untracked .env file
+export NOTION_TOKEN=secret_xxx
+export NOTION_DATABASE_ID=1f0c6f799a3381bd8332ca0235c24655
 ```
 
-### Configuration File
+### Secret Handling
 
-Edit `scripts/config.js`:
+Never hard-code Notion tokens in source files, examples, committed config, or generated reports. Tools should read credentials from the environment and fail clearly when required variables are missing:
 
 ```javascript
-module.exports = {
-  NOTION_TOKEN: 'your_notion_api_token_here',
-  NOTION_DATABASE_ID: 'your_database_id_here'
-};
+const notionToken = process.env.NOTION_TOKEN;
+const databaseId = process.env.NOTION_DATABASE_ID;
 ```
 
 ---
@@ -107,83 +105,34 @@ node tools/enhancement/apply-validated-intelligence.js --updates=validated-updat
 Run all contact enhancement tools in dry run mode:
 
 ```bash
-./scripts/run-contact-tools.sh
+npm run enrich -- --help
 ```
 
-Run with live updates (process 10 organizations):
+Preview a small update batch before any live write:
 
 ```bash
-./scripts/run-contact-tools-live.sh 10
+npm run enrich -- emails --limit=10 --dry-run
 ```
 
-### Individual Tool Usage
+### Package Entry Points
 
-#### 1. Website Discovery
-
-Find and verify websites for organizations with missing website information:
+Use the package scripts instead of retired `scripts/*.js` paths:
 
 ```bash
-# Dry run (recommended first)
-node scripts/enhance-websites.js --limit=10 --dryrun
-
-# Live updates
-node scripts/enhance-websites.js --limit=10
-
-# Process specific batch
-node scripts/enhance-websites.js --limit=20 --batch=2
+npm run mcp -- --help
+npm run analyze -- --help
+npm run enrich -- --help
 ```
 
-**What it does:**
-- Searches for organization websites using intelligent queries
-- Verifies websites by checking for organization name mentions
-- Provides confidence ratings (high/medium/low)
-- Updates Notion database with verified websites
-
-#### 2. LinkedIn Profile Discovery
-
-Discover LinkedIn company profiles:
+Common enrichment actions should start in preview mode:
 
 ```bash
-# Dry run
-node scripts/find-linkedin.js --limit=10 --dryrun
-
-# Live updates
-node scripts/find-linkedin.js --limit=10
-
-# Process organizations with websites first (better success rate)
-node scripts/find-linkedin.js --limit=50
+npm run enrich -- emails --limit=10 --dry-run
+npm run enrich -- websites --limit=10 --dry-run
+npm run enrich -- people --limit=10 --dry-run
 ```
 
-**What it does:**
-- Extracts LinkedIn URLs from existing websites
-- Generates intelligent LinkedIn company URLs
-- Verifies profile URLs match organization names
-- Updates Notion database with LinkedIn profiles
-
-#### 3. Contact Information Extraction
-
-Extract emails and phone numbers from websites:
-
-```bash
-# Dry run
-node scripts/extract-contact-info.js --limit=10 --dryrun
-
-# Live updates (email and phone)
-node scripts/extract-contact-info.js --limit=10
-
-# Extract only emails
-node scripts/extract-contact-info.js --limit=10 --email
-
-# Extract only phone numbers
-node scripts/extract-contact-info.js --limit=10 --phone
-```
-
-**What it does:**
-- Fetches organization websites and contact pages
-- Extracts email addresses using pattern matching
-- Extracts phone numbers with validation
-- Selects best contact information based on priority patterns
-- Updates Notion database with contact information
+Only remove `--dry-run` after reviewing output and confirming the Notion credentials point at the intended database.
 
 ---
 
@@ -194,12 +143,7 @@ node scripts/extract-contact-info.js --limit=10 --phone
 Generate comprehensive database completeness reports:
 
 ```bash
-# Full completeness scan
-node scripts/scan-completeness.js
-
-# Results saved to:
-# - reports/YYYY-MM-DD_completeness-summary.md
-# - reports/YYYY-MM-DD_completeness-detail.csv
+npm run analyze -- completeness --report
 ```
 
 ### Finding Missing Information
@@ -208,36 +152,28 @@ node scripts/scan-completeness.js
 
 ```bash
 # Find organizations missing contact info
-node scripts/find-missing-contacts.js
-
-# Results: reports/YYYY-MM-DD_missing-contacts.md
+npm run analyze -- missing --field=Email --limit=50
 ```
 
 #### Missing Key People
 
 ```bash
 # Find organizations missing key people information
-node scripts/find-missing-key-people.js
-
-# Results: reports/YYYY-MM-DD_missing-key-people.md
+npm run analyze -- missing --field="Key People" --limit=50
 ```
 
 #### Missing Founding Years
 
 ```bash
 # Find organizations missing year founded
-node scripts/find-missing-year-founded.js
-
-# Results: reports/YYYY-MM-DD_missing-year-founded.md
+npm run analyze -- missing --field="Year Founded" --limit=50
 ```
 
 #### Missing Logos
 
 ```bash
 # Identify organizations needing logos
-node scripts/prepare-logo-acquisition.js
-
-# Results: reports/YYYY-MM-DD_logo-acquisition-targets.md
+npm run analyze -- missing --field=Logo --limit=50
 ```
 
 ---
@@ -249,11 +185,7 @@ node scripts/prepare-logo-acquisition.js
 Identify organizations from markdown files that aren't in the database:
 
 ```bash
-# Scan discovery files
-node scripts/find-new-orgs.js discoveries/2025-08-01_new-discoveries.md
-
-# Scan any markdown file
-node scripts/find-new-orgs.js path/to/organizations.md
+npm run mcp -- --help
 ```
 
 ### Adding Organizations
@@ -263,11 +195,7 @@ node scripts/find-new-orgs.js path/to/organizations.md
 Interactive prompt to add one organization:
 
 ```bash
-# Start interactive session
-node scripts/add-org.js
-
-# Add with specific name
-node scripts/add-org.js --name "Acme AI Solutions"
+npm run mcp -- --help
 ```
 
 #### Batch Import
@@ -275,11 +203,7 @@ node scripts/add-org.js --name "Acme AI Solutions"
 Import multiple organizations from markdown files:
 
 ```bash
-# Import from discovery files
-node scripts/import-discovery-orgs.js discoveries/2025-08-01_batch.md
-
-# Import from general markdown
-node scripts/import-consolidated-orgs.js consolidated-list.md
+npm run mcp -- --help
 ```
 
 ---
@@ -292,7 +216,7 @@ Check for potential duplicates:
 
 ```bash
 # Check for duplicates (excludes archived pages)
-node scripts/check-active-duplicates.js
+npm run analyze -- duplicates
 
 # Results show similarity scores ≥ 0.9
 ```
@@ -304,7 +228,7 @@ node scripts/check-active-duplicates.js
 Automatically fix website URLs missing https:// prefix:
 
 ```bash
-node scripts/fix-invalid-urls.js
+npm run analyze -- quality
 ```
 
 #### Normalize Categories
@@ -312,7 +236,7 @@ node scripts/fix-invalid-urls.js
 Standardize category and AI focus area values:
 
 ```bash
-node scripts/normalize-categories.js
+npm run analyze -- quality
 ```
 
 ### Batch Updates
@@ -320,8 +244,7 @@ node scripts/normalize-categories.js
 Update multiple organizations efficiently:
 
 ```bash
-# Prepare updates file (see examples/sample-updates.json)
-node scripts/batch-update.js path/to/updates.json
+npm run mcp -- --help
 ```
 
 Example updates.json:
@@ -364,36 +287,27 @@ Example updates.json:
 **Weekly Quality Review:**
 
 ```bash
-# 1. Generate completeness report
-node scripts/scan-completeness.js
+# 1. Generate completeness report options
+npm run analyze -- --help
 
-# 2. Check for new duplicates
-node scripts/check-active-duplicates.js
+# 2. Check enrichment options before live writes
+npm run enrich -- --help
 
-# 3. Fix data quality issues
-node scripts/fix-invalid-urls.js
-node scripts/normalize-categories.js
-
-# 4. Run contact enhancement (small batch)
-./scripts/run-contact-tools-live.sh 20
+# 3. Run a contact enhancement dry run
+npm run enrich -- emails --limit=20 --dry-run
 ```
 
 **Monthly Deep Enhancement:**
 
 ```bash
-# 1. Full completeness analysis
-node scripts/scan-completeness.js
+# 1. Full completeness analysis options
+npm run analyze -- --help
 
-# 2. Identify priority gaps
-node scripts/find-missing-contacts.js
-node scripts/find-missing-key-people.js
-node scripts/find-missing-year-founded.js
+# 2. Identify priority gap workflows
+npm run mcp -- --help
 
-# 3. Large-scale contact enhancement
-./scripts/run-contact-tools-live.sh 100
-
-# 4. Logo acquisition planning
-node scripts/prepare-logo-acquisition.js
+# 3. Large-scale contact enhancement dry run
+npm run enrich -- emails --limit=100 --dry-run
 ```
 
 ---
@@ -406,7 +320,7 @@ node scripts/prepare-logo-acquisition.js
 
 ```bash
 # Error: "Notion token and database ID are required"
-# Solution: Check scripts/config.js or environment variables
+# Solution: set NOTION_TOKEN and NOTION_DATABASE_ID in your environment
 ```
 
 #### Rate Limiting
@@ -428,22 +342,15 @@ node scripts/prepare-logo-acquisition.js
 #### Check Page Status
 
 ```bash
-# Check if a page is archived
-node scripts/check-page-status.js PAGE_ID
-
-# Archive a page
-node scripts/archive-page.js PAGE_ID
-
-# Unarchive a page
-node scripts/unarchive-page.js PAGE_ID
+npm run mcp -- --help
 ```
 
 #### Verbose Logging
 
-Add `--verbose` flag to most scripts for detailed logging:
+Start with package help output when debugging available actions:
 
 ```bash
-node scripts/enhance-websites.js --limit=5 --verbose --dryrun
+npm run mcp -- --help
 ```
 
 ---
@@ -474,14 +381,14 @@ All scripts generate reports in the `reports/` directory:
 Create scheduled tasks for regular maintenance:
 
 ```bash
-# Daily contact enhancement (small batch)
-0 9 * * * cd /path/to/project && ./scripts/run-contact-tools-live.sh 10
+# Daily contact enhancement dry run (small batch)
+0 9 * * * cd /path/to/project && npm run enrich -- emails --limit=10 --dry-run
 
 # Weekly quality check
-0 9 * * 1 cd /path/to/project && node scripts/scan-completeness.js
+0 9 * * 1 cd /path/to/project && npm run analyze -- --help
 
-# Monthly comprehensive enhancement
-0 9 1 * * cd /path/to/project && ./scripts/run-contact-tools-live.sh 50
+# Monthly comprehensive enhancement dry run
+0 9 1 * * cd /path/to/project && npm run enrich -- emails --limit=50 --dry-run
 ```
 
 ### CI/CD Integration
@@ -504,7 +411,7 @@ jobs:
         with:
           node-version: '18'
       - run: npm install
-      - run: node scripts/scan-completeness.js
+      - run: npm run analyze -- completeness --report
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
@@ -545,7 +452,7 @@ jobs:
 ### Getting Help
 
 1. **Check this workflow guide** for standard procedures
-2. **Review script documentation** in `scripts/README.md`
+2. **Review tool documentation** in `tools/README.md`
 3. **Check GitHub Issues** for known problems
 4. **Create new issues** for bugs or feature requests
 
@@ -558,6 +465,6 @@ jobs:
 
 ---
 
-*Last updated: August 1, 2025*
+*Last updated: June 17, 2026*
 
-**[🏠 Back to README](README.md)** • **[🔧 Enhancement Tools](ENHANCEMENT_TOOLS.md)** • **[📝 Changelog](CHANGELOG.md)** 
+**[🏠 Back to README](../../README.md)** • **[🔧 Tool Docs](../../tools/README.md)** • **[📝 Changelog](../../CHANGELOG.md)**

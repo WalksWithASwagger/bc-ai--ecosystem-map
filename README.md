@@ -3,9 +3,9 @@
 *The definitive map of British Columbia's artificial intelligence landscape*
 
 [![Status](https://img.shields.io/badge/Status-Clean%20Database-success)](CHANGELOG.md)
-[![Organizations](https://img.shields.io/badge/Organizations-649%20Verified-blue)](docs/DATABASE_CLEANUP_DOCUMENTATION.md)
-[![Last Cleanup](https://img.shields.io/badge/Cleanup-August%204%202025-green)](docs/DATABASE_CLEANUP_DOCUMENTATION.md)
-[![Quality](https://img.shields.io/badge/Data%20Quality-Validated-brightgreen)](docs/DATA_VALIDATION_RULES.md)
+[![Organizations](https://img.shields.io/badge/Organizations-649%20Verified-blue)](docs/maintenance/DATABASE_CLEANUP_DOCUMENTATION.md)
+[![Last Cleanup](https://img.shields.io/badge/Cleanup-August%204%202025-green)](docs/maintenance/DATABASE_CLEANUP_DOCUMENTATION.md)
+[![Quality](https://img.shields.io/badge/Data%20Quality-Validated-brightgreen)](docs/maintenance/DATA_VALIDATION_RULES.md)
 
 ---
 
@@ -50,7 +50,7 @@ Creating the most comprehensive, interactive, and up-to-date mapping of British 
 - **109 organizations** ready for contact information extraction
 - **Automated reporting** with detailed analysis and direct Notion links
 
-**[🔧 View Enhancement Tools Documentation →](ENHANCEMENT_TOOLS.md)**
+**[🔧 View Enhancement Tools Documentation →](tools/03-enrichment/CONTACT_ENHANCEMENT_README.md)**
 
 ---
 
@@ -80,7 +80,7 @@ Our comprehensive **enhancement toolkit** has transformed the database from basi
 - **🎨 Logo Management System** - Professional logo collection and organization
 - **🔄 Batch Update System** - Efficient data enhancement processing
 
-**[🔧 View Enhancement Tools Documentation →](ENHANCEMENT_TOOLS.md)**
+**[🔧 View Enhancement Tools Documentation →](tools/README.md)**
 
 ---
 
@@ -162,14 +162,18 @@ The most comprehensive mapping of British Columbia's AI ecosystem with **100% cl
 
 ---
 
-## 🔌 MCP (Model Context Protocol) - REQUIRED
+## 🔐 Notion Access and Secrets
 
-**⚠️ IMPORTANT: This project uses MCP exclusively for Notion access. No environment variables or config files needed!**
+**IMPORTANT: Notion credentials must come from environment-managed secrets. Never hard-code Notion tokens in source files, examples, or committed config.**
 
-### 🚀 What is MCP?
-MCP provides direct, reliable API access to Notion without configuration hassles. All tools in this project use MCP with embedded authentication.
+Set these variables locally or in the approved CI/automation environment before running any tool that reads or writes Notion:
 
-**[📖 Read the MCP Guide →](MCP_NOTION_GUIDE.md)**
+```bash
+export NOTION_TOKEN=secret_xxx
+export NOTION_DATABASE_ID=1f0c6f799a3381bd8332ca0235c24655
+```
+
+See [MCP_NOTION_GUIDE.md](MCP_NOTION_GUIDE.md) for the current secret-handling policy.
 
 ## 🛠️ Quick Start Guide
 
@@ -177,29 +181,25 @@ MCP provides direct, reliable API access to Notion without configuration hassles
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/ecosystem-map-bc-ai.git
-cd ecosystem-map-bc-ai
+git clone https://github.com/WalksWithASwagger/bc-ai--ecosystem-map.git
+cd bc-ai--ecosystem-map
 
 # Install dependencies
 npm install
 
-# Run MCP tools directly - no configuration needed!
-node tools/mcp-email-enricher.js
-node tools/mcp-people-extractor.js
-node tools/mcp-funding-updater.js
+# Use the package entrypoints after setting NOTION_TOKEN and NOTION_DATABASE_ID
+npm run mcp -- --help
+npm run enrich -- --help
 ```
 
 ### For Database Analysis
 
 ```bash
-# All analysis tools now use MCP
-node tools/mcp-scan-completeness.js
-node tools/mcp-find-missing-contacts.js
-node tools/mcp-find-missing-key-people.js
-node tools/mcp-check-duplicates.js
+# Analyze database quality after setting NOTION_TOKEN and NOTION_DATABASE_ID
+npm run analyze -- --help
 ```
 
-**[📋 View Complete Workflow Guide →](WORKFLOW_GUIDE.md)**
+**[📋 View Complete Workflow Guide →](docs/guides/WORKFLOW_GUIDE.md)**
 
 ---
 
@@ -207,9 +207,9 @@ node tools/mcp-check-duplicates.js
 
 ### 🗄️ **Database**
 - **⚛️ Notion Database**: Structured, collaborative data management
-- **🔌 MCP ONLY**: Model Context Protocol with direct token access (no env vars!)
+- **🔐 Environment-managed secrets**: `NOTION_TOKEN` and `NOTION_DATABASE_ID` are required for Notion tools
 - **📊 Real-time Sync**: Live updates and collaborative editing
-- **🚀 Direct API**: No configuration needed - just run the tools!
+- **🚀 Direct API**: run the package scripts only after the required environment variables are set
 
 ### 🛠️ **Enhancement Tools**
 - **⚛️ Node.js Scripts**: Automated data discovery and validation
@@ -227,11 +227,11 @@ node tools/mcp-check-duplicates.js
 ├── 🗺️ ROADMAP.md                    # Interactive map development plan
 ├── 📊 DASHBOARD_PLAN.md             # Analytics dashboard specifications
 ├── 🤝 CONTRIBUTING.md               # Community contribution guidelines
-├── 📋 WORKFLOW_GUIDE.md             # Complete operational procedures
+├── 📋 docs/guides/WORKFLOW_GUIDE.md # Complete operational procedures
 ├── 🗃️ database-schema.md            # Notion database structure
 ├── 📊 all-organizations-masterlist.md # Complete organization directory (598)
 ├── 📝 CHANGELOG.md                  # Development history
-├── 🛠️ ENHANCEMENT_TOOLS.md          # Database enhancement documentation
+├── 🛠️ tools/README.md               # Database enhancement documentation
 ├── 🧹 CLEANUP_SUMMARY_2025-01-30.md # Latest project cleanup & organization
 ├── 📁 data/                         # Organized data and research
 │   ├── 📊 reports/                  # Generated analysis reports
@@ -347,10 +347,10 @@ This community atlas is **open source** and available for use by:
 
 ## 📚 Important Documentation
 
-- [Database Cleanup Documentation](docs/DATABASE_CLEANUP_DOCUMENTATION.md) - Recent cleanup process
-- [Data Validation Rules](docs/DATA_VALIDATION_RULES.md) - Quality standards
+- [Database Cleanup Documentation](docs/maintenance/DATABASE_CLEANUP_DOCUMENTATION.md) - Recent cleanup process
+- [Data Validation Rules](docs/maintenance/DATA_VALIDATION_RULES.md) - Quality standards
 - [Project Cleanup Guide](PROJECT_CLEANUP_GUIDE.md) - Maintenance procedures
 
 ---
 
-*Last updated: August 4, 2025* 
+*Last updated: August 4, 2025*

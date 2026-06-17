@@ -175,15 +175,14 @@ All tools generate comprehensive reports in structured directories:
 
 ## 🔧 **Configuration**
 
-All tools use direct Notion API access with embedded credentials:
+Tools that read or write Notion require environment-managed credentials:
 
-```javascript
-// Built-in configuration (MCP pattern)
-const NOTION_TOKEN = '<REDACTED_NOTION_TOKEN>';
-const DATABASE_ID = '1f0c6f799a3381bd8332ca0235c24655';
+```bash
+export NOTION_TOKEN=secret_xxx
+export NOTION_DATABASE_ID=1f0c6f799a3381bd8332ca0235c24655
 ```
 
-No environment variables needed - tools work out of the box.
+Never hard-code Notion tokens in source files, examples, committed config, or generated reports.
 
 ---
 

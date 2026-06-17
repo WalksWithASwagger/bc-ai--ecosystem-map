@@ -2,7 +2,7 @@
 
 *Comprehensive guide to all project documentation and resources*
 
-**Last Updated**: January 30, 2025  
+**Last Updated**: June 17, 2026
 **Total Documents**: 600+ files across organized structure
 
 ---
@@ -10,11 +10,11 @@
 ## 📋 Quick Navigation
 
 ### 🎯 Essential Documents (Root Level)
-- **[README.md](README.md)** - Main project overview and getting started
-- **[CHANGELOG.md](CHANGELOG.md)** - Version history and recent changes  
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Community contribution guidelines
-- **[WORKFLOW_GUIDE.md](WORKFLOW_GUIDE.md)** - Complete operational procedures
-- **[database-schema.md](database-schema.md)** - Database structure and fields
+- **[README.md](../README.md)** - Main project overview and getting started
+- **[CHANGELOG.md](../CHANGELOG.md)** - Version history and recent changes
+- **[CONTRIBUTING.md](../CONTRIBUTING.md)** - Community contribution guidelines
+- **[guides/WORKFLOW_GUIDE.md](guides/WORKFLOW_GUIDE.md)** - Complete operational procedures
+- **[guides/database-schema.md](guides/database-schema.md)** - Database structure and fields
 
 ### 📊 Master Reports & Analysis
 - **[BC_AI_FINANCIAL_INTELLIGENCE_MASTER_REPORT.md](BC_AI_FINANCIAL_INTELLIGENCE_MASTER_REPORT.md)** - Comprehensive financial intelligence
@@ -76,7 +76,8 @@ tools/
 ├── reports/             # Tool execution reports
 ├── research-data/       # Research findings and data
 ├── README.md            # Tool documentation
-├── ENHANCEMENT_TOOLS.md # Comprehensive tool guide
+├── README.md            # Tool documentation
+├── 03-enrichment/CONTACT_ENHANCEMENT_README.md
 ├── DATA_VALIDATION_POLICY.md
 └── CONTACT_ENHANCEMENT_README.md
 ```
@@ -117,7 +118,7 @@ archive/
 ### 📋 Project Management
 - **Planning**: ROADMAP.md, STRATEGIC_NEXT_STEPS_PLAN.md
 - **Progress**: PROJECT_MILESTONE_SUMMARY.md, CHANGELOG.md
-- **Process**: WORKFLOW_GUIDE.md, CONTRIBUTING.md
+- **Process**: docs/guides/WORKFLOW_GUIDE.md, CONTRIBUTING.md
 - **Deployment**: DEPLOYMENT_CHECKLIST.md
 
 ### 📊 Intelligence & Analysis
@@ -127,8 +128,8 @@ archive/
 - **People Intelligence**: data/intelligence/BC_AI_TOP_10_PEOPLE_INTELLIGENCE_REPORT.md
 
 ### 🛠️ Technical Documentation
-- **Database**: database-schema.md
-- **Tools**: tools/ENHANCEMENT_TOOLS.md
+- **Database**: docs/guides/database-schema.md
+- **Tools**: tools/README.md and tools/03-enrichment/CONTACT_ENHANCEMENT_README.md
 - **API**: tools/README.md
 - **UI**: ui/DEVELOPMENT_STATUS.md
 
@@ -143,9 +144,9 @@ archive/
 ## 🚀 Quick Start Guides
 
 ### 📖 For New Users
-1. Start with **[README.md](README.md)** for project overview
-2. Review **[database-schema.md](database-schema.md)** for data structure
-3. Read **[WORKFLOW_GUIDE.md](WORKFLOW_GUIDE.md)** for operational procedures
+1. Start with **[README.md](../README.md)** for project overview
+2. Review **[guides/database-schema.md](guides/database-schema.md)** for data structure
+3. Read **[guides/WORKFLOW_GUIDE.md](guides/WORKFLOW_GUIDE.md)** for operational procedures
 
 ### 🔧 For Developers
 1. Check **[CODE_AUDIT_REPORT.md](CODE_AUDIT_REPORT.md)** for current code status
