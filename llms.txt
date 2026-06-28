@@ -1,0 +1,22 @@
+# bc-ai--ecosystem-map
+
+> a living map of who's actually doing AI in British Columbia, search by region, sector, or tech focus to find collaborators fast.
+
+this repo is the BC + AI ecosystem map: a searchable directory of the companies, labs, research groups, and community projects doing AI across British Columbia. it's backed by a Notion database with data-enhancement tooling, and ships a Next.js front end for browsing. maintained by Kris Krüg / BC + AI. there is no public hosted version yet; you run it from a checkout.
+
+## key files
+- [README](README.md): what it is, what it does, how to run it locally
+- [AGENTS.md](AGENTS.md): how agents should operate in this repo
+- `ui/`: Next.js front end for the map
+- `tools/`: data enhancement and analysis scripts (Notion-backed)
+- `CONTRIBUTING.md`: how to add an organization or correct a record
+
+## ground truth
+- backing store is a Notion database; tools need NOTION_TOKEN and NOTION_DATABASE_ID, set as env vars, never committed
+- org counts and coverage figures in the repo README are maintainer self-reported and dated; re-verify before quoting
+- language: JavaScript
+
+## links
+- author: Kris Krüg · https://kriskrug.co
+- community: BC + AI · https://bc-ai.ca
+- source: https://github.com/WalksWithASwagger/bc-ai--ecosystem-map
